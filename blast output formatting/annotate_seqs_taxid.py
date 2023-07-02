@@ -20,25 +20,50 @@ for name in full_names:
 taxid = []
 print ("Now calling NCBI server...")
 for name in tqdm(genus_species):
-    call = requests.get(f"https://api.ncbi.nlm.nih.gov/datasets/v2alpha/taxonomy/taxon_suggest/{name}").json()
+
+    call = requests.get(f"https://api.ncbi.nlm.nih.gov/datasets/v2alpha/taxonomy/taxon_suggest/{name}")
+
     try:
-        taxid.append(call["sci_name_and_ids"][0]["tax_id"])
+        call.status_code == 200
+        
+    except:
+        raise Exception(f"API failed to call (status code: {call.status_code})")
+        continue
+
+    try:
+        call_json = call.json()
+        taxid.append(call_json["sci_name_and_ids"][0]["tax_id"])
     except:
         taxid.append(f"{name} error")
+
+# saves list of calls in text string in case of issues later in workflow
+with open ("taxid_temp.txt", "w") as f:
+    f.write(str(taxid))
 
 # API call to Taxallnomy to cluster groups
 
 familyID = []
 print ("Now calling Taxallnomy...")
 for id in tqdm(taxid):
-    call = requests.get(f"http://bioinfo.icb.ufmg.br/cgi-bin/taxallnomy/taxallnomy_multi.pl?txid={id}&rank=main&format=json").json()
+    call = requests.get(f"http://bioinfo.icb.ufmg.br/cgi-bin/taxallnomy/taxallnomy_multi.pl?txid={id}&rank=main&format=json")
 
+    try:
+        call.status_code == 200
+    except:
+        raise Exception(f"API failed to call (status code: {call.status_code})")
+        continue
+    
     # pull out phylum, species, tax_ID as new unique ID
     try:
-        new_id = (">" + f"{id}" + ":" + (call[f"{id}"]["family"]) + ":" + (call[f"{id}"]["species"]) + "\n")
+        call_json = call.json()
+        new_id = (">" + f"{id}" + ":" + (call_json[f"{id}"]["family"]) + ":" + (call_json[f"{id}"]["species"]) + "\n")
     except:
-        new_id = (f"{id} error")
+        new_id = (">" + f"Nil, {id}" + "\n")
     familyID.append(new_id)
+
+# saves list of calls in text string in case of issues later in workflow
+with open ("familyID_temp.txt", "w") as f:
+    f.write(str(familyID))
 
 # replace sequenceID in fasta with new unique ID as above
 counter = 0
