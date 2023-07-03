@@ -17,15 +17,14 @@ for name in full_names:
     genus_species.append(split)
 
 # Use genus, species to API call NCBI Datasets v2 REST API and retrieve tax_id for that species.
-taxid = []
+""" taxid = []
 print ("Now calling NCBI server...")
 for name in tqdm(genus_species):
 
     call = requests.get(f"https://api.ncbi.nlm.nih.gov/datasets/v2alpha/taxonomy/taxon_suggest/{name}")
 
     try:
-        call.status_code == 200
-        
+        call.status_code == 200  
     except:
         raise Exception(f"API failed to call (status code: {call.status_code})")
         continue
@@ -36,13 +35,16 @@ for name in tqdm(genus_species):
     except:
         taxid.append(f"{name} error")
 
-# saves list of calls in text string in case of issues later in workflow
-with open ("taxid_temp.txt", "w") as f:
-    f.write(str(taxid))
+    # saves call to text file in case of issues later in workflow
+    with open ("taxid_temp.txt", "a") as addtax:
+        addtax.write(taxid)
+"""
+# load in taxid from txt file
+with open ("taxid_temp.txt", "r") as f:
+    taxid = f.read().split(", ")
 
 # API call to Taxallnomy to cluster groups
-
-familyID = []
+# familyID = []
 print ("Now calling Taxallnomy...")
 for id in tqdm(taxid):
     call = requests.get(f"http://bioinfo.icb.ufmg.br/cgi-bin/taxallnomy/taxallnomy_multi.pl?txid={id}&rank=main&format=json")
@@ -56,14 +58,17 @@ for id in tqdm(taxid):
     # pull out phylum, species, tax_ID as new unique ID
     try:
         call_json = call.json()
-        new_id = (">" + f"{id}" + ":" + (call_json[f"{id}"]["family"]) + ":" + (call_json[f"{id}"]["species"]) + "\n")
+        new_id = (">" + f"{id}" + ":" + (call_json[f"{id}"]["family"]) + ":" + (call_json[f"{id}"]["species"]) + ",")
     except:
-        new_id = (">" + f"Nil, {id}" + "\n")
-    familyID.append(new_id)
+        new_id = (">" + f"Nil, {id}" + ",")
+    
+    # saves call to text file in case of issues later in workflow
+    with open ("familyID_temp.txt", "a") as addfam:
+        addfam.write(new_id)
 
-# saves list of calls in text string in case of issues later in workflow
-with open ("familyID_temp.txt", "w") as f:
-    f.write(str(familyID))
+# load in family ID from txt file
+with open ("familyID_temp.txt", "r") as f:
+    familyID = f.read().split(",")
 
 # replace sequenceID in fasta with new unique ID as above
 counter = 0
@@ -71,9 +76,10 @@ print("Now appending new taxon identifier to sequences...")
 with open ("all_seq_unique.txt", "r") as f:
     for line in f:
         if line.startswith(">"):
-            line = familyID[counter]
+            line = familyID[counter] + "\n"
             counter += 1
-        open ("all_seq_taxID.txt", "a").write(line)
+        with open ("all_seq_taxID.txt", "a") as add:
+            add.write(line)
             
 # remove outgroups from previous alignment (regions with >99.95% identity/conservation across all other positions but gaps introduced - 0.05% gapped), then re-align
 
