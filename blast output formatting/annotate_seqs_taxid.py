@@ -116,7 +116,7 @@ with open ("all_seq_unique.txt", "r") as f:
 # 215743:Roseobacteraceae:Roseovarius mucosus
 # and others (see output_cleaned_v3, edited in Jalview)
 
-# New sequence total N = 34007
+# New sequence total N = 34008
 
 # tag sequences with identity in the helix 5 region
 # Based on predicted helix region from 3NE8 the sequence pattern is DAIAKSLAESENKVDLLDG.....DILLDLTRRET. treat these as helical positions, anything that aligns in >90% is high confirmation, >70% as medium confirmation, >50% as low confirmation
