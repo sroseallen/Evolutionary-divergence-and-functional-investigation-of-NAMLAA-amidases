@@ -40,7 +40,7 @@ align_df %>%
 
 # convert cleaned alignment to a fasta file
 align_df %>%
-  unite(seq, c(2:), sep="", remove=TRUE) -> align_fasta
+  unite(seq, c(2:307), sep="") -> align_fasta
 
 AAStringSet(align_fasta$seq) -> aligned_sequences
 align_fasta$X1 -> names(aligned_sequences)

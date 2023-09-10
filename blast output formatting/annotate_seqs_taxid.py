@@ -123,15 +123,15 @@ with open ("all_seq_unique.txt", "r") as f:
 # In current alignment: Helix 1: 754, 757, 760, 767, 769, 771, 775, 777, 780, 789, 791, 792, 799, 803, 806, 810, 815, 821, 823. Helix 2: 897, 900, 901, 902, 903, 905, 907, 908, 911, 913, 917
 
 from Bio import AlignIO
-alignment = AlignIO.read("output_cleaned_v3.fa", "fasta")
+alignment = AlignIO.read("./Post-cleaned MFA analyses/affine_core_1_stdev_clean_phase2_1.0.fa", "fasta")
 
-helix_predicted_at = [754, 757, 760, 767, 769, 771, 775, 777, 780, 789, 791, 792, 799, 803, 806, 810, 815, 821, 823, 897, 900, 901, 902, 903, 905, 907, 908, 911, 913, 917] # length = 30
+helix_predicted_at = list(range(140, 215)) # length = 75
 
 df = pd.DataFrame({
     "taxid": [],
     "family": [],
     "genus_species":[],
-    "helix_5_occupancy_30_max": []
+    "helix_5_occupancy_75_max": []
 })
 
 for seq in alignment:
@@ -144,16 +144,16 @@ for seq in alignment:
     seq_split = pd.DataFrame([seq_split], columns=df.columns)
     df = pd.concat([df, seq_split], ignore_index=True)
     
-pd90 = df[df["helix_5_occupancy_30_max"] >= 27] # n = 10265
+pd90 = df[df["helix_5_occupancy_75_max"] >= 67]  
 pd90.to_csv("90_percent.csv")
 
-pd70 = df[df["helix_5_occupancy_30_max"] >= 21] # n = 11053
+pd70 = df[df["helix_5_occupancy_75_max"] >= 52] 
 pd70.to_csv("70_percent.csv")
 
-pd50 = df[df["helix_5_occupancy_30_max"] >= 15] # n = 11152
+pd50 = df[df["helix_5_occupancy_75_max"] >= 37] 
 pd50.to_csv("50_percent.csv")
 
-pd0 = df[df["helix_5_occupancy_30_max"] < 14] # 425 families
+pd0 = df[df["helix_5_occupancy_75_max"] < 36] 
 pd0.to_csv("0_percent.csv")
 
 #THURSDAY
