@@ -1,0 +1,2324 @@
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence  Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------  -----------
+   1.6e-105  362.7   1.2   2.4e-105  362.2   1.2    1.2  1  087020088  206194748979988 360095
+   4.6e-100  344.9   3.0     9e-100  343.9   1.9    2.0  1  087006587  206194748979988 1933906
+    9.1e-94  324.4   0.5    1.3e-93  323.9   0.5    1.2  1  086936942  58945328771266 1094558
+    6.1e-90  311.9   0.7    6.1e-90  311.9   0.7    1.5  1  086999411  58945328771266 1686310
+    1.3e-86  301.0   0.6    1.8e-86  300.6   0.6    1.2  1  080752322  58945328771266 2079009
+    1.8e-84  294.0   0.6    3.2e-84  293.2   0.6    1.4  1  079479125  58945328771266 439375
+    2.4e-84  293.6   0.2    1.4e-83  291.1   0.6    1.9  1  079258754  58945328771266 1337887
+    2.9e-82  286.8   0.7    4.2e-82  286.3   0.7    1.2  1  080753278  58945328771266 2079010
+    3.8e-82  286.4   0.4    5.5e-82  285.9   0.4    1.2  1  079424812  58945328771266 359391
+    7.5e-82  285.5   0.4    1.1e-81  284.9   0.4    1.2  1  079354312  58945328771266 215590
+    1.4e-81  284.6   0.7    1.9e-81  284.1   0.7    1.2  1  078652693  58945328771266 2201899
+    2.4e-81  283.8   0.6    3.5e-81  283.3   0.6    1.2  1  078650727  58945328771266 1293442
+    2.9e-81  283.6   0.3      4e-81  283.1   0.3    1.2  1  084010669  58945328771266 1494590
+    6.5e-81  282.4   0.6    2.5e-80  280.5   0.6    1.8  1  079617689  58945328771266 571255
+    8.6e-81  282.0   0.4    1.4e-80  281.3   0.4    1.3  1  080748932  58945328771266 1902579
+    4.6e-77  269.8   0.5    6.7e-77  269.3   0.5    1.2  1  084179347  58945328771266 314237
+    5.1e-77  269.7   0.2      7e-77  269.2   0.2    1.2  1  084139634  58945328771266 1882772
+    9.5e-77  268.8   0.2    1.4e-76  268.2   0.2    1.3  1  084111575  58945328771266 1144343
+    6.6e-76  266.1   0.3    1.1e-75  265.4   0.3    1.3  1  084134728  58945328771266 1881066
+    8.6e-76  265.7   0.2    1.3e-75  265.1   0.2    1.3  1  084117182  58945328771266 1149773
+    8.9e-76  265.6   0.1    1.3e-75  265.1   0.1    1.2  1  084126684  58945328771266 1867719
+    2.2e-75  264.3   0.4    3.1e-75  263.8   0.4    1.2  1  086888273  58945328771266 69279
+    2.9e-75  264.0   0.9    4.2e-75  263.4   0.9    1.2  1  079712626  58945328771266 354351
+    1.4e-74  261.7   0.6      2e-74  261.2   0.6    1.2  1  084680442  58945328771266 1736477
+    5.4e-74  259.8   0.2      8e-74  259.3   0.2    1.3  1  084643354  58945328771266 1566387
+    1.4e-73  258.5   1.0      2e-73  258.0   0.6    1.4  1  086449734  58945328771266 2584466
+    1.4e-73  258.4   0.8    1.4e-73  258.4   0.8    1.5  1  086905374  58945328771266 1873176
+    2.1e-73  257.9   0.7    2.8e-73  257.5   0.7    1.1  1  085646925  58945328771266 2116701
+    2.7e-72  254.3   0.6    4.2e-72  253.6   0.6    1.3  1  084740632  58945328771266 1827501
+      3e-72  254.1   0.6    4.1e-72  253.7   0.6    1.2  1  086908882  58945328771266 93369
+    7.8e-72  252.8   0.4    1.4e-71  251.9   0.4    1.4  1  084593212  58945328771266 1295366
+    1.3e-71  252.1   0.1    1.7e-71  251.6   0.1    1.2  1  084005155  58945328771266 2742145
+    2.8e-71  251.0   0.6    3.8e-71  250.5   0.6    1.2  1  086897943  58945328771266 1851146
+    4.6e-71  250.3   0.3    8.3e-71  249.4   0.3    1.4  1  084053642  58945328771266 2599600
+    4.6e-71  250.2   0.1      6e-71  249.9   0.1    1.1  1  084026692  58945328771266 1982044
+    7.2e-71  249.6   0.4    9.9e-71  249.2   0.4    1.2  1  085556917  58945328771266 1884373
+    1.2e-70  248.9   0.4    1.6e-70  248.5   0.4    1.1  1  080755015  206194748979988 2233777
+    1.6e-70  248.4   0.7    2.7e-70  247.7   0.7    1.3  1  084200252  58945328771266 2735891
+    3.1e-70  247.5   1.2    4.1e-70  247.1   1.2    1.1  1  080751211  206194748979988 2079008
+    6.1e-70  246.6   0.5    8.2e-70  246.2   0.5    1.2  1  084698388  58945328771266 1736557
+    7.7e-70  246.3   0.6    1.3e-69  245.5   0.6    1.3  1  086867149  58945328771266 935263
+    1.1e-69  245.8   0.4    1.5e-69  245.3   0.4    1.2  1  086657245  58945328771266 335020
+    1.9e-69  245.0   0.4    2.9e-69  244.4   0.4    1.3  1  084667310  58945328771266 1670800
+    2.3e-69  244.7   0.4    2.3e-69  244.7   0.4    1.7  1  085748846  58945328771266 2495581
+      3e-69  244.3   0.7    4.8e-69  243.7   0.5    1.4  1  086568548  58945328771266 2589960
+    3.6e-69  244.1   0.6    5.4e-69  243.5   0.6    1.3  1  086862874  58945328771266 765698
+    5.3e-69  243.5   0.3    7.4e-69  243.0   0.3    1.2  1  084036516  58945328771266 1231190
+      6e-69  243.3   0.9    9.4e-69  242.7   0.6    1.5  1  084596043  58945328771266 1297569
+    9.6e-69  242.7   0.2    1.6e-68  242.0   0.2    1.3  1  084018435  58945328771266 1852022
+    1.8e-68  241.8   0.6    2.5e-68  241.3   0.6    1.2  1  088830385  58945328771266 1736355
+      2e-68  241.6   0.5    3.3e-68  240.9   0.5    1.3  1  084690015  58945328771266 1736481
+    5.2e-68  240.3   0.6      8e-68  239.7   0.6    1.2  1  084495036  58945328771266 1287292
+    7.1e-68  239.8   0.7    1.2e-67  239.1   0.7    1.4  1  084251448  58945328771266 1082933
+    1.1e-67  239.2   0.4    1.9e-67  238.4   0.4    1.4  1  085570323  58945328771266 2014805
+    1.2e-67  239.1   1.0    1.7e-67  238.6   0.5    1.5  1  085661410  58945328771266 2294114
+    1.6e-67  238.7   0.3    2.3e-67  238.2   0.3    1.3  1  084261694  58945328771266 1107882
+    3.3e-67  237.7   0.6    4.8e-67  237.1   0.6    1.2  1  080980137  58945328771266 1876515
+    4.9e-67  237.1   0.5    9.7e-67  236.1   0.5    1.4  1  088875201  58945328771266 1736429
+    5.7e-67  236.9   0.1    8.8e-67  236.3   0.1    1.2  1  086787387  58945328771266 536018
+    7.8e-67  236.4   0.3    1.3e-66  235.8   0.3    1.3  1  089060781  58945328771266 1907412
+    1.1e-66  235.9   0.3    1.9e-66  235.2   0.3    1.3  1  078646996  58945328771266 28320
+    1.2e-66  235.9   0.2    1.6e-66  235.4   0.2    1.2  1  083996031  58945328771266 1429082
+    1.2e-66  235.9   0.7    1.7e-66  235.3   0.7    1.2  1  087752393  58945328771266 1967501
+    1.4e-66  235.7   1.0    1.8e-66  235.3   1.0    1.1  1  087412694  58945328771266 2341112
+      2e-66  235.1   1.2    3.8e-66  234.2   0.6    1.6  1  084061587  206194748979988 472175
+    2.2e-66  235.0   0.6    3.1e-66  234.5   0.6    1.2  1  086759832  58945328771266 422277
+    2.6e-66  234.8   0.3    2.6e-66  234.8   0.3    1.4  1  087345972  58945328771266 1612624
+    3.3e-66  234.4   0.5    4.8e-66  233.9   0.5    1.2  1  086637542  58945328771266 2682781
+    3.5e-66  234.3   0.5    5.2e-66  233.8   0.5    1.2  1  084239964  58945328771266 266779
+    6.7e-66  233.4   1.6    1.7e-64  228.8   0.5    2.1  1  087352140  58945328771266 1798805
+    1.6e-65  232.1   0.3    2.4e-65  231.6   0.3    1.2  1  086885906  58945328771266 1121003
+    1.9e-65  232.0   0.8    2.6e-65  231.5   0.8    1.2  1  087780538  58945328771266 352475
+    3.2e-65  231.2   0.2    4.3e-65  230.8   0.2    1.1  1  084238022  58945328771266 935260
+    6.2e-65  230.2   0.3    1.1e-64  229.5   0.3    1.4  1  084066320  58945328771266 1480615
+    6.4e-65  230.2   0.1    9.9e-65  229.6   0.1    1.2  1  084056873  58945328771266 391937
+    6.8e-65  230.1   0.3    1.2e-64  229.3   0.3    1.3  1  090226737  58945328771266 908946
+    8.9e-65  229.7   2.1    5.6e-64  227.1   0.8    2.0  1  089366955  58945328771266 2512157
+      1e-64  229.5   0.6    1.4e-64  229.1   0.6    1.2  1  081960699  58945328771266 1920512
+    1.1e-64  229.4   0.5    1.6e-64  228.9   0.5    1.2  1  087545565  58945328771266 1842534
+    1.2e-64  229.3   1.1    2.6e-64  228.2   0.9    1.6  1  086877922  58945328771266 1120658
+    1.2e-64  229.3   0.3    1.9e-64  228.6   0.3    1.3  1  087710658  58945328771266 1813451
+    1.5e-64  229.0   0.7    2.2e-64  228.5   0.7    1.2  1  084106675  58945328771266 714899
+    1.6e-64  228.9   0.2    2.6e-64  228.2   0.2    1.3  1  088430976  58945328771266 1125979
+      3e-64  228.0   0.9      4e-64  227.6   0.9    1.1  1  084101519  58945328771266 274592
+    3.1e-64  228.0   0.3    4.6e-64  227.4   0.3    1.2  1  087069966  58945328771266 1416753
+    3.4e-64  227.8   0.7      5e-64  227.3   0.7    1.2  1  087357052  58945328771266 2590452
+    4.1e-64  227.6   0.4    1.6e-63  225.6   0.4    1.8  1  087182423  58945328771266 1848292
+    5.9e-64  227.1   0.3    8.6e-64  226.5   0.3    1.2  1  087229754  58945328771266 2490847
+    5.9e-64  227.0   0.4      9e-64  226.5   0.4    1.2  1  088040353  58945328771266 1972867
+    6.7e-64  226.9   0.4    9.7e-64  226.3   0.4    1.2  1  084105386  58945328771266 411684
+    7.5e-64  226.7   1.1    1.1e-63  226.1   1.1    1.3  1  084076600  58945328771266 1620421
+      1e-63  226.2   0.4    1.7e-63  225.6   0.4    1.3  1  088926324  58945328771266 1736563
+    1.1e-63  226.2   0.2    1.6e-63  225.6   0.2    1.2  1  088026303  58945328771266 176299
+    1.8e-63  225.5   0.3      3e-63  224.8   0.3    1.3  1  088911349  58945328771266 1736543
+    2.6e-63  224.9   1.0    3.7e-63  224.5   1.0    1.1  1  087265820  58945328771266 1825976
+    3.2e-63  224.7   0.7    4.4e-63  224.2   0.7    1.1  1  090043607  58945328771266 464029
+    4.7e-63  224.1   0.3    7.6e-63  223.4   0.3    1.3  1  087663370  58945328771266 394
+    5.4e-63  223.9   0.3    8.1e-63  223.3   0.3    1.2  1  088656968  58945328771266 1532558
+    7.1e-63  223.5   0.4      1e-62  223.0   0.4    1.2  1  081095177  206194748979988 937218
+    7.2e-63  223.5   0.1    9.6e-63  223.1   0.1    1.1  1  084049466  58945328771266 2126741
+
+
+Domain annotation for each sequence (and alignments):
+>> 087020088  206194748979988 360095
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  362.2   1.2  4.6e-109  2.4e-105       1     216 []     185     400 ..     185     400 .. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 362.2 bits;  conditional E-value: 4.6e-109
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 v ldpghggid+ga+g+tgilekd+tlafa alrdel+k++   v ltrdsd+flrl+er+kkaq+f adlfisihadti+  slrgatvytisd+asd
+   087020088 185 VTLDPGHGGIDSGAQGITGILEKDITLAFALALRDELEKNTDIDVMLTRDSDVFLRLNERIKKAQKFGADLFISIHADTINTPSLRGATVYTISDKASD 283
+                 689************************************************************************************************ PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                 a+ak+laesenkvdlldglp ee  e+ dil+dlt+reth fs+nfa+ v+ nls s+i+linnphryadfqvlkapdvpsvlieigylsnkede+ll+
+   087020088 284 AMAKTLAESENKVDLLDGLPAEELPEVADILIDLTQRETHTFSVNFADRVILNLSNSNIHLINNPHRYADFQVLKAPDVPSVLIEIGYLSNKEDEELLS 382
+                 *************************************************************************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasiaysirq 216
+                 +pqwrk+maasia++i q
+   087020088 383 DPQWRKKMAASIAHAILQ 400
+                 **************9865 PP
+
+>> 087006587  206194748979988 1933906
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  343.9   1.9  1.7e-103    9e-100       1     216 []     153     368 ..     153     368 .. 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 343.9 bits;  conditional E-value: 1.7e-103
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vvldpghgg d+garg+tgilek++tl faralrdel+k s+  v ltrd+d fl+l ervkk q+fdadlfisihad+i++hslrgatvyt+sd+asd
+   087006587 153 VVLDPGHGGSDSGARGITGILEKNITLTFARALRDELEKDSNIHVFLTRDADEFLKLGERVKKTQDFDADLFISIHADSINIHSLRGATVYTLSDKASD 251
+                 79************************************************************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                 aiaksla+ enkvdlldgl  ee  e+tdil+dl rret+ fsinfa+ v+ nlsk+ inlin phryadf vlka ++psvlieigylsnkede+lln
+   087006587 252 AIAKSLADHENKVDLLDGLTAEEIPEVTDILIDLIRRETQMFSINFADRVILNLSKNKINLINKPHRYADFLVLKASNIPSVLIEIGYLSNKEDEQLLN 350
+                 *************************************************************************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasiaysirq 216
+                 +pqwrk+m  +ia sirq
+   087006587 351 DPQWRKRMIVAIADSIRQ 368
+                 ****************98 PP
+
+>> 086936942  58945328771266 1094558
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  323.9   0.5   2.4e-97   1.3e-93       1     214 [.     181     394 ..     181     396 .. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 323.9 bits;  conditional E-value: 2.4e-97
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+d ghggid+ga+gvtgilekdvtlafaralr+el+k++   v ltrdsd+flrl+erv+ka+e+ adlfisihad+i+ +slrgatvytisd+asd
+   086936942 181 VVIDAGHGGIDSGAQGVTGILEKDVTLAFARALREELEKNTLIDVFLTRDSDVFLRLNERVEKAREYCADLFISIHADSINTQSLRGATVYTISDQASD 279
+                 799************************************************************************************************ PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                  +a+ laesenk dlldglp ++  e++dil+dltrrethafs++fa+ +v nls+++i li nphrya fqvlka d+psvl+e+gylsnk dekl++
+   086936942 280 NVARVLAESENKTDLLDGLPADKFPEISDILIDLTRRETHAFSVSFADQLVQNLSQNNIKLIKNPHRYAGFQVLKAHDIPSVLVELGYLSNKHDEKLIS 378
+                 *************************************************************************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasiaysi 214
+                 +p wr +ma +ia s+
+   086936942 379 DPAWRFKMAGTIAQSV 394
+                 *************997 PP
+
+>> 086999411  58945328771266 1686310
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  311.9   0.7   1.2e-93   6.1e-90       1     216 []     182     397 ..     182     397 .. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 311.9 bits;  conditional E-value: 1.2e-93
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+d ghggid+ga++++g++ek+vtlafar+lrdel+k+ +  v ltrdsd+flrl+erv+ka+ + adlfisihadti++ ++rgatvytisd+asd
+   086999411 182 VVIDAGHGGIDSGAESISGVFEKNVTLAFARSLRDELEKNVNLEVFLTRDSDVFLRLNERVQKARGYGADLFISIHADTINMAAMRGATVYTISDQASD 280
+                 799************************************************************************************************ PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                  +ak+la+ enk dl+dglp +es e+tdil+dl rret +fs+nfa+ v+s+l +  inli nphrya fqvlkapd+psvlieigylsnkede+l+ 
+   086999411 281 DLAKALADRENKADLVDGLPPDESPEVTDILIDLARRETLSFSVNFADRVISSLLQGDINLIKNPHRYAGFQVLKAPDIPSVLIEIGYLSNKEDERLVT 379
+                 *************************************************************************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasiaysirq 216
+                 +p wrk+ a +i+ +++q
+   086999411 380 DPLWRKKAAVAISNAVQQ 397
+                 **********99988876 PP
+
+>> 080752322  58945328771266 2079009
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  300.6   0.6   3.4e-90   1.8e-86       1     215 [.     179     393 ..     179     394 .. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 300.6 bits;  conditional E-value: 3.4e-90
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+dpghg++d+ga gv g+lek++tlafa+ l++ lqk s   v ltr+ diflrl+ervk a+ + adlfisihad id+  +rgatvytisd+asd
+   080752322 179 VVIDPGHGAFDNGATGVNGVLEKEITLAFAKVLQNLLQKESGINVYLTREDDIFLRLNERVKIARNLGADLFISIHADHIDLPDIRGATVYTISDKASD 277
+                 79************************************************************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                 a+ak+lae en+ d+ldglp  e+ e+tdil+dltrre +afsinfa  v+ +l ks i+li nphrya fqvl+apd+psvlie+gylsn edekl++
+   080752322 278 ALAKALAEHENQADILDGLPFNEAPEVTDILIDLTRREAQAFSINFAEKVIVSLEKSKISLIKNPHRYAGFQVLRAPDIPSVLIELGYLSNFEDEKLIS 376
+                 *************************************************************************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasiaysir 215
+                 +p wr++ma  ia s+r
+   080752322 377 DPLWREEMAKLIARSVR 393
+                 **************998 PP
+
+>> 079479125  58945328771266 439375
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  293.2   0.6   6.2e-88   3.2e-84       1     215 [.     194     407 ..     194     408 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 293.2 bits;  conditional E-value: 6.2e-88
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 v++dpghggid+ga++++gi ekd+tlaf + lrd l +  +  v +trd d +lrlserv+ a++ +adlfisihadti+ h +rgatvytisd+asd
+   079479125 194 VMIDPGHGGIDSGAESLSGIKEKDLTLAFGQELRDRLAQDKNIKVLMTRDDDTYLRLSERVRIARQHEADLFISIHADTINQHDIRGATVYTISDKASD 292
+                 689************************************************************************************************ PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                 ++a+++ae enk d l g   ee  e+tdilldltrreth fs++fa  v+ +l   ++nlinnphr+a fqvl+apdvpsvlieigylsn edekl++
+   079479125 293 SVARAMAERENKSDTLAGAAPEEQPEVTDILLDLTRRETHTFSLSFAEKVIHSLQ-GQVNLINNPHRFAGFQVLRAPDVPSVLIEIGYLSNAEDEKLIS 390
+                 ***************************************************9995.79***************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasiaysir 215
+                 np+wrk++a  +a +ir
+   079479125 391 NPEWRKKLAERLAIAIR 407
+                 *************9998 PP
+
+>> 079258754  58945328771266 1337887
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  291.1   0.6   2.7e-87   1.4e-83       1     215 [.     193     406 ..     193     407 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 291.1 bits;  conditional E-value: 2.7e-87
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +++dpghggid+ga++++gi ekd+tlaf + lrd l +  +  v +tr+ d flrlserv+ a++ +adlfisihadti+ h +rgatvytisd+asd
+   079258754 193 IMIDPGHGGIDSGAESLSGIKEKDLTLAFGQELRDRLAQDKNIKVLMTREDDTFLRLSERVRIARQHEADLFISIHADTINQHDIRGATVYTISDKASD 291
+                 579************************************************************************************************ PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                 ++a+++ae enk d l g   ee  e+tdilldltrreth fs++fa  v+ +l   ++nlinnphr+a fqvl+apdvpsvlieigylsn edekl++
+   079258754 292 SVARAMAERENKSDTLAGAAPEEQPEVTDILLDLTRRETHTFSLSFAEKVIHSLQ-GQVNLINNPHRFAGFQVLRAPDVPSVLIEIGYLSNAEDEKLIS 389
+                 ***************************************************9995.79***************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasiaysir 215
+                 np+wrk++a  +a +i+
+   079258754 390 NPEWRKKLADRLAIAIK 406
+                 *********99998876 PP
+
+>> 080753278  58945328771266 2079010
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  286.3   0.7   8.1e-86   4.2e-82       1     215 [.     179     393 ..     179     394 .. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 286.3 bits;  conditional E-value: 8.1e-86
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+d ghg++d+ga gv+g+lek+vtlafa+ l+d lqk       ltr++diflrl+er+  a+ + adlfisihad id+  +rgatvytisd asd
+   080753278 179 VVIDAGHGAFDNGATGVSGVLEKEVTLAFAKTLKDFLQKEPGINAYLTRENDIFLRLNERMNIARSYGADLFISIHADHIDLSDIRGATVYTISDRASD 277
+                 799**************************************9999****************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                  +aksla+ enk d+ldg+p +e  e+ +il+dltr+e +afsi+fa  v+s+l + +i+li nphrya fqvl+apd+psvlie+gylsn edekl++
+   080753278 278 TLAKSLADHENKADILDGFPLDEPSEIANILIDLTRKEVQAFSIDFAEKVISSLQEDQISLIRNPHRYAGFQVLRAPDIPSVLIELGYLSNSEDEKLIS 376
+                 *************************************************************************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasiaysir 215
+                 +p wr++ma  ia s+r
+   080753278 377 DPLWREKMAKLIARSVR 393
+                 **************998 PP
+
+>> 079424812  58945328771266 359391
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  285.9   0.4   1.1e-85   5.5e-82       1     215 [.     195     408 ..     195     409 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 285.9 bits;  conditional E-value: 1.1e-85
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 v++dpghggid+ga++++gi ek++tlaf + lrd l    +  v +tr+ d flrl+erv+ a++ +adlfisihadti+ h +rgatvytisd+asd
+   079424812 195 VMIDPGHGGIDSGAESLSGIKEKNLTLAFGKELRDRLSHERNIKVLMTREDDTFLRLAERVRLARQHEADLFISIHADTINQHDIRGATVYTISDKASD 293
+                 689************************************************************************************************ PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                 a+a+++ae enk d l g   ee  e+tdilldltrreth fs+ fa  v+  l   ++nlinnphr+a fqvl+apdvpsvlieigylsn edekl++
+   079424812 294 AVARAMAERENKSDSLAGALPEEQPEVTDILLDLTRRETHTFSLRFAEKVIGELQ-GQVNLINNPHRFAGFQVLRAPDVPSVLIEIGYLSNPEDEKLIS 391
+                 *****************99899999***************************995.78***************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasiaysir 215
+                 np+wrk++   ia +++
+   079424812 392 NPEWRKKLVDRIALAVK 408
+                 *********99998875 PP
+
+>> 079354312  58945328771266 215590
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  284.9   0.4   2.1e-85   1.1e-81       1     215 [.     175     388 ..     175     389 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 284.9 bits;  conditional E-value: 2.1e-85
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 v++dpghggid+ga++++gi ekd+tlaf r lrd l k ++  v +tr+ d flrlserv+ a++  adlfisihadti+   +rgatvytisd+asd
+   079354312 175 VMIDPGHGGIDSGAESLSGIKEKDLTLAFGRELRDRLAKENNIRVLMTRNDDTFLRLSERVRLARQHAADLFISIHADTINQGDIRGATVYTISDKASD 273
+                 689************************************************************************************************ PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                 ++a+++ae en  d l g   e   e+tdilldltrreth fs++fa  v+s+l   ++nlinnphr+a fqvl+apdvpsvlieigylsn edekl++
+   079354312 274 SVARAMAERENMSDSLGGAVPEALPEVTDILLDLTRRETHTFSLSFAEKVISSLQ-GEVNLINNPHRFAGFQVLRAPDVPSVLIEIGYLSNAEDEKLIS 371
+                 *******************999999****************************95.78***************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasiaysir 215
+                 npqwr+++a  ia +++
+   079354312 372 NPQWRRKLADRIAQAVK 388
+                 ***********998875 PP
+
+>> 078652693  58945328771266 2201899
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  284.1   0.7   3.8e-85   1.9e-81       1     215 [.     175     388 ..     175     389 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 284.1 bits;  conditional E-value: 3.8e-85
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 v+ldpghggid+ga++++g  ekd+tlaf   lrd l +  +  v +trd d flrlserv+ a++ +adlfisihadti+ h +rgatvytisd+asd
+   078652693 175 VMLDPGHGGIDSGAESLSGSKEKDLTLAFGLELRDRLAREENVRVLMTRDDDTFLRLSERVRLARQHEADLFISIHADTINQHDIRGATVYTISDKASD 273
+                 689************************************************************************************************ PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                 a+a+++ae enk d + gl  ee  e+ dilldltrreth fs++fa  v+++l   +inlinnphr+a fqvl+apdvpsvlieigylsn  dekl+ 
+   078652693 274 AVARAMAERENKSDSVAGLVSEEQPEVADILLDLTRRETHTFSLSFAEKVIAHLE-GQINLINNPHRFAGFQVLRAPDVPSVLIEIGYLSNPADEKLIR 371
+                 *****************************************************96.78***************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasiaysir 215
+                 +pqwr ++a  i+ +i+
+   078652693 372 DPQWRGKLADRISLAIK 388
+                 *********99988876 PP
+
+>> 078650727  58945328771266 1293442
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  283.3   0.6   6.8e-85   3.5e-81       1     215 [.     225     438 ..     225     439 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 283.3 bits;  conditional E-value: 6.8e-85
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 v++dpghggid+ga++++g++ek++tlaf+  lrd l +     v +trd+d flrlserv+ a+e +adlfisihadt++ h +rgatvytisd+asd
+   078650727 225 VMIDPGHGGIDSGAESISGLMEKNLTLAFSLELRDRLAQEDGIRVLMTRDNDTFLRLSERVRLAREEEADLFISIHADTVNQHDIRGATVYTISDKASD 323
+                 689************************************99999******************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                 a+a+++ae enk d + g+  e+  e+ dilldltrreth fs++fa  v+s+l + +i+linnphr+a fqvl+apdvpsvlieigylsn +dekll+
+   078650727 324 AVARAMAERENKADNVAGIVAEDFPEVADILLDLTRRETHTFSLSFAEKVISHL-RGEISLINNPHRFAGFQVLRAPDVPSVLIEIGYLSNAQDEKLLS 421
+                 *****************************************************9.689***************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasiaysir 215
+                 +pqwr ++a  ia +++
+   078650727 422 DPQWRYKLADRIALAVK 438
+                 **********9998875 PP
+
+>> 084010669  58945328771266 1494590
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  283.1   0.3   7.7e-85     4e-81       1     215 [.     185     398 ..     185     399 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 283.1 bits;  conditional E-value: 7.7e-85
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 v++dpghggid+ga++ +g+ ekdvtlafa+alrd l  +++  v +trd d flrl+erv+ a++ +adlfis+had i+++++rgatvytisd+asd
+   084010669 185 VMIDPGHGGIDAGAESSSGVREKDVTLAFAQALRDALAGNANMRVMMTRDDDTFLRLNERVRIARQHEADLFISVHADKINLRNIRGATVYTISDKASD 283
+                 689************************************************************************************************ PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                  +a+++ae enk d + g+  ee  e+tdil+dltrrethafs+nfa+ vv  l   + nlinnphrya fqvl+apdvpsvl+eigylsn edekl+ 
+   084010669 284 NMARAMAERENKSDAIAGIAHEEPPEVTDILMDLTRRETHAFSLNFASKVVQALE-GETNLINNPHRYAGFQVLRAPDVPSVLVEIGYLSNAEDEKLMT 381
+                 ***************************************************9885.789**************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasiaysir 215
+                 +p wr ++a  +a +i+
+   084010669 382 DPAWRARVADRLAEAIK 398
+                 *********99998886 PP
+
+>> 079617689  58945328771266 571255
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  280.5   0.6   4.8e-84   2.5e-80       1     215 [.     190     403 ..     190     404 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 280.5 bits;  conditional E-value: 4.8e-84
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 v++dpghggid+ga++++gi ekd+tlaf + lrd l k  +    +trd d flrlserv+ a++  adlfisihadti+   +rgatvytisd+asd
+   079617689 190 VMIDPGHGGIDSGAESLSGIKEKDLTLAFGKELRDRLAKEKNIKALMTRDDDTFLRLSERVRLARQQSADLFISIHADTINQGDIRGATVYTISDKASD 288
+                 689**************************************99999***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                 ++a+++ae enk d + g   e   e+ dilldltrreth fs++fa  v+ +l   ++nlinnphr+a fqvl+apdvpsvlieigylsn edekl++
+   079617689 289 SVARAMAERENKSDSIAGAAPEALPEVADILLDLTRRETHTFSLSFAEKVIHSLQ-GEVNLINNPHRFAGFQVLRAPDVPSVLIEIGYLSNAEDEKLIS 386
+                 ***********************9***************************9995.79***************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasiaysir 215
+                 np+wr+++a  ia +ir
+   079617689 387 NPEWRRKLADRIALAIR 403
+                 *************9998 PP
+
+>> 080748932  58945328771266 1902579
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  281.3   0.4   2.7e-84   1.4e-80       1     214 [.     190     403 ..     190     405 .. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 281.3 bits;  conditional E-value: 2.7e-84
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 v +d ghg++dgga gv g +ekd+tlafa  l del+k  +  v ltr++d+flrl+erv +a+   adlfisihad id   lrgatvyt+sd+asd
+   080748932 190 VAVDAGHGAFDGGAVGVNGTFEKDITLAFALTLADELRKKPQLEVYLTRNTDVFLRLNERVARARAAGADLFISIHADHIDSAPLRGATVYTLSDKASD 288
+                 5789*********************************************************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                 ai+k la+senkvdlldg+p +e  e+ dil+dltrret+afsi+fa+ v+  ++ ++i+li nphrya fqvl+apd+psvlie+gylsn edekl+ 
+   080748932 289 AISKKLADSENKVDLLDGMPADELPEVADILIDLTRRETQAFSIDFADRVIQTFTGNNISLIRNPHRYAAFQVLRAPDMPSVLIELGYLSNAEDEKLIT 387
+                 *************************************************************************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasiaysi 214
+                 + +wr++ a  ia s+
+   080748932 388 SAKWRQKTAGLIANSV 403
+                 **********999987 PP
+
+>> 084179347  58945328771266 314237
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  269.3   0.5   1.3e-80   6.7e-77       1     214 [.     185     397 ..     185     399 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 269.3 bits;  conditional E-value: 1.3e-80
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 v++dpghggid+ga+g  g+ ek+vtlaf r +rd l k++   v +tr+ d flrlserv+ a++ +adlfisihadti++ s+rgatvyt+sd+asd
+   084179347 185 VMIDPGHGGIDAGAEGRHGVKEKEVTLAFGREFRDILAKNTDIRVLMTREDDTFLRLSERVRIARQHEADLFISIHADTINLDSIRGATVYTLSDKASD 283
+                 689************************************************************************************************ PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                 ++a ++ae enk d + g+  ee   ++dil dl rrethafs+nfa  vv +l   +i+linnphr a fqvl+apdvpsvl+eigylsn edekl+ 
+   084179347 284 SMASAIAERENKSDAIAGITHEEPPAVSDILADLMRRETHAFSLNFAGKVVHSLQ-DEISLINNPHRSAGFQVLRAPDVPSVLVEIGYLSNAEDEKLMT 381
+                 ***************************************************9996.68***************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasiaysi 214
+                 +p wr ++a  +a ++
+   084179347 382 DPAWRTRVANRLAEAV 397
+                 ********99998776 PP
+
+>> 084139634  58945328771266 1882772
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  269.2   0.2   1.3e-80     7e-77       1     214 [.     191     404 ..     191     406 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 269.2 bits;  conditional E-value: 1.3e-80
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+d ghggid+ga++  gi+ekdvtl far lrd+l+k     + +trdsd flrl+erv+ a++++adlfis+hadti+ +s+rgatvyt+sd+asd
+   084139634 191 VVVDAGHGGIDSGAESTGGIMEKDVTLMFARELRDQLRKIPGLRIEMTRDSDEFLRLTERVRIARQYEADLFISVHADTINQRSIRGATVYTVSDKASD 289
+                 799************************************************************************************************ PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpk.eesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a ++++a+ enk d + g+    e+ e+ dil+dltrreth fs++fa  vv  l k  +n+innphr+a fqvl+apdvpsvl+eigylsn+ed kl+
+   084139634 290 AASRAMADRENKADAVAGVTFdNETPEIADILMDLTRRETHTFSLSFAKGVVRAL-KGDVNMINNPHRFAGFQVLRAPDVPSVLVEIGYLSNEEDAKLM 387
+                 ******************98615899*************************9877.899**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +p wr  +a  +a ++
+   084139634 388 QDPAWRSHVAERLATAV 404
+                 *********99988765 PP
+
+>> 084111575  58945328771266 1144343
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  268.2   0.2   2.8e-80   1.4e-76       1     214 [.     183     396 ..     183     398 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 268.2 bits;  conditional E-value: 2.8e-80
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+dpghggid+ga++ +gi+ek+vtl fa+ lrdel k     + +tr  d flrl+erv+ a++++adlfis+hadti+  ++rgatvyt+sd+asd
+   084111575 183 VVIDPGHGGIDSGAESASGIMEKNVTLMFAQQLRDELAKIPGLRIEMTRTDDTFLRLTERVRVARQYEADLFISLHADTINRGNIRGATVYTVSDKASD 281
+                 79************************************************************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpke.esleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a ++++a+ en+ d + g+  + e+ e+ dil+dltrreth fs++fa nvv++l k  +n+innphr+a fqvl+apdvpsvl+eigylsn edekl+
+   084111575 282 AESRAMADRENRADAVAGITFDnETPEIADILMDLTRRETHNFSLSFAKNVVNSLKK-DVNMINNPHRFAGFQVLRAPDVPSVLVEIGYLSNAEDEKLM 379
+                 ******************98643899**************************99966.7**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +p wr  +a+ +a ++
+   084111575 380 LDPAWRTHVASRLATAV 396
+                 **********9998765 PP
+
+>> 084134728  58945328771266 1881066
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  265.4   0.3     2e-79   1.1e-75       1     214 [.     175     388 ..     175     390 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 265.4 bits;  conditional E-value: 2e-79
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+d ghggid+ga++  g lek+vtl fa+ lrdelqk s   v +tr+ d flrlserv+ a++++adlf+sihadti+  ++rgatvyt+sd asd
+   084134728 175 VVVDAGHGGIDSGAESAGGSLEKNVTLMFAQQLRDELQKISGIRVEMTRNDDTFLRLSERVRIARQYEADLFVSIHADTINRGNIRGATVYTVSDRASD 273
+                 799************************************************************************************************ PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpke.esleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a ++++a+ en+ d + g+  + e+ e+ dil+dltrreth fs++fa  vv +l k  +n+innphr+a fqvl+apdvpsvl+eigylsn+edekl+
+   084134728 274 ADSRAMADRENRADAVAGIAFDnEAPEIADILMDLTRRETHNFSLSFAKTVVKSLKK-DVNMINNPHRFAGFQVLRAPDVPSVLVEIGYLSNQEDEKLM 371
+                 ******************98643899****************************976.69*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +p wr  +a  +a ++
+   084134728 372 LDPAWRSHVAERLATAV 388
+                 *********99988765 PP
+
+>> 084117182  58945328771266 1149773
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  265.1   0.2   2.5e-79   1.3e-75       1     214 [.     183     396 ..     183     398 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 265.1 bits;  conditional E-value: 2.5e-79
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+dpghggid+ga++ +g++ek+vtl fa+ lrdel k     v +tr  d flrlserv+ a++ +a+lfisihadti+  ++rgatvyt+sd+asd
+   084117182 183 VVIDPGHGGIDSGAESTSGVMEKNVTLMFAQQLRDELAKRPGLRVEMTRSDDSFLRLSERVRVARQHEANLFISIHADTINRGTIRGATVYTVSDKASD 281
+                 79************************************************************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpke.esleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a ++++a+ en+ d + g+  + e+ e+ dil+dltrreth fs++fa  vv +l k  +n+innphr+a fqvl+apdvpsvl+eigylsn edekl+
+   084117182 282 AESRAMADRENRADAVAGIAYDnETPEIADILMDLTRRETHTFSLSFAKTVVKSLKK-DVNMINNPHRFAGFQVLRAPDVPSVLVEIGYLSNAEDEKLM 379
+                 ******************98653899****************************976.69*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +p wr  +a  +a +i
+   084117182 380 LDPAWRSHVAERLASAI 396
+                 *********99998776 PP
+
+>> 084126684  58945328771266 1867719
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  265.1   0.1   2.5e-79   1.3e-75       1     214 [.     183     396 ..     183     398 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 265.1 bits;  conditional E-value: 2.5e-79
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+dpghggid+ga++ +gi+ek+vtl fa+ lrdel k     v +tr+ d f+rl+erv+ a++++adlfisihadti+  ++rgatvyt+sd+asd
+   084126684 183 VVIDPGHGGIDSGAESASGIMEKNVTLMFAQQLRDELSKFPGLRVEMTRNGDEFMRLTERVRVARQYEADLFISIHADTINRGNIRGATVYTVSDKASD 281
+                 79************************************************************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpke.esleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a ++++a+ en+ d + g+  + e+ e+ dil+dltrreth fs++fa  vv +l k  +n+innphr+a fqvl+apdvpsvl+eigylsn edekl+
+   084126684 282 AESRAMADRENRSDAVAGITFDnETPEIADILMDLTRRETHTFSLSFAKTVVKSLKK-DVNMINNPHRFAGFQVLRAPDVPSVLVEIGYLSNPEDEKLM 379
+                 ******************98643899****************************976.69*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +p wr  +a  +a ++
+   084126684 380 LDPAWRGHVAERLASAV 396
+                 ********999888765 PP
+
+>> 086888273  58945328771266 69279
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  263.8   0.4   6.1e-79   3.1e-75       1     214 [.     189     402 ..     189     404 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 263.8 bits;  conditional E-value: 6.1e-79
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vvldpghggidgga+gv+g  ek++tlafar l+ +l       v ltrdsd flrl erv+ a++ +adlfisihadti +  +rgatvyt+sd+asd
+   086888273 189 VVLDPGHGGIDGGAEGVSGTQEKEITLAFARELKTKLDAIRKYDVILTRDSDAFLRLDERVRIARQNEADLFISIHADTIRLKGIRGATVYTVSDKASD 287
+                 79************************************9999999****************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a a++lae en  d l g+  k +s e+ dil+dl rreth+fs++fan +v  ls   + linnphr+a f+vl+apdvpsvl+e+gylsn ede  l
+   086888273 288 AEAQALAERENLSDQLGGIEvKVDSPEVADILFDLIRRETHSFSMSFANTLVGELST-TVGLINNPHRFAGFKVLRAPDVPSVLVELGYLSNPEDEAQL 385
+                 ******************964889*******************************96.59*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  np+wr + a+si  +i
+   086888273 386 LNPEWRDKAASSIINAI 402
+                 **********9997665 PP
+
+>> 079712626  58945328771266 354351
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  263.4   0.9   8.2e-79   4.2e-75       1     214 [.     200     412 ..     200     414 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 263.4 bits;  conditional E-value: 8.2e-79
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 v++dpghggid+ga++  g lek+vtl+f r lrdel k     v +tr+ d flrlserv+ a++ + dlfis+hadti    +rgatvyt+sd+asd
+   079712626 200 VMIDPGHGGIDSGAESAAGTLEKNVTLSFGRELRDELMKYKDINVLMTREDDTFLRLSERVRLARQHETDLFISLHADTISHKDIRGATVYTLSDKASD 298
+                 689************************************************************************************************ PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                  +ak++ae en  d   g+  ee+  + dil++lt+reth+fs+nfa+ ++ +l   ++nlinnphr+a fqvl+apdvpsvl+eigylsnk+dekll 
+   079712626 299 DVAKAMAERENNSDANAGVASEEAPVVHDILMELTQRETHSFSLNFADGLIKSLQ-GEVNLINNPHRFAGFQVLRAPDVPSVLVEIGYLSNKDDEKLLK 396
+                 ****************************************************995.78***************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasiaysi 214
+                 +  wrk     ia+++
+   079712626 397 DAAWRKLAVERIAHAV 412
+                 ******9999999987 PP
+
+>> 084680442  58945328771266 1736477
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  261.2   0.6   3.9e-78     2e-74       1     213 [.     190     402 ..     190     405 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 261.2 bits;  conditional E-value: 3.9e-78
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+dpghggidgga+g++g +ek vtlafar l+++l+ +    v +trdsd+flrl +rv+ a++ +adlfisihadti +  +rgatvyt+sd asd
+   084680442 190 VVIDPGHGGIDGGAEGLSGTVEKAVTLAFARELKNKLEASGKYDVFMTRDSDVFLRLDDRVRIARQHEADLFISIHADTISLKGIRGATVYTVSDRASD 288
+                 79************************************9999999****************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a a++la+ en  d l g+  k ++ e+tdil+dl rreth+fs++fan +v  l+   + linnphr+a f+vlkapdvpsvl+e+gylsn +de  l
+   084680442 289 AEAQALADRENLSDRLAGIEvKADNPEVTDILIDLIRRETHSFSMSFANTLVDELAT-TVGLINNPHRFAGFRVLKAPDVPSVLVELGYLSNPKDEAQL 386
+                 ******************9648899******************************85.69*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiays 213
+                  +p wr + a si  +
+   084680442 387 IDPDWRNKAAESITNA 402
+                 **********999765 PP
+
+>> 084643354  58945328771266 1566387
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  259.3   0.2   1.5e-77     8e-74       1     214 [.     190     403 ..     190     405 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 259.3 bits;  conditional E-value: 1.5e-77
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vvldpghgg+dgga+g+ g +ekdvtlafa+ lrd+l       v+ltrd d +lrl +rv+ a++  a+lfisihadti +  +rgatvyt+sd+asd
+   084643354 190 VVLDPGHGGVDGGAEGLNGTIEKDVTLAFAKELRDKLVAEGKYDVSLTRDDDTYLRLDDRVRIARQRGANLFISIHADTIRLKGIRGATVYTVSDKASD 288
+                 79**********************************988777789****************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                   a++la  en  d + g+  kees e+tdil+dl rreth+fs+ fa  +v  ls s + linnphr+a f+vlkapdvpsvl+e+gylsn +de  l
+   084643354 289 PEAQALAARENLSDQFAGMEiKEESQEVTDILIDLIRRETHSFSMGFAQTLVGQLSTS-VGLINNPHRFAGFRVLKAPDVPSVLVELGYLSNAKDEAQL 386
+                 ******************9659*********************************976.9*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +p+wr + a sia ++
+   084643354 387 TDPEWRGKAADSIAKAV 403
+                 *************9876 PP
+
+>> 086449734  58945328771266 2584466
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  258.0   0.6   3.8e-77     2e-73       1     212 [.     206     417 ..     206     420 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 258.0 bits;  conditional E-value: 3.8e-77
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+d ghgg+dgga+gvtg +ekdvtlafar lrd+l  +    v ltrdsd+flrl erv  a++ +adlfisihadti v slrgatvyt+sd+a+d
+   086449734 206 VVVDAGHGGVDGGAEGVTGAVEKDVTLAFARLLRDKLAAAGPYDVFLTRDSDVFLRLDERVAIARQHEADLFISIHADTISVKSLRGATVYTVSDKATD 304
+                 799***********************************9999999****************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a a++la+ en  d + g+  k +  e+tdil+dl rreth+fs+ fa  +v  ls   + linnphr a f+vlkapdvpsvl+e+gylsn +de  l
+   086449734 305 AEAQALADRENLSDRFAGMEiKGDDPEVTDILIDLIRRETHSFSLRFARTLVGQLST-TVGLINNPHREAGFRVLKAPDVPSVLVELGYLSNAKDEAQL 402
+                 ******************9758899******************************96.69*************************************99 PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiay 212
+                  +  wr + a si  
+   086449734 403 LSSDWRDKAADSIVK 417
+                 99******9999875 PP
+
+>> 086905374  58945328771266 1873176
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  258.4   0.8   2.8e-77   1.4e-73       1     214 [.     191     404 ..     191     406 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 258.4 bits;  conditional E-value: 2.8e-77
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+dpghggidgga++  g +ekdvtlafa  lrd+l    +  v +trdsdifl l erv  a+   adlfisihadti v slrgatvyt+sd+asd
+   086905374 191 VVIDPGHGGIDGGAESPDGTIEKDVTLAFAAQLRDKLAATGRYDVFMTRDSDIFLGLDERVDIARRHAADLFISIHADTIRVKSLRGATVYTVSDKASD 289
+                 79***********************************99999999****************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a +++la  en  d l g+  kee  e+ dil+dl rreth fs+ fa+ +v  ls   i +innphrya f+vlkapdvpsvl+e+gylsn +de  l
+   086905374 290 AESEALANRENLSDQLAGIEvKEERREVADILIDLIRRETHKFSMRFADTLVHKLSD-VIGMINNPHRYAGFRVLKAPDVPSVLVELGYLSNAKDEAQL 387
+                 ******************965999*******************************95.69*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                 n+p wr + a sia +i
+   086905374 388 NDPAWRDKTAQSIADAI 404
+                 *************9776 PP
+
+>> 085646925  58945328771266 2116701
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  257.5   0.7   5.4e-77   2.8e-73       1     214 [.     167     380 ..     167     382 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 257.5 bits;  conditional E-value: 5.4e-77
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +v+dpghggid+ga gv g +ek +tlafa  l+ +lq      v ltr sd+flrl +rv+ a++ +adlfis+hadti++  +rgatvyt+sd+asd
+   085646925 167 IVIDPGHGGIDSGALGVNGTVEKTITLAFALELKAKLQAEGKYDVHLTRSSDLFLRLDDRVRIARQQEADLFISVHADTINLKGIRGATVYTVSDKASD 265
+                 699***********************************9888899****************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpke.esleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a a++la+ en  d l g+  e e+ e+ dil+dl rrethafsi fa  +v  ls++ + linnphr+a f+vlkapdvpsvl+e+gylsn ede+ l
+   085646925 266 AEAQALADRENLSDKLAGIEVEdENHEVADILVDLIRRETHAFSIRFARTLVGELSET-VGLINNPHRFAGFRVLKAPDVPSVLVELGYLSNAEDEEQL 363
+                 *******************8652889*****************************986.9*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  np+wr +   si+ +i
+   085646925 364 RNPEWRGKAVTSISNAI 380
+                 *******9999998766 PP
+
+>> 084740632  58945328771266 1827501
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  253.6   0.6   8.1e-76   4.2e-72       1     214 [.     186     399 ..     186     401 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 253.6 bits;  conditional E-value: 8.1e-76
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +v+dpghggidgga+g +g +ekd+tl fa  lrd+l    +  v +tr+ d flrl ervk a+e +adlfisihadti +  +rgatvyt+s++asd
+   084740632 186 IVIDPGHGGIDGGAEGRSGTVEKDITLTFATELRDKLLADGRYNVFMTREKDEFLRLDERVKIAREHEADLFISIHADTIRLKGIRGATVYTVSEKASD 284
+                 699*********************************9998888899***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a a++la+ en  d l g+  +ee+ e+ dil+dl +reth+fs+ fa ++v  ls   + linnphr+a f+vlkapdvpsvl+e+gylsn +de+ l
+   084740632 285 AEAQALADRENLSDQLAGIEiEEENHEVADILVDLIKRETHSFSMRFARSLVGELST-TVGLINNPHRFAGFRVLKAPDVPSVLLELGYLSNSKDEEQL 382
+                 ******************98366789*****************************96.59*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  + +wr + aasi+ +i
+   084740632 383 KSSEWRGKAAASISKAI 399
+                 *************9876 PP
+
+>> 086908882  58945328771266 93369
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  253.7   0.6   7.9e-76   4.1e-72       1     214 [.     185     398 ..     185     400 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 253.7 bits;  conditional E-value: 7.9e-76
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +v+dpghggidgga+g+ g +ek +tlaf+r lr+ l       v ltrd d flrl erv+ a++ +adlfisihadti +  +rgatvyt+sd+asd
+   086908882 185 IVIDPGHGGIDGGAEGLHGTVEKSITLAFSRQLRERLVGEGKYDVYLTRDKDEFLRLDERVRIARQHEADLFISIHADTIRLKGIRGATVYTVSDKASD 283
+                 699*********************************9876666789***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a a++la+ en  d l g+  +ee+ e+ dil++l rreth fs+ fa+++v  ls + + linnphr a f+vlkapdvpsvlie+gylsn ede+ l
+   086908882 284 AEAQALADRENLSDKLAGIEiEEENHEVADILIELIRRETHNFSLKFAHSLVGELSDT-VGLINNPHRSAGFRVLKAPDVPSVLIELGYLSNPEDEEQL 381
+                 ******************98366789*****************************975.9*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +p wr + a sia ++
+   086908882 382 RDPDWRGKAAESIARAV 398
+                 *************9765 PP
+
+>> 084593212  58945328771266 1295366
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  251.9   0.4   2.8e-75   1.4e-71       1     213 [.     182     394 ..     182     397 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 251.9 bits;  conditional E-value: 2.8e-75
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+dpghggidgga+g  g +ek +tlafa  lr +l  + +  v +trd d flrl +rv+ a++ +adlfisihadti +  +rgatvyt+s++asd
+   084593212 182 VVIDPGHGGIDGGAEGQNGTVEKSITLAFALELRAKLATAGNYDVYMTRDKDEFLRLDDRVRIARQHEADLFISIHADTIRLKGIRGATVYTVSEKASD 280
+                 79************************************9999999****************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a a++la+ en  d l g+  ++e+ e+ dil+dl rreth fs+ fa +vv  ls + + linnphr+a f+vlkapdvpsvlie+gylsn ede+ l
+   084593212 281 ADAQALADRENLSDKLGGIEiEDENHEVADILVDLIRRETHGFSMKFAQSVVGELSNT-VGLINNPHRFAGFRVLKAPDVPSVLIELGYLSNPEDEEQL 378
+                 *******************8356899*****************************975.9*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiays 213
+                  +p wr + a si+ +
+   084593212 379 RDPDWRGKAADSISKA 394
+                 *********9999866 PP
+
+>> 084005155  58945328771266 2742145
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  251.6   0.1   3.4e-75   1.7e-71       1     214 [.     172     385 ..     172     387 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 251.6 bits;  conditional E-value: 3.4e-75
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +vldpghggid+ga+gv+g  ekdvtlafa+ lrd l +     v +trdsd+f+ ls+r + a++  adlfisihad +  h +rgatvytis++asd
+   084005155 172 IVLDPGHGGIDNGANGVSGTREKDVTLAFAQTLRDVLSRYDGAQVFMTRDSDVFVSLSDRTQFARQHQADLFISIHADYLRQHGVRGATVYTISEKASD 270
+                 69************************************************************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldgl..pkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekl 196
+                  +a s+a +en  d + g+  p++e   ++dil+dl rret  fs+ fa   +s++ k    li nphrya f+vlkapdvpsvlie+gylsn edekl
+   084005155 271 EVAASVAANENLADSVAGIelPEDE-NGVSDILVDLARRETLGFSVQFARLAISDM-KGFARLIKNPHRYAGFRVLKAPDVPSVLIELGYLSNPEDEKL 367
+                 *****************97215444.579*************************97.8999************************************** PP
+
+  EMBOSS_001 197 lnnpqwrkqmaasiaysi 214
+                 +n p+wr+ ma  +a +i
+   084005155 368 MNEPEWRRGMAERLAEAI 385
+                 ***********9999877 PP
+
+>> 086897943  58945328771266 1851146
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  250.5   0.6   7.3e-75   3.8e-71       1     214 [.     188     401 ..     188     403 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 250.5 bits;  conditional E-value: 7.3e-75
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +v+dpghggidgga+g+ g +ek +tlafa  lr +l ++ +  v +tr+ d flrl erv+ a++ +adlfisihadti +  +rgatvyt+sd asd
+   086897943 188 IVIDPGHGGIDGGAEGLNGTVEKSITLAFALELRAKLGESGNYDVYMTREKDDFLRLDERVRIARQHEADLFISIHADTIRLKGIRGATVYTVSDRASD 286
+                 699**********************************999999999***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a a++la+ en  d l g+  ++e+ e+ dil++l +reth fs+nfa +++s ls   i linnphrya f+vl+apdvpsvl+e+gylsn ede+ l
+   086897943 287 AEAQALADRENLSDQLAGIKiEDENQEVADILIELIKRETHGFSMNFARSLLSELSD-TIGLINNPHRYAGFRVLRAPDVPSVLLELGYLSNPEDEEQL 384
+                 ******************98356899*****************************97.59*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +  wr + a sia ++
+   086897943 385 RDANWRGKAAQSIADAV 401
+                 ************99765 PP
+
+>> 084053642  58945328771266 2599600
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  249.4   0.3   1.6e-74   8.3e-71       1     212 [.     170     381 ..     170     384 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 249.4 bits;  conditional E-value: 1.6e-74
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelq.kgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeas 98 
+                 vv+dpghggidgga+g  g +ek++tl+far lr  l+ kg +  v +trd d+flrl erv+ a++ +adlfis+hadti  +s+rgatvytis++as
+   084053642 170 VVIDPGHGGIDGGAEGANGTVEKELTLSFARELRKALEaKGGYE-VIMTRDEDVFLRLDERVRIARQHEADLFISVHADTIRYRSIRGATVYTISEKAS 267
+                 79***********************************8466666.569*************************************************** PP
+
+  EMBOSS_001  99 daiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekl 196
+                 d +a++ ae en+ d l g+   ee+ e+  il dl rreth fs++fa ++vs +s++ i li nphr a f+vl+apdvpsvl+e+gylsn ede l
+   084053642 268 DEVARAAAERENESDSLAGVEvAEENREVAGILADLVRRETHGFSVSFARSLVSEFSET-IELIKNPHRSAGFRVLRAPDVPSVLVELGYLSNPEDEAL 365
+                 *******************9736999******************************986.9************************************** PP
+
+  EMBOSS_001 197 lnnpqwrkqmaasiay 212
+                 + +  wrk+   si  
+   084053642 366 MLDGDWRKKAVTSIVE 381
+                 *********9999875 PP
+
+>> 084026692  58945328771266 1982044
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  249.9   0.1   1.2e-74     6e-71       1     213 [.     183     395 ..     183     398 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 249.9 bits;  conditional E-value: 1.2e-74
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+dpghggidgga+g+ g  ek +tlaf   lr +lq+  +  v +trdsd flrl erv+  ++ +adlfisihadti  h +rgatvyt+s++asd
+   084026692 183 VVIDPGHGGIDGGAQGLHGTQEKTITLAFGLELRKKLQETGRFNVVMTRDSDQFLRLDERVQIGRQSEADLFISIHADTIRYHYIRGATVYTLSEKASD 281
+                 79*************************************999999****************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                  ia  +aesen  d + g+   ees e+ dil+dl rret+ fs+ fa  +v  ls+ ++ li nphrya f+vl a d+psvl+eigylsn +dekl+
+   084026692 282 DIAADVAESENLSDSIAGIElPEESTEVADILMDLVRRETQTFSVRFARTLVGELSE-QVELIKNPHRYAGFRVLTAQDMPSVLVEIGYLSNSKDEKLM 379
+                 ******************863589*******************************97.69*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiays 213
+                  +p wr++ a si  +
+   084026692 380 RDPAWREKAAQSIVSA 395
+                 **********999765 PP
+
+>> 085556917  58945328771266 1884373
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  249.2   0.4   1.9e-74   9.9e-71       1     214 [.     185     398 ..     185     400 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 249.2 bits;  conditional E-value: 1.9e-74
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+dpghggid+ga+gv+g  ek +tlafa  lr +l ++    + +trd d flrl erv+ a++ +adlfisihadti +  +rgatvyt+sd+asd
+   085556917 185 VVIDPGHGGIDSGAEGVSGTQEKSITLAFALELRAKLAESGKYDIYMTRDKDEFLRLDERVRIARQHEADLFISIHADTIRLKGIRGATVYTVSDKASD 283
+                 79***********************************988888889***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a +++la+ en  d l g+  k+e+ e+ dil++l +reth fs+ fa ++v  l  s + linnphr+a f+vlkapdvpsvl+e+gylsn +de+ l
+   085556917 284 AESQALADRENLSDQLAGIEiKDENQEVADILIELIKRETHGFSMKFAKSLVGELGNS-VGLINNPHRFAGFRVLKAPDVPSVLVELGYLSNPKDEEQL 381
+                 ******************96599********************************976.9*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  np wr + a si+ ++
+   085556917 382 RNPDWRGKAAESISNAV 398
+                 **********9998765 PP
+
+>> 080755015  206194748979988 2233777
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  248.5   0.4   3.1e-74   1.6e-70       1     211 [.     212     422 ..     212     427 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 248.5 bits;  conditional E-value: 3.1e-74
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +vldpghg +d+ga gv ++ ek vtlafa+al   lq  +     ltr++d flrl erv+ka+ ++adlfisihad id  sl+gat+yt+sd+asd
+   080755015 212 IVLDPGHGDFDSGAIGVNNVREKQVTLAFAQALYRVLQTKAGIKPYLTRETDSFLRLGERVEKARRLNADLFISIHADHIDTPSLQGATIYTLSDKASD 310
+                 69*************************************999999****************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                  +ak lae enk dlldglp +e   + dilld+ rret+ fs +fa   v+ l  s+i li nphr+a fqvlk  d+psvlie+gylsn edek + 
+   080755015 311 DMAKLLAEHENKADLLDGLPADEPPAVADILLDMARRETRLFSEDFARMTVAALKDSRIALIKNPHRFASFQVLKTVDIPSVLIELGYLSNPEDEKRIA 409
+                 *************************************************************************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasia 211
+                 +p w+ +ma  +a
+   080755015 410 DPLWQDKMAHILA 422
+                 ********98766 PP
+
+>> 084200252  58945328771266 2735891
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  247.7   0.7   5.3e-74   2.7e-70       1     214 [.     177     390 ..     177     392 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 247.7 bits;  conditional E-value: 5.3e-74
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +vldpghggidgga+g+ g +ek vtlafa+ l+ +l  +    v ltr+ d flrl +rv+ a++ +adlfisihadti +  +rgatvyt+sd+asd
+   084200252 177 IVLDPGHGGIDGGAEGLNGTVEKSVTLAFAKELKAKLAANGSYKVVLTREDDDFLRLDDRVRIARQAEADLFISIHADTIRLKGIRGATVYTVSDKASD 275
+                 69**********************************98655556779**************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a a++la+ en  d l g+   ee+ e++dil+dl rreth fs  fa ++v  ls + + +innphr a f+vlkapdvpsvl+e+gylsn ede+ l
+   084200252 276 ADAQALADRENLSDQLAGVDvAEENHEVSDILVDLIRRETHGFSTRFARSLVGELSPT-VGMINNPHRSAGFRVLKAPDVPSVLVELGYLSNPEDEEQL 373
+                 ******************9736999******************************975.9*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +  wr++ a si+ ++
+   084200252 374 RSADWREKAATSISKAV 390
+                 ************98765 PP
+
+>> 080751211  206194748979988 2079008
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  247.1   1.2   7.9e-74   4.1e-70       1     215 [.     177     392 ..     177     393 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 247.1 bits;  conditional E-value: 7.9e-74
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+d ghg +d+ga gv+gilek+vtlafa+ lrd lq+  +    ltrd+d+flrl+er+  a+ ++adlfisihad i+v slrg tvyt+s+++sd
+   080751211 177 VVIDAGHGDFDSGAIGVSGILEKEVTLAFAKVLRDLLQREPNIHALLTRDNDMFLRLNERIMIARHYEADLFISIHADHINVDSLRGVTVYTLSEKSSD 275
+                 799**************************************99999***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenk.vdll.dglpkeesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekl 196
+                  + + lae enk   ll d     +  e+tdil+dl  ret+afsi++a  ++ +l k +++li nphrya f+vl+ pd+ps+lie+gylsn edek 
+   080751211 276 TL-EELAEYENKkAALLkDFSSISDFSEITDILIDLAMRETQAFSIDLATRIIDSLKKGNVHLIKNPHRYAGFRVLQNPDIPSILIELGYLSNAEDEKK 373
+                 98.579**9997245662555667889************************************************************************ PP
+
+  EMBOSS_001 197 lnnpqwrkqmaasiaysir 215
+                 +++pqw+k++a  ia sir
+   080751211 374 ISDPQWQKKIAVLIAESIR 392
+                 *****************98 PP
+
+>> 084698388  58945328771266 1736557
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  246.2   0.5   1.6e-73   8.2e-70       1     214 [.     183     396 ..     183     398 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 246.2 bits;  conditional E-value: 1.6e-73
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+d ghggidgga+g +g +ekdvtlafa+ lrd+l       v +trd d flrl +rv+ a++ +adlfisihadti++  +rgatvyt+sd+asd
+   084698388 183 VVVDAGHGGIDGGAEGSSGTVEKDVTLAFAKELRDKLLSVGKYEVFMTRDKDEFLRLDDRVRIARQHEADLFISIHADTINLKGIRGATVYTVSDKASD 281
+                 799*********************************9887777889***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                   a++la+ en  d + g+  k +  ++tdil+dl rreth+fs++fa+ +v  ls   + linnphr a f+vlkapdvpsvl+e+gylsn +de  l
+   084698388 282 PEAQALADRENLSDQFAGMEiKADDPQVTDILIDLIRRETHSFSMSFAHTLVGKLST-TVGLINNPHRSAGFRVLKAPDVPSVLVELGYLSNAKDEAQL 379
+                 ******************97588999*****************************96.69*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +p wr + a sia ++
+   084698388 380 IDPDWRGKAADSIAGAV 396
+                 ************99765 PP
+
+>> 086867149  58945328771266 935263
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  245.5   0.6   2.5e-73   1.3e-69       1     214 [.     196     409 ..     196     411 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 245.5 bits;  conditional E-value: 2.5e-73
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vvld ghggid ga+g tg lek +tlafa  lr +l++     v +trd+d flrl erv+ a+e +adlfisihad i  +s+rgatvyt+sd+asd
+   086867149 196 VVLDAGHGGIDVGAEGSTGTLEKTITLAFALELRQKLEQTGKFNVVMTRDTDKFLRLDERVRIAREHEADLFISIHADAIRYRSVRGATVYTVSDKASD 294
+                 79***********************************998888899***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesl.eltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a a   a  en  d l g+  ee   ++ dil+dl rreth+fs+ fa+ ++  ls   i +innphrya f+vl+apdvpsvl+e+gylsn edekll
+   086867149 295 AEAAMTAARENLSDKLAGIEVEEQKdDVADILIDLIRRETHSFSMRFADTLLGELSD-TIKMINNPHRYAGFRVLRAPDVPSVLLEMGYLSNAEDEKLL 392
+                 *******************987765279***************************97.59*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  + +wr + a si  +i
+   086867149 393 RSAEWRGKAADSIVAAI 409
+                 *********99998766 PP
+
+>> 086657245  58945328771266 335020
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  245.3   0.4     3e-73   1.5e-69       1     213 [.     142     354 ..     142     357 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 245.3 bits;  conditional E-value: 3e-73
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +v+dpghggidgga+gv g +ek +tlafa  l+ +l +     v ltr+ d flrl erv+ a++ +adlfisihadti +  +rgatvyt+sd+asd
+   086657245 142 IVIDPGHGGIDGGAEGVNGTVEKSITLAFALELKKKLAETGPYDVFLTREKDDFLRLDERVRIARQHEADLFISIHADTIRLKGIRGATVYTVSDKASD 240
+                 699**********************************998888899***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a a +la  en  d l g+  +ee+ e+ dil+dl rreth fs+ fa ++v  ls + + linnphr a f+vlkapdvpsvl+e+gylsn +de  l
+   086657245 241 AEAAALAARENLSDQLAGIEiQEENHEVADILVDLIRRETHNFSMRFARSLVGELSDA-VELINNPHRSAGFRVLKAPDVPSVLVELGYLSNPKDEAQL 338
+                 ******************9747899******************************975.9*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiays 213
+                  +p wr + aa i+ +
+   086657245 339 RDPDWRGKAAARISAA 354
+                 **********999765 PP
+
+>> 084667310  58945328771266 1670800
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  244.4   0.4   5.7e-73   2.9e-69       1     214 [.     187     400 ..     187     402 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 244.4 bits;  conditional E-value: 5.7e-73
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+dpghggidgga++v g  ek++tl f++ l+++l+++ +  v ltrd d flrl erv  a++ +adlfisihadti+++++ gatvytis++asd
+   084667310 187 VVIDPGHGGIDGGAKAVDGTAEKEITLTFSKVLQEQLEQSGRYNVFLTRDDDTFLRLDERVGIARQHEADLFISIHADTINIRNISGATVYTISEKASD 285
+                 79***********************************99999999****************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 ++ak+ ae en  d + g+   ee+ ++ dil+dl rreth fs++fa ++v  ls   i linnp+r a f+vl+apdvpsvl+e+gylsn +d   l
+   084667310 286 SLAKAAAERENLADSVAGIEiAEENQQVADILFDLVRRETHGFSVSFARSLVGELSD-TIELINNPQRSAGFRVLRAPDVPSVLVELGYLSNPKDVAKL 383
+                 ******************97469999*****************************97.59*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +p+wr + a si  +i
+   084667310 384 EDPEWRAKAAGSIGAAI 400
+                 ***********998665 PP
+
+>> 085748846  58945328771266 2495581
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  244.7   0.4   4.4e-73   2.3e-69       1     214 [.     190     403 ..     190     405 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 244.7 bits;  conditional E-value: 4.4e-73
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +v+dpghggidgga+g+ gi ekd+tl+f+r l d l+   +  v +trd d+flrl erv+ a++ dadlf+sihadti++ s+rga+vytis++asd
+   085748846 190 IVIDPGHGGIDGGAKGLGGIAEKDLTLSFSRDLLDRLKATGRFNVFMTRDDDVFLRLDERVRIARQHDADLFVSIHADTINLPSIRGASVYTISEKASD 288
+                 699***********************************999999******************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                  +a++ ae en+ d + g+   +e+ ++ dil+dl rreth fs+ fa ++v  l ks i linnp+r a f+vl+apdvpsvl+e+gylsn  d   l
+   085748846 289 EVARAAAERENRSDSVAGIEiTDENPQVADILFDLIRRETHGFSVKFARSLVEQLGKS-IELINNPQRAAGFRVLRAPDVPSVLVELGYLSNASDAARL 386
+                 ******************9746899*******************************98.9*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +p wr +  +s+  +i
+   085748846 387 QDPVWRDKAVSSMLEAI 403
+                 ******99988876665 PP
+
+>> 086568548  58945328771266 2589960
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  243.7   0.5   9.3e-73   4.8e-69       1     213 [.     193     405 ..     193     408 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 243.7 bits;  conditional E-value: 9.3e-73
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+dpghggidgga+g+ g +ek+vtlafa  lrd+l       v +trd+d +lrl +rv+ a++ +adl+isihadti v  +rgatvyt+sd+asd
+   086568548 193 VVIDPGHGGIDGGAEGLNGTIEKNVTLAFATELRDKLAAIGKYDVFMTRDTDEYLRLDDRVRIARQHEADLLISIHADTISVKGIRGATVYTVSDKASD 291
+                 79***********************************997778899***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                   a++la+ en  d + g+  k+++ e+tdil+dl rreth fs++fa+ +v  ls s + linnp+r a f+vlkapdvpsvl+e+gylsn +de  l
+   086568548 292 PQAQALADRENLSDQFAGMViKDDNKEVTDILIDLIRRETHTFSMSFAHTLVGELSTS-VGLINNPQRSAGFKVLKAPDVPSVLVELGYLSNAKDEAQL 389
+                 ****************99754999*******************************976.9*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiays 213
+                  n +wr + a si  +
+   086568548 390 LNAEWRGKAAQSITNA 405
+                 *********9999765 PP
+
+>> 086862874  58945328771266 765698
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  243.5   0.6     1e-72   5.4e-69       1     213 [.     193     405 ..     193     408 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 243.5 bits;  conditional E-value: 1e-72
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+dpghggidgga+g+ g +ek+vtlafa  lrd+l    +  v +trd+d flrl +rv+ a++ +adl+isihadti v  +rgatvyt+sd+asd
+   086862874 193 VVIDPGHGGIDGGAEGLNGTIEKNVTLAFATELRDKLAAVGNYDVFMTRDTDEFLRLDDRVRIARQHEADLLISIHADTISVKGIRGATVYTVSDKASD 291
+                 79***********************************998888999***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                   a++la+ en  d + g+  k ++ e+tdil+dl rreth fs++fa+ +v  ls s + linnp+r a f+vlkapdvpsvl+e+gylsn +de  l
+   086862874 292 PEAQALADRENLSDQFAGMEiKNDNKEVTDILIDLIRRETHNFSMSFAHTLVGQLSTS-VGLINNPQRSAGFKVLKAPDVPSVLVELGYLSNAKDEAQL 389
+                 ******************975899*******************************976.9*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiays 213
+                  n  wr + a si  +
+   086862874 390 LNADWRGKAAQSITNA 405
+                 *********9999765 PP
+
+>> 084036516  58945328771266 1231190
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  243.0   0.3   1.4e-72   7.4e-69       1     211 [.     171     381 ..     171     386 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 243.0 bits;  conditional E-value: 1.4e-72
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vvld ghgg dggarg+ g +ek +tl fa  l+ +l++  +  v ltrd+d flrl +rv+ a+e dadlfisihad i ++++rgatvyt+sd+asd
+   084036516 171 VVLDAGHGGADGGARGINGTVEKTITLLFALELKKKLEETERYKVVLTRDADRFLRLDQRVRIAREHDADLFISIHADAIGLRNMRGATVYTVSDKASD 269
+                 79************************************************************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkee.sleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a a + a  en  d + g+  ee   e+ dil++l rrethafsi fa n+v  ls + ++++nnphrya f+vl+apd+psvl+e+gylsn++de  l
+   084036516 270 AEAAATAARENLSDEIAGMVVEErKDEVEDILVELIRRETHAFSIRFARNLVGELSHT-LHMVNNPHRYAGFRVLRAPDIPSVLLELGYLSNEKDEAQL 367
+                 ******************98777256899**************************975.89************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasia 211
+                  +p wr +   +i 
+   084036516 368 RDPAWRSKTMDAIV 381
+                 ******87665554 PP
+
+>> 084596043  58945328771266 1297569
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  242.7   0.6   1.8e-72   9.4e-69       1     214 [.     193     406 ..     193     408 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 242.7 bits;  conditional E-value: 1.8e-72
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+dpghggidgga+g+ g +ek+vtlafa+ lrd+l       v +tr+sd flrl +rv+ a++ +adl+isihadti +  +rgatvyt+sd+asd
+   084596043 193 VVIDPGHGGIDGGAEGLNGTIEKNVTLAFANELRDKLAAVGKYDVFMTRESDQFLRLDDRVRIARQHEADLLISIHADTISLKGIRGATVYTVSDKASD 291
+                 79***********************************998888899***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                   a++la+ en  d + g+  k ++ e+tdil+dl rreth+fs++fa+ +v  ls   + linnp+r a f+vlkapdvpsvl+e+gylsn +de  l
+   084596043 292 PEAQALADRENLSDQFAGMEiKNDNKEVTDILIDLIRRETHSFSMSFAHTLVGQLSS-SVGLINNPQRSAGFKVLKAPDVPSVLVELGYLSNAKDEAQL 389
+                 ******************975899*******************************96.59*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +  wr + a sia ++
+   084596043 390 LSADWRGKAAQSIANAV 406
+                 *************9775 PP
+
+>> 084018435  58945328771266 1852022
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  242.0   0.2     3e-72   1.6e-68       1     214 [.     247     460 ..     247     462 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 242.0 bits;  conditional E-value: 3e-72
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +vld ghggid+ga gv g  ekdv l far +r el++     v +tr+ dif+ l erv+ a++  adlf+s+had++    +rgatvytisd asd
+   084018435 247 IVLDAGHGGIDSGAVGVGGTREKDVVLKFARQMRAELEEVPGVRVVMTREDDIFIPLDERVRFARQHSADLFVSLHADSVRQSYVRGATVYTISDRASD 345
+                 69************************************************************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpke.esleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 ++a  +aesen  d + g+ +e e   +tdil+dl r+et  fs+ fa   vs++s++   +innphr+a f+vl+apdvpsvl+e+gylsn+edekll
+   084018435 346 SVAAEIAESENLSDSIAGIVREdERSPVTDILVDLARQETLGFSVQFARLAVSHISRTS-RIINNPHRFAGFRVLRAPDVPSVLVELGYLSNREDEKLL 443
+                 ******************9987255789****************************985.89************************************* PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                 n p+wr  +a  +a ++
+   084018435 444 NRPEWRAALAEELAAAV 460
+                 *********99998776 PP
+
+>> 088830385  58945328771266 1736355
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  241.3   0.6   4.9e-72   2.5e-68       2     215 ..     166     380 ..     165     381 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 241.3 bits;  conditional E-value: 4.9e-72
+  EMBOSS_001   2 vldpghggidggargv.tgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                  +d ghggid ga gv t + ek vtlafar l + l +       ltrd d fl lserv  a++  a lfis+hadt+  h +rgatvytisd+asd
+   088830385 166 AVDAGHGGIDTGAVGVdTKMEEKAVTLAFARELAETLNREPGIRAVLTRDDDEFLSLSERVLIARQKQAKLFISLHADTLKQHDIRGATVYTISDKASD 264
+                 689************955677899***************9999999***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpk.eesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                  +a slae en  d l g+p  +e  e+ dil+dltrret+afs+n+a ++++++ + +inlinnphr+a fqvl+a dvps+l+e+g++snkedekll
+   088830385 265 HLAASLAERENLSDQLAGVPLaDEPAEVADILIDLTRRETQAFSVNLARSIITSF-EGQINLINNPHRFAGFQVLRAADVPSILLELGFMSNKEDEKLL 362
+                 ********************63789***************************997.689**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysir 215
+                  +p wrk+++  ia ++r
+   088830385 363 VDPAWRKKVSERIAAAVR 380
+                 *************99998 PP
+
+>> 084690015  58945328771266 1736481
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  240.9   0.5   6.4e-72   3.3e-68       1     213 [.     193     405 ..     193     408 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 240.9 bits;  conditional E-value: 6.4e-72
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+dpghgg+dgga+g+ g +ek+vtlafa  lrd+l       v +trd+d +lrl +rv+ a++ +adl+isihadti v  +rgatvyt+sd+asd
+   084690015 193 VVIDPGHGGVDGGAEGLNGTIEKNVTLAFATELRDKLAAIGKYDVFMTRDTDEYLRLDDRVRIARQHEADLLISIHADTISVKGIRGATVYTVSDKASD 291
+                 79***********************************997778899***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                   a++la+ en  d + g+  k+++ e+tdil+dl rreth fs++fa+ +v  ls s + linnp+r a f+vlkapdvpsvl+e+gylsn +de  l
+   084690015 292 PEAQALADRENLSDQFAGMViKDDNKEVTDILIDLIRRETHTFSMSFAHTLVGQLSTS-VGLINNPQRSAGFKVLKAPDVPSVLVELGYLSNAKDEAQL 389
+                 ****************99754999*******************************976.9*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiays 213
+                  + +wr + a si  +
+   084690015 390 LDAEWRGKAAQSITNA 405
+                 *********9999765 PP
+
+>> 084495036  58945328771266 1287292
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  239.7   0.6   1.5e-71     8e-68       1     212 [.     193     404 ..     193     407 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 239.7 bits;  conditional E-value: 1.5e-71
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+dpghggidgga+g+ g +ek+vtlafa  lrd+l  +    v ltr++d flrl +rv+ a++ +adl+isihadti +  +rgatvyt+sd+asd
+   084495036 193 VVVDPGHGGIDGGAEGLNGTVEKNVTLAFAMELRDKLTASGKYDVFLTRETDEFLRLDDRVRIARQHEADLLISIHADTISLKGIRGATVYTVSDKASD 291
+                 799**********************************999889999***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                   a++la+ en  d + g+  k++s e+tdil+dl rreth fs++fa+ +v  ls s + linnp+r a f+vlkapdvpsvl+e+gylsn +de  l
+   084495036 292 PEAQALADRENLSDQFAGMEiKDDSKEVTDILIDLIRRETHNFSMSFAHTLVGQLSTS-VGLINNPQRSAGFKVLKAPDVPSVLVELGYLSNAKDEAQL 389
+                 ******************965999*******************************976.9*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiay 212
+                  +  wr +   si  
+   084495036 390 LSADWRNKATQSITN 404
+                 *******99998875 PP
+
+>> 084251448  58945328771266 1082933
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  239.1   0.7   2.4e-71   1.2e-67       1     213 [.     192     404 ..     192     407 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 239.1 bits;  conditional E-value: 2.4e-71
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+dpghggidgga+g+ g +ek+vtlafa  lr+ l       v +trd d flrl +rv+ a++ +adl+isihadti v  +rgatvyt+sd+asd
+   084251448 192 VVIDPGHGGIDGGAEGLHGTIEKNVTLAFATELRERLAAVGSYDVFMTRDKDEFLRLDDRVRIARQHEADLLISIHADTISVKGIRGATVYTVSDKASD 290
+                 79***********************************8755556789**************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                   a++la+ en  d + g+  k+++ e+tdil+dl rreth fs++fa+ +v  ls s + linnp+r a f+vlkapdvpsvl+e+gylsn +de  l
+   084251448 291 PEAQALADRENLSDQFAGMEiKDDNKEVTDILIDLIRRETHNFSMSFAHTLVGQLSTS-VGLINNPQRSAGFKVLKAPDVPSVLVELGYLSNAKDEAQL 388
+                 ******************965999*******************************976.9*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiays 213
+                  +  wr + a si  +
+   084251448 389 LDADWRSKAAQSITNA 404
+                 **********999765 PP
+
+>> 085570323  58945328771266 2014805
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  238.4   0.4   3.7e-71   1.9e-67       1     214 [.     198     411 ..     198     413 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 238.4 bits;  conditional E-value: 3.7e-71
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+dpghggidgga+g+ g +ek+vtlafa  lr+ l       v +tr++d flrl +rv+ a++ +adl+isihadti v  lrgatvyt+sd+asd
+   085570323 198 VVIDPGHGGIDGGAEGLNGTVEKNVTLAFATELRERLAAVGKYDVFMTRETDQFLRLDDRVRIARQHEADLLISIHADTIRVKGLRGATVYTVSDKASD 296
+                 79***********************************998888899***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                   a++la+ en  d + g+  k+++ e+tdil+dl rreth+fs++fa  +v  ls s + linnp+r a f+vlkapdvpsvl+e+gylsn +de  l
+   085570323 297 PEAQALADRENLSDQFAGMEiKDDNKEVTDILIDLIRRETHSFSMSFAQTLVGQLSTS-VGLINNPQRSASFKVLKAPDVPSVLVELGYLSNAKDEAQL 394
+                 ******************965999*******************************976.9*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +  wr + a si  +i
+   085570323 395 LSADWRGKAAQSITNAI 411
+                 **********9998765 PP
+
+>> 085661410  58945328771266 2294114
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  238.6   0.5   3.3e-71   1.7e-67       1     214 [.     176     389 ..     176     391 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 238.6 bits;  conditional E-value: 3.3e-71
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vvldpghgg+dgga+gv+g  ekd+tlafa+ l+  l    +  v +trdsd flrl +rvk aq+  adlfisihadti    lrgatvyt s+ asd
+   085661410 176 VVLDPGHGGFDGGAEGVSGTNEKDITLAFAQELKARLASEPNFKVVMTRDSDEFLRLDDRVKVAQDNAADLFISIHADTIRFKGLRGATVYTGSERASD 274
+                 79************************************************************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a +++la+ en  d + g    ees e+ dil+d+ rret+ +s++ a ++v  l ks + +innphr+a f+vl+apdvpsvlie+gylsn ede  l
+   085661410 275 AESQALADRENLADQIGGAAsAEESHEVADILFDFVRRETEDYSVHVAKDLVGELGKS-VGVINNPHRHARFRVLRAPDVPSVLIELGYLSNAEDESSL 372
+                 ****************99752699********************************98.9*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +p wr +   sia ++
+   085661410 373 RDPLWRAKAVNSIAAAV 389
+                 ********999999876 PP
+
+>> 084261694  58945328771266 1107882
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  238.2   0.3   4.5e-71   2.3e-67       1     214 [.     193     406 ..     193     408 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 238.2 bits;  conditional E-value: 4.5e-71
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +v+dpghggidgga+g +g  ek +tlafa  l+ +l       v +tr+ d flrl erv+ a++ +adlfisihadti +  +rgatvyt+sd+asd
+   084261694 193 IVIDPGHGGIDGGAKGGSGTEEKTITLAFALELKAKLASTGKYEVHVTREKDEFLRLDERVRIARQHEADLFISIHADTIRLKGIRGATVYTVSDKASD 291
+                 699**********************************998888899***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpke.esleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                   a++la  en  d l g+  e e  e+ dil+dl rreth fsi fa +++  ls + + linnphr+a f+vlkapdvpsvl+e+gy+sn +de  l
+   084261694 292 EEAEALAIRENLSDQLAGMEIEgEKQEVADILVDLIRRETHNFSIRFARSLIGELSNT-VGLINNPHRFAGFKVLKAPDVPSVLVELGYMSNPKDEAQL 389
+                 *******************9765889*****************************975.9*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +p wr + a si+ +i
+   084261694 390 RDPDWRGKAATSISNAI 406
+                 ************98776 PP
+
+>> 080980137  58945328771266 1876515
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  237.1   0.6   9.3e-71   4.8e-67       1     215 [.     208     422 ..     208     423 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 237.1 bits;  conditional E-value: 9.3e-71
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+d ghggid garg  g  ekd+tlafar l+ +++k     v ltrd d f+ ls+rv+  ++  adlf+s+had++    +rgatvytis +asd
+   080980137 208 VVVDAGHGGIDIGARGRNGAKEKDITLAFARQLKKQIEKIDGVRVILTRDDDSFVSLSQRVRIGRQAGADLFVSVHADSVRQAYVRGATVYTISKKASD 306
+                 799************************************************************************************************ PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a+a  la+sen  d + gl   ee  e+tdilldltrret  fs+ fa  vv ++ +  + +i  phr+a f+vl apdvps+lie+gylsnk dekll
+   080980137 307 AMAAELADSENAADAVAGLDlPEEDEEVTDILLDLTRRETKGFSLRFARKVVDSMEEV-LVMIKRPHRHAGFRVLTAPDVPSILIELGYLSNKNDEKLL 404
+                 ******************96347788***************************99875.6699************************************ PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysir 215
+                  +  wr++ aa+ia +++
+   080980137 405 QDEDWRRKAAAAIAAAVK 422
+                 *************99886 PP
+
+>> 088875201  58945328771266 1736429
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  236.1   0.5   1.9e-70   9.7e-67       1     211 [.     176     387 ..     176     392 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 236.1 bits;  conditional E-value: 1.9e-70
+  EMBOSS_001   1 vvldpghggidggargv.tgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeas 98 
+                 v +d ghggid ga g  t  +ekdvtlafar l d l + +     ltrd d fl l +rv+ a+   a+lfis+hadt+  + +rgatvytisd+as
+   088875201 176 VAVDAGHGGIDTGAIGTeTKTVEKDVTLAFARDLVDHLNRRAGIKAFLTRDGDEFLSLPQRVQIARRQSANLFISLHADTLKQRDIRGATVYTISDKAS 274
+                 5789***********975899*********************9999***************************************************** PP
+
+  EMBOSS_001  99 daiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekl 196
+                 d +a slae en  d + g+    e  e+ dilldltrret+afs+n+a  +vs++ + +inlinnphrya f+vl+apdvps+l+e+g+lsnkedekl
+   088875201 275 DHLAASLAERENLSDTIAGVAlSNEPAEVADILLDLTRRETQAFSVNLAQTIVSSF-EGQINLINNPHRYAGFRVLQAPDVPSILLELGFLSNKEDEKL 372
+                 *******************97357999***************************97.589*************************************** PP
+
+  EMBOSS_001 197 lnnpqwrkqmaasia 211
+                 l +p wr +++  +a
+   088875201 373 LVDPAWRAKLSELLA 387
+                 *******99987776 PP
+
+>> 086787387  58945328771266 536018
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  236.3   0.1   1.7e-70   8.8e-67       1     212 [.     177     388 ..     177     391 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 236.3 bits;  conditional E-value: 1.7e-70
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 + ld ghggidgga g+tg +ekd+tlafa  l+ +l++  +  + +tr+ d flrl erv+ a++  adlfisihadti  + ++gatvyt+sd asd
+   086787387 177 IALDAGHGGIDGGAAGLTGTVEKDITLAFAMELKQKLEQEGRYSIVMTREKDEFLRLDERVRIARQAAADLFISIHADTIRAQGVNGATVYTVSDRASD 275
+                 579**********************************7766666679**************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                   a++lae en  d + g+   +e+ ++ dil dl rreth+fs+ fa  +v  ls ++i +i nphr a f+vl+apdvpsvl+e+gyls+  de  l
+   086787387 276 EDARALAERENLADQVAGIAvSDENRDVADILTDLVRRETHSFSLRFARTLVGELS-TQIEMIKNPHRSAGFRVLRAPDVPSVLVELGYLSDAGDEMRL 373
+                 ******************9736899******************************8.58**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiay 212
+                  +p+wrk+   si  
+   086787387 374 KDPEWRKKAIGSICG 388
+                 ********9999875 PP
+
+>> 089060781  58945328771266 1907412
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  235.8   0.3   2.4e-70   1.3e-66       2     215 ..     188     402 ..     187     403 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 235.8 bits;  conditional E-value: 2.4e-70
+  EMBOSS_001   2 vldpghggidggargvt.gilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                  +dpghggid+ga g t +  ekdvtlafar l   l k     v ltrd d fl ls+rv+ a+   a lfis+hadt+    +rgatvytisd+asd
+   089060781 188 AIDPGHGGIDAGASGATtNTPEKDVTLAFARELAGILGKQDGVRVILTRDKDEFLSLSQRVQLARNGGAKLFISLHADTLKQKDIRGATVYTISDKASD 286
+                 79************9752789****************************************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkees.leltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                  +a slae en  d + g+p ++   e+ dil+dltrret+ fs+n+a +vvs++ + +i linnphr+a f+vl+apdvpsvl+e+g+lsn edek l
+   089060781 287 HLAASLAERENLSDEIAGVPLDDGpAEVADILIDLTRRETQVFSVNLARSVVSSF-EGQIALINNPHRHAGFRVLQAPDVPSVLLELGFLSNPEDEKQL 384
+                 ********************988538***************************98.579**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysir 215
+                  +p wr+++a  ia ++ 
+   089060781 385 LDPAWRRKVAERIAAAVS 402
+                 ***********9998876 PP
+
+>> 078646996  58945328771266 28320
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  235.2   0.3   3.6e-70   1.9e-66       2     215 ..     198     412 ..     197     413 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 235.2 bits;  conditional E-value: 3.6e-70
+  EMBOSS_001   2 vldpghggidggargv.tgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                  +d ghggid+ga+g  tg  ek+vtlafar l d l   s t   +tr+ d fl l +rv+ a+   adlfis+hadt+    +rgatvytisd+asd
+   078646996 198 AVDAGHGGIDNGAQGAaTGTHEKEVTLAFARELTDALNALSSTEAFMTREKDEFLSLPQRVQLARNRGADLFISVHADTLRQKDIRGATVYTISDKASD 296
+                 689***********9549********************************************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpke.esleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 ++a +la  en  d + g+  + e  e+ dilldltrret+afsi++a  vvs++ + ++ linnphr+a f+vl apdvps+l+e+g+lsnkedekll
+   078646996 297 SLAANLAARENLSDEIAGMALDgEPPEVADILLDLTRRETQAFSISLAQEVVSSF-EGQVRLINNPHRHAGFRVLMAPDVPSILLELGFLSNKEDEKLL 394
+                 ******************98764889***************************97.579**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysir 215
+                  +p+wrk++a  +a +++
+   078646996 395 LDPEWRKKVAGLLAQAVQ 412
+                 **********99998875 PP
+
+>> 083996031  58945328771266 1429082
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  235.4   0.2   3.1e-70   1.6e-66       1     214 [.     187     400 ..     187     402 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 235.4 bits;  conditional E-value: 3.1e-70
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +vldpghggid garg  g +ekd+tl fa+ lrd l       v +trdsd+f+ l +r   a++  adlfisihad +  + +rgat+ytis++asd
+   083996031 187 IVLDPGHGGIDDGARGTQGTMEKDITLEFAEVLRDRLSGYMGAEVFMTRDSDVFVALGDRTGFARQHGADLFISIHADYLRQQDVRGATIYTISEKASD 285
+                 69************************************999999******************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkees.leltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a++ ++a+ +n  d + g+   +s  e+tdil+dltrret  fs+ fa   +s+l +    li nphrya f vlkapdvpsvlie+gylsn++dekl+
+   083996031 286 AVSAAIAKDQNLADSVAGVELPDSgDEVTDILVDLTRRETLGFSVQFARLAISDL-RGFARLIKNPHRYAGFYVLKAPDVPSVLIELGYLSNQDDEKLM 383
+                 ******************987665269***************************9.6789*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                 n+ +wr  +a  +a +i
+   083996031 384 NDAEWRDGLADRLAAAI 400
+                 ********999988776 PP
+
+>> 087752393  58945328771266 1967501
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  235.3   0.7   3.3e-70   1.7e-66       2     215 ..     187     401 ..     186     402 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 235.3 bits;  conditional E-value: 3.3e-70
+  EMBOSS_001   2 vldpghggidggarg.vtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                  +d ghggid+garg vt + ek vtlafa+ l + l     t   ltrd d fl ls+rv+ a+   a+l+isihadt+    +rgatvytisd+asd
+   087752393 187 AVDAGHGGIDNGARGgVTKMEEKHVTLAFAKQLAEALNALPDTRAILTRDKDEFLSLSQRVQLARSEGANLLISIHADTLRQKDIRGATVYTISDKASD 285
+                 689**********954999******************************************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 ++a slae en  d + g+   +e  e+ dilldltrret+afsin+a +vv  + k ++ linnphr+a f+vl apdvps+l+e+g++snkedekll
+   087752393 286 SLAASLAERENLSDQIAGIAfVDEPAEVADILLDLTRRETQAFSINLAQSVVGKF-KDQVLLINNPHRHAGFRVLTAPDVPSILLELGFMSNKEDEKLL 383
+                 ******************9845899***************************986.8899*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysir 215
+                  +p+w+k++a  ia +++
+   087752393 384 TDPEWQKKVAGLIAEAVK 401
+                 ***********9998876 PP
+
+>> 087412694  58945328771266 2341112
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  235.3   1.0   3.5e-70   1.8e-66       1     215 [.     185     399 ..     185     400 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 235.3 bits;  conditional E-value: 3.5e-70
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +vldpghggid+ga+g  g  ekdvtlafa+a+   l+ +    v ltrd d f+ l erv+ a++  adl++sihad+i +  +rgatvyt+sd asd
+   087412694 185 IVLDPGHGGIDAGAKGRAGTDEKDVTLAFAKAVAAALETSDDIRVVLTRDDDRFIALGERVRIARQHSADLMMSIHADSIRLPEIRGATVYTLSDRASD 283
+                 69************************************************************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpk.eesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a+a  la  en+vd l g+    e  ++ dilldltrret+ fs+ +a +v+  + + +i linnphr+a f vl+apdvps+l+e+gylsn edekll
+   087412694 284 AMAADLARRENRVDELAGVATgSEDEDVVDILLDLTRRETQVFSVGLARSVLDRM-RGEIRLINNPHRFAGFSVLRAPDVPSLLVELGYLSNAEDEKLL 381
+                 ******************975278899***********************99876.789**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysir 215
+                  + +wr + a  +a +i+
+   087412694 382 IDEEWRAKTAGLLADAIK 399
+                 ********9999987775 PP
+
+>> 084061587  206194748979988 472175
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  234.2   0.6   7.4e-70   3.8e-66       2     211 ..     176     385 ..     175     389 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 234.2 bits;  conditional E-value: 7.4e-70
+  EMBOSS_001   2 vldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasda 100
+                 v+dpghgg+dgg rgv g  ek +tlafa  lr +l+k  +  v +trd d flrl erv+ a+e +adl+is+had i ++++rgat+yt+sd+asda
+   084061587 176 VIDPGHGGVDGGTRGVNGTQEKIITLAFALELRSKLEKTGRYDVVMTRDRDTFLRLDERVRIAREHEADLLISVHADAIRMRNFRGATIYTLSDKASDA 274
+                 89************************************9999999****************************************************** PP
+
+  EMBOSS_001 101 iakslaesenkvdlldglpkee.sleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                  a + a  en  d l g+  ee + e+ dil+dl rreth+fs+ fa  +++ l+k+ ++l+nnp r a f+vl+ap+vpsvl+e+gylsn ede+ll 
+   084061587 275 EAAATAARENLSDELAGMGMEEkNDEVADILVDLIRRETHSFSLRFARTLMNELTKT-VDLVNNPLRSAGFRVLRAPEVPSVLLELGYLSNPEDEELLR 372
+                 ******************98762579****************************997.9**************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasia 211
+                 +  wr + a ++ 
+   084061587 373 DADWRSKAAENVI 385
+                 ******9998875 PP
+
+>> 086759832  58945328771266 422277
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  234.5   0.6     6e-70   3.1e-66       1     213 [.     191     403 ..     191     406 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 234.5 bits;  conditional E-value: 6e-70
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +v+dpghgg+dgga++  g +ek+vtlafa  lrd+l       v +trd d +l l +rv+ a++ +adl+isihadti+v+ +rgatvyt+sd+asd
+   086759832 191 IVIDPGHGGVDGGAESAGGTVEKNVTLAFATELRDKLAAVGSYDVFMTRDKDEYLTLDDRVRIARQHEADLLISIHADTINVRGIRGATVYTLSDKASD 289
+                 699**********************************8755556789**************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                   a++la+ en  d + gl  k+++ e+tdil+dl rreth+fs++fa+ +v  ls s + linnp+r a f+vlkapdvpsvl+e+gylsn +de  l
+   086759832 290 PEAQALADRENLSDQFAGLViKDDNKEVTDILIDLIRRETHSFSMSFAHTLVGQLSTS-VGLINNPQRSAGFKVLKAPDVPSVLVELGYLSNTKDEAQL 387
+                 ******************854999*******************************976.9*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiays 213
+                  +  wr + a si  +
+   086759832 388 LSADWRGKAAQSITNA 403
+                 *********9999765 PP
+
+>> 087345972  58945328771266 1612624
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  234.8   0.3     5e-70   2.6e-66       1     215 [.     169     384 ..     169     385 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 234.8 bits;  conditional E-value: 5e-70
+  EMBOSS_001   1 vvldpghggidggargv.tgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeas 98 
+                 v +d ghggid ga g  t + ek+vtlafa  l + l k s     ltrd d fl l erv+ a++  a+lfisihadt+  + +rgatvytisd+as
+   087345972 169 VAVDAGHGGIDTGAIGSdTKMEEKNVTLAFAGELVETLNKESGIKAFLTRDKDEFLSLPERVQIARQHGANLFISIHADTLKQRDIRGATVYTISDKAS 267
+                 5789**********996378889**************************************************************************** PP
+
+  EMBOSS_001  99 daiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekl 196
+                 d +a +lae en  d + g+  k e  e+  il+dltrret+afs+n+a +vvs++ + +inlinnphrya f+vl+apdvps+l+e+g+lsnkedekl
+   087345972 268 DHLAANLAERENLSDEIAGVAfKSEPAEVAGILIDLTRRETQAFSVNLARSVVSSF-EGQINLINNPHRYAGFRVLQAPDVPSILLELGFLSNKEDEKL 365
+                 ******************986599******************************97.589*************************************** PP
+
+  EMBOSS_001 197 lnnpqwrkqmaasiaysir 215
+                 l +p wr+++a  +a ++r
+   087345972 366 LVDPAWRRKVAGLLAVAVR 384
+                 *************999988 PP
+
+>> 086637542  58945328771266 2682781
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  233.9   0.5   9.3e-70   4.8e-66       1     213 [.     192     405 ..     192     407 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 233.9 bits;  conditional E-value: 9.3e-70
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 v++d ghggid ga+gv+g lek +tlafa  l+ +l+ g +  v ltrd d+flrl erv+ a++ +adl+isihad i ++ +rgatvyt++d+asd
+   086637542 192 VMIDAGHGGIDTGAKGVSGTLEKTITLAFALELQKKLRDGGNYDVFLTRDRDLFLRLDERVRIARQQEADLLISIHADAIRLNGVRGATVYTVADKASD 290
+                 689************************************************************************************************ PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpke.esleltdilldltrrethafsinfannvvsnlskshinlin.nphryadfqvlkapdvpsvlieigylsnkedekl 196
+                 a a + a  en  d + g+  e +s e+ dil dl rret++fsi fa ++v  ls s i +in nphr+a f+vl+apdvpsvl+e+gylsn +de+l
+   086637542 291 AEAAAKAIRENLADEVAGISVEnDSQEVADILADLIRRETQSFSIRFARSLVGELSSS-IQMINkNPHRFAGFRVLRAPDVPSVLLELGYLSNADDEQL 388
+                 *******************8763799*****************************977.5666549********************************* PP
+
+  EMBOSS_001 197 lnnpqwrkqmaasiays 213
+                 l +p+wr + a  i  +
+   086637542 389 LRDPEWRSKAAEGIVQA 405
+                 ********999988765 PP
+
+>> 084239964  58945328771266 266779
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  233.8   0.5     1e-69   5.2e-66       2     212 ..     197     407 ..     196     410 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 233.8 bits;  conditional E-value: 1e-69
+  EMBOSS_001   2 vldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasda 100
+                  +dpghggidggargv+g +ek +tl fa+ l+  l+      v ltr+ d+flrl erv+ a+e +adl+isihad i ++ +rgatvyt+sd asda
+   084239964 197 AIDPGHGGIDGGARGVSGTFEKTITLTFAQELKKSLEATGKYNVVLTRNEDVFLRLDERVRIARENEADLLISIHADAISMRDFRGATVYTLSDRASDA 295
+                 79**********************************987777788****************************************************** PP
+
+  EMBOSS_001 101 iakslaesenkvdlldglpkeesl.eltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedeklln 198
+                  a + a  en  d l gl  ee    + dil+dl rrethafsi+fa  ++ +l ++ ++l+ np r a f vlkapdvpsvl+e+gylsn edek + 
+   084239964 296 EAAATAARENLSDELAGLTAEEEQdHVADILFDLIRRETHAFSIHFARTLLDSLGET-VHLVGNPLRSAGFLVLKAPDVPSVLVELGYLSNPEDEKQMK 393
+                 ******************8776551699**************************976.99*************************************** PP
+
+  EMBOSS_001 199 npqwrkqmaasiay 212
+                 +p wr +   si  
+   084239964 394 DPAWRAKAVDSILR 407
+                 *****998888865 PP
+
+>> 087352140  58945328771266 1798805
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  228.8   0.5   3.4e-68   1.7e-64       2     215 ..     186     400 ..     185     401 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 228.8 bits;  conditional E-value: 3.4e-68
+  EMBOSS_001   2 vldpghggidggargv.tgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                  +d ghggid ga gv t   ek vtlafa+ +   l k +     ltr  d fl ls+rv+ a++  a+lfisihadt+    +rgatvytisd+asd
+   087352140 186 AVDAGHGGIDTGAIGVvTKTEEKKVTLAFAEEMAAALNKEAGVKAFLTRSKDEFLSLSQRVQLARQNGANLFISIHADTLKQKDIRGATVYTISDKASD 284
+                 689***********96377889***************************************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpke.esleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                  +a +lae en  d + g+  e e  ++ dil+dltrret+afs+n+a +vvs++ + +i linnphrya fqvl+apdvpsvl+e+g+lsnkedekll
+   087352140 285 HLAANLAERENLSDQIAGVALEtEPADVADILIDLTRRETQAFSVNLARSVVSSF-EGQIKLINNPHRYAGFQVLRAPDVPSVLLELGFLSNKEDEKLL 382
+                 ******************98764889***************************97.589**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysir 215
+                  +p+wr +++  +  ++r
+   087352140 383 LDPKWRSKVSERLVDAVR 400
+                 *******99887776665 PP
+
+>> 086885906  58945328771266 1121003
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  231.6   0.3   4.6e-69   2.4e-65       1     214 [.     194     408 ..     194     410 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 231.6 bits;  conditional E-value: 4.6e-69
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +v+dpghgg+d ga+g  g lek +tlaf+  l+ +lq      v +trd d flrl ervk a++ +adlfis+had+i + ++rgatvyt+sd+asd
+   086885906 194 IVIDPGHGGVDTGAEGPNGTLEKTITLAFSLELKKKLQDTGLYDVFMTRDRDEFLRLDERVKIARQHEADLFISVHADSIRLKNVRGATVYTVSDKASD 292
+                 699***********************************98888999***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a a + a  en  d + g+  +ee   + dil dl rret+ fsi fa ++v  ls s   +  nphr+a f+vlkapdvpsvl+e+gylsn +de+ l
+   086885906 293 AEAAAKAIRENLADAIGGIVvEEEDQGVADILADLIRRETQTFSIRFARSLVGELSSSIQMIPTNPHRFAGFRVLKAPDVPSVLLELGYLSNAQDEEQL 391
+                 ******************9725667889****************************99888889*********************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  np wr++ a si  +i
+   086885906 392 RNPVWREKAADSIISAI 408
+                 ********999997665 PP
+
+>> 087780538  58945328771266 352475
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  231.5   0.8     5e-69   2.6e-65       2     214 ..     187     400 ..     186     402 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 231.5 bits;  conditional E-value: 5e-69
+  EMBOSS_001   2 vldpghggidggarg.vtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                  +d ghggid+garg  t   ek+vtlafar l d l k   t   ltrd d fl ls+rv+ a+   a+l+isihadt+     rgatvytisd+asd
+   087780538 187 AVDAGHGGIDNGARGgATKTEEKNVTLAFARELADALNKLPDTKAILTRDKDEFLSLSQRVQLARGEGANLLISIHADTLKQKDTRGATVYTISDKASD 285
+                 689**********96379999****************************************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 ++a slae en  d + g+   +e  e+ dilldltrret+afsin+a +vv  + k ++ linnphr+a f+vl apdvps+l+e+g++snk+de+ll
+   087780538 286 SLAASLAERENLSDQIAGISfTDEPAEVADILLDLTRRETQAFSINLAQSVVGTF-KDEVLLINNPHRHAGFRVLTAPDVPSILLELGFMSNKDDEQLL 383
+                 ******************9846899**************************9875.899**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +p w+k++a  +a ++
+   087780538 384 IDPAWQKKVAGLVAKAV 400
+                 **********9999776 PP
+
+>> 084238022  58945328771266 935260
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  230.8   0.2   8.4e-69   4.3e-65       1     214 [.     188     402 ..     188     404 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 230.8 bits;  conditional E-value: 8.4e-69
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+dpghggid ga gv+g  ek +tlafa  l+  l+      v ltrd d+flrl ervk a++ +adlfisihad+i   s+rgatvyt+sd+asd
+   084238022 188 VVIDPGHGGIDTGAAGVSGTQEKTITLAFALELKKRLEDVGGLDVFLTRDRDLFLRLDERVKIARQNEADLFISIHADSIRQKSVRGATVYTVSDKASD 286
+                 79*************************************99999******************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                   a + a  en  d + g+  +ee+ e+ dil+dl rret+ fsi fa ++v  l  +   +  nphr+a f+vl+apdvpsvl+e+gylsn +de ll
+   084238022 287 PEAAAKAIRENLADEIAGVVvEEENEEVADILVDLIRRETQGFSIRFARSLVEELKGAIAMIPTNPHRFAGFRVLRAPDVPSVLLELGYLSNPDDEALL 385
+                 ***999*********999762677899****************************988888889*********************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +p+wr + a  ia +i
+   084238022 386 RDPEWRAKAANGIASAI 402
+                 ********999998766 PP
+
+>> 084066320  58945328771266 1480615
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  229.5   0.3   2.1e-68   1.1e-64       1     215 [.     180     394 ..     180     395 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 229.5 bits;  conditional E-value: 2.1e-68
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +v+d ghggidgga+g +g +ek +tlafa+al++ l+      va+tr  d fl ls rv++a+e  adl+is+had+i + slrgatvyt+sd+asd
+   084066320 180 IVIDAGHGGIDGGAEGPSGSMEKHITLAFAEALKEALEGEDGIRVAMTRSDDSFLSLSARVRRAREEQADLLISLHADSIRIKSLRGATVYTLSDKASD 278
+                 699**********************************9999999******************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesle.ltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a+a+slae en  + + g   e + e +  il+dl r et+ fs  +a  v+ ++ + ++ linnp r+a f+vl+apdvpsvl+e+gylsn edekll
+   084066320 279 AVAQSLAEQENGAEGIVGASLENAPEaVAAILVDLARTETRVFSTGLARQVLDSF-EGQVKLINNPLRHAGFRVLQAPDVPSVLVEMGYLSNPEDEKLL 376
+                 *********************99998346799******************99886.689**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysir 215
+                  +p+wr+  a  +a s++
+   084066320 377 TDPEWRRSTARLLAQSVQ 394
+                 **********99999986 PP
+
+>> 084056873  58945328771266 391937
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  229.6   0.1   1.9e-68   9.9e-65       1     211 [.     169     379 ..     169     384 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 229.6 bits;  conditional E-value: 1.9e-68
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 v ld ghgg dggarg+ g +ek +tl fa  l  +l+++    v ltr++d flrl erv+ a+e  adlf+sihad i v+++rgatvyt+sd+asd
+   084056873 169 VALDAGHGGADGGARGMNGTVEKTITLIFALELAKKLEEAGLYDVVLTRETDRFLRLDERVRIAREKGADLFVSIHADAIGVRAVRGATVYTVSDKASD 267
+                 679***********************************99999999***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesl.eltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a a + a  en  d + g+  +e+  e+ dil+dl rrethafsi fa  +v  ls + + ++ nphrya f+vl+apd+psvl+e+gylsn  de  l
+   084056873 268 AEAAATAARENLSDEIAGMVDDEAQdEVEDILVDLIRRETHAFSIRFARTLVGELSDT-MQMVKNPHRYAGFRVLRAPDIPSVLLELGYLSNPGDEAQL 365
+                 ******************99888653899**************************976.89************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasia 211
+                  +p+wr +   +i 
+   084056873 366 RDPEWRTKTMGAIV 379
+                 ******87666655 PP
+
+>> 090226737  58945328771266 908946
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  229.3   0.3   2.3e-68   1.2e-64       2     214 ..     208     421 ..     207     423 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 229.3 bits;  conditional E-value: 2.3e-68
+  EMBOSS_001   2 vldpghggidggargv.tgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                  +d ghggid+ga gv tg  ekdvtlafa+ +   l k   t   ltrd+d fl l +rv+ a+  +a+l+isihadt+    +rgatvytisd+asd
+   090226737 208 AVDAGHGGIDNGALGVeTGTHEKDVTLAFAKEIAAALNKLPSTEAFLTRDNDEFLSLPQRVQLARSRNANLLISIHADTLRQKDIRGATVYTISDKASD 306
+                 689************979********************************************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpke.esleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 ++a +la  en  d + g+p e e  e+ dil+dltrret+ fs+ +a  vv    + ++ linnphrya f+vlkapdvpsvl+e+g+lsnkede+ll
+   090226737 307 SLAANLAARENLSDEIAGMPLEgEPPEVADILIDLTRRETQGFSVGLAKQVVDA-FEGEVKLINNPHRYAGFRVLKAPDVPSVLLELGFLSNKEDEQLL 404
+                 ********************885789************************9976.5789**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +p w+k++a  ia ++
+   090226737 405 IDPAWQKKVAGLIAEAV 421
+                 **********9999765 PP
+
+>> 089366955  58945328771266 2512157
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  227.1   0.8   1.1e-67   5.6e-64       2     211 ..     175     385 ..     174     390 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 227.1 bits;  conditional E-value: 1.1e-67
+  EMBOSS_001   2 vldpghggidggargv.tgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                  +d ghggid ga gv t   ek vtlafa+al d l +       ltrdsd fl lserv+ a++  a lfis+hadt+    +rgatvytisd+asd
+   089366955 175 AVDAGHGGIDTGAIGVdTKTEEKQVTLAFAKALADRLNREPGIKAFLTRDSDEFLSLSERVQLARQHHAGLFISLHADTLKQKDIRGATVYTISDKASD 273
+                 689************9567789*****************9999999***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpk.eesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                  +a  lae en  d + g     e  e+ dilldltrret+afsi++a nv+ ++ k +i  innphr+a fqvl+apdvps+l+e+g+lsn edekll
+   089366955 274 KLAADLAERENLSDQIAGKETvAEPPEVADILLDLTRRETQAFSISLAENVLGSF-KDQIGTINNPHRHAGFQVLRAPDVPSILLELGFLSNVEDEKLL 371
+                 ****************9986427899*************************9886.899**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasia 211
+                  + qwr +ma  + 
+   089366955 372 LDDQWRLKMADLLT 385
+                 *********97665 PP
+
+>> 081960699  58945328771266 1920512
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  229.1   0.6   2.8e-68   1.4e-64       1     212 [.     194     405 ..     194     409 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 229.1 bits;  conditional E-value: 2.8e-68
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 v+ldpghgg+d+g  + +g lekdv lafa  l+ +l+ +    va+tr  d f+ l +rv+ a++  adlf+sihad++  + +rgat+yt+sd asd
+   081960699 194 VMLDPGHGGVDSGTISPSGALEKDVVLAFAFELEKKLEASGKVDVAMTRRDDTFVPLGDRVRIARDQAADLFVSIHADSVRQNDVRGATIYTLSDRASD 292
+                 689************************************************************************************************ PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpke.esleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                   a +la+ en  d + gl  + ++ e++dil+dltrret+ fs++fann+vs ls     +i nphr+a f+vlkapdvpsvl+eigylsn++dekll
+   081960699 293 REAAALADKENASDAVAGLDLDrQTDEVSDILIDLTRRETRNFSVSFANNLVSELSS-TTRMIRNPHRFAGFRVLKAPDVPSVLVEIGYLSNEQDEKLL 390
+                 *******************97625679****************************96.579************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiay 212
+                  + +wr ++  +i  
+   081960699 391 TSEEWRGRVTDAIGA 405
+                 ******999887765 PP
+
+>> 087545565  58945328771266 1842534
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  228.9   0.5   3.1e-68   1.6e-64       2     216 .]     190     405 ..     189     405 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 228.9 bits;  conditional E-value: 3.1e-68
+  EMBOSS_001   2 vldpghggidggarg.vtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                  +d ghggid+garg vt   ek vtlafa+ l + l k   t   ltr  d fl ls+rv+ a+   a+l+isihadt+     rgatvytisd+asd
+   087545565 190 AVDAGHGGIDNGARGgVTKTEEKHVTLAFAQQLAEALNKLPDTRAFLTRQKDEFLSLSQRVQLARSEGANLLISIHADTLKQKDTRGATVYTISDKASD 288
+                 689**********95499********************************************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 ++a slae en  d + g+   +e  e+ dilldltrret+afsin+a +vvs + k ++ linnphr+a f+vl apdvps+l+e+g++snk+de+ll
+   087545565 289 SLAASLAERENLSDQIAGISfVDEPAEVADILLDLTRRETQAFSINLAQSVVSTF-KDEVMLINNPHRHAGFRVLTAPDVPSILLELGFMSNKDDEQLL 386
+                 ******************9845899***************************986.899**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysirq 216
+                  +p w+k++a  +a +++q
+   087545565 387 IDPAWQKKVAGLVAKAVEQ 405
+                 ***********99988865 PP
+
+>> 086877922  58945328771266 1120658
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  228.2   0.9     5e-68   2.6e-64       1     213 [.     201     413 ..     201     416 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 228.2 bits;  conditional E-value: 5e-68
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+d ghggid+ga++  g lek +tlafa  l+  l   s+  v ltrd d+flrl erv+ a++ +adlfis+hadti +  + gatvyt+sd+asd
+   086877922 201 VVVDAGHGGIDSGAESSKGTLEKTITLAFALELKKRLDDTSRYDVYLTRDRDVFLRLDERVRIARQHEADLFISVHADTIRLKGISGATVYTVSDKASD 299
+                 799************************************************************************************************ PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkee.sleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a a + a  en  d + g+  ee +  + dil+dl rreth+fs+ fa ++v  ls s i +innphr+a f+vl+apdvpsvl+e+gylsn+ de  l
+   086877922 300 AEAAAKAIRENLSDEIAGIEVEEqNQGVADILVDLIRRETHSFSMRFARSLVGELSNS-IEMINNPHRFAGFRVLRAPDVPSVLLELGYLSNEADEVKL 397
+                 *******************9776156699**************************986.9*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiays 213
+                  +p+wr +   si  +
+   086877922 398 RDPKWRAKAIDSIVSA 413
+                 ******9988888655 PP
+
+>> 087710658  58945328771266 1813451
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  228.6   0.3   3.7e-68   1.9e-64       2     215 ..     184     398 ..     183     399 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 228.6 bits;  conditional E-value: 3.7e-68
+  EMBOSS_001   2 vldpghggidggargvt.gilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                  +d ghggid ga g t    ekd+tlafa+ l+ +l      +  ltr+ d fl lserv  a++  adl+is+hadt+    +rgatvytisd asd
+   087710658 184 AVDAGHGGIDTGATGATtRTPEKDITLAFAKILHAKLMAEPGVVSVLTREDDSFLSLSERVTIARQNGADLLISLHADTLRQPEIRGATVYTISDRASD 282
+                 689***********9862578****************************************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                  +a  lae en  d++ g+   ee  e+tdil+dltrret+afsi++a +v++++ + +i linnphrya f+vl+a dvps+l+e+g+lsnkedekll
+   087710658 283 NMAAQLAERENLSDVIGGVVlTEEPSEVTDILIDLTRRETQAFSISLAQSVIASF-QGQIGLINNPHRYAGFRVLQAHDVPSILLELGFLSNKEDEKLL 380
+                 ******************86368999**************************997.589**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysir 215
+                  +p wr+++a  +  +ir
+   087710658 381 LDPAWREKVATHLVDAIR 398
+                 **********99988887 PP
+
+>> 084106675  58945328771266 714899
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  228.5   0.7   4.2e-68   2.2e-64       1     214 [.     194     407 ..     194     409 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 228.5 bits;  conditional E-value: 4.2e-68
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +v+d ghggidgga+g  g +ek+vtlafa+al+  l++     v +tr  d fl ls rv++a+e  adl+is+had+i v+slrgatvyt+sd+asd
+   084106675 194 IVVDAGHGGIDGGAEGPAGSMEKNVTLAFAEALKAALEEKDGIRVIMTRTDDSFLSLSARVRRAREAAADLLISLHADSIAVRSLRGATVYTLSDKASD 292
+                 689************************************99999******************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesle.ltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a+a+sl + en+ d + g   e + e +  il+dl r et+ fs  +a  v++++ + ++ linnp r+a f+vl+apdvpsvl+e+gylsn+edekll
+   084106675 293 AVAQSLVDQENREDAIIGTSLENAPEdIAAILVDLARTETRVFSTGLAQQVINSF-EGQVKLINNPLRHAGFRVLQAPDVPSVLVEMGYLSNREDEKLL 390
+                 *******************99988653899*******************999765.789**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                 n+ +wr   a  +a s+
+   084106675 391 NDEEWRNNTARLLAQSV 407
+                 *********99999887 PP
+
+>> 088430976  58945328771266 1125979
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  228.2   0.2     5e-68   2.6e-64       2     215 ..     201     415 ..     200     416 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 228.2 bits;  conditional E-value: 5e-68
+  EMBOSS_001   2 vldpghggidggargvt.gilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                  +d ghggid+ga g t    ekd+tlafar l ++lqk       +trd d fl ls+rv  a++  a+l+is+hadt+    +rgatvytisd+asd
+   088430976 201 AIDAGHGGIDAGAAGATtKTPEKDITLAFARILLEKLQKEPGIHAVMTRDGDQFLSLSQRVVLARQKGANLLISLHADTLRQGDIRGATVYTISDKASD 299
+                 68***********99862678******************88888889**************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                  +a  lae en  d + g+   +e  e+tdilldltrret+afsi++a  vv ++ + +i linnphrya f+vl+a dvps+l+e+g+lsnkedekll
+   088430976 300 HMAAQLAERENFSDAIGGVAhSDEPSEVTDILLDLTRRETQAFSISMAQAVVGSF-EGQIGLINNPHRYAGFRVLQAHDVPSILLELGFLSNKEDEKLL 397
+                 ******************97367899*************************9987.689**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysir 215
+                  +p wr ++a  +  +ir
+   088430976 398 LDPVWRDKVAGLMVDAIR 415
+                 ********9998877776 PP
+
+>> 084101519  58945328771266 274592
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  227.6   0.9   7.8e-68     4e-64       1     215 [.     219     433 ..     219     434 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 227.6 bits;  conditional E-value: 7.8e-68
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 vv+d ghggidgga+g+ g+ ekdvtlafa al ++l+      v +tr  d fl ls rv+ a++  adl+is+had+i ++slrgatvyt+sd+asd
+   084101519 219 VVIDAGHGGIDGGAEGIDGVQEKDVTLAFAAALDEKLKAIGGIRVLMTRSDDSFLSLSGRVQFARDSRADLLISLHADSIAMRSLRGATVYTLSDKASD 317
+                 799******************************9999998889999***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeeslel.tdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 ++a sl e e++ d l g   +   +l   il+dl r et+ fs  +a  vvs++ + ++ linnphr a f+vl+apdvpsvlie+gylsn++dekll
+   084101519 318 SVAASLVEQEDRHDALVGADLDGKTDLvAGILIDLARSETRVFSNGLAGKVVSSF-EGQVKLINNPHRQAGFRVLQAPDVPSVLIELGYLSNRDDEKLL 415
+                 *******************99999987358***********************97.579**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysir 215
+                  +p+wr   a  +a s++
+   084101519 416 TDPEWRDHTAGLLAQSVK 433
+                 ***********9999986 PP
+
+>> 087069966  58945328771266 1416753
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  227.4   0.3   8.8e-68   4.6e-64       2     215 ..     183     397 ..     182     398 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 227.4 bits;  conditional E-value: 8.8e-68
+  EMBOSS_001   2 vldpghggidggargv.tgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                  +d ghggid ga g  t   ek vtlafa+ l   l +       ltrd d+fl l +rv+ a+   a+lfisihadt+    +rgatvytisd+asd
+   087069966 183 AIDAGHGGIDTGAIGSgTKTEEKHVTLAFAQELVATLNREGGIEAFLTRDKDVFLSLPQRVQIARNKGANLFISIHADTLRQKDIRGATVYTISDKASD 281
+                 68***********985378899****************99999999***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpke.esleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                  +a  la+ en  d + g+p + e  e+ dil+dltrret+afs+n+a  vvs++ + +inlinnphr+a f+vl+apdvps+l+e+g++snk+dekll
+   087069966 282 HLAADLAQRENLSDEIAGVPLQsEPAEVADILIDLTRRETQAFSVNMARTVVSSF-EGQINLINNPHRHAGFRVLQAPDVPSILLELGFMSNKDDEKLL 379
+                 ********************643899***************************97.589**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysir 215
+                  +p+wrk+++  +a +++
+   087069966 380 LDPEWRKKVSGLLAVAVK 397
+                 *********999998876 PP
+
+>> 087357052  58945328771266 2590452
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  227.3   0.7   9.7e-68     5e-64       1     210 [.     234     442 ..     234     448 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 227.3 bits;  conditional E-value: 9.7e-68
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshti.valtrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeas 98 
+                 vv+dpghggidgga gv    ek vtlafa+ l  +l  g h + v ltrd d f+ l++rvk a+e dadlf+sihad+i v slrgatvyt+sd as
+   087357052 234 VVIDPGHGGIDGGAVGVDETAEKTVTLAFAKKLAADL--GGHDLhVVLTRDDDTFVSLADRVKIARENDADLFVSIHADSISVKSLRGATVYTLSDNAS 330
+                 79*******************************9998..55554389**************************************************** PP
+
+  EMBOSS_001  99 daiakslaesenkvdlldglpk.eesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekl 196
+                 d +a  +a+sen+ d + gl    e   +  il dltrret+ fs  ++++v+s ++   ++linnp+r+a f+vl+apdvpsvl+e+g+lsn +dek 
+   087357052 331 DRLANQIAQSENRADAVAGLKVgSEPKAVAGILADLTRRETRRFSGRLSDSVISAFT-GDVDLINNPQRHAGFRVLEAPDVPSVLVELGFLSNPDDEKQ 428
+                 ********************7526788899***********************9876.68*************************************** PP
+
+  EMBOSS_001 197 lnnpqwrkqmaasi 210
+                 l +pqwr ++a  +
+   087357052 429 LIDPQWRAKVAGLM 442
+                 *******9998765 PP
+
+>> 087182423  58945328771266 1848292
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  225.6   0.4   3.1e-67   1.6e-63       2     215 ..     183     397 ..     182     398 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 225.6 bits;  conditional E-value: 3.1e-67
+  EMBOSS_001   2 vldpghggidggargvtg.ilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                  +d ghggid ga g t+ i ek vtl far l + l + +     ltrd d fl l++rv+ a++ +adlfis+hadt+    +rgatvytisd asd
+   087182423 183 AVDAGHGGIDTGAIGGTSrIEEKRVTLDFARVLAETLNREAGVEAFLTRDRDEFLSLAQRVQVARQGNADLFISLHADTLRQKDIRGATVYTISDRASD 281
+                 689********998776527789**************************************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpke.esleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                  +a  la+ en  d + g+  e e  e+ dil+dltrret+afs+++a +vv+++ + +i linnphr+a f+vl+apdvpsvl+e+g+lsnkede ll
+   087182423 282 HLAAELAQRENLSDEIAGIAIEsEPPEVADILIDLTRRETQAFSVSLARSVVTSF-EGQIKLINNPHRHAGFRVLQAPDVPSVLLELGFLSNKEDETLL 379
+                 ******************98653789**************************997.689**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysir 215
+                  +p+wrk+++  ia ++r
+   087182423 380 LDPEWRKKVSGLIADAVR 397
+                 ************999988 PP
+
+>> 087229754  58945328771266 2490847
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  226.5   0.3   1.7e-67   8.6e-64       2     215 ..     190     404 ..     189     405 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 226.5 bits;  conditional E-value: 1.7e-67
+  EMBOSS_001   2 vldpghggidggarg.vtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                  +d ghggid ga g vt   ek vtlafa+ l   l + +     ltrd d fl l +rv+ a++  a+lf+s+hadt+    +rgatvytisd+asd
+   087229754 190 AIDAGHGGIDTGAIGtVTKTEEKHVTLAFAEELVATLNREAGVEAFLTRDRDEFLSLPQRVQIARQRGANLFVSVHADTLKQKDIRGATVYTISDKASD 288
+                 68***********995789999***************************************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpke.esleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                  +a slae en  d + g+p + e  e+ dil+dltrret+afs+n+a  vvs++ + +i linnphr+a f+vl+apdvps+l+e+g+lsnk+dek l
+   087229754 289 HLAASLAERENLSDEIAGVPLQsEPAEVADILIDLTRRETQAFSVNLARTVVSSF-EGQIKLINNPHRHAGFRVLQAPDVPSILLELGFLSNKDDEKQL 386
+                 ********************643899***************************97.589**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysir 215
+                  +p+wrk+++  +a ++r
+   087229754 387 LDPEWRKKVSGLLAVAVR 404
+                 ***********9999998 PP
+
+>> 088040353  58945328771266 1972867
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  226.5   0.4   1.7e-67     9e-64       2     214 ..     199     412 ..     198     414 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 226.5 bits;  conditional E-value: 1.7e-67
+  EMBOSS_001   2 vldpghggidggarg.vtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                  +d ghggid+ga+g v+g  ek +tl fa+ l d l k +     ltrd d fl lserv  a++ +a+lfis+hadt+    +rgatvytisd asd
+   088040353 199 AVDAGHGGIDAGAKGaVSGTDEKVITLTFAKQLADRLNKITGVKAFLTRDDDTFLALSERVTLARQQNANLFISVHADTLKQKGIRGATVYTISDRASD 297
+                 689***********96789******************************************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                  +a++lae en  d + g+  + e  e+ dilldltrret+afs+ +a n+v ++ + ++ linnphrya fqvl+a dvpsvl+e+g+lsn +dekll
+   088040353 298 RMAQALAERENLSDQIAGVAvQHERPEVADILLDLTRRETQAFSVTLAENIVKSF-EGQVGLINNPHRYAGFQVLRAHDVPSVLLELGFLSNPDDEKLL 395
+                 ******************97256889**************************987.689**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +  wr ++a ++a ++
+   088040353 396 LDETWRAKVADTLATAV 412
+                 **********9998766 PP
+
+>> 084105386  58945328771266 411684
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  226.3   0.4   1.9e-67   9.7e-64       1     214 [.     192     405 ..     192     407 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 226.3 bits;  conditional E-value: 1.9e-67
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +v+dpghggidgga+g  g +ek+vtlafa+a+++ l+       +ltr  d fl ls rv+ a++ dadl++s+had+i + slrgatvyt+sd+asd
+   084105386 192 IVIDPGHGGIDGGAEGPAGTMEKNVTLAFAEAFKEALEAEGGIRASLTRTEDKFLSLSARVRMARDADADLLLSLHADSIRIKSLRGATVYTLSDKASD 290
+                 699***********************************9999999****************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesle.ltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a+a++la+ en  + + g   + + e +  il+dl r et+ fs  +a  v++++ + ++ linnphr+a f+vl+apdvpsvl+e+gylsn++de++l
+   084105386 291 AMAQALADQENAAEEIVGAKLDGAAEgVAAILVDLARTETRVFSTGLAQQVINSF-EGQVRLINNPHRHAGFRVLQAPDVPSVLVELGYLSNRDDEEML 388
+                 ******************9999988847789******************999765.789**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                 n+  w+k+ a  +a s+
+   084105386 389 NDEDWQKKTAELLAQSV 405
+                 **********9999886 PP
+
+>> 084076600  58945328771266 1620421
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  226.1   1.1   2.2e-67   1.1e-63       1     214 [.     244     457 ..     244     459 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 226.1 bits;  conditional E-value: 2.2e-67
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +v+d ghggidgga+g  g  ek+vtlafa+a+++ l+      va+tr  d fl ls rv+ka+  +adl+is+had+i ++slrgatvyt+sd+asd
+   084076600 244 IVIDAGHGGIDGGAEGPAGSTEKNVTLAFAEAFKEALEDVDGVRVAMTRTDDSFLSLSARVRKARHEEADLLISLHADSISIRSLRGATVYTLSDKASD 342
+                 699************************************************************************************************ PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkeesle.ltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                 a+a+sla+ en+ d++ g   +++ e +  il+dl r et+ fs  +a  vv+++ + ++ linnp r+a f+vl+apdvpsvl+e+gylsn edekll
+   084076600 343 ALAQSLADQENRDDVIVGANLQDAPEaVAAILVDLARTETRVFSAGLARQVVNSF-EGQVKLINNPLRHAGFRVLQAPDVPSVLVELGYLSNHEDEKLL 440
+                 *******************9999988356899******************99765.789**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  + +wr   a  +a s+
+   084076600 441 TDDEWRHNTARLLAQSV 457
+                 *********99999987 PP
+
+>> 088926324  58945328771266 1736563
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  225.6   0.4   3.3e-67   1.7e-63       2     214 ..     196     409 ..     195     411 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 225.6 bits;  conditional E-value: 3.3e-67
+  EMBOSS_001   2 vldpghggidggar.gvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                  +d ghggid+ga+ gv+g  ek +tl+fa+ l d l +       ltrd d fl lserv  a++  a+lfis+hadt+    +rgatvytisd asd
+   088926324 196 AVDAGHGGIDAGAKgGVSGTDEKVITLSFAKQLTDRLNRLPGIKAFLTRDDDTFLALSERVTIARQQSANLFISVHADTLSQKGIRGATVYTISDRASD 294
+                 689**********8459**********************9999999***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpkee.sleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                  +a++lae en  d + g+       e+ dilldltrret+afs+ +a n+vs++ + ++ linnphrya fqvl+a dvpsvl+e+g+lsn edekll
+   088926324 295 RMAQNLAERENLSDQIAGVTVSNaQPEVADILLDLTRRETQAFSVTLAENIVSSF-EGQVGLINNPHRYAGFQVLRAHDVPSVLLELGFLSNPEDEKLL 392
+                 ******************986651679**************************97.579**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  +  wr ++a  +a ++
+   088926324 393 LDESWRDKVAERLAEAV 409
+                 *********99998765 PP
+
+>> 088026303  58945328771266 176299
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  225.6   0.2   3.2e-67   1.6e-63       2     214 ..     194     407 ..     193     409 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 225.6 bits;  conditional E-value: 3.2e-67
+  EMBOSS_001   2 vldpghggidggar.gvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                  +d ghggid+ga  g tg  ek +tl fa+ l + l + +     ltrdsd fl lserv  a++ +a+lfis+hadt+    +rgatvyt+sd asd
+   088026303 194 AVDAGHGGIDAGATgGTTGTEEKVITLTFAKELVERLNREAGIKAFLTRDSDTFLALSERVTIARQNNANLFISLHADTLKQKGIRGATVYTLSDRASD 292
+                 689*******99972589***********************99999***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                   a+ lae enk d + g+    e  e+ dilld+trret+afs+ +a n+vs++ + ++ linnphrya f vl+a dvpsvl+e+g+lsn edekll
+   088026303 293 RQAQELAERENKSDQIAGVAaSTEPPEVADILLDFTRRETQAFSVTLAENIVSSF-EGQVGLINNPHRYAGFMVLRAHDVPSVLLELGFLSNAEDEKLL 390
+                 ******************97257999***************************97.579**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysi 214
+                  + +wrk++a ++a ++
+   088026303 391 LDIEWRKKVADTLATAV 407
+                 **********9998765 PP
+
+>> 088911349  58945328771266 1736543
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  224.8   0.3   5.7e-67     3e-63       1     215 [.     163     378 ..     163     379 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 224.8 bits;  conditional E-value: 5.7e-67
+  EMBOSS_001   1 vvldpghggidggargv.tgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeas 98 
+                 v +d ghggid ga g  t   ek vtlafa  l + l + +     +tr+ d fl l erv+ a++  a+lfisihadt+  + +rgatvytisd+as
+   088911349 163 VAVDAGHGGIDTGAIGAeTKTEEKIVTLAFAGELAETLNEQAGVEAFMTREKDEFLSLPERVQIARQRGANLFISIHADTLRQRDIRGATVYTISDKAS 261
+                 5789**********99747788999***************9999999**************************************************** PP
+
+  EMBOSS_001  99 daiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekl 196
+                 d +a +lae en  d + g+  + e   + dil+dltrret+afs+n+a +vvs++ +  inlinnphr+a f+vl+apdvpsvl+e+g+lsn+edekl
+   088911349 262 DHLAANLAERENLSDEIAGIAlQSEPAAVADILIDLTRRETQAFSVNLARSVVSSF-EGKINLINNPHRHAGFRVLQAPDVPSVLLELGFLSNREDEKL 359
+                 *******************973568899**************************98.578*************************************** PP
+
+  EMBOSS_001 197 lnnpqwrkqmaasiaysir 215
+                 l +p wrk++a  ia ++r
+   088911349 360 LLDPVWRKKVAGLIATAVR 378
+                 ***************9988 PP
+
+>> 087265820  58945328771266 1825976
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  224.5   1.0   7.1e-67   3.7e-63       1     214 [.     215     429 ..     215     431 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 224.5 bits;  conditional E-value: 7.1e-67
+  EMBOSS_001   1 vvldpghggidggargvt.gilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeas 98 
+                 v +d ghggid+ga g t    ek vtlafa+ l d+l k       ltrd d +l lserv  a++  adlfisihadt+    +rgatvyt+sd+as
+   087265820 215 VAVDAGHGGIDAGASGATtKTPEKTVTLAFAKLLADKLNKIEGVKAFLTRDDDTYLSLSERVTVARQHHADLFISIHADTLPQKDIRGATVYTLSDKAS 313
+                 5789***********9862578********************999****************************************************** PP
+
+  EMBOSS_001  99 daiakslaesenkvdlldglpkees.leltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekl 196
+                 d +a++la  en  d l g   e++  e+ dilldltrret+afs+ +a+nvv ++   ++ linnphr a+fqvl+apd+ps l+e+g+lsn +dekl
+   087265820 314 DRMAENLAARENLSDQLAGYQVEDAkPEVADILLDLTRRETQAFSVALADNVVKSFD-GQVGLINNPHRQANFQVLRAPDIPSALLEMGFLSNSDDEKL 411
+                 *******************998876269*************************9986.78*************************************** PP
+
+  EMBOSS_001 197 lnnpqwrkqmaasiaysi 214
+                 l +  wr ++a+ +a ++
+   087265820 412 LLDENWRDKVASLLAEAV 429
+                 **********99998776 PP
+
+>> 090043607  58945328771266 464029
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  224.2   0.7   8.6e-67   4.4e-63       2     213 ..     188     400 ..     187     403 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 224.2 bits;  conditional E-value: 8.6e-67
+  EMBOSS_001   2 vldpghggidggargvtg.ilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                  +d ghggid ga gv + +lek+vtl fa+al   l         ltr++d fl lserv+ a++  a lf+s+hadt+    +rgatvytisd+asd
+   090043607 188 AVDAGHGGIDTGAIGVDSkVLEKNVTLGFAQALAKRLNDLPGVQAVLTREADEFLSLSERVQIARQKGASLFVSLHADTVKQADIRGATVYTISDKASD 286
+                 689*************6439******************99999999***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                  +a slae en  d + gl   +e  e+ dil+dltrret+afsin+a ++vs++ + +i linnphr+a f+vl+apdvps+l+e+g++snkede ll
+   090043607 287 HLAASLAERENLSDAVAGLTlTDEPAEVADILIDLTRRETQAFSINLARSIVSSF-EGQIRLINNPHRFAGFRVLQAPDVPSILLELGFMSNKEDEALL 384
+                 ******************9835899****************************97.589**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiays 213
+                  +  wr ++a  ia +
+   090043607 385 LDTAWRDKVADRIADA 400
+                 *********9999866 PP
+
+>> 087663370  58945328771266 394
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  223.4   0.3   1.5e-66   7.6e-63       2     215 ..     213     427 ..     212     428 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 223.4 bits;  conditional E-value: 1.5e-66
+  EMBOSS_001   2 vldpghggidggarg.vtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                  +d ghggid ga g vt   ek vtlafar l   l + +     ltrd d fl l +rv+ a++  a+lfis+hadt+    +rgatvytisd+asd
+   087663370 213 AIDAGHGGIDTGAIGsVTKTEEKHVTLAFARELVATLNREAGIEAFLTRDGDEFLSLPQRVQIARQKGANLFISVHADTLRQKDIRGATVYTISDKASD 311
+                 68*********9987689999*******************999999***************************************************** PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpke.esleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                  +a  la  en  d + g+p e e  e+ dil+dltrret+afs+n+a +vvs++ + +i linnphr+a f+vl+apdvpsvl+e+g++snk+dek l
+   087663370 312 HLAADLAARENLSDEIAGIPLEsEPAEVADILIDLTRRETQAFSVNLARSVVSSF-EGQIGLINNPHRHAGFRVLQAPDVPSVLLELGFMSNKDDEKQL 409
+                 ********************874789***************************97.589**************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiaysir 215
+                  +p wrk+++  +a ++r
+   087663370 410 LDPAWRKKVSELLAVAVR 427
+                 **********99999988 PP
+
+>> 088656968  58945328771266 1532558
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  223.3   0.3   1.6e-66   8.1e-63       1     215 [.     189     404 ..     189     405 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 223.3 bits;  conditional E-value: 1.6e-66
+  EMBOSS_001   1 vvldpghggidggargv.tgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeas 98 
+                 v +d ghggid+ga g  t+  ek +tlafa+ l + l + +     ltrd d fl lserv  a++  adlf+s+hadt+    +rgatvyt+sd+as
+   088656968 189 VAVDAGHGGIDAGAAGAgTNTPEKTITLAFAKMLAERLNEINGIKAFLTRDDDTFLSLSERVTLARQGRADLFVSLHADTLAQKDIRGATVYTLSDKAS 287
+                 5789*********999758999******************9999999**************************************************** PP
+
+  EMBOSS_001  99 daiakslaesenkvdlldglp.keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekl 196
+                 d +a++la  en  d l g   k    e+ dilldltrret+afsi +annvv ++ + ++ linnphrya fqvl+apd+psvl+e+g+lsn edekl
+   088656968 288 DRMAENLAARENLSDELAGYSiKSGPPEVADILLDLTRRETQAFSIALANNVVESF-EGQVGLINNPHRYAGFQVLRAPDIPSVLLELGFLSNLEDEKL 385
+                 *****************9986367789**************************997.689*************************************** PP
+
+  EMBOSS_001 197 lnnpqwrkqmaasiaysir 215
+                 l +  wr+++   +a ++r
+   088656968 386 LLDEGWREKVTGRLADAVR 404
+                 ***********99998887 PP
+
+>> 081095177  206194748979988 937218
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  223.0   0.4     2e-66     1e-62       1     214 [.     194     408 ..     194     410 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 223.0 bits;  conditional E-value: 2e-66
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +v+dpghgg+d+ga g  g+ ekd+ la a++lrd l+  s   v ltr+ d f+ l er   aq+ dadlfis+had+i  h lrgat+yt+s+ asd
+   081095177 194 IVIDPGHGGVDNGAIGENGVKEKDINLAAAKSLRDSLETVSSIRVVLTREDDRFIALGERTAFAQKKDADLFISLHADSIRYHGLRGATIYTLSNRASD 292
+                 699************************************************************************************************ PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglp..keesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekl 196
+                 a+++ + e+en  d   g p    e+ e+ dilldltrret  +s +fa  ++ ++ k+ i linnp r a f+vlkapdvpsvl+e+g+lsn++d +l
+   081095177 293 ALSREIVENENAADQY-GAPdlAAEAPEVFDILLDLTRRETVGYSEHFATALLEDFRKAGIRLINNPKRSAGFRVLKAPDVPSVLVEMGFLSNEKDAEL 390
+                 **************87.5562346899************************************************************************ PP
+
+  EMBOSS_001 197 lnnpqwrkqmaasiaysi 214
+                 l +  wr++   ++a+si
+   081095177 391 LMSEAWREKTMGTLAHSI 408
+                 ***************998 PP
+
+>> 084049466  58945328771266 2126741
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  223.1   0.1   1.9e-66   9.6e-63       1     213 [.     199     411 ..     199     414 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 223.1 bits;  conditional E-value: 1.9e-66
+  EMBOSS_001   1 vvldpghggidggargvtgilekdvtlafaralrdelqkgshtivaltrdsdiflrlservkkaqefdadlfisihadtidvhslrgatvytisdeasd 99 
+                 +vldpghggidgga+gv g  ekd+tl+f + l+  l+k  +  v +tr  d+flrl erv+ a++ +adlfis+had+i  +++rgatvyt+s++asd
+   084049466 199 IVLDPGHGGIDGGAEGVRGTAEKDLTLSFCQELHAALEKTGRYRVFMTRTEDVFLRLDERVRIARQHEADLFISVHADSIRYRNIRGATVYTFSEQASD 297
+                 69*************************************99999******************************************************* PP
+
+  EMBOSS_001 100 aiakslaesenkvdlldglpk.eesleltdilldltrrethafsinfannvvsnlskshinlinnphryadfqvlkapdvpsvlieigylsnkedekll 197
+                  ia++    en  d l g+   e+s ++tdil+dl rret  fs++fa  +v  l ++ i +i nphr   ++vl+apdvpsvl+e+gylsn +de  l
+   084049466 298 EIARAAVIRENLADSLAGIENpEKSQQVTDILVDLVRRETLGFSVSFARALVDRLDET-IEMIKNPHRSGAYRVLRAPDVPSVLVELGYLSNPKDEAQL 395
+                 *******************86377999****************************975.9*************************************** PP
+
+  EMBOSS_001 198 nnpqwrkqmaasiays 213
+                  +  wrk+   s+  +
+   084049466 396 LDVDWRKRAVGSLIEA 411
+                 ********99988665 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (0 nodes)
+Target sequences:                   61341560  (0 residues searched)
+Passed MSV filter:                   1491615  (0.0243165); expected 1226831.2 (0.02)
+Passed bias filter:                  1242564  (0.0202565); expected 1226831.2 (0.02)
+Passed Vit filter:                     93881  (0.00153046); expected 61341.6 (0.001)
+Passed Fwd filter:                     13596  (0.000221644); expected 613.4 (1e-05)
+Initial search space (Z):           61341560  [actual number of targets]
+Domain search space  (domZ):           11855  [number of targets reported over threshold]
+# CPU time: 0.02u 0.01s 00:00:00.03 Elapsed: 00:00:49.52
+# Mc/sec: 0.00
+//
+Total bytes received 13700246
+Number of hits displayed 100
