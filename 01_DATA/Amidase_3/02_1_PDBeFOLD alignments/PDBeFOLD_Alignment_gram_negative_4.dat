@@ -1,0 +1,534 @@
+ PDBeFold v2.59. (src3) 14 Apr 2014 result file.
+
+                   RESULTS OF MULTIPLE ALIGNMENT
+
+  SUMMARY
+
+                                                    Consensus scores
+  ##    Structure                        Nres  Nsse   RMSD  Q-score
+   1  PDB 3ne8:A  .....................   226   13   1.0304  0.5858
+   2  PDB 4bin:A  .....................   348   23   1.0566  0.3784
+   3  PDB 3czx:A  .....................   182   11   1.8197  0.5945
+   4  PDB 7b3n:A  .....................   169   11   1.4354  0.7126
+
+ Number of aligned residues 148
+ Number of aligned SSEs     7
+ Overall RMSD               2.2435
+ Overall Q-score            0.2389
+
+
+  SECONDARY STRUCTURE ALIGNMENT
+
+ PDB 3ne8:A  ...........  ----------ShSHSShhshShH
+ PDB 4bin:A  ...........  sssshsssshShSHSShhshShH
+ PDB 3czx:A  ...........  ----------ShSHSShs-hS-H
+ PDB 7b3n:A  ...........  ----------ShSHSShs-hS-H
+
+
+  SECONDARY STRUCTURES DETAILS
+
+ PDB 3ne8:A  ......                                                         
+ PDB 4bin:A  ...... |s|a:val  36 /trp  42 | ==> |s|a:thr  48 /ser  54 | ==> 
+ PDB 3czx:A  ......                                                         
+ PDB 7b3n:A  ......                                                         
+
+ PDB 3ne8:A  ......                                                         
+ PDB 4bin:A  ...... |s|a:lys  59 /leu  65 | ==> |s|a:arg  70 /glu  76 | ==> 
+ PDB 3czx:A  ......                                                         
+ PDB 7b3n:A  ......                                                         
+
+ PDB 3ne8:A  ......                                                         
+ PDB 4bin:A  ...... |h|a:asn  81 /ile  91 | ==> |s|a:ile  98 /asp 107 | ==> 
+ PDB 3czx:A  ......                                                         
+ PDB 7b3n:A  ......                                                         
+
+ PDB 3ne8:A  ......                                                         
+ PDB 4bin:A  ...... |s|a:thr 110 /leu 117 | ==> |s|a:val 121 /leu 128 | ==> 
+ PDB 3czx:A  ......                                                         
+ PDB 7b3n:A  ......                                                         
+
+ PDB 3ne8:A  ......                                                         
+ PDB 4bin:A  ...... |s|a:glu 136 /pro 144 | ==> |h|a:leu 154 /asp 160 | ==> 
+ PDB 3czx:A  ......                                                         
+ PDB 7b3n:A  ......                                                         
+
+ PDB 3ne8:A  ...... |S|A:PHE 180 /PRO 186 | ==> |h|a:leu 202 /gly 221 | ==> 
+ PDB 4bin:A  ...... |S|A:ILE 188 /PRO 194 | ==> |h|a:arg 210 /glu 227 | ==> 
+ PDB 3czx:A  ...... |S|A:ILE   5 /ALA   9 | ==> |h|a:glu  25 /gly  45 | ==> 
+ PDB 7b3n:A  ...... |S|A:ILE  11 /PRO  15 | ==> |h|a:arg  31 /leu  50 | ==> 
+
+ PDB 3ne8:A  ...... |S|A:THR 224 /LEU 228 | ==> |H|A:ARG 237 /PHE 248 | ==> 
+ PDB 4bin:A  ...... |S|A:MET 232 /MET 236 | ==> |H|A:PRO 245 /GLN 256 | ==> 
+ PDB 3czx:A  ...... |S|A:VAL  48 /THR  50 | ==> |H|A:PRO  59 /GLY  69 | ==> 
+ PDB 7b3n:A  ...... |S|A:VAL  54 /PHE  56 | ==> |H|A:PRO  65 /MET  76 | ==> 
+
+ PDB 3ne8:A  ...... |S|A:LEU 252 /HIS 257 | ==> |S|A:ALA 269 /ILE 274 | ==> 
+ PDB 4bin:A  ...... |S|A:LEU 260 /HIS 265 | ==> |S|A:SER 278 /LEU 282 | ==> 
+ PDB 3czx:A  ...... |S|A:VAL  72 /PHE  76 | ==> |S|A:GLU  90 /SER  93 | ==> 
+ PDB 7b3n:A  ...... |S|A:LEU  80 /ASP  87 | ==> |S|A:GLY  95 /TYR  98 | ==> 
+
+ PDB 3ne8:A  ...... |h|a:asp 280 /gly 298 | ==> |h|a:asp 309 /ser 337 | ==> 
+ PDB 4bin:A  ...... |h|a:ser 289 /gly 307 | ==> |h|a:met 323 /gly 344 | ==> 
+ PDB 3czx:A  ...... |h|a:asn  97 /gly 113 | ==> |s|a:phe 122 /pro 124 | ==> 
+ PDB 7b3n:A  ...... |h|a:gly 103 /ala 113 | ==> |s|a:trp 120 /pro 123 | ==> 
+
+ PDB 3ne8:A  ...... |s|a:leu 341 /ala 349 | ==> |h|a:phe 351 /lys 355 | ==> 
+ PDB 4bin:A  ...... |s|a:glu 355 /ala 357 | ==> |h|a:phe 359 /lys 363 | ==> 
+ PDB 3czx:A  ......                             |h|a:arg 132 /ala 138 | ==> 
+ PDB 7b3n:A  ......                             |h|a:leu 132 /phe 137 | ==> 
+
+ PDB 3ne8:A  ...... |S|A:SER 361 /GLU 365 | ==> |h|a:asn 371 /asn 379 | ==> 
+ PDB 4bin:A  ...... |S|A:SER 369 /GLU 373 | ==> |h|a:asn 379 /lys 387 | ==> 
+ PDB 3czx:A  ...... |S|A:ILE 141 /GLU 144 | ==>                             
+ PDB 7b3n:A  ...... |S|A:ALA 141 /PRO 148 | ==>                             
+
+ PDB 3ne8:A  ...... |H|A:ASN 380 /GLN 403 |
+ PDB 4bin:A  ...... |H|A:THR 388 /PHE 407 |
+ PDB 3czx:A  ...... |H|A:ASN 150 /GLY 177 |
+ PDB 7b3n:A  ...... |H|A:SER 153 /TRP 175 |
+
+
+  CROSS-STRUCTURE STATISTICS
+
+
+ << RMSD >>
+   Structure                 1       2       3       4
+ ------------------------+-------+-------+-------+-------
+   1. PDB 3ne8:A  ......           1.097   2.575   1.990 
+   2. PDB 4bin:A  ......   1.097           2.563   2.059 
+   3. PDB 3czx:A  ......   2.575   2.563           2.755 
+   4. PDB 7b3n:A  ......   1.990   2.059   2.755         
+
+
+ << Q-score >>
+   Structure                 1       2       3       4
+ ------------------------+-------+-------+-------+-------
+   1. PDB 3ne8:A  ......           0.246   0.307   0.398 
+   2. PDB 4bin:A  ......   0.246           0.200   0.253 
+   3. PDB 3czx:A  ......   0.307   0.200           0.386 
+   4. PDB 7b3n:A  ......   0.398   0.253   0.386         
+
+
+ << Sequence Identity >>
+   Structure                 1       2       3       4
+ ------------------------+-------+-------+-------+-------
+   1. PDB 3ne8:A  ......           0.439   0.155   0.358 
+   2. PDB 4bin:A  ......   0.439           0.223   0.324 
+   3. PDB 3czx:A  ......   0.155   0.223           0.230 
+   4. PDB 7b3n:A  ......   0.358   0.324   0.230         
+
+
+  ROTATION-TRANSLATION MATRICES OF BEST SUPERPOSITION
+
+                    |   0.99997   0.00481  -0.00591 |   | x |   |   0.18403 |
+ PDB 3ne8:A  ...... |  -0.00473   0.99988   0.01475 | * | y | + |  -0.63199 |
+                    |   0.00598  -0.01473   0.99987 |   | z |   |   0.14327 |
+
+                    |  -0.12594   0.54540   0.82866 |   | x |   | -29.03936 |
+ PDB 4bin:A  ...... |   0.71925  -0.52510   0.45492 | * | y | + |  44.90802 |
+                    |   0.68324   0.65331  -0.32615 |   | z |   |  18.67053 |
+
+                    |   0.46166  -0.55391   0.69286 |   | x |   |  -5.71258 |
+ PDB 3czx:A  ...... |  -0.88219  -0.20504   0.42390 | * | y | + |  29.74367 |
+                    |  -0.09274  -0.80694  -0.58331 |   | z |   |  98.76428 |
+
+                    |  -0.93476   0.27177  -0.22886 |   | x |   |  43.01725 |
+ PDB 7b3n:A  ...... |   0.33220   0.44011  -0.83423 | * | y | + |  76.17775 |
+                    |  -0.12599  -0.85583  -0.50168 |   | z |   | 123.30261 |
+
+
+  3D ALIGNMENT OF BACKBONE ATOMS
+
+-----+------------+-+------------+-+------------+-+------------+
+  ## |    3ne8    | |    4bin    | |    3czx    | |    7b3n    |
+-----+------------+-+------------+-+------------+-+------------+
+   1 |            | | |a:phe  30 | |            | |            |
+   2 |            | | |a:gln  31 | |            | |            |
+   3 |            | | |a:gly  32 | |            | |            |
+   4 |            | | |a:his  33 | |            | |            |
+   5 |            | | |a:met  34 | |            | |            |
+   6 |            | | |a:gln  35 | |            | |            |
+   7 |            | |s|a:val  36 | |            | |            |
+   8 |            | |s|a:val  37 | |            | |            |
+   9 |            | |s|a:ala  38 | |            | |            |
+  10 |            | |s|a:val  39 | |            | |            |
+  11 |            | |s|a:arg  40 | |            | |            |
+  12 |            | |s|a:val  41 | |            | |            |
+  13 |            | |s|a:trp  42 | |            | |            |
+  14 |            | | |a:pro  43 | |            | |            |
+  15 |            | | |a:ala  44 | |            | |            |
+  16 |            | | |a:ser  45 | |            | |            |
+  17 |            | | |a:ser  46 | |            | |            |
+  18 |            | | |a:tyr  47 | |            | |            |
+  19 |            | |s|a:thr  48 | |            | |            |
+  20 |            | |s|a:arg  49 | |            | |            |
+  21 |            | |s|a:val  50 | |            | |            |
+  22 |            | |s|a:thr  51 | |            | |            |
+  23 |            | |s|a:val  52 | |            | |            |
+  24 |            | |s|a:glu  53 | |            | |            |
+  25 |            | |s|a:ser  54 | |            | |            |
+  26 |            | | |a:asn  55 | |            | |            |
+  27 |            | | |a:arg  56 | |            | |            |
+  28 |            | | |a:gln  57 | |            | |            |
+  29 |            | | |a:leu  58 | |            | |            |
+  30 |            | |s|a:lys  59 | |            | |            |
+  31 |            | |s|a:tyr  60 | |            | |            |
+  32 |            | |s|a:lys  61 | |            | |            |
+  33 |            | |s|a:gln  62 | |            | |            |
+  34 |            | |s|a:phe  63 | |            | |            |
+  35 |            | |s|a:ala  64 | |            | |            |
+  36 |            | |s|a:leu  65 | |            | |            |
+  37 |            | | |a:ser  66 | |            | |            |
+  38 |            | | |a:asn  67 | |            | |            |
+  39 |            | | |a:pro  68 | |            | |            |
+  40 |            | | |a:glu  69 | |            | |            |
+  41 |            | |s|a:arg  70 | |            | |            |
+  42 |            | |s|a:val  71 | |            | |            |
+  43 |            | |s|a:val  72 | |            | |            |
+  44 |            | |s|a:val  73 | |            | |            |
+  45 |            | |s|a:asp  74 | |            | |            |
+  46 |            | |s|a:ile  75 | |            | |            |
+  47 |            | |s|a:glu  76 | |            | |            |
+  48 |            | | |a:asp  77 | |            | |            |
+  49 |            | | |a:val  78 | |            | |            |
+  50 |            | | |a:asn  79 | |            | |            |
+  51 |            | | |a:leu  80 | |            | |            |
+  52 |            | |h|a:asn  81 | |            | |            |
+  53 |            | |h|a:ser  82 | |            | |            |
+  54 |            | |h|a:val  83 | |            | |            |
+  55 |            | |h|a:leu  84 | |            | |            |
+  56 |            | |h|a:lys  85 | |            | |            |
+  57 |            | |h|a:gly  86 | |            | |            |
+  58 |            | |h|a:met  87 | |            | |            |
+  59 |            | |h|a:ala  88 | |            | |            |
+  60 |            | |h|a:ala  89 | |            | |            |
+  61 |            | |h|a:gln  90 | |            | |            |
+  62 |            | |h|a:ile  91 | |            | |            |
+  63 |            | | |a:arg  92 | |            | |            |
+  64 |            | | |a:ala  93 | |            | |            |
+  65 |            | | |a:asp  94 | |            | |            |
+  66 |            | | |a:asp  95 | |            | |            |
+  67 |            | | |a:pro  96 | |            | |            |
+  68 |            | | |a:phe  97 | |            | |            |
+  69 |            | |s|a:ile  98 | |            | |            |
+  70 |            | |s|a:lys  99 | |            | |            |
+  71 |            | |s|a:ser 100 | |            | |            |
+  72 |            | |s|a:ala 101 | |            | |            |
+  73 |            | |s|a:arg 102 | |            | |            |
+  74 |            | |s|a:val 103 | |            | |            |
+  75 |            | |s|a:gly 104 | |            | |            |
+  76 |            | |s|a:gln 105 | |            | |            |
+  77 |            | |s|a:phe 106 | |            | |            |
+  78 |            | |s|a:asp 107 | |            | |            |
+  79 |            | | |a:pro 108 | |            | |            |
+  80 |            | | |a:gln 109 | |            | |            |
+  81 |            | |s|a:thr 110 | |            | |            |
+  82 |            | |s|a:val 111 | |            | |            |
+  83 |            | |s|a:arg 112 | |            | |            |
+  84 |            | |s|a:met 113 | |            | |            |
+  85 |            | |s|a:val 114 | |            | |            |
+  86 |            | |s|a:phe 115 | |            | |            |
+  87 |            | |s|a:glu 116 | |            | |            |
+  88 |            | |s|a:leu 117 | |            | |            |
+  89 |            | | |a:lys 118 | |            | |            |
+  90 |            | | |a:gln 119 | |            | |            |
+  91 |            | | |a:asn 120 | |            | |            |
+  92 |            | |s|a:val 121 | |            | |            |
+  93 |            | |s|a:lys 122 | |            | |            |
+  94 |            | |s|a:pro 123 | |            | |            |
+  95 |            | |s|a:gln 124 | |            | |            |
+  96 |            | |s|a:leu 125 | |            | |            |
+  97 |            | |s|a:phe 126 | |            | |            |
+  98 |            | |s|a:ala 127 | |            | |            |
+  99 |            | |s|a:leu 128 | |            | |            |
+ 100 |            | | |a:ala 129 | |            | |            |
+ 101 |            | | |a:pro 130 | |            | |            |
+ 102 |            | | |a:val 131 | |            | |            |
+ 103 |            | | |a:ala 132 | |            | |            |
+ 104 |            | | |a:gly 133 | |            | |            |
+ 105 |            | | |a:phe 134 | |            | |            |
+ 106 |            | | |a:lys 135 | |            | |            |
+ 107 |            | |s|a:glu 136 | |            | |            |
+ 108 |            | |s|a:arg 137 | |            | |            |
+ 109 |            | |s|a:leu 138 | |            | |            |
+ 110 |            | |s|a:val 139 | |            | |            |
+ 111 |            | |s|a:met 140 | |            | |            |
+ 112 |            | |s|a:asp 141 | |            | |            |
+ 113 |            | |s|a:leu 142 | |            | |            |
+ 114 |            | |s|a:tyr 143 | |            | |            |
+ 115 |            | |s|a:pro 144 | |            | |            |
+ 116 |            | | |a:ala 145 | |            | |            |
+ 117 |            | | |a:pro 153 | |            | |            |
+ 118 |            | |h|a:leu 154 | |            | |            |
+ 119 |            | |h|a:leu 155 | |            | |            |
+ 120 |            | |h|a:ala 156 | |            | |            |
+ 121 |            | |h|a:leu 157 | |            | |            |
+ 122 |            | |h|a:leu 158 | |            | |            |
+ 123 |            | |h|a:glu 159 | |            | |            |
+ 124 |            | |h|a:asp 160 | |            | |            |
+ 125 |            | | |a:tyr 161 | |            | |            |
+ 126 |            | | |a:asn 162 | |            | |            |
+ 127 |            | | |a:ser 175 | |            | |            |
+ 128 |            | | |a:gly 176 | |            | |            |
+ 129 |            | | |a:pro 177 | |            | |            |
+ 130 |            | | |a:gln 178 | |            | |            |
+ 131 |            | | |a:pro 179 | |            | |            |
+ 132 |            | | |a:gly 180 | |            | |            |
+ 133 |            | | |a:lys 181 | |            | |            |
+ 134 |            | | |a:ala 182 | |            | |            |
+ 135 |            | | |a:gly 183 | |            | |            |
+ 136 |            | | |a:arg 184 | |            | |            |
+ 137 |            | | |a:asp 185 | | |a:ala   0 | |            |
+ 138 | |a:ala 178 | | |a:arg 186 | | |a:mse   1 | | |a:pro   7 |
+ 139 | |a:ser 179 | | |a:pro 187 | | |a:ser   2 | | |a:ser   8 |
+ 140 |S|A:PHE 180 |*|S|A:ILE 188 |*| |A:LYS   3 |*| |A:ALA   9 |
+ 141 |S|A:ARG 181 |*|S|A:VAL 189 |*| |A:ILE   4 |*| |A:TYR  10 |
+ 142 |S|A:VAL 182 |*|S|A:ILE 190 |*|S|A:ILE   5 |*|S|A:ILE  11 |
+ 143 |S|A:VAL 183 |*|S|A:MET 191 |*|S|A:CYS   6 |*|S|A:VAL  12 |
+ 144 |S|A:LEU 184 |*|S|A:LEU 192 |*|S|A:LEU   7 |*|S|A:LEU  13 |
+ 145 |S|A:ASP 185 |*|S|A:ASP 193 |*|S|A:THR   8 |*|S|A:ASP  14 |
+ 146 |S|A:PRO 186 |*|S|A:PRO 194 |*|S|A:ALA   9 |*|S|A:PRO  15 |
+ 147 | |A:GLY 187 |*| |A:GLY 195 |*| |A:GLY  10 |*| |A:GLY  16 |
+ 148 | |A:HIS 188 |*| |A:HIS 196 |*| |A:HIS  11 |*| |A:HIS  17 |
+ 149 | |A:GLY 189 |*| |A:GLY 197 |*| |A:SER  12 |*| |A:GLY  18 |
+ 150 | |A:GLY 190 |*| |A:GLY 198 |*| |A:ASN  13 |*| |A:GLY  19 |
+ 151 | |A:ILE 191 |*| |A:GLU 199 |*| |A:THR  14 |*| |A:GLN  20 |
+ 152 | |A:ASP 192 |*| |A:ASP 200 |*| |A:ASP  15 |*| |A:ASP  21 |
+ 153 | |A:GLY 193 |*| |A:SER 201 |*| |A:PRO  16 |*| |A:PRO  22 |
+ 154 | |A:GLY 194 |*| |A:GLY 202 |*| |A:GLY  17 |*| |A:GLY  23 |
+ 155 | |A:ALA 195 |*| |A:ALA 203 |*| |A:ALA  18 |*| |A:ALA  24 |
+ 156 | |A:ARG 196 |*| |A:VAL 204 |*| |A:VAL  19 |*| |A:VAL  25 |
+ 157 | |A:GLY 197 |*| |A:GLY 205 |*| |A:ASN  20 |*| |A:ALA  26 |
+ 158 | |a:val 198 | | |a:lys 206 | |            | | |a:pro  27 |
+ 159 | |A:THR 199 |*| |A:TYR 207 |*| |A:GLY  21 |*| |A:ASP  28 |
+ 160 | |A:GLY 200 |*| |A:LYS 208 |*| |A:SER  22 |*| |A:GLY  29 |
+ 161 | |A:ILE 201 |*| |A:THR 209 |*| |A:ASP  23 |*| |A:THR  30 |
+ 162 |H|A:LEU 202 |*|H|A:ARG 210 |*| |A:ARG  24 |*|H|A:ARG  31 |
+ 163 |H|A:GLU 203 |*|H|A:GLU 211 |*|H|A:GLU  25 |*|H|A:GLU  32 |
+ 164 |H|A:LYS 204 |*|H|A:LYS 212 |*|H|A:ALA  26 |*|H|A:ALA  33 |
+ 165 |H|A:ASP 205 |*|H|A:ASP 213 |*|H|A:ASP  27 |*|H|A:ASP  34 |
+ 166 |H|A:VAL 206 |*|H|A:VAL 214 |*|H|A:LEU  28 |*|H|A:LEU  35 |
+ 167 |H|A:THR 207 |*|H|A:VAL 215 |*|H|A:ALA  29 |*|H|A:ASN  36 |
+ 168 |H|A:LEU 208 |*|H|A:LEU 216 |*|H|A:GLN  30 |*|H|A:LEU  37 |
+ 169 |H|A:ALA 209 |*|H|A:GLN 217 |*|H|A:ASP  31 |*|H|A:ALA  38 |
+ 170 |H|A:PHE 210 |*|H|A:ILE 218 |*|H|A:MSE  32 |*|H|A:GLN  39 |
+ 171 |H|A:ALA 211 |*|H|A:ALA 219 |*|H|A:ARG  33 |*|H|A:ALA  40 |
+ 172 |H|A:ARG 212 |*|H|A:ARG 220 |*|H|A:ASN  34 |*|H|A:LEU  41 |
+ 173 |H|A:ALA 213 |*|H|A:ARG 221 |*|H|A:ILE  35 |*|H|A:THR  42 |
+ 174 |H|A:LEU 214 |*|H|A:LEU 222 |*|H|A:VAL  36 |*|H|A:LEU  43 |
+ 175 |H|A:ARG 215 |*|H|A:ARG 223 |*|H|A:ALA  37 |*|H|A:LYS  44 |
+ 176 |H|A:ASP 216 |*|H|A:SER 224 |*|H|A:SER  38 |*|H|A:GLU  45 |
+ 177 |H|A:GLU 217 |*|H|A:LEU 225 |*|H|A:ILE  39 |*|H|A:TYR  46 |
+ 178 |H|A:LEU 218 |*|H|A:ILE 226 |*|H|A:LEU  40 |*|H|A:LEU  47 |
+ 179 |            | |            | |h|a:arg  41 | |            |
+ 180 |H|A:GLN 219 |*|H|A:GLU 227 |*|H|A:ASN  42 |*|H|A:VAL  48 |
+ 181 |H|A:LYS 220 |*| |A:LYS 228 |*|H|A:ASP  43 |*|H|A:ALA  49 |
+ 182 |H|A:GLY 221 |*| |A:GLU 229 |*|H|A:TYR  44 |*|H|A:LEU  50 |
+ 183 | |A:SER 222 |*| |A:GLY 230 |*|H|A:GLY  45 |*| |A:GLY  51 |
+ 184 | |a:his 223 | | |a:asn 231 | |            | |            |
+ 185 |S|A:THR 224 |*|S|A:MET 232 |*| |A:LEU  46 |*| |A:TYR  52 |
+ 186 |S|A:ILE 225 |*|S|A:LYS 233 |*| |A:THR  47 |*| |A:ARG  53 |
+ 187 |S|A:VAL 226 |*|S|A:VAL 234 |*|S|A:VAL  48 |*|S|A:VAL  54 |
+ 188 |S|A:ALA 227 |*|S|A:TYR 235 |*|S|A:LYS  49 |*|S|A:GLY  55 |
+ 189 |S|A:LEU 228 |*|S|A:MET 236 |*|S|A:THR  50 |*|S|A:PHE  56 |
+ 190 | |A:THR 229 |*| |A:THR 237 |*| |A:ASP  51 |*| |A:THR  57 |
+ 191 | |A:ARG 230 |*| |A:ARG 238 |*| |A:GLY  52 |*| |A:ARG  58 |
+ 192 | |A:ASP 231 |*| |A:ASN 239 |*| |A:THR  53 |*| |A:THR  59 |
+ 193 | |A:SER 232 |*| |A:GLU 240 |*| |A:GLY  54 |*| |A:SER  60 |
+ 194 | |A:ASP 233 |*| |A:ASP 241 |*| |A:LYS  55 |*| |A:ASP  61 |
+ 195 | |A:ILE 234 |*| |A:ILE 242 |*| |A:GLY  56 |*| |A:VAL  62 |
+ 196 | |a:phe 235 | | |a:phe 243 | |            | | |a:tyr  63 |
+ 197 | |A:LEU 236 |*| |A:ILE 244 |*| |A:ASN  57 |*| |A:VAL  64 |
+ 198 |            | |            | | |a:mse  58 | |            |
+ 199 |H|A:ARG 237 |*|H|A:PRO 245 |*|H|A:PRO  59 |*|H|A:PRO  65 |
+ 200 |H|A:LEU 238 |*|H|A:LEU 246 |*|H|A:LEU  60 |*|H|A:LEU  66 |
+ 201 |H|A:SER 239 |*|H|A:GLN 247 |*|H|A:ARG  61 |*|H|A:SER  67 |
+ 202 |H|A:GLU 240 |*|H|A:VAL 248 |*|H|A:ASP  62 |*|H|A:GLU  68 |
+ 203 |H|A:ARG 241 |*|H|A:ARG 249 |*|H|A:ALA  63 |*|H|A:ARG  69 |
+ 204 |H|A:VAL 242 |*|H|A:VAL 250 |*|H|A:VAL  64 |*|H|A:ILE  70 |
+ 205 |H|A:LYS 243 |*|H|A:ALA 251 |*|H|A:LYS  65 |*|H|A:ALA  71 |
+ 206 |H|A:LYS 244 |*|H|A:LYS 252 |*|H|A:LEU  66 |*|H|A:MET  72 |
+ 207 |H|A:ALA 245 |*|H|A:ALA 253 |*|H|A:ILE  67 |*|H|A:ALA  73 |
+ 208 |H|A:GLN 246 |*|H|A:GLN 254 |*|H|A:ARG  68 |*|H|A:ARG  74 |
+ 209 |H|A:GLU 247 |*|H|A:LYS 255 |*|H|A:GLY  69 |*|H|A:ARG  75 |
+ 210 |h|a:phe 248 | |h|a:gln 256 | |            | |h|a:met  76 |
+ 211 | |a:asp 249 | | |a:arg 257 | |            | | |a:gly  77 |
+ 212 | |A:ALA 250 |*| |A:ALA 258 |*| |A:SER  70 |*| |A:ALA  78 |
+ 213 | |A:ASP 251 |*| |A:ASP 259 |*| |A:ASP  71 |*| |A:ARG  79 |
+ 214 |S|A:LEU 252 |*|S|A:LEU 260 |*|S|A:VAL  72 |*|S|A:LEU  80 |
+ 215 |S|A:PHE 253 |*|S|A:PHE 261 |*|S|A:ALA  73 |*|S|A:PHE  81 |
+ 216 |S|A:ILE 254 |*|S|A:VAL 262 |*|S|A:ILE  74 |*|S|A:ILE  82 |
+ 217 |S|A:SER 255 |*|S|A:SER 263 |*|S|A:GLU  75 |*|S|A:SER  83 |
+ 218 |S|A:ILE 256 |*|S|A:ILE 264 |*|S|A:PHE  76 |*|S|A:VAL  84 |
+ 219 |S|A:HIS 257 |*|S|A:HIS 265 |*| |A:HIS  77 |*|S|A:HIS  85 |
+ 220 | |A:ALA 258 |*| |A:ALA 266 |*| |A:THR  78 |*|S|A:HIS  86 |
+ 221 | |A:ASP 259 |*| |A:ASP 267 |*| |A:ASN  79 |*|S|A:ASP  87 |
+ 222 | |A:THR 260 |*| |A:ALA 268 |*| |A:ALA  80 |*| |A:THR  88 |
+ 223 |            | |            | |            | | |a:pro  89 |
+ 224 | |A:ILE 261 |*| |A:PHE 269 |*| |A:ALA  81 |*| |A:THR  90 |
+ 225 | |a:asp 262 | | |a:thr 270 | | |a:ala  82 | |            |
+ 226 | |a:val 263 | | |a:ser 271 | | |a:asn  83 | |            |
+ 227 | |a:his 264 | | |a:arg 272 | | |a:lys  84 | |            |
+ 228 | |a:ser 265 | | |a:gln 273 | | |a:thr  85 | |            |
+ 229 | |A:LEU 266 |*| |A:PRO 274 |*| |A:ALA  86 |*| |A:ALA  91 |
+ 230 | |A:ARG 267 |*| |A:SER 275 |*| |A:THR  87 |*| |A:SER  92 |
+ 231 | |A:GLY 268 |*| |A:GLY 276 |*| |A:GLY  88 |*| |A:ARG  93 |
+ 232 |S|A:ALA 269 |*| |A:SER 277 |*| |A:ILE  89 |*| |A:PRO  94 |
+ 233 |S|A:THR 270 |*|S|A:SER 278 |*|S|A:GLU  90 |*|S|A:GLY  95 |
+ 234 |S|A:VAL 271 |*|S|A:VAL 279 |*|S|A:ALA  91 |*|S|A:VAL  96 |
+ 235 |S|A:TYR 272 |*|S|A:PHE 280 |*|S|A:LEU  92 |*|S|A:TYR  97 |
+ 236 |S|A:THR 273 |*|S|A:ALA 281 |*|S|A:SER  93 |*|S|A:TYR  98 |
+ 237 |S|A:ILE 274 |*|S|A:LEU 282 |*| |A:THR  94 |*| |A:SER  99 |
+ 238 | |A:SER 275 |*| |A:SER 283 |*| |A:PRO  95 |*| |A:PRO 100 |
+ 239 | |a:asp 276 | | |a:thr 284 | |            | |            |
+ 240 | |a:glu 277 | | |a:lys 285 | |            | |            |
+ 241 | |a:ala 278 | | |a:gly 286 | |            | |            |
+ 242 | |a:ser 279 | | |a:ala 287 | |            | |            |
+ 243 |h|a:asp 280 | | |a:thr 288 | |            | |            |
+ 244 |h|a:ala 281 | |h|a:ser 289 | |            | |            |
+ 245 |h|a:ile 282 | |h|a:thr 290 | |            | |            |
+ 246 |h|a:ala 283 | |h|a:ala 291 | |            | |            |
+ 247 |h|a:lys 284 | |h|a:ala 292 | |            | |            |
+ 248 |h|a:ser 285 | |h|a:lys 293 | |            | |            |
+ 249 |h|a:leu 286 | |h|a:tyr 294 | |            | |            |
+ 250 |h|a:ala 287 | |h|a:leu 295 | |            | |            |
+ 251 |h|a:glu 288 | |h|a:ala 296 | |            | |            |
+ 252 |h|a:ser 289 | |h|a:gln 297 | |            | |            |
+ 253 |h|a:glu 290 | |h|a:thr 298 | |            | |            |
+ 254 |h|a:asn 291 | |            | |            | |            |
+ 255 |h|a:lys 292 | |            | |            | |            |
+ 256 |h|a:val 293 | |            | |            | |            |
+ 257 |h|a:asp 294 | |            | |            | |            |
+ 258 |h|a:leu 295 | |            | |            | |            |
+ 259 |h|a:leu 296 | |h|a:gln 299 | |            | |            |
+ 260 |h|a:asp 297 | |h|a:asn 300 | |            | |            |
+ 261 |h|a:gly 298 | |h|a:ala 301 | |            | |            |
+ 262 | |a:leu 299 | |h|a:ser 302 | |            | |            |
+ 263 | |a:pro 300 | |h|a:asp 303 | |            | |            |
+ 264 | |a:lys 301 | |h|a:leu 304 | |            | |            |
+ 265 | |a:glu 302 | |h|a:ile 305 | |            | |            |
+ 266 |h|a:asp 309 | |h|a:gly 306 | |            | |            |
+ 267 |h|a:ile 310 | |h|a:gly 307 | |            | |            |
+ 268 |h|a:leu 311 | | |a:val 308 | |            | |            |
+ 269 |h|a:leu 312 | | |a:ser 309 | |            | |            |
+ 270 |h|a:asp 313 | | |a:asp 322 | |            | |            |
+ 271 |h|a:leu 314 | |h|a:met 323 | |            | |            |
+ 272 |h|a:thr 315 | |h|a:val 324 | |            | |            |
+ 273 |H|A:ARG 316 |*|H|A:GLN 325 |*| |A:LYS  96 |*| |A:HIS 101 |
+ 274 |h|a:arg 317 | |h|a:ser 326 | |            | |            |
+ 275 |h|a:glu 318 | |h|a:leu 327 | |            | |            |
+ 276 |H|A:THR 319 |*|H|A:THR 328 |*|H|A:ASN  97 |*| |A:PRO 102 |
+ 277 |H|A:HIS 320 |*|H|A:ILE 329 |*|H|A:LYS  98 |*|H|A:GLY 103 |
+ 278 |H|A:ALA 321 |*|H|A:ALA 330 |*|H|A:ARG  99 |*|H|A:SER 104 |
+ 279 |            | |            | |            | |h|a:glu 105 |
+ 280 |H|A:PHE 322 |*|H|A:ASP 331 |*|H|A:TRP 100 |*|H|A:GLU 106 |
+ 281 |h|a:ser 323 | |h|a:ser 332 | |            | |h|a:leu 107 |
+ 282 |h|a:ile 324 | |h|a:leu 333 | |            | |            |
+ 283 |h|a:asn 325 | |h|a:lys 334 | |            | |            |
+ 284 |h|a:phe 326 | |h|a:phe 335 | |            | |            |
+ 285 |H|A:ALA 327 |*|H|A:GLY 336 |*|H|A:CYS 101 |*|H|A:ALA 108 |
+ 286 |H|A:ASN 328 |*|H|A:LYS 337 |*|H|A:GLN 102 |*|H|A:ARG 109 |
+ 287 |H|A:ASN 329 |*|H|A:ALA 338 |*|H|A:VAL 103 |*|H|A:THR 110 |
+ 288 |H|A:VAL 330 |*|H|A:VAL 339 |*|H|A:LEU 104 |*|H|A:VAL 111 |
+ 289 |            | |            | |h|a:gly 105 | |            |
+ 290 |H|A:VAL 331 |*|H|A:LEU 340 |*|H|A:LYS 106 |*|H|A:ALA 112 |
+ 291 |H|A:SER 332 |*|H|A:ASN 341 |*|H|A:ALA 107 |*|H|A:ALA 113 |
+ 292 |            | |            | |h|a:val 108 | |            |
+ 293 |            | |            | |h|a:ala 109 | |            |
+ 294 |H|A:ASN 333 |*|H|A:LYS 342 |*|H|A:LYS 110 |*| |A:ALA 114 |
+ 295 |H|A:LEU 334 |*|H|A:LEU 343 |*|H|A:LYS 111 |*| |A:LEU 115 |
+ 296 |            | |            | |h|a:thr 112 | |            |
+ 297 |H|A:SER 335 |*|H|A:GLY 344 |*|H|A:GLY 113 |*| |A:GLY 116 |
+ 298 |h|a:lys 336 | | |a:lys 345 | |            | |            |
+ 299 |h|a:ser 337 | |            | |            | |            |
+ 300 | |a:his 338 | |            | |            | |            |
+ 301 | |a:ile 339 | | |a:ile 346 | |            | |            |
+ 302 | |A:ASN 340 |*| |A:ASN 347 |*| |A:TRP 114 |*| |A:GLU 117 |
+ 303 |            | | |a:lys 348 | |            | |            |
+ 304 |S|A:LEU 341 |*| |A:LEU 349 |*| |A:LYS 115 |*| |A:GLY 118 |
+ 305 |s|a:ile 342 | | |a:his 350 | | |a:leu 116 | |            |
+ 306 |s|a:asn 343 | | |a:lys 351 | | |a:arg 117 | |            |
+ 307 |            | |            | | |a:gly 118 | |            |
+ 308 |s|a:asn 344 | | |a:asn 352 | | |a:glu 119 | |            |
+ 309 |S|A:PRO 345 |*| |A:GLN 353 |*| |A:ASP 120 |*| |A:ALA 119 |
+ 310 |            | |            | |            | |s|a:trp 120 |
+ 311 |S|A:HIS 346 |*| |A:VAL 354 |*| |A:GLY 121 |*|S|A:VAL 121 |
+ 312 |S|A:ARG 347 |*|S|A:GLU 355 |*|S|A:PHE 122 |*|S|A:ARG 122 |
+ 313 |S|A:TYR 348 |*|S|A:GLN 356 |*|S|A:LYS 123 |*|S|A:PRO 123 |
+ 314 |            | |            | |s|a:pro 124 | |            |
+ 315 |S|A:ALA 349 |*|S|A:ALA 357 |*| |A:ASP 125 |*| |A:SER 124 |
+ 316 |            | |            | |            | | |a:ser 125 |
+ 317 |            | |            | |            | | |a:ala 126 |
+ 318 |            | |            | |            | | |a:ser 127 |
+ 319 |            | |            | |            | | |a:arg 128 |
+ 320 |            | |            | |            | | |a:phe 129 |
+ 321 |            | |            | |            | | |a:gly 130 |
+ 322 | |A:ASP 350 |*| |A:GLY 358 |*| |A:ASN 126 |*| |A:ARG 131 |
+ 323 |h|a:phe 351 | |h|a:phe 359 | | |a:ala 127 | |            |
+ 324 |            | |            | | |a:gly 128 | |            |
+ 325 |            | |            | | |a:gln 129 | |            |
+ 326 |            | |            | | |a:his 130 | |            |
+ 327 |            | |            | | |a:ser 131 | |            |
+ 328 |            | |            | |h|a:arg 132 | |            |
+ 329 |            | |            | |h|a:leu 133 | |            |
+ 330 |H|A:GLN 352 |*|H|A:ALA 360 |*|H|A:ALA 134 |*|H|A:LEU 132 |
+ 331 |H|A:VAL 353 |*|H|A:VAL 361 |*|H|A:TYR 135 |*|H|A:TYR 133 |
+ 332 |H|A:LEU 354 |*|H|A:LEU 362 |*|H|A:ALA 136 |*|H|A:ILE 134 |
+ 333 |H|A:LYS 355 |*|H|A:LYS 363 |*|H|A:GLN 137 |*|H|A:ASP 135 |
+ 334 |            | |            | |            | |h|a:asp 136 |
+ 335 | |A:ALA 356 |*| |A:ALA 364 |*|H|A:ALA 138 |*|H|A:PHE 137 |
+ 336 | |A:PRO 357 |*| |A:PRO 365 |*| |A:GLY 139 |*| |A:PRO 138 |
+ 337 | |a:asp 358 | | |a:asp 366 | |            | | |a:gly 139 |
+ 338 | |a:val 359 | | |a:ile 367 | |            | |            |
+ 339 | |a:pro 360 | | |a:pro 368 | |            | | |a:pro 140 |
+ 340 |S|A:SER 361 |*|S|A:SER 369 |*| |A:GLY 140 |*|S|A:ALA 141 |
+ 341 |S|A:VAL 362 |*|S|A:ILE 370 |*|S|A:ILE 141 |*|S|A:ILE 142 |
+ 342 |S|A:LEU 363 |*|S|A:LEU 371 |*|S|A:VAL 142 |*|S|A:LEU 143 |
+ 343 |S|A:ILE 364 |*|S|A:VAL 372 |*|S|A:PHE 143 |*|S|A:VAL 144 |
+ 344 |S|A:GLU 365 |*|S|A:GLU 373 |*|S|A:GLU 144 |*|S|A:GLU 145 |
+ 345 | |A:ILE 366 |*| |A:THR 374 |*| |A:PRO 145 |*|S|A:PHE 146 |
+ 346 | |A:GLY 367 |*| |A:ALA 375 |*| |A:PHE 146 |*|S|A:GLY 147 |
+ 347 | |A:TYR 368 |*| |A:PHE 376 |*| |A:PHE 147 |*|S|A:PRO 148 |
+ 348 | |A:LEU 369 |*| |A:ILE 377 |*| |A:ILE 148 |*| |A:THR 149 |
+ 349 | |a:ser 370 | | |a:ser 378 | | |a:ser 149 | |            |
+ 350 |H|A:ASN 371 |*|H|A:ASN 379 |*|H|A:ASN 150 |*| |A:ARG 150 |
+ 351 |h|a:lys 372 | |h|a:val 380 | |h|a:asp 151 | |            |
+ 352 |h|a:glu 373 | |h|a:glu 381 | |h|a:thr 152 | |            |
+ 353 |h|a:asp 374 | |h|a:glu 382 | |h|a:asp 153 | |            |
+ 354 |H|A:GLU 375 |*|H|A:GLU 383 |*|H|A:LEU 154 |*| |A:PRO 151 |
+ 355 |H|A:LYS 376 |*|H|A:ARG 384 |*|H|A:ALA 155 |*| |A:ILE 152 |
+ 356 |h|a:leu 377 | |h|a:lys 385 | |h|a:leu 156 | |            |
+ 357 |h|a:leu 378 | |h|a:leu 386 | |            | |            |
+ 358 |h|a:asn 379 | |h|a:lys 387 | |            | |            |
+ 359 |H|A:ASN 380 |*|H|A:THR 388 |*|H|A:PHE 157 |*|H|A:SER 153 |
+ 360 |H|A:PRO 381 |*|H|A:ALA 389 |*|H|A:LYS 158 |*|H|A:ARG 154 |
+ 361 |H|A:GLN 382 |*|H|A:THR 390 |*|H|A:THR 159 |*|H|A:ALA 155 |
+ 362 |H|A:TRP 383 |*|H|A:PHE 391 |*|H|A:THR 160 |*|H|A:GLU 156 |
+ 363 |H|A:ARG 384 |*|H|A:GLN 392 |*|H|A:LYS 161 |*|H|A:ARG 157 |
+ 364 |H|A:LYS 385 |*|H|A:GLN 393 |*|H|A:TRP 162 |*|H|A:ILE 158 |
+ 365 |H|A:GLN 386 |*|H|A:GLU 394 |*|H|A:GLY 163 |*|H|A:ALA 159 |
+ 366 |H|A:MSE 387 |*|H|A:VAL 395 |*|H|A:ILE 164 |*|H|A:ARG 160 |
+ 367 |H|A:ALA 388 |*|H|A:ALA 396 |*|H|A:CYS 165 |*|H|A:ALA 161 |
+ 368 |H|A:ALA 389 |*|H|A:GLU 397 |*|H|A:ARG 166 |*|H|A:GLN 162 |
+ 369 |H|A:SER 390 |*|H|A:SER 398 |*|H|A:ALA 167 |*|H|A:ALA 163 |
+ 370 |H|A:ILE 391 |*|H|A:ILE 399 |*|H|A:ILE 168 |*|H|A:VAL 164 |
+ 371 |H|A:ALA 392 |*|H|A:LEU 400 |*|H|A:ALA 169 |*|H|A:ALA 165 |
+ 372 |H|A:TYR 393 |*|H|A:ALA 401 |*|H|A:ASP 170 |*|H|A:SER 166 |
+ 373 |H|A:SER 394 |*|H|A:GLY 402 |*|H|A:ALA 171 |*|H|A:PRO 167 |
+ 374 |H|A:ILE 395 |*|H|A:ILE 403 |*|H|A:ILE 172 |*|H|A:ILE 168 |
+ 375 |H|A:ARG 396 |*|H|A:LYS 404 |*|H|A:ALA 173 |*|H|A:ALA 169 |
+ 376 |H|A:GLN 397 |*|H|A:ALA 405 |*|H|A:MSE 174 |*|H|A:GLU 170 |
+ 377 |H|A:PHE 398 |*|H|A:TYR 406 |*|H|A:GLU 175 |*|H|A:PHE 171 |
+ 378 |H|A:ALA 399 |*|H|A:PHE 407 |*|H|A:LEU 176 |*|H|A:ALA 172 |
+ 379 |H|A:GLU 400 |*| |A:ALA 408 |*|H|A:GLY 177 |*|H|A:ARG 173 |
+ 380 |h|a:tyr 401 | |            | | |a:ala 178 | |h|a:arg 174 |
+ 381 |h|a:arg 402 | |            | | |a:ala 179 | |h|a:trp 175 |
+ 382 |h|a:gln 403 | |            | | |a:lys 180 | |            |
+ 383 | |a:lys 404 | |            | | |a:val 181 | |            |
+ 384 | |a:ile 405 | |            | |            | |            |
+ 385 | |a:mse 406 | |            | |            | |            |
+ 386 | |a:gln 407 | |            | |            | |            |
+ 387 | |a:pro 408 | |            | |            | |            |
+ 388 | |a:leu 409 | |            | |            | |            |
+-----+------------+-+------------+-+------------+-+------------+
+

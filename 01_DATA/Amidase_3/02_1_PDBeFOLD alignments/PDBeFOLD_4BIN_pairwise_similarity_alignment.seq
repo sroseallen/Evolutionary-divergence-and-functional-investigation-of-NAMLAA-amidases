@@ -1,0 +1,1488 @@
+
+>q|PDB:4bin:A|PDB:4bin:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRADDPFIK
+SARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPAPLLALLEDYNSGPQPGKAGRDRPI
+VIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRA
+DLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSDMVQSLTIADSLKFGKAVL
+NKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFA
+
+>t|PDB:4bin:A|PDB:4bin:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRADDPFIK
+SARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPAPLLALLEDYNSGPQPGKAGRDRPI
+VIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRA
+DLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSDMVQSLTIADSLKFGKAVL
+NKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFA
+
+>q|PDB:4bin:A|PDB:1xov:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdrPI
+VIMLDPGHGGE-DsGAVGKykTREKDVVLQIARRLRSLIEKEGnMKVYMTRnedIFI-----PLQVRVAK
+AQKQRADLFVSIHADAftsrqPSGSSVFALStkgatstaakylaqtqnasdliggvsdmvqsltIADSLK
+FGKAVLNKLGKI--NKLHknqVEQA-GFAVLK-APdIPSILVETAFISNVEEERKLKTATFQQEVAESIL
+AGIKAyfa--------------------------------------------------------------
+----------------------------------------------------------------------
+--------
+
+>t|PDB:1xov:A|PDB:4bin:A THE CRYSTAL STRUCTURE OF THE LISTERIA MONOCYTOGENE
+----------------------------------------------------------------------
+-------------------------------------------------------------------aMS
+NYSMSRGHSDKcV-GAEDI--LSEIKEAEKVLNAASDELKREG-HNVKTFId--RTSttqsaNLNKIVNW
+HNANPADVHISVHLNAg---kGTGVEVWYYAg--------------------------------DEKGRK
+LAVEISAKMAKAlgLPNRg--AKATkDLRFLNsTK-GTAVLLEVCFVDRKEDANAIHKSGMYDKLGIAIA
+EGLTGktvaaknpnrhsgavvdsvpmlskmdfksspikmykagssllvyehnkywykayindklcyiyks
+fcisngkkdakgrikvriksakdlripvwnntklnsgkikwyspgtklswydnkkgylelwyekdgwyyt
+anyflkek
+
+>q|PDB:4bin:A|PDB:4ihm:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypaPLLalledynsg---pqpgkagrd
+RPIVIMLDPGHGgeDSGavgkyktrekDVVLQIARRLRSLIEk-----------EGNMKVYMTrNEdIF-
+--------------------------------------------------------------IPLQVRVA
+KAQKQ------RADLFVSIHADAftsrqpsgSSVFALS-TKGatstaakylaqtqnasdliggvsDMVQS
+LTIADSLKFGKAVLNKLGkinkLHknqvEQA------GFA-VLK----APDIPSILVETAF-ISNVee--
+-eRKlkTATFQQEVAESILAGIKAyfa---------
+
+>t|PDB:4ihm:A|PDB:4bin:A G215S, A251G, T257A, D260G, T262D MUTANT OF CARBOX
+----------------------------------------------------------------------
+-------------dfpsydsgyhnynemvnkintvasnypnivkkfSIGksyegrelwavkisdnvgtde
+NEPEVLYTALHH--ARE----------HLTVEMALYTLDLFTqnynldsritnlVNNREIYIV-FNiNPd
+ggeydissgsykswrknrqpnsgssyvgtdlnrnygykwgccggssgspssetyrgrsafsaPETAAMRD
+FINSRvvggkqQIKTLITFHTYS--------ELILYPYsYTYtd-------------------vpSDMTQ
+DDFNVFKTMANTMAQTNG----YT----PQQgsdlyiADGgMDDwaygQHKIFAFTFEMYPtSYNPgfyp
+pdEV--IGRETSRNKEAVLYVAEKadcpysvigksc
+
+>q|PDB:4bin:A|PDB:4gm5:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypaPLLalledynsg---pqpgkagrd
+RPIVIMLDPGHGgeDSgavgkyktreKDVVLQIARRLRSLIE-----------KEGNMKVYMTrNEDIF-
+--------------------------------------------------------------IPLQVRVA
+KAQKQ------RADLFVSIHADAftsrqpsgSSVFALS-TKGAtstaakylaqtqnasdliggvsDMVQS
+LTIADSLKFGKAVLNKLGkinkLHknqvEQAG------FA-VLK----APDIPSILVETAFISNVEe---
+-eRKlkTATFQQEVAESILAGIKAYFa---------
+
+>t|PDB:4gm5:A|PDB:4bin:A CARBOXYPEPTIDASE T WITH SULPHAMOIL ARGININE
+----------------------------------------------------------------------
+-------------dfpsydsgyhnynemvnkintvasnypnivkkfSIGksyegrelwavkisdnvgtde
+NEPEVLYTALHH--AR----------EHLTVEMALYTLDLFTqnynldsritnLVNNREIYIV-FNINPd
+ggeydissgsykswrknrqpnsgssyvgtdlnrnygykwgccggssgspssetyrgrsafsaPETAAMRD
+FINSRvvggkqQIKTLITFHTYS--------ELILYPYgYTYTdv-------------------pSDMTQ
+DDFNVFKTMANTMAQTNG----YT----PQQAsdlyitDGdMTDwaygQHKIFAFTFEMYPTSYNPgfyp
+pdEV--IGRETSRNKEAVLYVAEKADcpysvigksc
+
+>q|PDB:4bin:A|PDB:2qj8:B CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypaPL-LalLEdynsgpqpgkagrDRP
+IVIMLDP-GHGgedsgavgkyktreKDVVLQIARRLRSLIEK-EGN-MKVYM--TRneDIFi-PLqVRvA
+KAQKQ--RADLFVSIHAD--AFtsrqPSGSSVFALstkgatstaakylaqtqnasdliggvsdmvqsLTI
+ADSLKFGKAVlnKLgkinkLHknqvEQAgfAVLK---APDIPSILVETaFIsNVEEerklktatFQQEVA
+ESILAGIKAYFa----------------------------------------------------------
+----------------------------------------
+
+>t|PDB:2qj8:B|PDB:4bin:A CRYSTAL STRUCTURE OF AN ASPARTOACYLASE FAMILY PROT
+----------------------------------------------------------------------
+---------------------------mseaphltfdldtpgvstgHLvV--PKcealslpvfscnrGEG
+PSLLITGgNHGn-------------ELQGPILARRLVKWLPEaQRCgRIIIVpeIN--PLAsvSErIAdA
+ISRLLlpVVDTVLDLHSFgpTW----DCAPSIISH--------------------------------DQM
+TKTVSISKAF--KL-----PVt---LLWe-MFDTlvhRQGKTFICTEF-GG-GVVS--------ALTIYE
+AGVRNGLIALGlvkgkaeyptfrqqktgqtlettssdqlkspspgifeprcsvmdeveqgdvvgvlhpmg
+slsaasidiraqskstvfairsamyvqgneevailarpla
+
+>q|PDB:4bin:A|PDB:2pe3:C CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+--------fqghmqvvavrVWPASsytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqi
+raddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypaPLlaLLedynsgpqpg
+kagrdRPI-VIMLDPgHGGEDsg-----------------------------------------------
+------------------------------------avGKYKTREKDVVLQIARRLRSLIeKEGN-MKVY
+MTRnedifIP----LQVRVAKAQKQRADLFVSIHADAFTSR--------QPSG-SSVFAlSTkgatstaa
+kylaqtqnasdliggvsdmvqsltiadSLKFGKAVLNKLG--KINKLhknqvEQAg----FAVLKa----
+-PDIPSILVEtAFISnveeerklktatFQQEVAESILAGIKAYFA-----
+
+>t|PDB:2pe3:C|PDB:4bin:A CRYSTAL STRUCTURE OF FRV OPERON PROTEIN FRVX (PH18
+dwklmqeiieapgvsgyehLGIRDivvdvlk---------------------------------------
+-----------------------------------------------evadevkVD--KLgnvi------
+-ahfkGSSpRIMVAA-HMDKIgvmvnhidkdgylhivpiggvlpetlvaqrirfftekgerygvvgvdwd
+qivvdvgasskeeaeemgfrvgtvgefapnftrlnehrFATPYLDDRICLYAMIEAARQL-GDHEaDIYI
+VGS-----VQeevgLRGARVASYAINPEVGIAMDVTFAKQPhdkgkivpELGKgPVMDV-GPn-------
+--------------------------iNPKLRAFADEVAKkyEIPLQ-----VEPsprptGTDANvmqin
+rEGVATAVLS-IPIRymhsqveladarDVDNTIKLAKALLEELKPmdftp
+
+>q|PDB:4bin:A|PDB:4mxu:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgKAgrdrpI
+VIMLDP-GHGgedsgavgkyktreKDVVLQIARRLR-SL--IekE-GN-MKVYM-TRNEDI---------
+--------------------FI--PLQVRVAKAQKq----RADLFVSIHADAFtsrqPSGSSVFALStkg
+atstaakylaqtqnasdliggvsdmvqsltIADSLKFGKAVLNKLGKiNKLHknqvEQA------GF-AV
+LKApDIPSILVETAFISnveeerkLKTATFQQEVAESILAGIKAYFA-----------------------
+----------------------------------------------------------------------
+----------
+
+>t|PDB:4mxu:A|PDB:4bin:A HUMAN BRAIN ASPARTOACYLASE MUTANT K213E COMPLEX WI
+----------------------------------------------------------------------
+--------------------------------------------------------------HI-----Q
+KVAIFGgTHGn-------------ELTGVFLVKHWLeNGaeI--QrTGlEVKPFiTNPRAVkkctryidc
+dlnrifdlenlgkkmsedlpYEvrRAQEINHLFGPkdsedSYDIIFDLHNTTS----NMGCTLILEDs--
+-----------------------------rNNFLIQMFHYIKTSLAP-LPCY----VYLiehpslKYaTT
+RSI-AKYPVGIEVGPQPq-----gVLRADILDQMRKMIKHALDFIHHfnegeefppcaievykiiekvdy
+prdengeiaaiihpnlqdqdwkplhpgdpmfltldgktiplggdctvypvfvneaayyekkeafakttkl
+tlnaksircx
+
+>q|PDB:4bin:A|PDB:2pe3:D CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+---------fqghmqvvavrVWPASsytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaq
+iraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypaPLlaLLedynsgpqp
+gkagrdRPI-VIMLDPgHG-GEDsg---------------------------------------------
+----------------------------------------avGKYKTREKDVVLQIARRLRSLIeKEGN-
+MKVYMTRnedifIP----LQVRVAKAQKQRADLFVSIHADAFTSRq-------PSg--SSVFAlSTkgat
+staakylaqtqnasdliggvsdmvqsltiadSLKFGKAVLNKLG--KINKLhknqvEQA---GFA-VLKa
+-----PDIPSILVEtAFISnveeerklktatFQQEVAESILAGIKAYFA-----
+
+>t|PDB:2pe3:D|PDB:4bin:A CRYSTAL STRUCTURE OF FRV OPERON PROTEIN FRVX (PH18
+vdwklmqeiieapgvsgyehLGIRDivvdvlk--------------------------------------
+------------------------------------------------evadevkVD--KLgnvi-----
+--ahfkGSSpRIMVAA-HMdKIGvmvnhidkdgylhivpiggvlpetlvaqrirfftekgerygvvgvlp
+idwdqivvdvgasskeeaeemgfrvgtvgefapnftrlnehrFATPYLDDRICLYAMIEAARQL-GDHEa
+DIYIVGS-----VQeevgLRGARVASYAINPEVGIAMDVTFAKQPhdkgkivpELgkgPVMDV-GPn---
+------------------------------iNPKLRAFADEVAKkyEIPLQ-----VEPsprPTGtDANv
+mqinrEGVATAVLS-IPIRymhsqveladarDVDNTIKLAKALLEELKPmdftp
+
+>q|PDB:4bin:A|PDB:4mxu:B CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgKAgrdrpI
+VIMLDP-GHGgedsgavgkyktreKDVVLQIARRLR-SL--IekE-GN-MKVYM-TRNEDI---------
+--------------------FI--PLQVRVAKAQKq----RADLFVSIHADAFtsrqPSGSSVFALStkg
+atstaakylaqtqnasdliggvsdmvqsltIADSLKFGKAVLNKLGKinKL-HknqvEQA------GF-A
+VLKApDIPSILVETAFISnveeerkLKTATFQQEVAESILAGIKAYFA----------------------
+----------------------------------------------------------------------
+-----------
+
+>t|PDB:4mxu:B|PDB:4bin:A HUMAN BRAIN ASPARTOACYLASE MUTANT K213E COMPLEX WI
+----------------------------------------------------------------------
+--------------------------------------------------------------HI-----Q
+KVAIFGgTHGn-------------ELTGVFLVKHWLeNGaeI--QrTGlEVKPFiTNPRAVkkctryidc
+dlnrifdlenlgkkmsedlpYEvrRAQEINHLFGPkdsedSYDIIFDLHNTTS----NMGCTLILEDs--
+-----------------------------rNNFLIQMFHYIKTSLAP--LPcY----VYLiehpslKYaT
+TRSI-AKYPVGIEVGPQPq-----gVLRADILDQMRKMIKHALDFIHHfnegeefppcaievykiiekvd
+yprdengeiaaiihpnlqdqdwkplhpgdpmfltldgktiplggdctvypvfvneaayyekkeafakttk
+ltlnaksircx
+
+>q|PDB:4bin:A|PDB:4mri:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgKAgrdrpI
+VIMLDP-GHGgedsgavgkyktreKDVVLQIARRLRSL---IekE-GN-MKVYM-TRNEDI---------
+--------------------FI--PLQVRVAKAQKq----RADLFVSIHADAFtsrqPSGSSVFALStkg
+atstaakylaqtqnasdliggvsdmvqsltIADSLKFGKAVLNKLGKinKLHKnqvEQA------GF-AV
+LKApDIPSILVETAFISnveeerkLKTATFQQEVAESILAGIKAYFA-----------------------
+----------------------------------------------------------------------
+-----------
+
+>t|PDB:4mri:A|PDB:4bin:A HUMAN BRAIN ASPARTOACYLASE MUTANT F295S COMPLEX WI
+----------------------------------------------------------------------
+--------------------------------------------------------------HI-----Q
+KVAIFGgTHGn-------------ELTGVFLVKHWLENgaeI--QrTGlEVKPFiTNPRAVkkctryidc
+dlnrifdlenlgkkmsedlpYEvrRAQEINHLFGPkdsedSYDIIFDLHNTTS----NMGCTLILEDs--
+-----------------------------rNNFLIQMFHYIKTSLAP--LPCY---VYLiehpslKYaTT
+RSI-AKYPVGIEVGPQPq-----gVLRADILDQMRKMIKHALDFIHHfnegkefppcaievykiiekvdy
+prdengeiaaiihpnlqdqdwkplhpgdpmfltldgktiplggdctvypvfvneaayyekkeasakttkl
+tlnaksirccx
+
+>q|PDB:4bin:A|PDB:3nh4:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpGKAgrdrpI
+VIMLDP-GHGgedsgavgkyktrEKDVVLQIARRLRSL---IekEG--NMKVYM-TRNEDI---------
+--------------------FI--PLQVRVAKAQKq----RADLFVSIHADAFtsrqPSGSSVFALStkg
+atstaakylaqtqnasdliggvsdmvqsltIADSLKFGKAVLNKLGKinKLhkNQvEQAG-------FAV
+LKApDIPSILVETaFISNveeerkLKTATFQQEVAESILAGIKAYFA-----------------------
+----------------------------------------------------------------------
+---------
+
+>t|PDB:3nh4:A|PDB:4bin:A CRYSTAL STRUCTURE OF MURINE AMINOACYLASE 3
+----------------------------------------------------------------------
+-----------------------------------------------------------srEPL-----L
+RVAVTGgTHG-------------NEMCGVYLARYWLQNpgeL--QRpsFSAMPVlANPAATaaccryldr
+dlnrsctltflgstatpddpYEvkRARELNQLLGPkgtgqAFDFTLDLHNTTA----NTGVCLISESn--
+------------------------------ISFNLHLCHYLQRQNPG--MP--CR-LFLYepagtetFSV
+ESI-SKNGICLEM-GPQPq----gVLRADLFSRMRALVASILDFIELfnqgmdlpafemdiyrnlgsvdf
+prtadgdlagtvhpqlqdhdfeplrpgepifklfsgedvlyegdsivypvfineaayyekhvaflkseki
+rvtvpallr
+
+>q|PDB:4bin:A|PDB:2pe3:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+--------fqghmqvvavrVWPASsytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqi
+raddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypaPLLAlledynsgpqpg
+kagrdRPIVIMLDPgHG-GEDsg-----------------------------------------------
+-------------------------------------avGKYKTREKDVVLQIARRLRSLIeKEGN-MKV
+YMTRnedifIP----LQVRVAKAQKQRADLFVSIHADAFTSRqp---------sgSSVFALSTkgatsta
+akylaqtqnasdliggvsdmvqsltiadSLKFGKAVLNKLG--KINKLhknqvEQAg----FAVL----K
+A-PDIPSILVETaFISnveeerklktATFQQEVAESILAGIKAYFA-----
+
+>t|PDB:2pe3:A|PDB:4bin:A CRYSTAL STRUCTURE OF FRV OPERON PROTEIN FRVX (PH18
+dwklmqeiieapgvsgyehLGIRDivvdvlk---------------------------------------
+-----------------------------------------------evadevkVDKLgnvia-------
+-hfkgSSPRIMVAA-HMdKIGvmvnhidkdgylhivpiggvlpetlvaqrirfftekgerygvvgvlpdw
+dqivvdvgasskeeaeemgfrvgtvgefapnftrlnehrFATPYLDDRICLYAMIEAARQL-GDHEaDIY
+IVGS-----VQeevgLRGARVASYAINPEVGIAMDVTFAKQPhdkgkivpelgkgPVMDVGPNi------
+----------------------------NPKLRAFADEVAKkyEIPLQ-----VEPsprptGTDAnvmqI
+NrEGVATAVLSI-PIRymhsqveladARDVDNTIKLAKALLEELKPmdftp
+
+>q|PDB:4bin:A|PDB:3cdx:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----fqghmqvvavrvwpaSSYTRVtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiradd
+pfiksarvgqfdpqtvrmVFELKQnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagr
+DRPIVIMLDP-GHGgedsgavgkyktrEKDVVLQIARRLRSLIEK-EGNMKVYMTRNEDIFip-------
+------------------------lqVRVAKAQKQraDLFVSIHADAftsrqPSGSSVFALSTKgatsta
+akylaqtqnasdliggvsdmvQSLTIADSLKFGKAVLnkLGkinklhknQVEQAGfAVLK----ApDIPS
+ILVETAfISnveeerkLKTatFQQEVAESILAGIKAYFa-------------------------------
+---------------------------------------------------------------------
+
+>t|PDB:3cdx:A|PDB:4bin:A CRYSTAL STRUCTURE OF SUCCINYLGLUTAMATEDESUCCINYLAS
+sriacdidfdrdgrqagyaRAPLSR---------------------------------------------
+------------------NNSGWGtveipi-----------------------------------tvvkn
+GSGPTVLLTGgVHG-------------DEYEGQIAISDLARRLRPeEVQGRVIMLPAVNMPaiqsdtrls
+pvdgrdinrcfpgdprgtfsqmlahfLDSVILPMA--DISVDMHTAGhs--yDSTPSTNMHYLA------
+---------------------DPALRARTLAAAEAFG--AP--------HNVVFGsTFTScverR-GIVS
+LGTELG-GWg------RVNieGVRIGKRGILNVLKHMGviegtpetaqrggaagtrhmmvreadayvmap
+rtglfepthyvgeevrtgetagwihfvedvdtaplellyrrdgivwfgagpgrvtrgdavavvmedynd
+
+>q|PDB:4bin:A|PDB:4nfr:B CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgKAgrdrpI
+VIMLDP-GHGgedsgavgkyktreKDVVLQIARRLRSLiEKe---GN-MKVYM-TRNEDI----------
+-------------------FI--PLQVRVAKAQKq----RADLFVSIHADAFtsrqPSGSSVFALStkga
+tstaakylaqtqnasdliggvsdmvqsltIADSLKFGKAVLNKLGKiNKLHknqvEQA------GF-AVL
+KApDIPSILVETAFISnveeerkLKTATFQQEVAESILAGIKAYFA------------------------
+----------------------------------------------------------------------
+---------
+
+>t|PDB:4nfr:B|PDB:4bin:A HUMAN BRAIN ASPARTOACYLASE MUTANT E285A COMPLEX WI
+----------------------------------------------------------------------
+--------------------------------------------------------------HI-----Q
+KVAIFGgTHGn-------------ELTGVFLVKHWLEN-GAeiqrTGlEVKPFiTNPRAVkkctryidcd
+lnrifdlenlgkkmsedlpYEvrRAQEINHLFGPkdsedSYDIIFDLHNTTS----NMGCTLILEDs---
+----------------------------rNNFLIQMFHYIKTSLAP-LPCY----VYLiehpslKYaTTR
+SI-AKYPVGIEVGPQPq-----gVLRADILDQMRKMIKHALDFIHHfnegkefppcaievykiiekvdyp
+rdengeiaaiihpnlqdqdwkplhpgdpmfltldgktiplggdctvypvfvnaaayyekkeafakttklt
+lnaksircx
+
+>q|PDB:4bin:A|PDB:4mri:B CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgKAGrdrpI
+VIMLDP-GHGgedsgavgkyktreKDVVLQIARRLRSL---IekE-GN-MKVYM-TRNEDI---------
+--------------------FI--PLQVRVAKAQKq----RADLFVSIHADAFtsrqPSGSSVFALStkg
+atstaakylaqtqnasdliggvsdmvqsltIADSLKFGKAVLNKLGKinKLhkNQvEQA------GF-AV
+LKApDIPSILVETAFISnveeerkLKTATFQQEVAESILAGIKAYFA-----------------------
+----------------------------------------------------------------------
+-----------
+
+>t|PDB:4mri:B|PDB:4bin:A HUMAN BRAIN ASPARTOACYLASE MUTANT F295S COMPLEX WI
+----------------------------------------------------------------------
+--------------------------------------------------------------EHI----Q
+KVAIFGgTHGn-------------ELTGVFLVKHWLENgaeI--QrTGlEVKPFiTNPRAVkkctryidc
+dlnrifdlenlgkkmsedlpYEvrRAQEINHLFGPkdsedSYDIIFDLHNTTS----NMGCTLILEDs--
+-----------------------------rNNFLIQMFHYIKTSLAP--LP--CY-VYLiehpslKYaTT
+RSI-AKYPVGIEVGPQPq-----gVLRADILDQMRKMIKHALDFIHHfnegkefppcaievykiiekvdy
+prdengeiaaiihpnlqdqdwkplhpgdpmfltldgktiplggdctvypvfvneaayyekkeasakttkl
+tlnaksirccx
+
+>q|PDB:4bin:A|PDB:3cdx:E CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----fqghmqvvavrvwpaSSYTRVtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiradd
+pfiksarvgqfdpqtvrmVFELKqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagr
+dRPIVIMLDP-GHGgedsgavgkyktrEKDVVLQIARRLRSLIEK-EGNMKVYMTRNEDIFip-------
+------------------------lqVRvAKAQKQraDLFVSIHADAftsrqPSGSSVFALSTkgatsta
+akylaqtqnasdliggvsdmvQSLTIADSLKFGKAVLnklgkinklhknQVEQAgfAVLK----ApDIPS
+ILVETAfISnveeerkLKtatFQQEVAESILAGIKAYFa-------------------------------
+-------------------------------------------------------------------
+
+>t|PDB:3cdx:E|PDB:4bin:A CRYSTAL STRUCTURE OF SUCCINYLGLUTAMATEDESUCCINYLAS
+sriacdidfdrdgrqagyaRAPLSR---------------------------------------------
+------------------NNSGWgtveipi-----------------------------------tvvkn
+gSGPTVLLTGgVHG-------------DEYEGQIAISDLARRLRPeEVQGRVIMLPAVNMPaiqsdtrls
+pvdgrdinrcfpgdprgtfsqmlahfLDsVILPMA--DISVDMHTAGhs--yDSTPSTNMHYLa------
+---------------------DPALRARTLAAAEAFGa----------pHNVVFs-TFTScverR-GIVS
+LGTELG-GWg------RVnieGVRIGKRGILNVLKHMGviegtpetaqrggaagtrhmmvreadayvmap
+rtglfepthyvgeevrtgetagwihfvedvdtaplellyrrdgivwfgagpgrvtrgdavavvmedy
+
+>q|PDB:4bin:A|PDB:3cdx:C CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----fqghmqvvavrvwpaSSYTRVtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiradd
+pfiksarvgqfdpqtvrmVFELKQnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagr
+DRPIVIMLDP-GHGgedsgavgkyktrEKDVVLQIARRLRSLIEK-EGNMKVYMTRNEDIFi--------
+-----------------------PLQVRVAKAQKQraDLFVSIHADAftsrqPSGSSVFALSTKgatsta
+akylaqtqnasdliggvsdmvQSLTIADSLKFGKAVLnkLGkinklhknqVEQAgfAVLK---APDIPSI
+LVETaFISnveeerkLKTatFQQEVAESILAGIKAYFa--------------------------------
+------------------------------------------------------------------
+
+>t|PDB:3cdx:C|PDB:4bin:A CRYSTAL STRUCTURE OF SUCCINYLGLUTAMATEDESUCCINYLAS
+sriacdidfdrdgrqagyaRAPLSR---------------------------------------------
+------------------NNSGWGtveipi-----------------------------------tvvkn
+GSGPTVLLTGgVHG-------------DEYEGQIAISDLARRLRPeEVQGRVIMLPAVNMPaiqsdtrls
+pvdgrdinrcfpgdprgtfsqmlAHFLDSVILPMA--DISVDMHTAGhs--yDSTPSTNMHYLA------
+---------------------DPALRARTLAAAEAFG--AP---------HNVVs-TFTScveRRGIVSL
+GTEL-GGWg------RVNieGVRIGKRGILNVLKHMGviegtpetaqrggaagtrhmmvreadayvmapr
+tglfepthyvgeevrtgetagwihfvedvdtaplellyrrdgivwfgagpgrvtrgdavavvmedy
+
+>q|PDB:4bin:A|PDB:2pe3:B CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+--------fqghmqvvavrVWPASsytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqi
+raddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypaPLLalledynsgpqpg
+kagrdRPI-VIMLDPgHG-GEDsg----------------------------------------------
+------------------------------------avGKYKTREKDVVLQIARRLRSLIeK-EgN-MKV
+YMTRnedifIP----LQVRVAKAQKQRADLFVSIHADAFTSRq-------PSg--SSVFAlSTkgatsta
+akylaqtqnasdliggvsdmvqsltiadSLKFGKAVLNKLG--KINKLhknqvEQAg----FAVLKa---
+--PDIPSILVEtAFISnveeerklktatFQQEVAESILAGIKAYFA-----
+
+>t|PDB:2pe3:B|PDB:4bin:A CRYSTAL STRUCTURE OF FRV OPERON PROTEIN FRVX (PH18
+dwklmqeiieapgvsgyehLGIRDivvdvlke--------------------------------------
+-----------------------------------------------vadevkvDKLgnvi---------
+-ahfkGSSpRIMVAA-HMdKIGvmvnhidkdgylhivpiggvlpetlvaqrirfftekgerygvvgvdwd
+qivvdvgasskeeaeemgfrvgtvgefapnftrlnehrFATPYLDDRICLYAMIEAARQL-GdH-EaDIY
+IVGS-----VQeevgLRGARVASYAINPEVGIAMDVTFAKQPhdkgkivpELgkgPVMDV-GPn------
+---------------------------iNPKLRAFADEVAKkyEIPLQ-----VEPsprptGTDANvmqi
+nrEGVATAVLS-IPIRymhsqveladarDVDNTIKLAKALLEELKPmdftp
+
+>q|PDB:4bin:A|PDB:3nh5:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpGKAgrdrpI
+VIMLDP-GHGgedsgavgkyktrEKDVVLQIARRLRSL---IekEG--NMKVYM-TRNEDI---------
+--------------------FI--PLQVRVAKAQKq----RADLFVSIHADAFtsrqPSGSSVFALStkg
+atstaakylaqtqnasdliggvsdmvqsltIADSLKFGKAVLNKLGKinKLhkNQvEQAG-------FAV
+LKApDIPSILVETaFISnveeerkLKTATFQQEVAESILAGIKAYFA-----------------------
+----------------------------------------------------------------------
+------------
+
+>t|PDB:3nh5:A|PDB:4bin:A CRYSTAL STRUCTURE OF E177A-MUTANT MURINE AMINOACYL
+----------------------------------------------------------------------
+-----------------------------------------------------------srEPL-----L
+RVAVTGgTHG-------------NEMCGVYLARYWLQNpgeL--QRpsFSAMPVlANPAATaaccryldr
+dlnrsctltflgstatpddpYEvkRARELNQLLGPkgtgqAFDFTLDLHNTTA----NTGVCLISESn--
+------------------------------ISFNLHLCHYLQRQNPG--MP--CR-LFLYepagtetFSV
+ESI-SKNGICLAM-GPQpq----gVLRADLFSRMRALVASILDFIELfnqgmdlpafemdiyrnlgsvdf
+prtadgdlagtvhpqlqdhdfeplrpgepifklfsgedvlyegdsivypvfineaayyekhvaflkseki
+rvtvpallrltp
+
+>q|PDB:4bin:A|PDB:4nfr:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgKAgrdrpI
+VIMLDP-GHGgedsgavgkyktreKDVVLQIARRLRSLiEKe---GN-MKVYM-TRNEDI----------
+-------------------FI--PLQVRVAKAQKq----RADLFVSIHADAFtsrqPSGSSVFALStkga
+tstaakylaqtqnasdliggvsdmvqsltIADSLKFGKAVLNKLGKinKL-HknqvEQA------GF-AV
+LKApDIPSILVETAFISnveeerkLKTATFQQEVAESILAGIKAYFA-----------------------
+----------------------------------------------------------------------
+----------
+
+>t|PDB:4nfr:A|PDB:4bin:A HUMAN BRAIN ASPARTOACYLASE MUTANT E285A COMPLEX WI
+----------------------------------------------------------------------
+--------------------------------------------------------------HI-----Q
+KVAIFGgTHGn-------------ELTGVFLVKHWLEN-GAeiqrTGlEVKPFiTNPRAVkkctryidcd
+lnrifdlenlgkkmsedlpYEvrRAQEINHLFGPkdsedSYDIIFDLHNTTS----NMGCTLILEDs---
+----------------------------rNNFLIQMFHYIKTSLAP--LPcY----VYLiehpslKYaTT
+RSI-AKYPVGIEVGPQPq-----gVLRADILDQMRKMIKHALDFIHHfnegkefppcaievykiiekvdy
+prdengeiaaiihpnlqdqdwkplhpgdpmfltldgktiplggdctvypvfvnaaayyekkeafakttkl
+tlnaksircx
+
+>q|PDB:4bin:A|PDB:3cdx:B CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----fqghmqvvavrvwpaSSYTRVtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiradd
+pfiksarvgqfdpqtvrmVFELKqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagr
+DRPIVIMLDP-GHGgedsgavgkyktrEKDVVLQIARRLRSLIEK-EGNMKVYMTRNEDIFi--------
+-----------------------PLqVRvAKAQKQraDLFVSIHADAftsrqPSGSSVFALSTKgatsta
+akylaqtqnasdliggvsdmvQSLTIADSLKFGKAVLnkLGkinklhknqVEQAGfAVL----KApDIPS
+ILVETAfISnveeerkLKTatFQQEVAESILAGIKAYFa-------------------------------
+---------------------------------------------------------------------
+
+>t|PDB:3cdx:B|PDB:4bin:A CRYSTAL STRUCTURE OF SUCCINYLGLUTAMATEDESUCCINYLAS
+sriacdidfdrdgrqagyaRAPLSR---------------------------------------------
+------------------NNSGWgtveip-----------------------------------itvvkn
+GSGPTVLLTGgVHG-------------DEYEGQIAISDLARRLRPeEVQGRVIMLPAVNMPaiqsdtrls
+pvdgrdinrcfpgdprgtfsqmlAHfLDsVILPMA--DISVDMHTAGhs--yDSTPSTNMHYLA------
+---------------------DPALRARTLAAAEAFG--AP---------HNVVGsTFTscveRR-GIVS
+LGTELG-GWg------RVNieGVRIGKRGILNVLKHMGviegtpetaqrggaagtrhmmvreadayvmap
+rtglfepthyvgeevrtgetagwihfvedvdtaplellyrrdgivwfgagpgrvtrgdavavvmedynd
+
+>q|PDB:4bin:A|PDB:3cdx:D CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----fqghmqvvavrvwpaSSYTRVtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiradd
+pfiksarvgqfdpqtvrmVFELKQnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagr
+DRPIVIMLDP-GHGgedsgavgkyktrEKDVVLQIARRLRSLIEK-EGNMKVYMTRNEDIFi--------
+-----------------------PLQVRVAKAQKQraDLFVSIHADAftsrqPSGSSVFALstkgatsta
+akylaqtqnasdliggvsdmvQSLTIADSLKFGKAVLnkLGkinklhknqVEQAgfAVL----KApDIPS
+ILVETAfISnveeerkLKTATFQQEVAESILAGIKAYFa-------------------------------
+-------------------------------------------------------------------
+
+>t|PDB:3cdx:D|PDB:4bin:A CRYSTAL STRUCTURE OF SUCCINYLGLUTAMATEDESUCCINYLAS
+sriacdidfdrdgrqagyaRAPLSR---------------------------------------------
+------------------NNSGWGtveipi-----------------------------------tvvkn
+GSGPTVLLTGgVHG-------------DEYEGQIAISDLARRLRPeEVQGRVIMLPAVNMPaiqsdtrls
+pvdgrdinrcfpgdprgtfsqmlAHFLDSVILPMA--DISVDMHTAGhs--yDSTPSTNMH---------
+---------------------DPALRARTLAAAEAFG--AP---------HNVVs-TFTscveRR-GIVS
+LGTELG-GWg------RVNIEGVRIGKRGILNVLKHMGviegtpetaqrggaagtrhmmvreadayvmap
+rtglfepthyvgeevrtgetagwihfvedvdtaplellyrrdgivwfgagpgrvtrgdavavvmedy
+
+>q|PDB:4bin:A|PDB:3nfz:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpGKAgrdrpI
+VIMLDP-GHGgedsgavgkyktrEKDVVLQIARRLRSL---IekEG--NMKVYM-TRNEDIf--------
+-----------------------iPLQVRVAKAQKq----RADLFVSIHADAFtsrqPSGSSVFALStkg
+atstaakylaqtqnasdliggvsdmvqsltIADSLKFGKAVLNKLGKinKLhkNQvEQAGF-------AV
+LKApDIPSILVETaFISnveeerkLKTATFQQEVAESILAGIKAYFA-----------------------
+----------------------------------------------------------------------
+-----------
+
+>t|PDB:3nfz:A|PDB:4bin:A CRYSTAL STRUCTURE OF MURINE AMINOACYLASE 3 IN COMP
+----------------------------------------------------------------------
+-----------------------------------------------------------srEPL-----L
+RVAVTGgTHG-------------NEMCGVYLARYWLQNpgeL--QRpsFSAMPVlANPAATaaccryldr
+dlnrsctltflgstatpddpyevkRARELNQLLGPkgtgqAFDFTLDLHNTTA----NTGVCLISESn--
+------------------------------ISFNLHLCHYLQRQNPG--MP--CR-LFLYEpagtetfSV
+ESI-SKNGICLAM-GPQpq----gVLRADLFSRMRALVASILDFIELfnqgmdlpafemdiyrnlgsvdf
+prtadgdlagtvhpqlqdhdfeplrpgepifklfsgedvlyegdsivypvfineaayyekhvaflkseki
+rvtvpallrlt
+
+>q|PDB:4bin:A|PDB:3cdx:F CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----fqghmqvvavrvwpaSSYTRVtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiradd
+pfiksarvgqfdpqtvrmVFELKQnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagr
+dRPIVIMLDP-GHGgedsgavgkyktrEKDVVLQIARRLRSLIEK-EGNMKVYMTRNEDIFip-------
+------------------------lqVRvaKAQKQraDLFVSIHADAftsRQPSgSSVFALSTkgatsta
+akylaqtqnasdliggvsdmvQSLTIADSLKFGKAVLNklgkinkLHknqvEQAgfAVLK---APDIPSI
+LVETaFISnveeerkLKtatFQQEVAESILAGIKAYFa--------------------------------
+----------------------------------------------------------------------
+
+>t|PDB:3cdx:F|PDB:4bin:A CRYSTAL STRUCTURE OF SUCCINYLGLUTAMATEDESUCCINYLAS
+sriacdidfdrdgrqagyaRAPLSR---------------------------------------------
+------------------NNSGWGtveipi-----------------------------------tvvkn
+gSGPTVLLTGgVHG-------------DEYEGQIAISDLARRLRPeEVQGRVIMLPAVNMPaiqsdtrls
+pvdgrdinrcfpgdprgtfsqmlahfLDsvILPMA--DISVDMHTAGh-sYDST-PSTNMHYL-------
+---------------------DPALRARTLAAAEAFGA-------PH----NVVs-TFTScveRRGIVSL
+GTEL-GGWg------RVnieGVRIGKRGILNVLKHMGviegtpetaqrggaagtrhmmvreadayvmapr
+tglfepthyvgeevrtgetagwihfvedvdtaplellyrrdgivwfgagpgrvtrgdavavvmedyndtw
+
+>q|PDB:4bin:A|PDB:3mn8:D CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypaPLLalledynsg-----pqpgkag
+rDRpIVIMLDPGHggeDSGavgkyktreKDVVLQIARRLRSLIEk-----------EGNMKVYMTRNeDI
+F----------------------------------------IPLQVRVAKAQKqR-ADLFVSIHAdafts
+rqpsGSSVFAL-STKgatstaakylaqtqnasdliggvsdmvQSlTIADSLKFGKAVLNKLgkiNKL---
+-----HKNQVEQA------GFA-VLK----APDIPSILVETAFISnveeerklkTATFQQEVAESILAGI
+KAYFA-----------------------------------------------------------------
+------------------
+
+>t|PDB:3mn8:D|PDB:4bin:A STRUCTURE OF DROSOPHILA MELANOGASTER CARBOXYPEPTID
+----------------------------------------------------------------------
+--------tikedesflqqphyasqeqledlfaglekaypnqakvhFLGrslegrnllalqisrntrsrn
+lLT-PPVKYIANM---HGD---------ETVGRQLLVYMAQYLLgnherisdlgqlVNSTDIYLVPTmNP
+DgyalsqegnceslpnyvgrgnaanidlnrdfpdrlaqsrqPETAALVNWIVS-KpFVLSANFHGg----
+----AVVASYPyDNSlahnec----------------ceeslTP-DDRVFKQLAHTYSDNH---PIMrkg
+nncndSFSGGITNgahwyeLSGgMQDfnyaFSNCFELTIELSCCKypa---astLPQEWQRNKASLLQLL
+RQAHIgikglvtdasgfpiadanvyvagleekpmrtskrgeywrlltpglysvhasafgyqtsapqqvrv
+tndnqealrldfklapve
+
+>q|PDB:4bin:A|PDB:2imo:B CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+---------------------fqghmqvvavrvWPASsytrvtvesnrqlkykqfalsnpervvvdiedv
+nlnsvlkgmaaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypaPLL
+ALLedynsgpqpgkagRDRPIVIMLDPGHGGEDSGAvgkykTREKDVVLQIARRLRSLIEK--EGn--MK
+VYMTRnedifIPL--------QVRVAKAQKq--------------------RADLFVSIHA-DAFtsRQP
+SG-SSVFALSTKgatstaakylaqtqnas-----------------------------------------
+-------------------------------------------dliggvsdmvqsltiadSLKFGKAVLN
+KLG-KINKLHknqvEQA-GFAVLK--APDIPSILVETaFISNveee--rklKTATFQQEVAESILAGIKA
+YFa--
+
+>t|PDB:2imo:B|PDB:4bin:A CRYSTAL STRUCTURE OF ALLANTOATE AMIDOHYDROLASE FRO
+lithfrqaieetlpwlssfgadpaggmtrllysPEWLetqqqfkkr------------------------
+-----------------------------------------------------------maasgletRFD
+EVGnlygr----lngtEYPQEVVLSGSHIDTVVNGG-----NLDGQFGALAAWLAIDWLKTqyGAplrTV
+EVVAM-----AEEegsrfpyvFWGSKNIFGlanpmkacgftlpnapltprqDIKAFVELHIeQGCvlESN
+GQsIGVVNAIVGqrrytvtlngesnhagttpmgyrrdtvyafsrichqsvekakrmgdplvltfgkvepr
+pntvnvvpgkttftidcrhtdaavlrdftqqlendmraicdemdigididlwmdeepvpmNKELVATLTE
+LCErEKLNYRv---MHSgAGHDAQifAPRVPTCMIFI-PSINgishnpaerTNITDLAEGVKTLALMLYQ
+LAwqk
+
+>q|PDB:4bin:A|PDB:1xfo:D CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+-------------------fqghmqvVAVRVwPAssytrvtVESNrqlkykqfalsnpervvvdiedVNL
+nsVLKGmaaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllal
+ledynsgpqpgkagrdrpivimldpghggedsgavGKYKT-REKDVVLQIARRLRSLIEKEGNMKVYMTR
+nedifIP----LQVRVAKAQKQRADLFVSIHAD-AFTSRq--------PSg--SSVFALSTkgatstaak
+ylaqtqnasdliggvsdmvqsltiadSLKFGKAVLNKLG--KINKLhknqvEQA---GFAVLK-AP----
+DIPSILVETaFISnveeerklktatFQQEVAESILAGIKAYFA---
+
+>t|PDB:1xfo:D|PDB:4bin:A CRYSTAL STRUCTURE OF AN ARCHAEAL AMINOPEPTIDASE
+mvdyellkkvveapgvsgyeflgirdvvieeikdyvdevkvdklgnviahkkgegpkvmiaahmdqiglm
+vthiekngflrvapiggvdpktliaqRFKVWiDKgkf--iyGVGAsvpapdwd------qifidigaESK
+eeAEDMgvkigtvitw------------------------------------------------------
+-------------------------dgrlerlgkhRFVSIaFDDRIAVYTILEVAKQLKDAKADVYFVAT
+-----VQeevgLRGARTSAFGIEPDYGFAIDVTiAADIPgtpehkqvtHLgkgTAIKIMDRsv-------
+------------------------icHPTIVRWLEELAKkhEIPYQ-----LEIllgGGTDAGaIHltka
+GVPTGALSV-PARyihsntevvderDVDATVELMTKALENIHElki
+
+>q|PDB:4bin:A|PDB:2ek8:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+-------------fqghmqvvavrvWPASS----------------------------YTRVTVesnrql
+kykqfalsnpervvVDIEDvnlnsvlkgmaaqiraddpfiksa---------------------------
+---------------rvgqfdpqtvrmvfelkqnvkpqlFALAPVagfk-------------------er
+lVMDLYPapllalledynsgpqpgkagRDRpIVIMLDPghGGEdsgavgkyktrekdvvLQIARRLRSLI
+EK-EG------NMKVYMTRnedIFIpLQVRVAKAQKQRa-------dLFVSIHAdaftsrqpSGSSVFAL
+STkgatstaakylaqtqnasdliggvsdmvqsltiadsLKFGKAVLNKLGKINKlhkNQVEQAgFAV---
+--LKAPDIPSILVEtAF--ISnvee---erkLKTATFQQEVAESILAGIKAYFA---------------
+
+>t|PDB:2ek8:A|PDB:4bin:A AMINOPEPTIDASE FROM ANEURINIBACILLUS SP. STRAIN AM
+adhqitkrtdaenmyntiqflsqapRVAGSpeelkavryieqqfksygyhvevqpfqfEGYTAP------
+--------------SEVTLkigtekkegeaftyspnsdvtaelvyvglgttadvagkdlngkialiqrgn
+isfadkvrnaakqgakaviiynntdgklngtlggsdasfVAAVGItkqegdalaanlragekitatvkva
+gAEVKTLtshnviat----kkpdankkNTNdIIIIGSHhdSVEkapg---------andDASGVAVTLEL
+ARvMSklktdtELRFITFGa--EEN-GLIGSKKYAASLsedeikrtiGMFQLDMvgs--kdaGDLIMYTI
+DGk----------------------------------kNRVTDLGAAASSRLSG---VLPYGQ-EGRsdh
+esFHALGIPAALFI-HApvEPwyhtpndtldKISKEKLDNVADIVGSAVYQAARpgelviepidyprrn
+
+>q|PDB:4bin:A|PDB:2wyr:F CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+----------------fqghmqvVAVRVwpassytrvtVESnrqlkykqfalsnpervvvdiedVNLnsv
+LKGMaaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalled
+ynsgpqpgkagrdrpivimldpghggedsgavGKYKTREKDVVLQIARRLRSLIE-KEGN-MKVYMTRne
+difIP----LQVRVAKAQkQRAD-LFVSIHaD-AFTSr-----QPSG-SSVFALSTkgatstaakylaqt
+qnasdliggvsdmvqsltiadSLKFGKAVLNKLG--KINKLhknqvEQA--GFAVLKA--PDIPSILVEt
+AFISnveeerklktatFQQEVAESILAGIKAYfa
+
+>t|PDB:2wyr:F|PDB:4bin:A 3-D STRUCTURE OF PHTET1-12S, DODECAMER IN THE ASYM
+smieklkkftqipgisgyeerireeiireikdfadykvdaignlivelgegeerilfmahmdeigllitg
+itdegklrfrkvggiddrllygrHVNVVtekg---ildGVIgatpphlsvip--wydlvidigaESKeea
+LELVkpldfavfkk--------------------------------------------------------
+-----------------------hfsvlngkyVSTRGLDDRFGVVALIEAIKDLVdHELEgKVIFAFT--
+---VQeevgLKGAKFLAN-HYYPqYAFAID-SfACCSpltgdvKLGKgPVIRAVDNsa------------
+-------------------iySRDLARKVWSIAEknGIEIQ-----IGVtgGGTDASAfqDRSKTLALS-
+VPIKylhsevetlhlnDLEKLVKLIEALAFEL--
+
+>q|PDB:4bin:A|PDB:2wyr:C CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+-----------------fqghmqvVAVRVwpassytrvtVESnrqlkykqfalsnpervvvdiedVNLns
+vLKGMaaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalle
+dynsgpqpgkagrdrpivimldpghggedsgavGKYKTREKDVVLQIARRLRSLIE-KE-GNMKVYMTRn
+edifIP----LQVRVAKAqKQRAD-LFVSIHaD-AFTSr-----QPSG-SSVFALSTkgatstaakylaq
+tqnasdliggvsdmvqsltiadSLKFGKAVLNKLG--KINKLhknqvEQA--GFAVLKA--PDIPSILVE
+tAFISnveeerklktatFQQEVAESILAGIKAYfa
+
+>t|PDB:2wyr:C|PDB:4bin:A 3-D STRUCTURE OF PHTET1-12S, DODECAMER IN THE ASYM
+msmieklkkftqipgisgyeerireeiireikdfadykvdaignlivelgegeerilfmahmdeigllit
+gitdegklrfrkvggiddrllygrHVNVVtekg---ildGVIgatpphlksvi-pwydlvidigaESKee
+aLELVkpldfavfkk-------------------------------------------------------
+------------------------hfsvlngkyVSTRGLDDRFGVVALIEAIKDLVdHElEGKVIFAFT-
+----VQeevgLKGAKFLA-NHYYPqYAFAID-SfACCSpltgdvKLGKgPVIRAVDNsa-----------
+--------------------iySRDLARKVWSIAEknGIEIQ-----IGVtgGGTDASAfqDRSKTLALS
+-VPIKylhsevetlhlnDLEKLVKLIEALAFEL--
+
+>q|PDB:4bin:A|PDB:1xfo:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+----------------------------fqghmqvVAVRVwPAssytrvtVESNrqlkykqfalsnperv
+vvdiedVNLnsVLKGmaaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmd
+lypapllalledynsgpqpgkagrdrpivimldpghggedsgavGKYKTREKDVVLQIARRLRSLIEKEG
+NMKVYMTRnedifIP----LQVRVAKAQKQRADLFVSIHADA-FTSRq--------PSg--SSVFALSTk
+gatstaakylaqtqnasdliggvsdmvqsltiadSLKFGKAVLNKLG--KINKLhknqvEQA---GFAVL
+Ka-----PDIPSILVETaFISnveeerklktATFQQEVAESILAGIKAYFA---
+
+>t|PDB:1xfo:A|PDB:4bin:A CRYSTAL STRUCTURE OF AN ARCHAEAL AMINOPEPTIDASE
+rgshmevrnmvdyellkkvveapgvsgyeflgirdvvieeikdyvdevkvdklgnviahkkgegpkvmia
+ahmdqiglmvthiekngflrvapiggvdpktliaqRFKVWiDKgkf--iyGVGAsvpapdwd------qi
+fidigaESKeeAEDMgvkigtvitwd--------------------------------------------
+----------------------------------grlerlgkhrFVSIAFDDRIAVYTILEVAKQLKDAK
+ADVYFVAT-----VQeevgLRGARTSAFGIEPDYGFAIDVTIaADIPgtpehkqvtHLgkgTAIKIMDRs
+v-------------------------------icHPTIVRWLEELAKkhEIPYQ-----LEIllgGGTDA
+GaihltkAGVPTGALSV-PARyihsntevvdERDVDATVELMTKALENIHElki
+
+>q|PDB:4bin:A|PDB:6f3k:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+-------------fqghmqvvavrVWPAssy---------------------------------------
+--------------------------------------trVTVesnrqlkykqfal-------snpervv
+vdiedVNLnsvLKGMaaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdl
+ypapllalledynsgpqpgkagrdrpivimldpghggedsgavgkYKTR-EKDVVLQIARRLRSLIeK-E
+gN-MKVYMTRnediFIPLQVRVAKAQKQRADLFVSIHADAFTSR----------QPSG-SSVFALSTkga
+tstaakylaqtqnasdliggvsdmvqsltiadSLKFGKAVLNKLG--KINKLhknqvEQA---GFAVLK-
+AP----DIPSILVETAFISnveeerklKTATFQQEVAESILAGIKAYFA---
+
+>t|PDB:6f3k:A|PDB:4bin:A COMBINED SOLID-STATE NMR, SOLUTION-STATE NMR AND E
+mevrnmvdyellkkvveapgvsgyEFLGirdvvieeikdyvdevkvdklgnviahkkgegpkvmiaahmd
+qiglmvthiekngflrvapiggvdpktliaqrfkvwidkgKFIygvgasvpphiqkpedrkkapdwdqif
+idigaESKeeaEDMGvkigtvitwdg--------------------------------------------
+-----------------------------------rlerlgkhrfVSIAfDDRIAVYTILEVAKQL-KdA
+-KaDVYFVATvq-eEVGLRGARTSAFGIEPDYGFAIDVTIAADIpgtpehkqvtHLGKgTAIKIMDRsv-
+------------------------------icHPTIVRWLEELAKkhEIPYQ-----LEIllgGGTDAGa
+IHltkaGVPTGALSVPARYihsn-tevVDERDVDATVELMTKALENIHElki
+
+>q|PDB:4bin:A|PDB:4x8i:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+-------------------fqghmqvvAVRVwpassytrvtVESnrqlkykqfalsnpervvvdiedvNL
+nsvLKGMaaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllal
+ledynsgpqpgkagrdrpivimldpghggedsgavGKYKTREKDVVLQIARRLRSLIEKEgN-MKVYMTR
+nedifIPl----QVRVAKAQKQRADLFVSIHADA-FTSr-------QPSG-SSVFAlSTkgatstaakyl
+aqtqnasdliggvsdmvqsltiadSLKFGKAVLNKLG--KINkLHknqvEQAg----FAVLKa-----PD
+IPSILVEtAFISnveeerklktatFQQEVAESILAGIKAYFA-----
+
+>t|PDB:4x8i:A|PDB:4bin:A DE NOVO CRYSTAL STRUCTURE OF THE PYROCOCCUS FURIOS
+mvdwelmkkiiespgvsgyehlgirdlvvdilkdvadevkidklgnviahfkgsapkvmvaahmdkiglm
+vnhidkdgylrvvpiggvlpetliaqkIRFFtekg---eryGVVgvlpphlridw---dsiivdvgasSR
+eeaEEMGfrigtigefa-----------------------------------------------------
+-------------------------pnftrlsehrFATPYLDDRICLYAMIEAARQLGEH-EaDIYIVAS
+-----VQeeiglRGARVASFAIDPEVGIAMDVTFaKQPndkgkivpELGKgPVMDV-GPn----------
+-----------------------iNPKLRQFADEVAKkyEIP-LQ----VEPsprptGTDANvmqinrEG
+VATAVLS-IPIRymhsqveladarDVDNTIKLAKALLEELKPmdftp
+
+>q|PDB:4bin:A|PDB:2wyr:E CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+-----------------fqghmqvvAVRVwpassytrvtVESnrqlkykqfalsnpervvvdiedvNLns
+vLKGMaaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalle
+dynsgpqpgkagrdrpivimldpghggedsgavGKYKTREKDVVLQIARRLRSLIEKEGN--MKVYM-Tr
+nedifIP----LQVRVAKAQkQRAD-LFVSIHADAFTSr----qPSg--SSVFALStkgatstaakylaq
+tqnasdliggvsdmvqsltiadSLKFGKAVLNKLG--KINKLhknqvEQA--GFAVLKA--PDIPSILVE
+tAFISnveeerklktaTFQQEVAESILAGIKAYfa
+
+>t|PDB:2wyr:E|PDB:4bin:A 3-D STRUCTURE OF PHTET1-12S, DODECAMER IN THE ASYM
+msmieklkkftqipgisgyeerireeiireikdfadykvdaignlivelgegeerilfmahmdeigllit
+gitdegklrfrkvggiddrllygrhVNVVtekg---ildGVIgatpphlksvip-wydlvidigaeSKee
+aLELVkpldfavfkk-------------------------------------------------------
+------------------------hfsvlngkyVSTRGLDDRFGVVALIEAIKDLVDHELegKVIFAfT-
+-----VQeevgLKGAKFLAN-HYYPqYAFAIDSFACCSpltgdvKLgkgPVIRAVDnsa-----------
+--------------------iySRDLARKVWSIAEknGIEIQ-----IGVtgGGTDASAfqDRSKTLALS
+-VPIKylhsevetlhlNDLEKLVKLIEALAFEL--
+
+>q|PDB:4bin:A|PDB:2wyr:K CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+-----------------fqghmqvVAVRVWpassytrvtVESNrqlkykqfalsnpervvvdiedVNLnS
+VLKgmaaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalle
+dynsgpqpgkagrdrpivimldpghggedsgavGKYKTREKDVVLQIARRLRSLIE-KEgN--MKVYM-T
+rnedifIP----LQVRVAKAqKQRAD-LFVSIHaD-AFTSr-----QPSG-SSVFALSTkGAtstaakyl
+aqtqnasdliggvsdmvqsltiadSLKFGKAVLNKLG--KINKLhknqvEQA--GFAVLKA--PDIPSIL
+VEtAFISnveeerklktatFQQEVAESILAGIKAYfa
+
+>t|PDB:2wyr:K|PDB:4bin:A 3-D STRUCTURE OF PHTET1-12S, DODECAMER IN THE ASYM
+msmieklkkftqipgisgyeerireeiireikdfadykvdaignlivelgegeerilfmahmdeigllit
+gitdegklrfrkvggiddrllygrHVNVVTekg---ildGVIGatpphlsvip--wydlvidigaESKeE
+ALElvkpldfavfk--------------------------------------------------------
+-----------------------khfsvlngkyVSTRGLDDRFGVVALIEAIKDLVdHE-LegKVIFAfT
+------VQeevgLKGAKFLA-NHYYPqYAFAID-SfACCSpltgdvKLGKgPVIRAVDNsAIy-------
+------------------------SRDLARKVWSIAEknGIEIQ-----IGVtgGGTDASAfqDRSKTLA
+LS-VPIKylhsevetlhlnDLEKLVKLIEALAFEL--
+
+>q|PDB:4bin:A|PDB:3kl9:E CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+---------------------fqghmqvvavrvwpassytrvtVESnrqlkykqfalsnpervvvdiedv
+NLnsVLKGmaaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapll
+alledynsgpqpgkagrdrpivimldpghggedsgavgKYKT-REKDVVLQIARRLRSLIEK-EGN-MKV
+YM-TrnedifIP----LQVRVAKAQKQRADLFVSIHADAFTSRq----PS-GS-SVFALSTkgatstaak
+ylaqtqnasdliggvsdmvqsltIADSLKFGKAVLNKLGKinKLhknqvEQA---GFAVLK-AP----DI
+PSILVEtAFISnveeerklktaTFQQEVAESILAGIKAYFa---------
+
+>t|PDB:3kl9:E|PDB:4bin:A CRYSTAL STRUCTURE OF PEPA FROM STREPTOCOCCUS PNEUM
+smttlfskikevtelaavsgheapvraylrekltphvdevvtdglggifgikhseavdaprvlvashmde
+vgfmvseikpdgtfrvveiggwnpmvvssqrfklltrdgheipVISgpaiadi----------vfdggfa
+DKaeAESFgirpgdtivpd---------------------------------------------------
+---------------------------ssailtaneknIISKaWDNRYGVLMVSELAEALSGqKLGnELY
+LGsN------VQeevgLRGAHTSTTKFDPEVFLAVDCSPAGDVyggqgKIgDGtLIRFYDPgh-------
+---------------------llLPGMKDFLLTTAEEAGI--KY-----QYYcgkGGTDAGaAHlkngGV
+PSTTIG-VCARyihshqtlyamDDFLEAQAFLQALVKKLDrstvdlikhy
+
+>q|PDB:4bin:A|PDB:1vho:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+--fqghMQV--------VAVRVwpassytrvtVESNrqlkykqfals--npervvvdiedVNLnsvlkgm
+aaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsg
+pqpgkagrdrpivimldpghggedsgavGKyktREKDVVLQIARRLRSLIE-KEGN-MKVYMTRnediFI
+PLQVRVAKAQKQ--RAD-LFVSIHADAFTs---rQPSg----SSVFALSTkgatstaakylaqtqnasdl
+iggvsdmvqsltiadSLKFGKAVLNKLG--KINklhknqvEQA--GF-AVLKaPd----IPSILVETaFI
+SnveeerklKTATFQQEVAESILAGIKAYFa
+
+>t|PDB:1vho:A|PDB:4bin:A CRYSTAL STRUCTURE OF A PUTATIVE PEPTIDASE/ENDOGLUC
+metgkllmelsnldgpsgyetnvvsyiksviepfvdeakttrhgsligykkgkgigklaffahvdeigfv
+vskvegQFArlepvyasKVRIYtkn----gieRGVIgmlaphlqdsesrkkvptydeifvDLSlcergvr
+vgdia-----------------------------------------------------------------
+----------------vidqtafetngkVVgkaLDNRASCGVLVKVLEFLKrYDHPwDVYVVFS----VQ
+EETGCLGALTGAyeINPdAAIVMDVTFASeppfsDHIelgkgPVIGLGPVv-------------------
+---------------DRNLVQKIIEIAKkhNVSl------QEEavGGrTDFV-QlvrngVRTSLISI-PL
+KymhtpvemVDPRDVEELARLLSLVAVELE-
+
+>q|PDB:4bin:A|PDB:3kl9:I CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+------------------fqghmqvvavrvwpassytrvtVESnrqlkykqfalsnpervvvdiedvNLn
+sVLKGmaaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllall
+edynsgpqpgkagrdrpivimldpghggedsgavgKYKT-REKDVVLQIARRLRSLIEKEGN--MKVYM-
+TrnedifIP----LQVRVAKAQKQRADLFVSIHADAFTSRq----PSg--SSVFALSTkgatstaakyla
+qtqnasdliggvsdmvqsltIADSLKFGKAVLNKLGKinKLhknqvEQA---GFAVLK-AP----DIPSI
+LVEtAFISnveeerklktatfQQEVAESILAGIKAYFa---------
+
+>t|PDB:3kl9:I|PDB:4bin:A CRYSTAL STRUCTURE OF PEPA FROM STREPTOCOCCUS PNEUM
+tlfskikevtelaavsgheapvraylrekltphvdevvtdglggifgikhseavdaprvlvashmdevgf
+mvseikpdgtfrvveiggwnpmvvssqrfklltrdgheipVISgpaiadi----------vfdggfaDKa
+eAESFgirpgdtivpd------------------------------------------------------
+------------------------ssailtaneknIISKaWDNRYGVLMVSELAEALSGQKLgnELYLGs
+N------VQeevgLRGAHTSTTKFDPEVFLAVDCSPAGDVyggqgKIgdgTLIRFYDPgh----------
+------------------llLPGMKDFLLTTAEEAGI--KY-----QYYcgkGGTDAGaAHlkngGVPST
+TIG-VCARyihshqtlyamddFLEAQAFLQALVKKLDrstvdlikhy
+
+>q|PDB:4bin:A|PDB:3kl9:C CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+------------------fqghmqvVAVRVWPassytrvtVESNrqlkykqfalsnpervvvdiedvNLN
+svlKGMAaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllall
+edynsgpqpgkagrdrpivimldpghggedsgavgKYKT--REKDVVLQIARRLRSLIEKEGn--MKVYM
+-TrnedifIP----LQVRVAKAQKQRADLFVSIHAD-AFTSRQ---PS-GS-SVFALSTkgatstaakyl
+aqtqnasdliggvsdmvqsltIADSLKFGKAVLNKLgKINklhknqvEQA--GFA-VL-KAP----DIPS
+ILVEtAFISnveeerklktATFQQEVAESILAGIKAYFa---------
+
+>t|PDB:3kl9:C|PDB:4bin:A CRYSTAL STRUCTURE OF PEPA FROM STREPTOCOCCUS PNEUM
+tlfskikevtelaavsgheapvraylrekltphvdevvtdglggifgikhseavdaprvlvashmdevgf
+mvseikpdgtfrvveiggwnpmvvsSQRFKLLtrdgheipVISGpaiad-------------ivfdgGFA
+dkaEAESfgirpgdtivp----------------------------------------------------
+------------------------dssailtanekNIISkaWDNRYGVLMVSELAEALSGQKlgnELYLG
+sN------VQeevgLRGAHTSTTKFDPEVFLAVDCSpAGDVYGgqgKIgDGtLIRFYDPgh---------
+-------------------llLPGMKDFLLTTAEEA-GIKy------QYYcgKGGtDAgAAHlkngGVPS
+TTIG-VCARyihshqtlyaMDDFLEAQAFLQALVKKLDrstvdlikhy
+
+>q|PDB:4bin:A|PDB:2wyr:G CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+--------------fqghmqvvavrvwpassytrvtVESnrqlkykqfalsnpervvvdiedvnLNsvlK
+GMAaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledyn
+sgpqpgkagrdrpivimldpghggedsgavGKYKTREKDVVLQIARRLRSLIEKEGN--MKVYM-Trned
+ifIP----LQVRVAKAQkQRAD-LFVSIHADAFTSr----qPSg--SSVFALStkgatstaakylaqtqn
+asdliggvsdmvqsltiadSLKFGKAVLNKLG--KINKLhknqvEQA--GFAVLKA--PDIPSILVEtAF
+ISnveeerklktATFQQEVAESILAGIKAYfa
+
+>t|PDB:2wyr:G|PDB:4bin:A 3-D STRUCTURE OF PHTET1-12S, DODECAMER IN THE ASYM
+msmieklkkftqipgisgyeerireeiireikdfadykvdaignlivelgegeerilfmahmdeigllit
+gitdegklrfrkvggiddrllygrhvnvvtekgildGVIgatpphlsvi-----pwydlvidigAEskeE
+ALElvkpldfavfk--------------------------------------------------------
+--------------------khfsvlngkyVSTRGLDDRFGVVALIEAIKDLVDHELegKVIFAfT----
+--VQeevgLKGAKFLAN-HYYPqYAFAIDSFACCSpltgdvKLgkgPVIRAVDnsa--------------
+-----------------iySRDLARKVWSIAEknGIEIQ-----IGVtgGGTDASAfqDRSKTLALS-VP
+IKylhsevetlhLNDLEKLVKLIEALAFEL--
+
+>q|PDB:4bin:A|PDB:2gre:G CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+---------fqghmqvvavrVW-PAssyt-----------------------------------------
+---------------------------------------rvtVESnrqlkykqfalsnpervvvdiedvN
+LnSVLKgmaaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypaplla
+lledynsgpqpgkagrdrpivimldpghggedsgavGKYKTREKDVVLQIARRLRSLIE--KEGN--MKV
+YMTRnedifIPLqvrvakaqKQRAD-LFVSIHADAFTSrQPS--GSSVFALStkGATstaakylaqtqna
+sdliggvsdmvqsltiadSLKFGKAVLNKLG--KINKLHknqvEQAgfavLK--ApDIPSILVETAfISN
+veeerklktATFQQEVAESILAGIKAYFA-
+
+>t|PDB:2gre:G|PDB:4bin:A CRYSTAL STRUCTURE OF DEBLOCKING AMINOPEPTIDASE FRO
+htketmelikelvsipspsgNTaKIinfienyvsewnvetkrnnkgaliltvkgkndaqhrlltahvdtl
+gamvkeikpdgrlslsmiggfrwnsvegeyceietssgktytGTIlmkniev----------ridervfS
+AdEVRElgievgdfvsf-----------------------------------------------------
+-------------------------dprvqitesgyIKSRHLDDKVSVAILLKLIKRLQdeNVTLpyTTH
+FLIS-----NNEe------iIPEETvEYLAVDMGALGD-GSDeyTVSICAKDs-SGPy------------
+------------------HYALRKHLVELAKtnHIEYKV----DIYpy-yGRagF-DVKHALIGAG-IDS
+sfe---rthESSIAHTEALVYAYVMSNLIe
+
+>q|PDB:4bin:A|PDB:5ne7:B CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----fqghmqvvavrVWPASsyt-----------------------------------------------
+-----------------------------rvtVESnrqlkykqfals-----npervvvdiedvNLnsVL
+KGMAaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledy
+nsgpqpgkagrdrpivimldpghggedsgavGKYKTREKDVVLQIARRLRSLIeKEgNMKVYMTRNedif
+iplqvrvakaQK-QRADLFVSIHADA-FTSRQ-------PS-GS-SVFALSTkgatstaakylaqtqnas
+dliggvsdmvQSLTIADSLKFGKAVLNKLgKINkLHknqvEQAGfavlkAPDIpSILVETaFISNveeer
+kLKTATFQQEVAESILAGIKayfa
+
+>t|PDB:5ne7:B|PDB:4bin:A CRYSTAL STRUCTURE OF H60A MUTANT OF THERMOTOGA MAR
+mkelirklteafgpsGREEEvrsiileeleghidghridglgnlivwkgsgekkvildaaideigvvvtn
+vddkgfltiepvggvspymllgkrirfengtiGVVgmegetteerqenvrklsfdklfidiganSReeAQ
+KMCPigsfgvyds---------------------------------------------------------
+-----------------------gfvevsgkYVSKAMDDRIGCAVIVEVFKRI-KP-AVTLYGVFSvqee
+------vglvGYgVPADEAIAIDVTDsADTPKaikrhamRLsGGpALKVKDR------------------
+----------ASISSKRILENLIEIAEKF-DIK-YQ----MEVLt---fEGIP-SATVSI-PTRYvhsps
+eMIAPDDVEATVDLLIRYLGa---
+
+>q|PDB:4bin:A|PDB:1ylo:C CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+-------------------fqghmqvVA-VRVwpassytrvtvesnrqlkykqfalsnpervvVDIe---
+----------------dVNLnsVLKGmaaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalap
+vagfkerlvmdlypapllalledynsgpqpgkagrdrpivimldpghggedsgavGKYKTREKDVVLQIA
+RRLRSLIE-KEGN-MKVYMTRnedifIP----LQVRVAKAQKQRADLFVSIHADAFT-SRqp--------
+-sgSSVFALSTkgatstaakylaqtqnasdliggvsdmvqsltiadSLKFGKAVLNKLG--KINkLHknq
+vEQA---GFAVLKa-----PDIPSILVETaFISNveeerklktATFQQEVAESILAGIKAYFA-------
+---
+
+>t|PDB:1ylo:C|PDB:4bin:A CRYSTAL STRUCTURE OF PROTEIN OF UNKNOWN FUNCTION (
+amdlsllkalseadaiasseqevrqilleeaarlqkevrfdglgsvlirlnestgpkvmicahmdevgfm
+vrsisregaidvlpvgnvrmaarqlqPVrITTre---------------------------ecKIPglld
+gdrqgndvsamrvdigaRTYdeVMQAgirpgdrvtfd---------------------------------
+---------------------------------------------ttfqvlphqrVMGKAFDDRLSCYLL
+VTLLRELHdAELPaEVWLVAS-----SSeevgLRGGQTATRAVSPDVAIVLDTACWAkNFdygaanhrqi
+gngPMLVLSDKsl-------------------------------iaPPKLTAWIETVAAeiGVP-LQ---
+-ADMfsnGGTDGGavhltgTGVPTLVMGP-ATRHghcaasiadCRDILQMEQLLSALIQRLTRetvvqlt
+dfr
+
+>q|PDB:4bin:A|PDB:2gre:O CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+------fqghmqvvavrvWPASSytr--------------------------------------------
+----------------------------------------vtVESNRqlkykqfalsnpervvvdiedvN
+LnsvLKGMAaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypaplla
+lledynsgpqpgkagrdrpivimldpghggedsgavgkYKTReKDVVLQIARRLRSLIEK-----EGN--
+-MKVYMTRnedifiPLQVrvakaqkQ-RAD--LFVSIHaDA-FTsrqPS--GSSVFALSTKGAtstaaky
+laqtqnasdliggvsdmvqsltiadSLKFGKAVLNKLG--KINKLhknqvEQAGFAVlkA--PDIPSILV
+ETAFISnveeerklktATFQQEVAESILAGIKAYFA-
+
+>t|PDB:2gre:O|PDB:4bin:A CRYSTAL STRUCTURE OF DEBLOCKING AMINOPEPTIDASE FRO
+tketmelikelvsipspsGNTAKiinfienyvsewnvetkrnnkgaliltvkgkndaqhrlltahvdtlg
+amvkeikpdgrlslsmiggfrwnsvegeyceietssgktytgTILMNievri-------------dervF
+SadeVRELGievgdfvsfd---------------------------------------------------
+----------------------------prvqitesgyIKSR-HLDDKVSVAILLKLIKRlqdenVTLpy
+tTHFLISN------NEEI-------IpEETveYLAVDM-GAlGD---GDeyTVSICAKDSSGPy------
+-------------------------HYALRKHLVELAKtnHIEYKv----DIYPYYG--RagFDVKHALI
+GAGIDSshaf--erthESSIAHTEALVYAYVMSNLIe
+
+>q|PDB:4bin:A|PDB:1ylo:B CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+-----------------fqghmqvVAVR-VWPassytrvtvesnrqlkykqfalsnpervvvDIEdv---
+---------nLNsvlKGMAAqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlv
+mdlypapllalledynsgpqpgkagrdrpivimldpghggedsgavGKYKTREKDVVLQIARRLRSLIEK
+EGN---MKVYMTRnedIFIPLQVRVAKAQKQ-RAD-LFVSIHaDAF-TSRq-------PS-GS-SVFALS
+TkgatstaakylaqtqnasdliggvsdmvqsltIADSLKFGKAVLNKLGkinklHknqvEQAG--FAV-L
+KAP-----DI-PSILVetAFISnveeerklktATFQQEVAESILAGIKAYFA----------
+
+>t|PDB:1ylo:B|PDB:4bin:A CRYSTAL STRUCTURE OF PROTEIN OF UNKNOWN FUNCTION (
+amdlsllkalseadaiasseqevrqilleeaarlqkevrfdglgsvlirlnestgpkvmicahmdevgfm
+vrsisregaidvlpvgnvrmaarqLQPVrITTreeck---------------------ipglLDGdrqgn
+dvsamrvdigARtydEVMQAgirpgdrvtfd---------------------------------------
+------------------------------------ttfqvlphqrVMGKAFDDRLSCYLLVTLLRELHD
+AELpaeVWLVASS---SEEVGLRGGQTATRAvSPDvAIVLDT-ACWaKNFdygaanhrQIgNGpMLVLSD
+Ksl----------------------------iaPPKLTAWIETVAAEIGvp--lQ----ADMFsnGGTdG
+GAVhltgtGVpTLVMG--PATRhghcaasiadCRDILQMEQLLSALIQRLTRetvvqltdfr
+
+>q|PDB:4bin:A|PDB:1ylo:E CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+-----------------fqghmqvVAVR-VWPassytrvtvesnrqlkykqfalsnpervvvDIEd----
+--------vNLNsvlKGMAAqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlv
+mdlypapllalledynsgpqpgkagrdrpivimldpghggedsgavGKYKTREKDVVLQIARRLRSLIEK
+EGN--MKVYM-TrnedifIP---LQVRVAKAQKQ-RAD-LFVSIHaDAF-TSRq-------PS-GS-SVF
+ALSTkgatstaakylaqtqnasdliggvsdmvqsltIADSLKFGKAVLNKLGkinklHknqvEQAG--FA
+-VLKAP-----DIPSILVEtAFISnveeerklktATFQQEVAESILAGIKAYFA----------
+
+>t|PDB:1ylo:E|PDB:4bin:A CRYSTAL STRUCTURE OF PROTEIN OF UNKNOWN FUNCTION (
+amdlsllkalseadaiasseqevrqilleeaarlqkevrfdglgsvlirlnestgpkvmicahmdevgfm
+vrsisregaidvlpvgnvrmaarqLQPVrITTreeck---------------------ipglLDGdrqgn
+dvsamrvdiGARtydEVMQAgirpgdrvtfd---------------------------------------
+------------------------------------ttfqvlphqrVMGKAFDDRLSCYLLVTLLRELHD
+AELpaEVWLVaS------SSeevGLRGGQTATRAvSPDvAIVLDT-ACWaKNFdygaanhrQIgNGpMLV
+LSDKsl----------------------------iaPPKLTAWIETVAAEIGvp--lQ----ADMFsnGG
+tDGGAVhltgtGVPTLVMG-PATRhghcaasiadCRDILQMEQLLSALIQRLTRetvvqltdfr
+
+>q|PDB:4bin:A|PDB:1ylo:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+-----------------fqghmqvVAVR-VWPassytrvtvesnrqlkykqfalsnpervvvDIEd----
+--------vNLNsvlKGMAAqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlv
+mdlypapllalledynsgpqpgkagrdrpivimldpghggedsgavGKYKTREKDVVLQIARRLRSLIEK
+EGN--MKVYM-TrnedifIP---LQVRVAKAQKQ-RAD-LFVSIHaDAF-TSRq-------PS-GS-SVF
+ALSTkgatstaakylaqtqnasdliggvsdmvqsltIADSLKFGKAVLNKLGkinklHknqvEQAG--FA
+-VLKAP-----DIPSILVEtAFISnveeerklktATFQQEVAESILAGIKAYFA----------
+
+>t|PDB:1ylo:A|PDB:4bin:A CRYSTAL STRUCTURE OF PROTEIN OF UNKNOWN FUNCTION (
+amdlsllkalseadaiasseqevrqilleeaarlqkevrfdglgsvlirlnestgpkvmicahmdevgfm
+vrsisregaidvlpvgnvrmaarqLQPVrITTreeck---------------------ipglLDGdrqgn
+dvsamrvdiGARtydEVMQAgirpgdrvtfd---------------------------------------
+------------------------------------ttfqvlphqrVMGKAFDDRLSCYLLVTLLRELHD
+AELpaEVWLVaS------SSeevGLRGGQTATRAvSPDvAIVLDT-ACWaKNFdygaanhrQIgNGpMLV
+LSDKsl----------------------------iaPPKLTAWIETVAAEIGvp--lQ----ADMFsnGG
+tDGGAVhltgtGVPTLVMG-PATRhghcaasiadCRDILQMEQLLSALIQRLTRetvvqltdfr
+
+>q|PDB:4bin:A|PDB:5ne6:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+----------------fqghmqvvAVRVwpassytrvtVESnrqlkykqfals-----npervvvdiedv
+NLnsVLKGMaaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapll
+alledynsgpqpgkagrdrpivimldpghggedsgavGKYKTREKDVVLQIARRLRSLIeKEGNMKVYMT
+RnedifiplqvrvakaQKQRADLFVSIHADA-FTSR-------QPSg--SSVFALSTkgatstaakylaq
+tqnasdliggvsdmvqsltIADSLKFGKAVLNKLG--KINklhknqvEQAgfavlkapdIPSILVETaFI
+SNveeerkLKTATFQQEVAESILAGIKayfa
+
+>t|PDB:5ne6:A|PDB:4bin:A CRYSTAL STRUCTURE OF DIMERIC TMPEP1050 AMINOPEPTID
+mkelirklteafgpsgreeevrsiileeleghidghridglgnlivwkgsgekkvildahideigvvvtn
+vddkgfltiepvggvspymllgkrIRFEng------tiGVVgmegetteerqenvrklsfdklfidigan
+SReeAQKMCpigsfgvyd----------------------------------------------------
+----------------------------sgfvevsgkYVSKAMDDRIGCAVIVEVFKRI-KPAVTLYGVF
+Svq------------eYGVPADEAIAIDVTDsADTPkaikrhaMRLsggPALKVKDRa------------
+-------------------SISSKRILENLIEIAEkfDIKy------QMEvl-----tgIPSATVSI-PT
+RYvhspseMIAPDDVEATVDLLIRYLGa---
+
+>q|PDB:4bin:A|PDB:5dkv:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdRPI
+VIMLDPGHGGedsgavgkyktreKDVVLQIARRLRSLIEKEGnMKVYMTRned-ifiPLQVRVAKAQKQR
+ADLFVSIhadaftsrqpsgssvfalstkgatstaakylaqtqnasdliggvsdmvqsltiadslkfgkav
+lnklgkinklhknqveqaGFAVLKA-----PD-IPSILVE----------------------TAfisnv-
+----------------------------------------------------------------------
+----------------------------------------------------eeerKLktatFQQEVAES
+ILAGIKAYFA--------------------------------
+
+>t|PDB:5dkv:A|PDB:4bin:A CRYSTAL STRUCTURE OF AN ABC TRANSPORTER SOLUTE BIN
+----------------------------------------------------------------------
+---------------------------------------------------------------smenKKF
+RIALIPGLTT-------------DAFYITMHKGAEAAAAAIG-AQIIFQGapdfnpvTQVPVLDAVIAKK
+PDAILIApt-------------------------------------------------------------
+-----------------dTTQLVQPlkkaaDAgIPMITVDtfigtgdyqtgagdgdfplsyiASdnvlgg
+eiaarslalaigdkgkvyvsnvkpgvsttdqreqgfksemakhpgitvletqfndndankaasqlqavya
+rnpdlagvfganlfsglgsangvqqagqsgtikvvafdapgsvvdnlksglidfaiAQ----HPAEIGYY
+GVISAYAHLTgqsiptkigtgftvinksnvtdpavarfiyae
+
+>q|PDB:4bin:A|PDB:2gre:D CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------fqghmqvvavrVWPAssytrvtv-------------------------------------
+------------------------esnrqlkYKQfalsnpeRVVVDIe-------------DVNLnsVLK
+Gmaaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledyn
+sgpqpgkagrdrpivimldpghggedsgavGKYKTREKDVVLQIARRLRSLIE--KEGN--MKVYMTRne
+difIPLqvrvakaqKQRAD-LFVSIHADAFT-SrqpS--GSSVFALSTkGATstaakylaqtqnasdlig
+gvsdmvqsltiadSLKFGKAVLNKLG--KINKLHknqvEQAGFAvlKA-PDIPSILVETAfISNveeerk
+lktATFQQEVAESILAGIKAYFA-
+
+>t|PDB:2gre:D|PDB:4bin:A CRYSTAL STRUCTURE OF DEBLOCKING AMINOPEPTIDASE FRO
+htketmelikelvsipspsgnTAKIinfienyvsewnvetkrnnkgaliltvkgkndaqhrlltahvdtl
+gamvkeikpdgrlslsmiggfrwnsvegeycEIEt-----sSGKTYTgtilmnievriderVFSAdeVRE
+Lgievgdfvsfd----------------------------------------------------------
+--------------------prvqitesgyIKSRHLDDKVSVAILLKLIKRLQdeNVTLpyTTHFLIS--
+---NNE--------IPEETvEYLAVDMGALGdG---DeyTVSICAKDS-SGPy-----------------
+-------------HYALRKHLVELAKtnHIEYKV----DIYPYY--RAgFDVKHALIGAG-IDSshaf-e
+rthESSIAHTEALVYAYVMSNLIe
+
+>q|PDB:4bin:A|PDB:5dkv:C CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdrPI
+VIMLDPGhggedsgavgkyktreKDVVLQIARRLRSLIEKEGnMKVYMTRned--ifIPLQVRVAKAQKq
+RADLFVSihadaftsrqpsgssvfalstkgatstaakylaqtqnasdliggvsdmvqsltiadslkfgka
+vlnklgkinklhknqveqaGFAVl--KAPD-IPSILVE----------------------TA--------
+-------------------------FIsnv----------------------------------------
+--------------------------------------------------eeeRKLktatFQQEVAESIL
+AGIKAYFA--------------------------------
+
+>t|PDB:5dkv:C|PDB:4bin:A CRYSTAL STRUCTURE OF AN ABC TRANSPORTER SOLUTE BIN
+----------------------------------------------------------------------
+--------------------------------------------------------------------KF
+RIALIPGlt-------------tDAFYITMHKGAEAAAAAIG-AQIIFQGapdfnpvTQVPVLDAVIAK-
+KPDAILIaptd-----------------------------------------------------------
+----------------ttqLVQPlkkAADAgIPMITVDtfigtgdyqtgagdgdfplsyiASdnvlggei
+aarslalaigdkgkvyvsnvkpgvsTTdqreqgfksemakhpgitvletqfndndankaasqlqavyarn
+pdlagvfganlfsglgsangvqqagqsgtikvvafdapgsvvdnlksglidfaIAQ----HPAEIGYYGV
+ISAYAHLTgqsiptkigtgftvinksnvtdpavarfiyae
+
+>q|PDB:4bin:A|PDB:5dkv:B CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdRPI
+VIMLDPGHGGedsgavgkyktreKDVVLQIARRLRSLIEKEGnMKVYMTRned--ifIPLQVRVAKAQKq
+RADLFVSihadaftsrqpsgssvfalstkgatstaakylaqtqnasdliggvsdmvqsltiadslkfgka
+vlnklgkinklhknqveqAGFavlKAPD-IPSILVE----------------------TA----------
+-----------------------FIsnv------------------------------------------
+-------------------------------------------------eeeRKlktatFQQEVAESILA
+GIKAYFA--------------------------------
+
+>t|PDB:5dkv:B|PDB:4bin:A CRYSTAL STRUCTURE OF AN ABC TRANSPORTER SOLUTE BIN
+----------------------------------------------------------------------
+------------------------------------------------------------------nKKF
+RIALIPGLTT-------------DAFYITMHKGAEAAAAAIG-AQIIFQGapdfnpvTQVPVLDAVIAK-
+KPDAILIaptd-----------------------------------------------------------
+--------------ttqlVQPlkkAADAgIPMITVDtfigtgdyqtgagdgdfplsyiASdnvlggeiaa
+rslalaigdkgkvyvsnvkpgvsTTdqreqgfksemakhpgitvletqfndndankaasqlqavyarnpd
+lagvfganlfsglgsangvqqagqsgtikvvafdapgsvvdnlksglidfaiAQ-----HPAEIGYYGVI
+SAYAHLTgqsiptkigtgftvinksnvtdpavarfiyae
+
+>q|PDB:4bin:A|PDB:5dkv:D CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdrPI
+VIMLDPGhggedsgavgkyktreKDVVLQIARRLRSLIEKEGnMKVYMTRned--ifIPLQVRVAKAQKq
+RADLFVSihadaftsrqpsgssvfalstkgatstaakylaqtqnasdliggvsdmvqsltiadslkfgka
+vlnklgkinklhknqveqaGFAVl--KAPD-IPSILVE----------------------TA--------
+-------------------------FIsnv----------------------------------------
+--------------------------------------------------eeeRKLktatFQQEVAESIL
+AGIKAYFA--------------------------------
+
+>t|PDB:5dkv:D|PDB:4bin:A CRYSTAL STRUCTURE OF AN ABC TRANSPORTER SOLUTE BIN
+----------------------------------------------------------------------
+--------------------------------------------------------------------KF
+RIALIPGlt-------------tDAFYITMHKGAEAAAAAIG-AQIIFQGapdfnpvTQVPVLDAVIAK-
+KPDAILIaptd-----------------------------------------------------------
+----------------ttqLVQPlkkAADAgIPMITVDtfigtgdyqtgagdgdfplsyiASdnvlggei
+aarslalaigdkgkvyvsnvkpgvsTTdqreqgfksemakhpgitvletqfndndankaasqlqavyarn
+pdlagvfganlfsglgsangvqqagqsgtikvvafdapgsvvdnlksglidfaIAQ----HPAEIGYYGV
+ISAYAHLTgqsiptkigtgftvinksnvtdpavarfiyae
+
+>q|PDB:4bin:A|PDB:5ne7:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+---------------fqghmqvVAVRVWPassytrvtvesnrqlkykqfalsnpervvVDIe--------
+-------------------dVNLnsvLKGMaaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfa
+lapvagfkerlvmdlypapllalledynsgpqpgkagrdrpivimldpghggedsgavGKYKTREKDVVL
+QIARRLRSLIeKEGNMKVYMTRnedifIP------LQVrvakAQK--QRADLFVSIHADA-FTSR-----
+--QPS-GS-SVFALSTKgatstaakylaqtqnasdliggvsdmvqsltIADSLKFGKAVLNKLG--KINk
+lhknqvEQAgfavlkapDIPSILVETaFISnveeerkLKTATFQQEVAESILAGIKAyfa
+
+>t|PDB:5ne7:A|PDB:4bin:A CRYSTAL STRUCTURE OF H60A MUTANT OF THERMOTOGA MAR
+mkelirklteafgpsgreeevrsiileeleghidghridglgnlivwkgsgekkvildaaideigvvvtn
+vddkgfltiepvggvspymllgKRIRFENg---------------------------tIGVvgmegette
+erqenvrklsfdklfidigaNSReeaQKMCpigsfgvyd-------------------------------
+-------------------------------------------------sgfvevsgkYVSKAMDDRIGC
+AVIVEVFKRI-KPAVTLYGVFS-----VQeevglvGAS----VAGygVPADEAIAIDVTDsADTPkaikr
+haMRLsGGpALKVKDRA-------------------------------SISSKRILENLIEIAEkfDIKy
+------QMEvlt---feGIPSATVSI-PTRyvhspseMIAPDDVEATVDLLIRYLGA---
+
+>q|PDB:4bin:A|PDB:5xz6:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdrpI
+VIMLDPGHggedsgavgkyktreKD--VVLQIARRLRSLIEKEGnMKVYMTR------------------
+----------NEDIFi--------PLQVRVAKAQKQRADLFVSIHaDAftsrqpsgssvfALstkgatst
+aakylaqtqnasdliggvsdmvqsltiadslkfgkavlnklgkinklhknqveqagfavlkaPDIPSILV
+ETAFISNv----EEerKLK---------------------------------------------------
+----------------------------------------------------------------------
+TATFQQEVAESILAGIKAYfa------------------------------------
+
+>t|PDB:5xz6:A|PDB:4bin:A CRYSTAL STRUCTURE OF PHOSPHOFRUCTOKINASE FROM STAP
+----------------------------------------------------------------------
+--------------------------------------------------------------------mK
+KIAVLTSG---------------GDspGMNAAVRAVVRTAIYNE-IEVYGVYhgyqgllnddihklelgs
+vgdtiqrggtFLYSArcpefkeqeVRKVAIENLRKRGIEGLVVIG-GDgsyrg---aqriSEe-------
+--------------------------------------------------------------CKEIQTIG
+IPGTIDNdingtDF--TIGfdtalntiiglvdkirdtasshartfiieamgrdcgdlalwaglsvgaeti
+vvpevktdikeiadkieqgikrgkkhsivlvaegcmtaqdcqkelsqyinvdnrvsvlghvqrggsptga
+DRVLASRLGGYAVDLLMQGetakgvgiknnkivatsfdeifdkfdyslyelanklsi
+
+>q|PDB:4bin:A|PDB:6h8b:B CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdRPi
+VIMLDPGHggedsGAvgkyktREKDVVLQIARRLRSLIEKEgnMKVYMTRne------------------
+-------------------------------------------------dIFI-----------------
+--PLQVRVAKAQKQRADLFVSIHADaftsrqpsgssvFAlstkgaTSTAAkylaqtqnasdliggvsdmv
+qsltiadslkfgkavlnklgkinklhKNQVEQAg-----------FAVl---kAP-----DIPSILVE-T
+AfisnveeerklktatfqqevaESILAGIKAYfa-------
+
+>t|PDB:6h8b:B|PDB:4bin:A MOLYBDENUM STORAGE PROTEIN PREPARED UNDER IN VIVO-
+----------------------------------------------------------------------
+----------------------------------nstaeleellmqrsltdpqlqaaaaaaadfrilPD-
+ATVIKIGG-----QSv----iDRGRAAVYPLVDEIVAARKN--HKLLIGTgagtrarhlysiaaglglpa
+gvlaqlgssvadqnaamlgqllakhgipvvggaglsavplslaevnavvfSGMppyklwmrpaaegvipp
+yrTDAGCFLLAEQFGCKQMIFVKDEd-----------GL------YTANPkts-----------------
+-----------------------kdaTFIPRISvdemkakglhdsILEfpvldLLqsaqhVREVQVVNgL
+Vp--------------------GNLTRALAGEhvgtiitas
+
+>q|PDB:4bin:A|PDB:5i9t:C CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpGKAgRD-RP
+IVIMLDPGhGGE---DSgavgkyktrEKD-VVLQIARRLRSLIEKEGN----------------------
+-------MKVYMTRN--------EDIFIP-LQVRVAKAQ----KQR---ADLFVSIHaD--AFtSRQPSg
+ssvfalstkgatstaakylaqtqnasdliggvsdMVQsltiadslkfgkavlnklgkinklhknqveqag
+favlkaPD-IPSILVEtafisnveeeRKLKTAT-FQQEVAESILAGIK--AYFa----------------
+-----------------------------
+
+>t|PDB:5i9t:C|PDB:4bin:A CASPASE 3 V266C
+----------------------------------------------------------------------
+-----------------------------------------------------sgisldnsYKM-DYpEM
+GLCIIINNkNFHkstGM---------TSRsGTDVDAANLRETFRNLKYevrnkndltreeivelmrdvsk
+edhskrsSFVCVLLShgeegiifGTNGPVdLKKITNFFRgdrcRSLtgkPKLFIIQA-CrgTE-LDCGIe
+h--------------------------------kIPV---------------------------------
+------EAdFLYAYSTapg----yysWRNSKDGsWFIQSLCAMLKQYAdkLEFmhiltrvnrkvatefes
+fsfdatfhakkqipcicsmltkelyfyhl
+
+>q|PDB:4bin:A|PDB:5ne6:B CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+----------------fqghmqvVAVRVWpassytrvtvesnrqlkykqfalsnpervvVDIed------
+---------------------vNLnsVLKGMaaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlf
+alapvagfkerlvmdlypapllalledynsgpqpgkagrdrpivimldpghggedsgavGKYKTREKDVV
+LQIARRLRSLIeKEGNMKVYMTRnediFIPLQvrvakaqkQRADLFVSIHADA-FTSR-------QPSg-
+-SSVFALSTkgatstaakylaqtqnasdliggvsdmvqsltIADSLKFGKAVLNKLG--KINKLhknqvE
+QAGfavlkapdIPSILVETaFISNveeerkLKTATFQQEVAESILAGIKayfa
+
+>t|PDB:5ne6:B|PDB:4bin:A CRYSTAL STRUCTURE OF DIMERIC TMPEP1050 AMINOPEPTID
+mkelirklteafgpsgreeevrsiileeleghidghridglgnlivwkgsgekkvildahideigvvvtn
+vddkgfltiepvggvspymllgkRIRFENg----------------------------tIGVvgmegett
+eerqenvrklsfdklfidiganSReeAQKMCpigsfgvyd------------------------------
+--------------------------------------------------sgfvevsgkYVSKAMDDRIG
+CAVIVEVFKRI-KPAVTLYGVFS----VQEEVglv---ygVPADEAIAIDVTDsADTPkaikrhaMRLsg
+gPALKVKDRa-------------------------------SISSKRILENLIEIAEkfDIKYQ-----M
+EVLt------gIPSATVSI-PTRYvhspseMIAPDDVEATVDLLIRYLGa---
+
+>q|PDB:4bin:A|PDB:5i9b:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpGKAgRD-RP
+IVIMLDPGhGGE---DSgavgkyktrEKD-VVLQIARRLRSLIEKEGN----------------------
+-------MKVYMTRN--------EDIFIP-LQVRVAKAQkq-------rADLFVSIHaD--AFtSRQPSg
+ssvfalstkgatstaakylaqtqnasdliggvsdMVQsltiadslkfgkavlnklgkinklhknqveqag
+favlkaPD-IPSILVEtafisnveeeRKLKTAT-FQQEVAESILAGIK--AYFa----------------
+-----------------------------
+
+>t|PDB:5i9b:A|PDB:4bin:A CASPASE 3 V266A
+----------------------------------------------------------------------
+-----------------------------------------------------sgisldnsYKM-DYpEM
+GLCIIINNkNFHkstGM---------TSRsGTDVDAANLRETFRNLKYevrnkndltreeivelmrdvsk
+edhskrsSFVCVLLShgeegiifGTNGPVdLKKITNFFRgdrcrsltgkPKLFIIQA-CrgTE-LDCGIe
+t-------------------------------hkIPV---------------------------------
+------EAdFLYAYSTapg----yysWRNSKDGsWFIQSLCAMLKQYAdkLEFmhiltrvnrkvatefes
+fsfdatfhakkqipciasmltkelyfyhl
+
+>q|PDB:4bin:A|PDB:3vdq:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdrPI
+VIMLDPGhggedsgavgkyktrekdvvLQIARRLRSLIEKEgnMKVYMTRNEDif---------------
+-------------iPLQVRVAKAQKQ--RADLFVSIHAdaftsrqpsgssvfalstkgatstaakylaqt
+QNasdliggvsdmvqsltiadslkfgkavlnklgkinklhknqveqagfavlkapdIPSILVETAFisnv
+-----------------------------------eeerKLKTa--------------------------
+--------TFQQEVAESILAGIKAYfa----------------
+
+>t|PDB:3vdq:A|PDB:4bin:A CRYSTAL STRUCTURE OF ALCALIGENES FAECALIS D-3-HYDR
+----------------------------------------------------------------------
+------------------------------------------------------------------mlKG
+KKAVVTGs------------------tSGIGLAMATELAKA--GADVVINGFGqpediererstleskfg
+vkayylnadlsdaqATRDFIAKAAEAlgGLDILVNNAGiqhtapieefpv---------dkwnaiialnl
+SAvfhgtaaa--------------------------------------lpimqkqgWGRIINIASAhglv
+asvnksayvaakhgvvgltkvtalenagkgitcnaicpgWVRTplvekqieaisqqkgidieaaarella
+ekqpslqfVTPEQLGGAAVFLSSAAadqmtgttlsldggwtar
+
+>q|PDB:4bin:A|PDB:3vdq:B CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdRPI
+VIMLDPghggedsgavgkyktrekdvvLQIARRLRSLIEKEGnMKVYMTrnEDIf---------------
+--------------iPLQVRVAKAQKQ--RADLFVSI-HADaftsrqpsgssvfalstkgatstaakyla
+QT---QNasdliggvsdmvqsltiadslkfgkavlnklgkinklhknqveqagfavlkapdipSILVETA
+Fisnv----------------------------------eeerKLkt-----------------------
+-----------aTFQQEVAESILAGIKAYfa----------------
+
+>t|PDB:3vdq:B|PDB:4bin:A CRYSTAL STRUCTURE OF ALCALIGENES FAECALIS D-3-HYDR
+----------------------------------------------------------------------
+-----------------------------------------------------------------mlKGK
+KAVVTGs-------------------tSGIGLAMATELAKAG-ADVVIN--GFGqpediererstleskf
+gvkayylnadlsdaqATRDFIAKAAEAlgGLDILVNNaGIQhtapieef-------------pvdkwnai
+IAlnlSAvfhgtaaalp-------------------------------------imqkqgwgrIINIASA
+HglvasvnksayvaakhgvvgltkvtalenagkgitcnaicpgWVrtplvekqieaisqqkgidieaaar
+ellaekqpslqfVTPEQLGGAAVFLSSAAadqmtgttlsldggwtar
+
+>q|PDB:4bin:A|PDB:6y10:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdrPI
+VIMLDPghggedsgavgkyktrekdvvLQIARRLRSLIEKEgNMKVYMTrnED-----------------
+------IFIPLQVRVAKAQKQ-----RAD-----------------------------------------
+----------LFVSIHAdAFtsrqpsgssvfalstkgatstaakYLAqtqnasdliggvsdmvqsltiad
+slkfgkavlnklgkinklhknqveqagfavlkapdiPSILVETAfisnveeerKLKTA------------
+------------TFQQEVAESILAGIKAYfa----------------
+
+>t|PDB:6y10:A|PDB:4bin:A X-RAY STRUCTURE OF LACTOBACILLUS BREVIS ALCOHOL DE
+----------------------------------------------------------------------
+---------------------------------------------------------------snrldGK
+VAIITGg-------------------tLGIGLAIATKFVEE-GAKVMIT--GRhsdvgekaaksvgtpdq
+iqffqhDSSDEDGWTKLFDATekafgPVStlvnnagiavnksveetttaewrkllavnldgvffgtrlgi
+hrmknkglgaSIINMSSiEGfvgdpsl----------gaynaskGAVrimsksaal--------------
+----------------------------dcalkdydVRVNTVHP---------GYIKTplvddlpgaeea
+msqrtktpmghiGEPNDIAYICVYLASNEskfatgsefvvdggytaq
+
+>q|PDB:4bin:A|PDB:6y15:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdrPI
+VIMLDPghggedsgavgkyktrekdvvLQIARRLRSLIEKEgNMKVYMTrNED-----------------
+-----IFIPLQVRVAKAQKQ-----RAD------------------------------------------
+---------LFVSIHAdaftsrqpsgssvfalstkgatstaakYLAqtqnasdliggvsdmvqsltiads
+lkfgkavlnklgkinklhknqveqagfavlkapdiPSILVETAfisnveeerKLKTA-------------
+-----------TFQQEVAESILAGIKAYfa----------------
+
+>t|PDB:6y15:A|PDB:4bin:A X-RAY STRUCTURE OF LACTOBACILLUS BREVIS ALCOHOL DE
+----------------------------------------------------------------------
+---------------------------------------------------------------snrldGK
+VAIITGg-------------------tLGIGLAIATKFVEE-GAKVMIT-GRHsdvgekaaksvgtpdqi
+qffqhDSSDEDGWTKLFDATekafgPVStlvnnagiavnksveetetaewrkllavnldgvffgtrlgik
+rmknkglgaSIINMSSiegfvgdps----------lgaynaskGAVrimsksaal---------------
+---------------------------dcalkdydVRVNTVHP---------GYIKTplvddlpgaeeam
+sqrtktpmghiGEPNDIAYICVYLASNEskfatgsefvvdggytaq
+
+>q|PDB:4bin:A|PDB:3vdq:D CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdrPI
+VIMLDPGhggedsgavgkyktrekDVVLQIARRLRSLIEkegnmKVYMTRnEDif---------------
+-------------iPLQVRVAKAQKQ--RADlFVSIHADAftsrqpsgssvfalstkgatstaakylaQT
+---QNasdliggvsdmvqsltiadslkfgkavlnklgkinklhknqveqagfavlkapdIPSILVETAFi
+s--------------------------------------nvEEerkLKTa--------------------
+--------------TFQQEVAESILAGIKAYfa----------------
+
+>t|PDB:3vdq:D|PDB:4bin:A CRYSTAL STRUCTURE OF ALCALIGENES FAECALIS D-3-HYDR
+----------------------------------------------------------------------
+------------------------------------------------------------------mlKG
+KKAVVTGs---------------tSGIGLAMATELAKAG-----ADVVINgFGqpediererstleskfg
+vkayylnadlsdaqATRDFIAKAAEAlgGLD-ILVNNAGIqhtapieef-----------pvdkwnaiIA
+lnlSAvfhgtaaa--------------------------------------lpimqkqgWGRIINIASAh
+glvasvnksayvaakhgvvgltkvtalenagkgitcnaicpGW---VRTplvekqieaisqqkgidieaa
+arellaekqpslqfVTPEQLGGAAVFLSSAAadqmtgttlsldggwtar
+
+>q|PDB:4bin:A|PDB:3vdq:C CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdrPI
+VIMLDPGhggedsgavgkyktreKDVVLQIARRLRSLIEkegnmKVYMTRnEDif---------------
+-------------iPLQVRVAKAQKQ--RADlFVSIHADAftsrqpsgssvfalstkgatstaakylaQT
+---QNasdliggvsdmvqsltiadslkfgkavlnklgkinklhknqveqagfavlkapDIPSILVETAFi
+snv-----------------------------------eeerKLKTa-----------------------
+-----------TFQQEVAESILAGIKAYfa----------------
+
+>t|PDB:3vdq:C|PDB:4bin:A CRYSTAL STRUCTURE OF ALCALIGENES FAECALIS D-3-HYDR
+----------------------------------------------------------------------
+------------------------------------------------------------------mlKG
+KKAVVTGs---------------TSGIGLAMATELAKAG-----ADVVINgFGqpediererstleskfg
+vkayylnadlsdaqATRDFIAKAAEAlgGLD-ILVNNAGIqhtapieef-----------pvdkwnaiIA
+lnlSAvfhgtaaa--------------------------------------lpimqkqGWGRIINIASAh
+glvasvnksayvaakhgvvgltkvtalenagkgitcnaicpgWVRTplvekqieaisqqkgidieaaare
+llaekqpslqfVTPEQLGGAAVFLSSAAadqmtgttlsldggwtar
+
+>q|PDB:4bin:A|PDB:6h8b:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdrpI
+VIMLDPGHggeDSG-AVgkyKTREKDVVLQIARRLRsL-IekegnmKVYMTR------------------
+-------------------------------------------------NEDIFI---------------
+---PLQVRVAKAQKQRADLFVSIHaDAftsrqpsgssvfalstkgATST-----------AAkylaqtqn
+asdliggvsdmvqsltiadslkfgkavlnklgkinklhknqVEQAgf----------------avLKAPD
+-IP-SILVETAFisnveeerklktatfqqEVAESILAgikayfa--------
+
+>t|PDB:6h8b:A|PDB:4bin:A MOLYBDENUM STORAGE PROTEIN PREPARED UNDER IN VIVO-
+----------------------------------------------------------------------
+--------------------------------------------------------------krpirllP
+WLQVVKIG---GRVmDR---GADAILPLVEELRKLL-PeH------RLLILTgagvrarhvfsvgldlgl
+pvgslaplaaseagqnghilaamlasegvsyvehptvadqlaihlsatrAVVGSAfppyhhhefpgsrip
+phrADTGAFLLADAFGAAGLTIVE-NVd----------------gIYTAdpngpdrgqarFL--------
+-----------------------------------------PETSatdlaksegplpvdralldvMATAR
+hIErVQVVNGLVp----------------GRLTAALRgehvgtlirtgvrpa
+
+>q|PDB:4bin:A|PDB:5i9t:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpGKAgRD-RP
+IVIMLDPGhGG---EDSgavgkyktrEKDvVLQIARRLRSLIEKEGN-----------------------
+-------MKVYMTRN--------EDIFIP-LQVRVAKAQk-------qRADLFVSIHaD--AFTSRQPsg
+ssvfalstkgatstaakylaqtqnasdliggvsdmvqsltiadslkfgkavlnklgkinklhknqveqag
+favlkAPDIPSILVEtafisnveeerKLKTatfqqEVAESILAGIKAYFA--------------------
+------------------------------
+
+>t|PDB:5i9t:A|PDB:4bin:A CASPASE 3 V266C
+----------------------------------------------------------------------
+-----------------------------------------------------sgisldnsYKM-DYpEM
+GLCIIINNkNFhksTGM---------TSRsGTDVDAANLRETFRNLKyevrnkndltreeivelmrdvsk
+edhskrsSFVCVLLShgeegiifGTNGPVdLKKITNFFRgdrcrsltgKPKLFIIQA-CrgTELDCGIeh
+k---------------------------------------------------------------------
+--ipvEADFLYAYSTapgy----yswRNSKdg--sWFIQSLCAMLKQYADklefmhiltrvnrkvatefe
+sfsfdatfhakkqipcicsmltkelyfyhl
+
+>q|PDB:4bin:A|PDB:6rcz:E CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+--------------------------------------------------fqgHMQvVAVRVwpassyTR
+VTVESn-----RQLk------yKQFAlsnpervvvdiedvnlnsvlkgmaaqiraddpfiksarvgqfdp
+qtvrmvfelkqnVKPQLFALApvagfkeRLVMDLYPapllalledynsgpqpgkagrdrpiVIMLDPGHg
+gedsgavgkyktrekdvvlqiarrlrsliekegnmkvymtrnedifIPLQVRVAKAQKQRaDLFVSIHad
+aftsrqpsgssvfalstkgatstaakylaqtqnasdliggvsdmvqsltiadslkfgkavlnklgkinkl
+hknqveqAGFA-VLkapdipSILVETAfisnveeerklktatfqQEVAEsILagikayfa
+
+>t|PDB:6rcz:E|PDB:4bin:A THE STRUCTURE OF BURKHOLDERIA PSEUDOMALLEI TREHALO
+aailfsesmqsiplslplsrtafffdfdgtlvdlaptpdaiqvppdvpvlvdalrqlshgavaivsgrgi
+dsidaylnlpglpvaglhgaerrdangdtqrigfddprllrierelaalvdrhPGM-LLEIKg-----AA
+LALHFrnaperEGVaraaaerlVADYa-------------------------------------------
+------------DAYVLQPGKm------VFEIKPKGvdkgravaaf------lneppfagrMPVFAGDD-
+----------------------------------------------LTDEQGFAVANANG-GLSIKVG--
+----------------------------------------------------------------------
+-------AGDTtAR------ARVDSVAa---------------lRAQLA-RWiaag----
+
+>q|PDB:4bin:A|PDB:5b6i:B CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdrPI
+VIMLDPGhggedsgavgkyktrekdvvlQIARRLRSLIEK-EGNMKVYMTRNeDIF-----IPLQVRVAK
+AQKQRA-DLFVSIHADAftsrqpSGSS-VFALstkgatstaakylaqtqnasdliggvsdmvqsltiads
+lkfgkavlnklgkinklhknqveqagfavlkaPDIPSILVEtafisn-------------------veee
+rKLktatfQQeVAESILAGIK-AYfa--------------------------------------------
+----------------------------------------------------------------------
+----------
+
+>t|PDB:5b6i:B|PDB:4bin:A STRUCTURE OF FLUORINASE FROM STREPTOMYCES SP. MA37
+----------------------------------------------------------------------
+--------------------------------------------------------------------RP
+IIAFMSDlgt----------------tdDSVAQCKGLMHSiCPGVTVVDVCH-SMTpwdveEGARYIVDL
+PRFFPEgTVFATTTYPAt----gTTTRsVAVRirqaawags-----------------------------
+------------------------gdgferadGSYIYIAPNngllttvleehgyieayevtstkvipanp
+ePTfy--sREmVAIPSAHLAAgFPlaevgrrlddseivrfhrpaveisgealsgvvtaidhpfgniwtni
+hrtdlekagigqgkhlkiilddvlpfeapltptfadagaigniafylnsrgylslarnaaslaypynlka
+glkvrvearm
+
+>q|PDB:4bin:A|PDB:5b6i:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdrPI
+VIMLDPGhggedsgavgkyktrekdvvlQIARRLRSLIEK-EGNMKVYMTRNeDIF-----IPLQVRVAK
+AQKQRA-DLFVSIHADAftsrqpSGSS-VFALstkgatstaakylaqtqnasdliggvsdmvqsltiads
+lkfgkavlnklgkinklhknqveqagfavlkaPDIPSILVEtafisn-------------------veee
+rKLktatfQQeVAESILAGIK-AYfa--------------------------------------------
+----------------------------------------------------------------------
+----------
+
+>t|PDB:5b6i:A|PDB:4bin:A STRUCTURE OF FLUORINASE FROM STREPTOMYCES SP. MA37
+----------------------------------------------------------------------
+--------------------------------------------------------------------RP
+IIAFMSDlgt----------------tdDSVAQCKGLMHSiCPGVTVVDVCH-SMTpwdveEGARYIVDL
+PRFFPEgTVFATTTYPAt----gTTTRsVAVRirqaakggargq--------------------------
+--------------------wagsgdgferadGSYIYIAPNngllttvleehgyieayevtstkvipanp
+ePTfy--sREmVAIPSAHLAAgFPlaevgrrlddseivrfhrpaveisgealsgvvtaidhpfgniwtni
+hrtdlekagigqgkhlkiilddvlpfeapltptfadagaigniafylnsrgylslarnaaslaypynlka
+glkvrvearm
+
+>q|PDB:4bin:A|PDB:5aqe:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdrPI
+VIMLDPGH---------------GGEdsgavgkyktrekDVVLQIARRLRSl----------IEkegnmK
+VYM-TRned---------ifiPLQVRVAKAqkqradLFVSIH-ADAFTsrqpsgssvfalstkgatstaa
+kylaqtqnasdliggvsdmvqsltiadslkfgkavlnklgkinklhknqveqagfaVLKApdipSILVET
+AFISNVeee-----------------------------------------------rklKTATFQQEVAE
+SILAGIKAYFA--------------------------------------
+
+>t|PDB:5aqe:A|PDB:4bin:A COOPERATIVE BIO-METALLIC SELECTIVITY IN A TAILORED
+----------------------------------------------------------------------
+---------------------------------------------aqsvpwgisrvqapaahnrgltgSG
+VKVAVLDTgisthpdlnirggasFVPgepst----qdgnGHGTHVAGTIAAlnnsigvlgvaPS-----A
+ELYaVKvlgasgsgsvssiaqGLEWAGNNG------MHVANLsLGSPSpsatle----------------
+---------------------------------------------------qavnsATSRg---VLVVAA
+SGNSGAgsisyparyanamavgatdqnnnrasfsqygagldivapgvnvqstypgstyaSLNGTSMATPH
+VAGAAALVKQKnpswsnvqirnhlkntatslgstnlygsglvnaeaatr
+
+>q|PDB:4bin:A|PDB:3tlc:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgKAGRdrPI
+VIMLDpGHggedsgavgkyktrEK---DvVLQIARRLRSLIEKEGnMKVYMT--RnEDIFi-------PL
+QVRVAKAQKQ-RADLFVSI-HaDAftsrqpsgssvfalstkgatstaakylaqtqnasdliggvsdmvqs
+ltiadslkfgkavlnklgkinklhknqveqagfavlkAP--DIPSILVEtafisnveeer----------
+-klktatfqqevAESILAGIKAYFa---------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------------------------
+
+>t|PDB:3tlc:A|PDB:4bin:A MICROCIN C7 SELF IMMUNITY PROTEIN MCCF IN COMPLEX 
+----------------------------------------------------------------------
+---------------------------------------------------------pllaaPLAV--GD
+TIGFF-SSs-------------APatvT-AKNRFFRGVEFLQRKG-FKLVSGklT-GKTDfyrsgtikER
+AQEFNELVYNpDITCIMSTiG-GDnsnsllp---------------------------------------
+-------------------------------fldydaIIanPKIIIGYAdttallagiyaktglitfygp
+alipsfgehpplVDITYESFIKILtrkqsgiytytlpekwsdesinwnenkilrpkklyknncafygsgk
+vegrviggnlntltgiwgsewmpeirngdilfiedsrksiatverlfsmlklnrvfdkvsaiilgkhelf
+dcagskrrpyevltevldgkqipvldgfdcshthpmltlplgvklaidfdnknisiteqylsx
+
+>q|PDB:4bin:A|PDB:3tle:B CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgKAGRdrPI
+VIMLDpGHggedsgavgkyktrEK---DvVLQIARRLRSLIEKEGnMKVYMT--RnEDIF--------IP
+LQVRVAKAQkQ-RADLFVSI-HaDAftsrqpsgssvfalstkgatstaakylaqtqnasdliggvsdmvq
+sltiadslkfgkavlnklgkinklhknqveqagfavlkAP--DIPSILVEtafisnveeer---------
+--klktatfqqevAESILAGIKAYFa--------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------
+
+>t|PDB:3tle:B|PDB:4bin:A MICROCIN C7 SELF IMMUNITY PROTEIN MCCF IN COMPLEX 
+----------------------------------------------------------------------
+---------------------------------------------------------pllaaPLAV--GD
+TIGFF-SSs-------------APatvT-AKNRFFRGVEFLQRKG-FKLVSGklT-GKTDfyrsgtikER
+AQEFNELVY-NpDITCIMSTiG-GDnsnsllp--------------------------------------
+--------------------------------fldydaIIanPKIIIGYSdttallagiyaktglitfyg
+palipsfgehpplVDITYESFIKILtrkqsgiytytlpekwsdesinwnenkilrpkklyknncafygsg
+kvegrviggnlntltgiwgsewmpeirngdilfiedsrksiatverlfsmlklnrvfdkvsaiilgkhel
+fdcagskrrpyevltevldgkqipvldgfdcshthpmltlplgvklaidfdnknisiteqylsx
+
+>q|PDB:4bin:A|PDB:6rcz:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+----------------------------------------------------------------------
+--------------------------------------------------------fqghMQVV--AVRV
+WPassyTRVTVES----NRQLK--------YKQFalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnVKPQLFALapvaGFkeRLVMDLYPAPLLAlledynsgpqpgkagrdrpI
+VIMLDPGHggedsgavgkyktrekdvvlqiarrlrsliekegnmkvymtrnediFIPLQVRVAKAQKQra
+dLFVSIHaDAftsrqpsgssvfalstkgatstaakylaqtqnasdliggvsdmvqsltiadslkfgkavl
+nklgkinklhknqveqaGFA-VLkapdipsILVETAFIsnveeerklktatfQQEVAesilagikayfa
+
+>t|PDB:6rcz:A|PDB:4bin:A THE STRUCTURE OF BURKHOLDERIA PSEUDOMALLEI TREHALO
+rtfarrarppaailfsesmqsiplslplsrtafffdfdgtlvdlaptpdaiqvppdvpvlvdalrqlshg
+avaivsgrgidsidaylnlpglpvaglhgaerrdangdtqrigfddprllrierelaalvDRHPgmLLEI
+KG----AALALHFrnapEREGVaraaaerlVADYa-----------------------------------
+---------------------DAYVLQPG----KM--VFEIKPKGVDKGRavaafl-------neppfaG
+RMPVFAGD----------------------------------------------DLTDEQGFAVANANg-
+-GLSIKV-GA------------------------------------------------------------
+-----------------GDTtAR-------ARVDSVAAlr----------aqLARWIaagr--------
+
+>q|PDB:4bin:A|PDB:6cxg:H CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqgHMqVVAVRVWPASsYTRVTVESNRq------------------------------lKYKQFAlsnpe
+RVV--VDIEDvnlnsvlkgmaaqiraddpFIK--SARVGQFDPQtv--------------rMVFELKQNv
+kpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdrPIVImldpghggedsgavgkyktr
+ekdvvlqiarrlrsliekegNMKVY-MTRNEDIfiplqvrvakaqkqradlfvsihadaftsrqpsgssv
+falstkgatstaakylaqtqnasdliggvsdmvqsltiadslkfgkavlnklgkinklhknqveqagfav
+lkapdipsilvetafisnveeerklktatfqqevaesilagikayfa
+
+>t|PDB:6cxg:H|PDB:4bin:A ANTI-HIV-1 FAB 2G12 IN COMPLEX WITH GLYCOPEPTIDE 1
+-evQL-VESGGGLVKA-GGSLILSCGVsnfrisahtmnwvrrvpggglewvasistsstYRDYAD-----
+AVKgrFTVSRddledfv------ylqmhkMRVedTAIYYCARKGsdrlsdndpfdawgpgtVVTVSPASt
+kgpsvfp-------------------------------lapsggtaALGClvkdyfpepvt---------
+----------vswnsgaltsGVHTFpAVLQSSGlyslssvvtvpssslgtqtyicnvnhkpsntkvdkkv
+epk-------------------------------------------------------------------
+-----------------------------------------------
+
+>q|PDB:4bin:A|PDB:7mj0:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdrpi
+vimLDP--GHGGEDsgavgkyktrEKDVVLQIArrlrslieKEGNMKVYMtrne----------------
+----------------difiPLQVRVAKAqkq--------------------------------------
+-------------------------------------------------------------radLFVSIH
+ADA--------------------------FTSRQPSGSSVfalstkgatstaakylaqtqnasdliggvs
+dmvqsltiadslkfgkavlNK-LgkiNKLhknqveqagf---avlkapdipSILvetafisnveeerklk
+-------tatfqqevaesilagIKAYFa---------------------------
+
+>t|PDB:7mj0:A|PDB:4bin:A LARB, A CARBOXYLASE/HYDROLASE INVOLVED IN SYNTHESI
+----------------------------------------------------------------------
+----------------------------------------------------------------rmvfel
+kqnVKPqlFALAPVa--------gFKERLVMDLy------pAPLLALLEDynsgpqpgkagrsrqpsgss
+vfalstkgatstaakylaqtQNASDLIGGvsdmvqsltiadslkfgkavlnklgkinklhknqveqagfa
+vlkapdipsilvetafisnveeerklktatfqqevaesilagikayfafqghmqvvavrvwpasSYTRVT
+VESnrqlkykqfalsnpervvvdiedvnlNSVLKGMAAQIra----------------------------
+------------------dDPfI---KSArvgqfdpqtvdrpivimldpghGGEdsgavgkyktrekdvv
+lqiarrlrsliekegnmkvymtRNEDIfiplqvrvakaqkqradlfvsihadaft
+
+>q|PDB:4bin:A|PDB:7ben:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvWPASSYtrvtvesnrql-----kykqfalsnpeRVVVDIedvnlnsvlkgmaAQIRad
+dpfiksarvgqfdpqtvrmvFELKq-------------------------------NVKPQLFAlapvag
+fkERLVmdlypapllalledynsgpqpgkagrdrpivimldpghggEDSGAvgkyktrekdvvlqiarrl
+rsliekegnmkvymtrnedifiplqvrvakaqkqradlfvsihadaftsrqpsgsSVFalstkgatstaa
+kylaqtqnasdlIGGVSdmvqsltiadslkfgka--------------vlnklgkinklhknqvEQAgfa
+vlkAPdipsilvetafisnveeerklktatfqqevaesilagikayfa----------------------
+----------------------------------------------------------------------
+-----------------------------------------------
+
+>t|PDB:7ben:A|PDB:4bin:A CRYSTAL STRUCTURE OF THE RECEPTOR BINDING DOMAIN O
+-------fqghmQVVAVRvwpassytrvtvesnrqlkykqfalsnPERVVV-------------DIED--
+--------------------VNLNsvlkgmaaqiraddpfiksarvgqfdpqtvrmVFELKQNV------
+--KPQL----------------------------------------FALAP-------------------
+-------------------------------------------------------VAGfke---------
+----------rlVMDLYpapllalledynsgpqpgkagrdrpivimldpghggedsgavgkyktREK---
+---DVvlqiarrlrsliekegnmkvymtrnedifiplqvrvakaqkqradlfvsihadaftsrqpsgssv
+falstkgatstaakylaqtqnasdliggvsdmvqsltiadslkfgkavlnklgkinklhknqveqagfav
+lkapdipsilvetafisnveeerklktatfqqevaesilagikayfa
+
+>q|PDB:4bin:A|PDB:6t6p:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdrpi
+vimldpghggedsgavgkyktrekdvvlqiarrlrsliekegnMKVYMTrned-----------------
+---------ifiPLQVRVAKAQkqraD--LFVSihadaftsrqpsgssvfalstkgatstaakylaqtqn
+asdliggvsdmvqsltiadslkfgkavlnklgkinklhknqveqAGFAvLKApdi---------------
+----------psiLVEtafis---------------------------nveeeRKL-------------K
+TATFqqevaesilagikayfa-------------------------------------------------
+----------------------------------------------------------------------
+---------------------------------------------
+
+>t|PDB:6t6p:A|PDB:4bin:A CRYSTAL STRUCTURE OF KLEBSIELLA PNEUMONIAE FABG2(N
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+-----------------------------------------fqGHMQVVavrvwpassytrvtvesnrql
+kykqfalsnperVVVDIEDVNL----NsvLKGMaaqir--------------------------------
+---------------------------------------addpfIKSA-RVGqfdpqtvrmvfelkqnvk
+pqlfalapvagfkERLvmdlypapllalledynsgpqpgkagrdrpivimldpGHGgedsgavgkyktrE
+KDVVlqiarrlrsliekegnmkvymtrnedifiplqvrvakaqkqradlfvsihadaftsrqpsgssvfa
+lstkgatstaakylaqtqnasdliggvsdmvqsltiadslkfgkavlnklgkinklhknqveqagfavlk
+apdipsilvetafisnveeerklktatfqqevaesilagikayfa
+
+>q|PDB:4bin:A|PDB:7d17:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdrpi
+vimLDPghggedsgavgkyktrekdvvlqiarrlrsliekegnMKVymtrn--------------edifi
+PLQVrv--akAQKQRADLFVsihadaftsrqpsgssVFALSTkgatstaakylaqtqnasdliggvsdmv
+qsltiADSLKFGKAVLNKLG---------------KINKLHknqvEQAgfavlkapdipsilv-------
+-------etafisnveeerklkTATFqqevaesilagikayfa---------------------------
+-----------
+
+>t|PDB:7d17:A|PDB:4bin:A CRYSTAL STRUCTURE OF MACROSTOMUM LIGNANO GLUTAMINY
+-----------------------------------------fqghmqvvavrvwpassytrvtvesnrql
+kykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfiksarvgqfdpqtvrmvfelkqnvkpqlfal
+apvAGFkerlvmdlypapll---------alledynsgpqpgkAGRdrpivimldpghggedsgavgkyk
+TREKdvvlqiARRLRSLIEKegnmkvy--mtrnediFIPLQVr---------------------------
+----vAKAQKQRADLFVSIHadaftsrqpsgssvfALSTKGatstAAKylaqtqnasdliggvsdmvqsl
+tiadslkfgkavlnklgkinklHKNQveqagfavlkapdipsilvetafisnveeerklktatfqqevae
+silagikayfa
+
+>q|PDB:4bin:A|PDB:7zqq:A CRYSTAL STRUCTURE OF THE E. COLI N-ACETYLMURAMOYL-
+fqghmqvvavrvwpassytrvtvesnrqlkykqfalsnpervvvdiedvnlnsvlkgmaaqiraddpfik
+sarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypapllalledynsgpqpgkagrdrpI
+VIMLdpghggedsgavgkyktREKDVVLQIARRLRsliekegnmkVYMtrne------------------
+--------------------------------------------difiPLQVRVAKAQKQra--------
+dLFVsihadaftsrqpsgssvfalstkgatstaakylaqtqnasdliggvsdmVQSltiadslkfgkavl
+nklgkinklhKNQ-VEQAgfav------------lkaPDIP-----SILVEtafisnveeerklktatfq
+qevaesilagikayfa------------------------------------------------------
+-----------------------------------------------------------
+
+>t|PDB:7zqq:A|PDB:4bin:A MOLYBDENUM STORAGE PROTEIN - LB131H
+----------------------------------------------------------------------
+---------------------------------------------------------fqghmqvvavrvW
+PASSytrvt-------vesnrQLKYKQFALSNPERv--------vVDIedvnlnsvlkgmaaqiraddpf
+iksarvgqfdpqtvrmvfelkqnvkpqlfalapvagfkerlvmdlypaPLLALLEDYNSGpqpgkagrdr
+pIVI-------------------------------------------------MLDpghgged-------
+---sgavgkyKTReKDVVlqiarrlrsliekegnmkvYMTRnedifIPLQVrvakaqkqradlfvsihad
+aftsrqpsgssvfalstkgatstaakylaqtqnasdliggvsdmvqsltiadslkfgkavlnklgkinkl
+hknqveqagfavlkapdipsilvetafisnveeerklktatfqqevaesilagikayfa

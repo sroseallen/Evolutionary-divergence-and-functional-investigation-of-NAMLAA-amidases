@@ -1,0 +1,9 @@
+ PDBe Fold v2.59. (src3) 14 Apr 2014 result file.
+
+                   RESULT SUMMARY
+
+   ##      Q-score      P-score     Z-score   RMSD    Nalgn Nsse Ngaps Seq-%     Nmd Nres-Q Nsse-Q Nres-T Nsse-T Query Target
+    1           1       88.08        28.3     0.000   299   21    0           1    0    299     21    299     21    PDB 2im9:A  PDB 2im9:A
+    2      0.4113       6.662       9.891     2.022   205   12   14      0.2585    0    299     21    235     18    PDB 2im9:A  PDB 4q68:A
+    3        0.41       6.131       9.791     2.018   205   12   14      0.2585    0    299     21    236     18    PDB 2im9:A  PDB 4h4j:A
+    4      0.3883       6.601       9.108     2.053   201   13   14      0.2687    0    299     21    237     17    PDB 2im9:A  PDB 4q5k:A
