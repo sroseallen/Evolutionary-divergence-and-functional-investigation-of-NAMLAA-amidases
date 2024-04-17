@@ -1,0 +1,62 @@
+# MODEL REFERNCE LIST
+# #0 = 1jwq (chain A)
+# #1 = 1xov (chain A)
+# #2 = 3czx (chain A)
+# #3 = 3ne8 (chain A)
+# #4 = 3qay (chain A)
+# #5 = 4bin (chain A)
+# #6 = 4lq6 (chain A)
+# #7 = 4m6g (chain A)
+# #8 = 4m6h (chain A)
+# #9 = 4m6i (chain A)
+# #10 = 4rn7 (chain A)
+# #11 = 5emi (chain A)
+# #12 = 5j72 (chain A)
+# #13 = 7agl (chain A)
+# #14 = 7agm (chain A)
+# #15 = 7ago (chain A)
+# #16 = 7b3n (chain A)
+# #17 = 7rag (chain B)
+# #18 = 7tj4 (chain B)
+
+# Split chains into separate models so the best aligned chain from PDB selection can be chosen
+split #2,4,8,9,12,14,16,17,18
+select #0,1,2.1,3,4.1,5,6,7,8.1,9.1,10,11,12.1,13,14.1,15,16.1,17.2,18.2
+select invert
+Actions -> Atoms/Bonds -> delete 
+
+# cropping all except the amidase domain
+select #0:4-174 #1:6-173 #2:5-174 #3:182-397 #4:3-175 #5:190-405 #6:5-208 #7:29-232 #8:29-232 #9:29-232 #10:119-293 #11:441-610 #12:463-644 #13:19-222 #14:45-248 #15:19-222 #16:11-170 #17:43-231 #18:122-287
+select invert
+Actions -> Atoms/Bonds -> delete 
+
+# Multiple sequence alignment (MSA)
+# uses MatchMaker
+mm #5 #0,#1,#2.1,#3,#4.1,#6,#7,#8.1,#9.1,#10,#11,#12.1,#13,#14.1,#15,#16.1,#17.2,#18.2 computeSS False
+
+# save cropped models
+select
+write format pdb selected #0 D:\Downloads\Cropped\1JWQ_cropped.pdb
+write format pdb selected #1 D:\Downloads\Cropped\1XOV_cropped.pdb
+write format pdb selected #2.1 D:\Downloads\Cropped\3CZX_cropped.pdb
+write format pdb selected #3 D:\Downloads\Cropped\3NE8_cropped.pdb
+write format pdb selected #4.1 D:\Downloads\Cropped\3QAY_cropped.pdb
+write format pdb selected #5 D:\Downloads\Cropped\4BIN_cropped.pdb
+write format pdb selected #6 D:\Downloads\Cropped\4LQ6_cropped.pdb
+write format pdb selected #7 D:\Downloads\Cropped\4M6G_cropped.pdb
+write format pdb selected #8.1 D:\Downloads\Cropped\4M6H_cropped.pdb
+write format pdb selected #9.1 D:\Downloads\Cropped\4M6I_cropped.pdb
+write format pdb selected #10 D:\Downloads\Cropped\4RN7_cropped.pdb
+write format pdb selected #11 D:\Downloads\Cropped\5EMI_cropped.pdb
+write format pdb selected #12.1 D:\Downloads\Cropped\5J72_cropped.pdb
+write format pdb selected #13 D:\Downloads\Cropped\7AGL_cropped.pdb
+write format pdb selected #14.1 D:\Downloads\Cropped\7AGM_cropped.pdb
+write format pdb selected #15 D:\Downloads\Cropped\7AGO_cropped.pdb
+write format pdb selected #16.1 D:\Downloads\Cropped\7B3N_cropped.pdb
+write format pdb selected #17.2 D:\Downloads\Cropped\7RAG_cropped.pdb
+write format pdb selected #18.2 D:\Downloads\Cropped\7TJ4_cropped.pdb
+
+# fasta format files were extracted from the sequence window accessed for each model by (for example):
+select; sequence #0:4-174
+Manually selecting the active region on the window (click/drag)
+File -> Save As... (options: 'Restrict save to active region' selected, 'Omit all-gap columns' not selected, 'Append sequence numbering to sequence names' selected)
