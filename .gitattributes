@@ -1,1 +1,4 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
+all_seq.txt filter=lfs diff=lfs merge=lfs -text
+all_seq_nospace.txt filter=lfs diff=lfs merge=lfs -text
+output_clustal.txt filter=lfs diff=lfs merge=lfs -text
