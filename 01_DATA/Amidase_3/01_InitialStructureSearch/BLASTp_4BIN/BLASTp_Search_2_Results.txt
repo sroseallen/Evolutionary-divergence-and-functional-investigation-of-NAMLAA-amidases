@@ -1,0 +1,3947 @@
+RID: 6AA0STS901N	
+Job Title:4BIN_1|Chain A|N-ACETYLMURAMOYL-L-ALANINE				
+Program: BLASTP 
+Database: nr_clustered(experimental) clustered nr
+Query #1: 4BIN_1|Chain A|N-ACETYLMURAMOYL-L-ALANINE AMIDASE AMIC|ESCHERICHIA COLI (83333) Query ID: lcl|Query_623759 Length: 403
+
+Clusters producing significant alignments:
+                                                                  #          #          Scientific      Cluster                    Max    Total Query   E   Per.   Acc.                        
+Cluster Rep.                                                      Mem.       Taxa       Name            Ancestor        Taxid      Score  Score cover Value Ident  Len        Accession        
+N-acetylmuramoyl-L-alanine amidase AmiC [Escherichia coli]        417        59         Enterobacter... enterobacteria  543        778    778   95%   0.0   99.48  417        WP_052906585.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Escherichia coli]        765        75         Enterobacter... enterobacteria  543        775    775   95%   0.0   98.96  420        WP_109957024.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Escherichia coli]        335        54         Enterobacter... enterobacteria  543        768    768   95%   0.0   98.17  414        WP_180562664.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Escherichia coli]        47         6          Enterobacter... enterobacteria  543        755    755   95%   0.0   96.61  419        WP_247107832.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Enterobacter]            40         26         Enterobacter... enterobacteria  91347      730    730   95%   0.0   92.17  417        WP_042321841.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Kluyvera genomosp. 1]    4          4          Enterobacter... enterobacteria  543        726    726   96%   0.0   90.46  416        WP_052282079.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Klebsiella pneumoniae]   726        153        cellular org... cellular org... 131567     725    725   93%   0.0   93.62  417        WP_159222446.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Klebsiella pneumoniae]   13         8          Enterobacter... enterobacteria  543        724    724   93%   0.0   93.35  417        WP_201365585.1   
+N-acetylmuramoyl-L-alanine amidase [Escherichia coli]             24         7          Enterobacter... enterobacteria  543        722    722   88%   0.0   100.00 355        WP_208703509.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Escherichia coli]        6          3          Escherichia ... E. coli         562        709    709   86%   0.0   100.00 349        WP_074513055.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Kosakonia radicincitans] 10         9          Pseudomonadota  purple photo... 1224       709    709   94%   0.0   89.53  417        WP_035887657.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [unclassified...          2          2          unclassified... enterobacteria  2608935    704    704   95%   0.0   87.73  417        WP_123348313.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Pseudescherichia sp. L3] 6          6          Enterobacter... enterobacteria  543        695    695   95%   0.0   86.95  417        WP_257758436.1   
+N-acetylmuramoyl-L-alanine amidase [Escherichia coli ISC7]        2          2          Bacteria        eubacteria      2          694    694   84%   0.0   99.71  342        CDL25392.1       
+N-acetylmuramoyl-L-alanine amidase AmiC [Escherichia coli]        12         1          Escherichia ... E. coli         562        691    691   83%   0.0   99.70  372        WP_077899871.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Cronobacter sakazakii]   35         12         Cronobacter     enterobacteria  413496     687    687   95%   0.0   85.64  417        WP_209639961.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Atlantibacter hermannii] 10         4          Enterobacter... enterobacteria  543        681    681   96%   0.0   84.14  420        WP_002434569.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Entomohabitans...        1          1          Entomohabita... enterobacteria  1384589    676    676   95%   0.0   84.94  416        WP_058913728.1   
+N-acetylmuramoyl-L-alanine amidase [Cronobacter universalis NC... 1          1          Cronobacter ... enterobacteria  1074000    675    675   95%   0.0   84.60  473        CCK15809.1       
+N-acetylmuramoyl-L-alanine amidase AmiC [Siccibacter turicensis]  3          2          Siccibacter     enterobacteria  1649298    675    675   95%   0.0   84.86  414        WP_024550694.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Buttiauxella agrestis]   27         22         Enterobacter... enterobacteria  543        673    673   96%   0.0   84.32  418        WP_034498045.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Mangrovibacter...        4          4          Mangrovibacter  enterobacteria  451512     667    667   96%   0.0   82.01  417        WP_226571441.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Citrobacter sp. JGM124]  3          3          Enterobacter... enterobacteria  543        667    667   97%   0.0   82.61  416        WP_211993150.1   
+N-acetylmuramoyl-L-alanine amidase [Klebsiella pneumoniae]        12         5          cellular org... cellular org... 131567     665    665   85%   0.0   94.46  343        WP_108986387.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Franconibacter pulveris] 3          3          Franconibacter  enterobacteria  1649295    664    664   96%   0.0   83.51  415        WP_024556442.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Escherichia coli]        12         5          Enterobacter... enterobacteria  543        654    654   78%   0.0   100.00 352        WP_023277009.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Shimwellia...            2          2          Shimwellia      enterobacteria  1335483    651    651   97%   0.0   80.31  415        WP_199013557.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Tenebrionicola larvae]   2          2          Tenebrioniba... enterobacteria  2969848    644    644   96%   0.0   79.74  416        WP_249032113.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Jejubacter calystegiae]  2          2          Enterobacter... enterobacteria  91347      636    636   96%   0.0   79.23  414        WP_138093198.1   
+N-acetylmuramoyl-L-alanine amidase [Salmonella enterica subsp.... 1          1          Salmonella e... enterobacteria  119912     624    624   96%   0.0   77.32  396        BDH44756.1       
+N-acetylmuramoyl-L-alanine amidase [Cronobacter sakazakii]        1          1          Cronobacter ... enterobacteria  28141      616    616   86%   0.0   85.30  347        WP_084999661.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Escherichia coli]        64         1          Escherichia ... E. coli         562        613    613   77%   0.0   96.17  313        WP_143364964.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Serratia sp. 1D1416]     13         3          Serratia        enterobacteria  613        609    609   96%   0.0   75.13  417        WP_129543218.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Edaphovirga cremea]      1          1          Edaphovirga ... enterobacteria  2267246    607    607   94%   0.0   75.52  415        WP_114194522.1   
+N-acetylmuramoyl-L-alanine amidase [Klebsiella oxytoca]           2          1          Klebsiella o... enterobacteria  571        606    606   78%   0.0   90.88  409        STR52400.1       
+N-acetylmuramoyl-L-alanine amidase AmiC [[Pantoea] beijingensis]  1          1          [Pantoea] be... enterobacteria  1324864    605    605   94%   0.0   76.70  414        WP_128178253.1   
+N-acetylmuramoyl-L-alanine amidase [Salmonella enterica]          22         6          Salmonella e... enterobacteria  28901      605    605   76%   0.0   95.77  308        WP_080096127.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia sp. J780]        2          2          unclassified... enterobacteria  2622719    604    604   94%   0.0   75.98  415        WP_156286961.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Serratia sp. FGI94]      7          6          Serratia        enterobacteria  613        604    604   96%   0.0   74.62  417        WP_015673584.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia sp. Leaf53]      2          2          unclassified... enterobacteria  2622719    602    602   94%   0.0   75.99  413        WP_056232040.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Hafnia alvei]            12         5          Hafniaceae      enterobacteria  1903412    602    602   96%   0.0   74.29  416        WP_115348836.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia sp. JUb26]       5          5          Erwiniaceae     enterobacteria  1903409    602    602   97%   0.0   73.35  414        WP_123330982.1   
+N-acetylmuramoyl-L-alanine amidase [Enterobacterales bacterium... 1          1          Enterobacter... enterobacteria  2025587    601    601   96%   0.0   73.52  414        PKH25045.1       
+N-acetylmuramoyl-L-alanine amidase AmiC [Enterobacillus tribolii] 1          1          Enterobacill... enterobacteria  1487935    600    600   96%   0.0   75.00  418        WP_115458620.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia typographi]      1          1          Erwinia typo... enterobacteria  371042     599    599   94%   0.0   76.50  417        WP_034899299.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia billingiae]      2          1          Erwinia bill... enterobacteria  182337     599    599   94%   0.0   74.55  417        WP_013203588.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Serratia sp. arafor3]    88         17         Yersiniaceae    enterobacteria  1903411    598    598   96%   0.0   74.04  416        WP_248947138.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia iniecta]         3          3          Erwiniaceae     enterobacteria  1903409    597    597   94%   0.0   74.61  414        WP_052899518.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Pantoea sp. IMH]         1          1          Pantoea sp. IMH enterobacteria  1267600    596    596   96%   0.0   73.47  417        WP_024965587.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Edwardsiella tarda]      11         6          Edwardsiella    enterobacteria  635        595    595   96%   0.0   72.77  420        WP_078000536.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Pantoea sp. 1.19]        1          1          Pantoea sp. ... enterobacteria  1925589    595    595   96%   0.0   74.42  415        WP_075183168.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia persicina]       8          4          Erwiniaceae     enterobacteria  1903409    593    593   95%   0.0   74.09  415        WP_187509519.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Gibbsiella quercinecans] 4          1          Gibbsiella q... enterobacteria  929813     592    592   94%   0.0   73.70  418        WP_095847425.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Pantoea sp. BAV 3049]    4          3          Erwiniaceae     enterobacteria  1903409    590    590   94%   0.0   74.61  417        WP_158784002.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Cronobacter sakazakii]   7          1          Cronobacter ... enterobacteria  28141      588    588   82%   0.0   84.29  365        WP_246763970.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia sp. 9145]        2          2          Erwinia         enterobacteria  551        588    588   94%   0.0   73.13  416        WP_034916673.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Brenneria salicis]       12         9          Brenneria       enterobacteria  71655      587    587   94%   0.0   73.49  413        WP_113865560.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Candidatus...            6          6          Symbiopectob... enterobacteria  801        587    587   92%   0.0   74.20  414        WP_252317258.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Pantoea sp. M_9]         4          4          Pantoea         enterobacteria  53335      584    584   94%   0.0   73.56  411        WP_150018607.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Escherichia albertii]    5          4          Enterobacter... enterobacteria  543        584    584   71%   0.0   98.96  289        WP_161538456.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Nissabacter sp....       1          1          Nissabacter ... enterobacteria  2126321    584    584   96%   0.0   71.17  419        WP_137762273.1   
+N-acetylmuramoyl-L-alanine amidase [Edwardsiella piscicida]       2          2          Edwardsiella    enterobacteria  635        583    583   93%   0.0   73.18  382        GAJ63491.1       
+N-acetylmuramoyl-L-alanine amidase AmiC [Serratia sp. S1B]        2          2          unclassified... enterobacteria  2647522    583    583   95%   0.0   71.98  418        WP_116729490.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Pectobacterium...        112        32         Pectobacteri... enterobacteria  1903410    582    582   98%   0.0   68.27  416        WP_225181395.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Enterobacter sp. MGH128] 5          4          Enterobacter... enterobacteria  354276     581    581   75%   0.0   91.80  305        KLW50676.1       
+N-acetylmuramoyl-L-alanine amidase AmiC [Xenorhabdus sp....       4          4          unclassified... enterobacteria  2632833    581    581   99%   0.0   67.54  415        WP_273550573.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Pantoea eucrina]         58         36         Enterobacter... enterobacteria  91347      581    581   94%   0.0   72.51  411        WP_065648294.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Pantoea sp. JV6]         5          4          Pantoea         enterobacteria  53335      580    580   98%   0.0   71.39  414        WP_264353532.1   
+N-acetylmuramoyl-L-alanine amidase [Erwiniaceae bacterium PD-1]   1          1          Erwiniaceae ... enterobacteria  2740817    580    580   96%   0.0   73.45  414        QKJ88480.1       
+N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia sp. 198]         3          3          Erwinia         enterobacteria  551        579    579   94%   0.0   73.39  416        WP_125287398.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Rouxiella badensis]      7          1          Rouxiella ba... enterobacteria  1646377    578    578   96%   0.0   71.39  415        WP_017493682.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Pantoea sp. CCBC3-3-1]   1          1          Pantoea sp. ... enterobacteria  2490851    578    578   97%   0.0   70.81  417        WP_147199623.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Pantoea stewartii]       3          2          Pantoea         enterobacteria  53335      578    578   94%   0.0   71.88  414        WP_263757573.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Xenorhabdus bovienii]    23         5          Xenorhabdus     enterobacteria  626        578    578   94%   0.0   71.54  415        WP_012990034.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Nissabacter archeti]     4          4          Yersiniaceae    enterobacteria  1903411    578    578   95%   0.0   72.42  415        WP_072932555.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Pantoea alhagi]          9          8          Erwiniaceae     enterobacteria  1903409    577    577   94%   0.0   73.75  415        WP_085070354.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Sodalis praecaptivus]    3          3          Sodalis         tsetse S-end... 84565      577    577   96%   0.0   70.26  419        WP_025421081.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Ewingella americana]     1          1          Ewingella am... enterobacteria  41202      577    577   96%   0.0   72.12  416        WP_278879291.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Yersinia ruckeri]        8          3          Yersinia        enterobacteria  629        577    577   95%   0.0   71.13  416        WP_004719716.1   
+TPA: N-acetylmuramoyl-L-alanine amidase [Leclercia...             1          1          Leclercia ad... enterobacteria  83655      577    577   86%   0.0   81.38  345        HBH16198.1       
+N-acetylmuramoyl-L-alanine amidase AmiC [Budvicia diplopodorum]   3          2          Budvicia        enterobacteria  82978      577    577   92%   0.0   72.53  413        WP_159565807.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia endophytica]     1          1          Erwinia endo... enterobacteria  1563158    576    576   95%   0.0   72.68  416        WP_152323281.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Serratia...              1          1          Serratia mic... enterobacteria  2675110    575    575   95%   0.0   72.28  413        WP_127960344.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Morganella]              5          3          Morganella      enterobacteria  581        575    575   96%   0.0   71.65  416        WP_262863937.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia amylovora]       12         6          Erwinia         enterobacteria  551        574    574   94%   0.0   72.44  415        WP_099350204.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [[Erwinia]...             1          1          [Erwinia] me... enterobacteria  2161819    574    574   94%   0.0   72.51  414        WP_130831478.1   
+TPA: N-acetylmuramoyl-L-alanine amidase [Franconibacter pulveris] 1          1          Franconibact... enterobacteria  435910     573    573   83%   0.0   82.49  364        HBI11492.1       
+N-acetylmuramoyl-L-alanine amidase AmiC [Moellerella...           3          1          Moellerella ... enterobacteria  158849     573    573   99%   0.0   66.91  416        WP_047255136.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Yersinia pestis]         70         22         Yersinia        enterobacteria  629        573    573   98%   0.0   67.23  413        WP_016593808.1   
+N-acetylmuramoyl-L-alanine amidase [Brenneria bubanii]            1          1          Brenneria sp... enterobacteria  2800386    572    572   92%   0.0   72.87  413        MCG8707247.1     
+N-acetylmuramoyl-L-alanine amidase AmiC [Serratia symbiotica]     5          1          Serratia sym... enterobacteria  138074     572    572   96%   0.0   70.69  416        WP_160744009.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Proteus mirabilis]       53         14         Proteus         enterobacteria  583        572    572   94%   0.0   71.76  421        WP_175270757.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Escherichia coli]        2          2          Enterobacter... enterobacteria  543        572    572   69%   0.0   100.00 280        WP_074512890.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Rahnella]                27         15         Yersiniaceae    enterobacteria  1903411    571    571   94%   0.0   71.50  416        WP_013574172.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Dickeya lacustris]       2          2          Dickeya         enterobacteria  204037     571    571   92%   0.0   72.34  412        WP_125258593.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Jinshanibacter...        5          5          Budviciaceae    enterobacteria  1903416    570    570   91%   0.0   72.78  413        WP_130590607.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Dickeya zeae]            44         14         Dickeya         enterobacteria  204037     570    570   92%   0.0   72.61  412        WP_219952695.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Providencia stuartii]    44         16         Providencia     enterobacteria  586        570    570   99%   0.0   67.07  415        WP_070928828.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Rouxiella chamberiensis] 1          1          Rouxiella ch... enterobacteria  1513468    569    569   94%   0.0   71.61  416        WP_045049480.1   
+N-acetylmuramoyl-L-alanine amidase AmiC [Serratia sp. ATCC 39006] 1          1          Serratia sp.... enterobacteria  104623     569    569   92%   0.0   71.81  413        WP_021014851.1   
+
+
+Alignments:
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Escherichia coli]
+Sequence ID: WP_052906585.1 Length: 417
+Range 1: 35 to 417
+
+Score:778 bits(2009), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:381/383(99%), Positives:381/383(99%), Gaps:0/383(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            QVVAVRVWPASSYTRVTVESNRQLKYKQFALSN ERVVVDIEDVNLNSVLKGMAAQIRAD
+Sbjct  35   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNRERVVVDIEDVNLNSVLKGMAAQIRAD  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL
+Sbjct  95   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  154
+
+Query  141  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  200
+            LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV
+Sbjct  155  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  214
+
+Query  201  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  260
+            VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP
+Sbjct  215  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  274
+
+Query  261  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  320
+            SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK
+Sbjct  275  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  334
+
+Query  321  FGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQE  380
+            FGKAVLNKLGKINKLHKNQVEQAGF VLKAPDIPSILVETAFISNVEEERKLKTATFQQE
+Sbjct  335  FGKAVLNKLGKINKLHKNQVEQAGFTVLKAPDIPSILVETAFISNVEEERKLKTATFQQE  394
+
+Query  381  VAESILAGIKAYFADGATLARRG  403
+            VAESILAGIKAYFADGATLARRG
+Sbjct  395  VAESILAGIKAYFADGATLARRG  417
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Escherichia coli]
+Sequence ID: WP_109957024.1 Length: 420
+Range 1: 35 to 420
+
+Score:775 bits(2002), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:382/386(99%), Positives:382/386(98%), Gaps:3/386(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD
+Sbjct  35   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DPFIKSARVGQFDPQTVRM FELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL
+Sbjct  95   DPFIKSARVGQFDPQTVRMFFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  154
+
+Query  141  LALL---EDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTRE  197
+            LALL   EDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTRE
+Sbjct  155  LALLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTRE  214
+
+Query  198  KDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTS  257
+            KDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTS
+Sbjct  215  KDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTS  274
+
+Query  258  RQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIAD  317
+            RQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIAD
+Sbjct  275  RQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIAD  334
+
+Query  318  SLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATF  377
+            SLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATF
+Sbjct  335  SLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATF  394
+
+Query  378  QQEVAESILAGIKAYFADGATLARRG  403
+            QQEVAESILAGIKAYFADGATLARRG
+Sbjct  395  QQEVAESILAGIKAYFADGATLARRG  420
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Escherichia coli]
+Sequence ID: WP_180562664.1 Length: 414
+Range 1: 35 to 414
+
+Score:768 bits(1982), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:376/383(98%), Positives:379/383(98%), Gaps:3/383(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD
+Sbjct  35   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DPFIKSARVGQFDPQTVRMVFELKQNVKPQ+FALAPVAGFKERLVMDLYP NAQDMQDPL
+Sbjct  95   DPFIKSARVGQFDPQTVRMVFELKQNVKPQMFALAPVAGFKERLVMDLYPVNAQDMQDPL  154
+
+Query  141  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  200
+            L   EDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV
+Sbjct  155  L---EDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  211
+
+Query  201  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  260
+            VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP
+Sbjct  212  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  271
+
+Query  261  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  320
+            SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK
+Sbjct  272  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  331
+
+Query  321  FGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQE  380
+            FG+AVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQE
+Sbjct  332  FGRAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQE  391
+
+Query  381  VAESILAGIKAYFADGATLARRG  403
+            VAESILAGIKAYF+DGATLARRG
+Sbjct  392  VAESILAGIKAYFSDGATLARRG  414
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Escherichia coli]
+Sequence ID: WP_247107832.1 Length: 419
+Range 1: 37 to 419
+
+Score:755 bits(1950), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:370/383(97%), Positives:374/383(97%), Gaps:0/383(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            QVVAVRVWPASSYTRVTVESNRQL+YKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD
+Sbjct  37   QVVAVRVWPASSYTRVTVESNRQLQYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  96
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL
+Sbjct  97   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  156
+
+Query  141  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  200
+            LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGED GAVGKYKTREKDV
+Sbjct  157  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDPGAVGKYKTREKDV  216
+
+Query  201  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  260
+            VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP
+Sbjct  217  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  276
+
+Query  261  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  320
+            SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK
+Sbjct  277  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  336
+
+Query  321  FGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQE  380
+             GKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTA FQQ+
+Sbjct  337  LGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTARFQQQ  396
+
+Query  381  VAESILAGIKAYFADGATLARRG  403
+            VAESIL GIK YF+D   LAR+ 
+Sbjct  397  VAESILEGIKEYFSDIDALARKA  419
+
+
+
+
+>MULTISPECIES: N-acetylmuramoyl-L-alanine amidase AmiC [Enterobacter]
+Sequence ID: WP_042321841.1 Length: 417
+Range 1: 35 to 417
+
+Score:730 bits(1884), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:353/383(92%), Positives:369/383(96%), Gaps:0/383(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            QVVAVRVWP+S+YTRVTVESNR LKYKQFALSNPERVVVD+E VNLNSVLKGMAAQIR D
+Sbjct  35   QVVAVRVWPSSTYTRVTVESNRVLKYKQFALSNPERVVVDLEGVNLNSVLKGMAAQIRGD  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DPFIKSARVGQFDP TVRMVFELKQNVKPQLFALAPVA FKERLVMDLYP+NA D+QDPL
+Sbjct  95   DPFIKSARVGQFDPHTVRMVFELKQNVKPQLFALAPVATFKERLVMDLYPSNATDIQDPL  154
+
+Query  141  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  200
+            LALLEDYNKGDLE+QVPPAQSGP+PGKAGRDRPIVIMLDPGHGGEDSGAVGKY TREKDV
+Sbjct  155  LALLEDYNKGDLERQVPPAQSGPKPGKAGRDRPIVIMLDPGHGGEDSGAVGKYHTREKDV  214
+
+Query  201  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  260
+            VLQIARRL++LI+KEGNM+ YMTRNED+FIPL+VRVAKAQKQRADLFVSIHADAFTSRQP
+Sbjct  215  VLQIARRLKALIDKEGNMRAYMTRNEDVFIPLKVRVAKAQKQRADLFVSIHADAFTSRQP  274
+
+Query  261  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  320
+            SGSSVFALSTKGATSTAA+YLA TQNASDLIGGVSKSGDRYVDHT+FDMVQSLTI DSLK
+Sbjct  275  SGSSVFALSTKGATSTAARYLADTQNASDLIGGVSKSGDRYVDHTLFDMVQSLTITDSLK  334
+
+Query  321  FGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQE  380
+            FGKAVL KLG INKLHKN VEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTA FQQE
+Sbjct  335  FGKAVLGKLGHINKLHKNSVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTAKFQQE  394
+
+Query  381  VAESILAGIKAYFADGATLARRG  403
+            VAESILAGIKAYF+DGATLARRG
+Sbjct  395  VAESILAGIKAYFSDGATLARRG  417
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Kluyvera genomosp. 1]
+Sequence ID: WP_052282079.1 Length: 416
+Range 1: 29 to 416
+
+Score:726 bits(1875), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:351/388(90%), Positives:371/388(95%), Gaps:0/388(0%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F    QVVAVR+WPASSYTRVTVESNR +KY+QFALSNP+R+VVD+E VNLNSVLKGM A
+Sbjct  29   FAAVSQVVAVRIWPASSYTRVTVESNRVIKYRQFALSNPDRLVVDLEGVNLNSVLKGMGA  88
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQD  135
+            QIR DDP+IKSARVGQFDPQTVRMVFELKQ+VKPQLFALAPVAGFKERLVMDLYPA+++D
+Sbjct  89   QIRGDDPYIKSARVGQFDPQTVRMVFELKQDVKPQLFALAPVAGFKERLVMDLYPASSKD  148
+
+Query  136  MQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKT  195
+            +QDPLLALLE+YNK  LE QVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVG YKT
+Sbjct  149  VQDPLLALLEEYNKDGLETQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGLYKT  208
+
+Query  196  REKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAF  255
+            REKDVVLQIARRLR+LIEKEGNMK YMTRNEDIFIPL+VRVAKAQKQRADLFVSIHADAF
+Sbjct  209  REKDVVLQIARRLRALIEKEGNMKAYMTRNEDIFIPLKVRVAKAQKQRADLFVSIHADAF  268
+
+Query  256  TSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTI  315
+            TSRQPSGSSVFALSTKGATSTAAKYLAQTQNA+DL+GGVSKSGDRYVDHTMFDMVQSLTI
+Sbjct  269  TSRQPSGSSVFALSTKGATSTAAKYLAQTQNAADLVGGVSKSGDRYVDHTMFDMVQSLTI  328
+
+Query  316  ADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTA  375
+             DSLKFGKAVL +LG++N LHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTA
+Sbjct  329  TDSLKFGKAVLKRLGQVNNLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTA  388
+
+Query  376  TFQQEVAESILAGIKAYFADGATLARRG  403
+             FQQEVAESILAGIKAYFADGATLARRG
+Sbjct  389  KFQQEVAESILAGIKAYFADGATLARRG  416
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Klebsiella pneumoniae]
+Sequence ID: WP_159222446.1 Length: 417
+Range 1: 42 to 417
+
+Score:725 bits(1872), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:352/376(94%), Positives:364/376(96%), Gaps:0/376(0%)
+
+Query  28   WPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRADDPFIKSA  87
+            WPAS+YTRVTVESN  LKY+QFALSNPERVVVD+E VNLNSVLKGM  QIRADDPFIKSA
+Sbjct  42   WPASTYTRVTVESNHVLKYRQFALSNPERVVVDLEGVNLNSVLKGMGGQIRADDPFIKSA  101
+
+Query  88   RVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPLLALLEDY  147
+            RVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANA D+QDPLLALLEDY
+Sbjct  102  RVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANATDVQDPLLALLEDY  161
+
+Query  148  NKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVVLQIARR  207
+            NKGDLE+QVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKY+TREKDVVLQIARR
+Sbjct  162  NKGDLERQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYRTREKDVVLQIARR  221
+
+Query  208  LRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFA  267
+            LR+LI+KEGNMK YMTRNED+FIPL+VRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFA
+Sbjct  222  LRALIDKEGNMKAYMTRNEDVFIPLKVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFA  281
+
+Query  268  LSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLN  327
+            LSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVL 
+Sbjct  282  LSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLE  341
+
+Query  328  KLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQEVAESILA  387
+            K+G IN LHKN+VEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTA FQQEVAES LA
+Sbjct  342  KMGNINNLHKNRVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTAKFQQEVAESNLA  401
+
+Query  388  GIKAYFADGATLARRG  403
+            GIKAYFADGATLARRG
+Sbjct  402  GIKAYFADGATLARRG  417
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Klebsiella pneumoniae]
+Sequence ID: WP_201365585.1 Length: 417
+Range 1: 42 to 417
+
+Score:724 bits(1869), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:351/376(93%), Positives:364/376(96%), Gaps:0/376(0%)
+
+Query  28   WPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRADDPFIKSA  87
+            WPAS+YTRVTVESN  LKY+QFALSNPERVVVD+E VNLNSVLKGM  QIRADDPFIKSA
+Sbjct  42   WPASTYTRVTVESNHVLKYRQFALSNPERVVVDLEGVNLNSVLKGMGGQIRADDPFIKSA  101
+
+Query  88   RVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPLLALLEDY  147
+            RVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANA ++QDPLLALLEDY
+Sbjct  102  RVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANATNVQDPLLALLEDY  161
+
+Query  148  NKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVVLQIARR  207
+            NK DLE+QVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKY+TREKDVVLQIARR
+Sbjct  162  NKSDLERQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYRTREKDVVLQIARR  221
+
+Query  208  LRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFA  267
+            LR+LI+KEGNMK YMTRNED+FIPL+VRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFA
+Sbjct  222  LRALIDKEGNMKAYMTRNEDVFIPLKVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFA  281
+
+Query  268  LSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLN  327
+            LSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVL 
+Sbjct  282  LSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLE  341
+
+Query  328  KLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQEVAESILA  387
+            K+G IN LHKN+VEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTA FQQEVAESILA
+Sbjct  342  KMGNINNLHKNRVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTAKFQQEVAESILA  401
+
+Query  388  GIKAYFADGATLARRG  403
+            GIKAYFADGATLARRG
+Sbjct  402  GIKAYFADGATLARRG  417
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase, partial [Escherichia coli]
+Sequence ID: WP_208703509.1 Length: 355
+Range 1: 1 to 355
+
+Score:722 bits(1863), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:355/355(100%), Positives:355/355(100%), Gaps:0/355(0%)
+
+Query  49   FALSNPERVVVDIEDVNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVK  108
+            FALSNPERVVVDIEDVNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVK
+Sbjct  1    FALSNPERVVVDIEDVNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVK  60
+
+Query  109  PQLFALAPVAGFKERLVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKA  168
+            PQLFALAPVAGFKERLVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKA
+Sbjct  61   PQLFALAPVAGFKERLVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKA  120
+
+Query  169  GRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDI  228
+            GRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDI
+Sbjct  121  GRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDI  180
+
+Query  229  FIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNAS  288
+            FIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNAS
+Sbjct  181  FIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNAS  240
+
+Query  289  DLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVL  348
+            DLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVL
+Sbjct  241  DLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVL  300
+
+Query  349  KAPDIPSILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFADGATLARRG  403
+            KAPDIPSILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFADGATLARRG
+Sbjct  301  KAPDIPSILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFADGATLARRG  355
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC, partial [Escherichia coli]
+Sequence ID: WP_074513055.1 Length: 349
+Range 1: 1 to 349
+
+Score:709 bits(1831), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:349/349(100%), Positives:349/349(100%), Gaps:0/349(0%)
+
+Query  55   ERVVVDIEDVNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFAL  114
+            ERVVVDIEDVNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFAL
+Sbjct  1    ERVVVDIEDVNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFAL  60
+
+Query  115  APVAGFKERLVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPI  174
+            APVAGFKERLVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPI
+Sbjct  61   APVAGFKERLVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPI  120
+
+Query  175  VIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQV  234
+            VIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQV
+Sbjct  121  VIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQV  180
+
+Query  235  RVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGV  294
+            RVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGV
+Sbjct  181  RVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGV  240
+
+Query  295  SKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIP  354
+            SKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIP
+Sbjct  241  SKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIP  300
+
+Query  355  SILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFADGATLARRG  403
+            SILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFADGATLARRG
+Sbjct  301  SILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFADGATLARRG  349
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Kosakonia radicincitans]
+Sequence ID: WP_035887657.1 Length: 417
+Range 1: 36 to 417
+
+Score:709 bits(1830), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:342/382(90%), Positives:364/382(95%), Gaps:0/382(0%)
+
+Query  22   VVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRADD  81
+            VVAVRVWPAS+YTRVTVESN+ +KYKQF LSNP+R+VVD+E V+LNSVLKGM  QIR DD
+Sbjct  36   VVAVRVWPASTYTRVTVESNQVIKYKQFTLSNPDRLVVDLEGVHLNSVLKGMGTQIRGDD  95
+
+Query  82   PFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPLL  141
+            PFIKSARVGQFDPQTVRMVFELKQ+V PQLFALAPVAGFKERLVMDLYP NA+D+QDPLL
+Sbjct  96   PFIKSARVGQFDPQTVRMVFELKQDVAPQLFALAPVAGFKERLVMDLYPVNAKDVQDPLL  155
+
+Query  142  ALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVV  201
+            ALLE+YN+GDLE+QVP   SGPQPGKAGRDRPIVIMLDPGHGGED GA+GKY+TREKDVV
+Sbjct  156  ALLEEYNRGDLEQQVPKQDSGPQPGKAGRDRPIVIMLDPGHGGEDPGAMGKYRTREKDVV  215
+
+Query  202  LQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPS  261
+            LQIARRL +LIEKEGNMK YMTRNED+FIPL+VRVAKAQKQRADLFVSIHADAFTSRQPS
+Sbjct  216  LQIARRLYALIEKEGNMKAYMTRNEDVFIPLKVRVAKAQKQRADLFVSIHADAFTSRQPS  275
+
+Query  262  GSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKF  321
+            GSSVFALSTKGATSTAAKYLA+TQNASDLIGGVSKSGDRY+DHTMFDMVQSLTI DSLKF
+Sbjct  276  GSSVFALSTKGATSTAAKYLAETQNASDLIGGVSKSGDRYLDHTMFDMVQSLTINDSLKF  335
+
+Query  322  GKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQEV  381
+            GKAVLNKLG +N LHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTA FQQEV
+Sbjct  336  GKAVLNKLGNVNNLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTAKFQQEV  395
+
+Query  382  AESILAGIKAYFADGATLARRG  403
+            AESILAGIKAYF+DGATLARRG
+Sbjct  396  AESILAGIKAYFSDGATLARRG  417
+
+
+
+
+>MULTISPECIES: N-acetylmuramoyl-L-alanine amidase AmiC [unclassified Enterobacter]
+Sequence ID: WP_123348313.1 Length: 417
+Range 1: 35 to 417
+
+Score:704 bits(1817), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:336/383(88%), Positives:364/383(95%), Gaps:0/383(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            QVVAVRVWPAS+YTRVT+ESNR LKY+QF LSNP+R+VVDIE VNLNSVLKG+ AQ+RAD
+Sbjct  35   QVVAVRVWPASTYTRVTLESNRLLKYRQFTLSNPDRLVVDIEGVNLNSVLKGVGAQVRAD  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DPFIKSARVGQFDPQTVRMVFELKQNV PQLF+LAPVA FKERLVMDLYP N  + QDPL
+Sbjct  95   DPFIKSARVGQFDPQTVRMVFELKQNVAPQLFSLAPVAEFKERLVMDLYPLNGSNEQDPL  154
+
+Query  141  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  200
+            LALLEDYNKG+L+K++PPA SGPQPGKAGRDRPIVIMLDPGHGGED GA+GKYKTREKDV
+Sbjct  155  LALLEDYNKGNLDKELPPASSGPQPGKAGRDRPIVIMLDPGHGGEDPGAIGKYKTREKDV  214
+
+Query  201  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  260
+            VLQIARRL++LIEKEGNMK YMTRNED+FIPL+VRVAKAQKQRADLF+SIHADAF +RQP
+Sbjct  215  VLQIARRLKALIEKEGNMKAYMTRNEDVFIPLKVRVAKAQKQRADLFISIHADAFATRQP  274
+
+Query  261  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  320
+             GSSVFALST+GATSTAAKYLA+TQNA+DLIGGVSKSGDRY+DHTMFDMVQSLTI DSLK
+Sbjct  275  HGSSVFALSTRGATSTAAKYLAETQNAADLIGGVSKSGDRYLDHTMFDMVQSLTINDSLK  334
+
+Query  321  FGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQE  380
+            FGK+VL +LG++N LHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTA FQQE
+Sbjct  335  FGKSVLGRLGRVNSLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTAKFQQE  394
+
+Query  381  VAESILAGIKAYFADGATLARRG  403
+            VAESILAGIKAYFADGATLARRG
+Sbjct  395  VAESILAGIKAYFADGATLARRG  417
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Pseudescherichia sp. L3]
+Sequence ID: WP_257758436.1 Length: 417
+Range 1: 35 to 417
+
+Score:695 bits(1793), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:333/383(87%), Positives:357/383(93%), Gaps:0/383(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            Q++AVRVWPAS+YTR+TVESNR LKY+QFALSNPER+VVDIE VNLNSVLKGM  QI   
+Sbjct  35   QIIAVRVWPASTYTRITVESNRVLKYRQFALSNPERLVVDIEGVNLNSVLKGMGTQIHDS  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DPFIKSARVGQFDP TVRMVFELKQNV P LF+LAPVA FKERLVMDLYP N Q+ QDPL
+Sbjct  95   DPFIKSARVGQFDPNTVRMVFELKQNVTPHLFSLAPVAEFKERLVMDLYPVNGQNEQDPL  154
+
+Query  141  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  200
+            LALLEDYNKG LEKQVPPAQSGP+PGKAGRDRP+VIMLDPGHGGED GA+GKYKTREKDV
+Sbjct  155  LALLEDYNKGSLEKQVPPAQSGPKPGKAGRDRPVVIMLDPGHGGEDPGAIGKYKTREKDV  214
+
+Query  201  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  260
+            VLQIARRLR+LI+KE NMK YMTRNED+FIPL+VRVAKAQKQRADLFVSIHADAFTSR  
+Sbjct  215  VLQIARRLRALIDKEANMKAYMTRNEDVFIPLKVRVAKAQKQRADLFVSIHADAFTSRAA  274
+
+Query  261  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  320
+             GSSVFALSTKGATSTAAKYLAQTQNA+DLIGGVSKSGD+Y+DHT+FDMVQSLTI DSLK
+Sbjct  275  RGSSVFALSTKGATSTAAKYLAQTQNAADLIGGVSKSGDQYLDHTLFDMVQSLTINDSLK  334
+
+Query  321  FGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQE  380
+            FGK VLN+LG++NKLHKN+V+QAGFAVLKAPDIPSILVETAFISNVEEERKLKT  FQQE
+Sbjct  335  FGKEVLNRLGQVNKLHKNRVDQAGFAVLKAPDIPSILVETAFISNVEEERKLKTVAFQQE  394
+
+Query  381  VAESILAGIKAYFADGATLARRG  403
+            VAESILAGIKAYFADG TLARRG
+Sbjct  395  VAESILAGIKAYFADGVTLARRG  417
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase [Escherichia coli ISC7]
+Sequence ID: CDL25392.1 Length: 342
+Range 1: 1 to 340
+
+Score:694 bits(1791), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:339/340(99%), Positives:340/340(100%), Gaps:0/340(0%)
+
+Query  23   VAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRADDP  82
+            +AVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRADDP
+Sbjct  1    MAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRADDP  60
+
+Query  83   FIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPLLA  142
+            FIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPLLA
+Sbjct  61   FIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPLLA  120
+
+Query  143  LLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVVL  202
+            LLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVVL
+Sbjct  121  LLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVVL  180
+
+Query  203  QIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSG  262
+            QIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSG
+Sbjct  181  QIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSG  240
+
+Query  263  SSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFG  322
+            SSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFG
+Sbjct  241  SSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFG  300
+
+Query  323  KAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAF  362
+            KAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAF
+Sbjct  301  KAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAF  340
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC, partial [Escherichia coli]
+Sequence ID: WP_077899871.1 Length: 372
+Range 1: 35 to 372
+
+Score:691 bits(1784), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:337/338(99%), Positives:338/338(100%), Gaps:0/338(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDI+DVNLNSVLKGMAAQIRAD
+Sbjct  35   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIKDVNLNSVLKGMAAQIRAD  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL
+Sbjct  95   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  154
+
+Query  141  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  200
+            LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV
+Sbjct  155  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  214
+
+Query  201  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  260
+            VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP
+Sbjct  215  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  274
+
+Query  261  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  320
+            SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK
+Sbjct  275  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  334
+
+Query  321  FGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILV  358
+            FGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILV
+Sbjct  335  FGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILV  372
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Cronobacter sakazakii]
+Sequence ID: WP_209639961.1 Length: 417
+Range 1: 35 to 417
+
+Score:687 bits(1773), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:328/383(86%), Positives:361/383(94%), Gaps:0/383(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            QV+AVRVWPAS+YTRVT+ESNR LKY+QFALSNPER+VVD+E VNLN+VLKG+++QIR D
+Sbjct  35   QVIAVRVWPASAYTRVTLESNRVLKYRQFALSNPERIVVDLEGVNLNAVLKGVSSQIRVD  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DPFIKSARVGQFDP+TVRMVFELK+NV P LFALAPVA F+ERLV+DLYPAN  + QDPL
+Sbjct  95   DPFIKSARVGQFDPKTVRMVFELKKNVTPHLFALAPVAEFRERLVIDLYPANGTNEQDPL  154
+
+Query  141  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  200
+            LALLEDYNKG+L+KQVPPA SGPQPGKAGRDRPIVIM+DPGHGGED GA+GK KTREKDV
+Sbjct  155  LALLEDYNKGELDKQVPPATSGPQPGKAGRDRPIVIMIDPGHGGEDPGAIGKNKTREKDV  214
+
+Query  201  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  260
+            VLQIARRLR+LIE+E NMK +MTRNEDIFIPL+VRVAKAQKQRADLFVSIHADAFTSR  
+Sbjct  215  VLQIARRLRALIEREANMKAFMTRNEDIFIPLKVRVAKAQKQRADLFVSIHADAFTSRAA  274
+
+Query  261  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  320
+             GSSVFALSTKGATSTAAKYLAQTQNA+DL+GGVSKSGD Y+DHTMFDMVQSLTI+DSLK
+Sbjct  275  RGSSVFALSTKGATSTAAKYLAQTQNAADLVGGVSKSGDVYLDHTMFDMVQSLTISDSLK  334
+
+Query  321  FGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQE  380
+            FGK VL +LG++NKLHKN+V+QAGFAVLKAPDIPSILVETAFISN EEERKL+TATFQQE
+Sbjct  335  FGKEVLGRLGRVNKLHKNKVDQAGFAVLKAPDIPSILVETAFISNEEEERKLRTATFQQE  394
+
+Query  381  VAESILAGIKAYFADGATLARRG  403
+            VAESILAGIKAYFADG TLARRG
+Sbjct  395  VAESILAGIKAYFADGGTLARRG  417
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Atlantibacter hermannii]
+Sequence ID: WP_002434569.1 Length: 420
+Range 1: 30 to 420
+
+Score:681 bits(1758), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:329/391(84%), Positives:360/391(92%), Gaps:3/391(0%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F    QV+AVRVWPASSYTRVT+ESNR+LKY+QFALSNP RVVVD+E VNLNSVLKG+A 
+Sbjct  30   FAAGSQVIAVRVWPASSYTRVTLESNRELKYRQFALSNPSRVVVDLEGVNLNSVLKGVAN  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQD  135
+            QIR DDPFI+SARVGQFDP+TVRMVFELKQNV P LFALAPVA FKERLVMDLYP NA +
+Sbjct  90   QIRQDDPFIQSARVGQFDPKTVRMVFELKQNVTPHLFALAPVAEFKERLVMDLYPVNASN  149
+
+Query  136  MQDPLLALLEDYNKGDLEKQVPPA---QSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGK  192
+             QDPLLALLEDYN G+L+K+VPPA    +GPQPGKAGRDRPIVIMLDPGHGGED GA+GK
+Sbjct  150  EQDPLLALLEDYNNGELDKKVPPAGTSNTGPQPGKAGRDRPIVIMLDPGHGGEDPGAIGK  209
+
+Query  193  YKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHA  252
+            YKTREKDVVLQIARRLR LIEKE NMK +MTRNED+FIPL+VRVAKAQKQRADLF+SIHA
+Sbjct  210  YKTREKDVVLQIARRLRGLIEKEPNMKAFMTRNEDVFIPLKVRVAKAQKQRADLFISIHA  269
+
+Query  253  DAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQS  312
+            DAFTSR   GSSVFALSTKGATSTAA+YLAQTQNA+DL+GGVSKSGDRY+DHTMFDMVQS
+Sbjct  270  DAFTSRAARGSSVFALSTKGATSTAARYLAQTQNAADLVGGVSKSGDRYLDHTMFDMVQS  329
+
+Query  313  LTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKL  372
+            LTI+DSLKFGK VL+++GK+N LHKN+V+QAGFAVLKAPDIPSILVETAFISNVEEERKL
+Sbjct  330  LTISDSLKFGKEVLHRMGKVNHLHKNRVDQAGFAVLKAPDIPSILVETAFISNVEEERKL  389
+
+Query  373  KTATFQQEVAESILAGIKAYFADGATLARRG  403
+            +TA FQQEVAESILAGIKAYF+  ATLARRG
+Sbjct  390  RTAAFQQEVAESILAGIKAYFSSEATLARRG  420
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Entomohabitans teleogrylli]
+Sequence ID: WP_058913728.1 Length: 416
+Range 1: 33 to 415
+
+Score:676 bits(1745), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:327/385(85%), Positives:354/385(91%), Gaps:2/385(0%)
+
+Query  18   GHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQI  77
+            G  QV+AVRVWP+S+YTRVT+ESNR LKY+QFALSNPERVVVD+E V LNS+LKG++ QI
+Sbjct  33   GASQVIAVRVWPSSTYTRVTLESNRMLKYRQFALSNPERVVVDLEGVQLNSILKGLSGQI  92
+
+Query  78   RADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQ  137
+            R DDPFIKSARVGQFDP+TVR+VFELKQNV P LFALAPVA FKER VMDLYPAN    Q
+Sbjct  93   RGDDPFIKSARVGQFDPKTVRLVFELKQNVTPHLFALAPVAEFKERTVMDLYPANTNSEQ  152
+
+Query  138  DPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTRE  197
+            DPLLALLEDYN G L+K+VPPA  GPQPGKAGRDRPIVIMLDPGHGGED GA+GKYKTRE
+Sbjct  153  DPLLALLEDYNNGQLDKKVPPA--GPQPGKAGRDRPIVIMLDPGHGGEDPGAIGKYKTRE  210
+
+Query  198  KDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTS  257
+            KDVVLQIARRLR+LI+KE NMKVYMTRNEDIFIPL+VRVAKAQKQRADLFVSIHADAFT+
+Sbjct  211  KDVVLQIARRLRTLIQKEPNMKVYMTRNEDIFIPLKVRVAKAQKQRADLFVSIHADAFTN  270
+
+Query  258  RQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIAD  317
+            R   GSSVFALSTKGATS AAKYLA+TQNA+DLIGGVSKSGDRY+DHTM DMVQSLTI D
+Sbjct  271  RSARGSSVFALSTKGATSAAAKYLAETQNAADLIGGVSKSGDRYLDHTMLDMVQSLTIND  330
+
+Query  318  SLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATF  377
+            SLKFGK VLN+LG INKLHKN+V+QAGFAVLKAP+IPSILVETAFISNVEEERKLKTA F
+Sbjct  331  SLKFGKEVLNRLGNINKLHKNRVDQAGFAVLKAPEIPSILVETAFISNVEEERKLKTAAF  390
+
+Query  378  QQEVAESILAGIKAYFADGATLARR  402
+            QQ+VAESILAGIKAYFAD +TLARR
+Sbjct  391  QQQVAESILAGIKAYFADSSTLARR  415
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase [Cronobacter universalis NCTC 9529]
+Sequence ID: CCK15809.1 Length: 473
+Range 1: 32 to 414
+
+Score:675 bits(1742), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:324/383(85%), Positives:356/383(92%), Gaps:0/383(0%)
+
+Query  18   GHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQI  77
+            G  QV+AVRVWPAS+YTRVT+ESNR LKY+QFALSNPER+VVD+E VNLN+VLKG+  QI
+Sbjct  32   GSGQVIAVRVWPASAYTRVTLESNRVLKYRQFALSNPERIVVDLEGVNLNAVLKGVGNQI  91
+
+Query  78   RADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQ  137
+            R DDPFIKSARVGQFDP+TVRMVFELK+NV P LFALAPVA F+ERLV+DLYPAN  + Q
+Sbjct  92   RVDDPFIKSARVGQFDPKTVRMVFELKKNVTPHLFALAPVAEFRERLVIDLYPANGTNEQ  151
+
+Query  138  DPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTRE  197
+            DPLLALLEDYNKG+L+KQVPPA SGPQPGKAGRDRPIVIM+DPGHGGED GA+GK+KTRE
+Sbjct  152  DPLLALLEDYNKGELDKQVPPATSGPQPGKAGRDRPIVIMIDPGHGGEDPGAIGKHKTRE  211
+
+Query  198  KDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTS  257
+            KDVVLQIARRLR+LIE+E NMK  MTRNEDIFIPL+VRVAKAQKQRADLFVSIHADAFTS
+Sbjct  212  KDVVLQIARRLRALIEREANMKALMTRNEDIFIPLKVRVAKAQKQRADLFVSIHADAFTS  271
+
+Query  258  RQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIAD  317
+            R   GSSVFALSTKGATSTAAKYLAQTQNA+DL+GGVSKSGD Y+DHTMFDMVQSLTI+D
+Sbjct  272  RAARGSSVFALSTKGATSTAAKYLAQTQNAADLVGGVSKSGDVYLDHTMFDMVQSLTISD  331
+
+Query  318  SLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATF  377
+            SLKFGK VL +LG++NKLHKN+V+QAGFAVLKAPDIPSILVETAFISN +EERKL+TA F
+Sbjct  332  SLKFGKEVLGRLGQVNKLHKNKVDQAGFAVLKAPDIPSILVETAFISNEDEERKLRTAAF  391
+
+Query  378  QQEVAESILAGIKAYFADGATLA  400
+            QQEVAESILAGIKAYFADG TLA
+Sbjct  392  QQEVAESILAGIKAYFADGGTLA  414
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Siccibacter turicensis]
+Sequence ID: WP_024550694.1 Length: 414
+Range 1: 35 to 414
+
+Score:675 bits(1741), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:325/383(85%), Positives:356/383(92%), Gaps:3/383(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            Q++AVRVWPAS+YTRVT+ESNR LKY+QFALSNPERVVVDIE ++LNSVLKG+  QIR+D
+Sbjct  35   QIIAVRVWPASTYTRVTIESNRVLKYRQFALSNPERVVVDIEGISLNSVLKGLGNQIRSD  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DPFIKSARVGQFDP TVRMVFELKQNV PQLFALAPVA FKERLVMDLYPAN    +DPL
+Sbjct  95   DPFIKSARVGQFDPNTVRMVFELKQNVSPQLFALAPVAEFKERLVMDLYPANGDHSEDPL  154
+
+Query  141  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  200
+            LALLEDYNKG+LEK+ P   SGPQPGKAGRDRPIVIM+DPGHGGED GA+GKYKTREKDV
+Sbjct  155  LALLEDYNKGELEKKTP---SGPQPGKAGRDRPIVIMIDPGHGGEDPGAIGKYKTREKDV  211
+
+Query  201  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  260
+            VLQIARRLR+LIEK+ NMKV+MTRNED+FIPL+VRVAKAQKQRADLFVSIHADAFT+R  
+Sbjct  212  VLQIARRLRTLIEKKPNMKVFMTRNEDVFIPLKVRVAKAQKQRADLFVSIHADAFTNRAA  271
+
+Query  261  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  320
+             GSSVFALSTKGATSTAAKYLAQTQNA+DLIGGVSKSGDRY+DHT+FDMVQSLTI DSLK
+Sbjct  272  RGSSVFALSTKGATSTAAKYLAQTQNAADLIGGVSKSGDRYLDHTLFDMVQSLTINDSLK  331
+
+Query  321  FGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQE  380
+            FGK VL +LG +NKLHKN V+QAGFAVLKAP+IPSILVETAFISNVEEERKL+TA FQQ+
+Sbjct  332  FGKEVLKRLGGVNKLHKNSVDQAGFAVLKAPEIPSILVETAFISNVEEERKLRTAAFQQQ  391
+
+Query  381  VAESILAGIKAYFADGATLARRG  403
+            VAESILAGI+AYFADGA +ARRG
+Sbjct  392  VAESILAGIEAYFADGARMARRG  414
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Buttiauxella agrestis]
+Sequence ID: WP_034498045.1 Length: 418
+Range 1: 30 to 418
+
+Score:673 bits(1736), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:328/389(84%), Positives:352/389(90%), Gaps:1/389(0%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F     VVAVRVWPASSYTRVT+ESN+QLKYKQFALSNP+RVVVDIE VNLNSVLKG+  
+Sbjct  30   FAASSLVVAVRVWPASSYTRVTLESNKQLKYKQFALSNPDRVVVDIEGVNLNSVLKGIGG  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQD  135
+            QIR DDPFIKSARVGQFDPQTVRMVFELKQNV P LFALAPVA FKERLVMDLYPAN   
+Sbjct  90   QIRGDDPFIKSARVGQFDPQTVRMVFELKQNVTPHLFALAPVAEFKERLVMDLYPANMNS  149
+
+Query  136  MQDPLLALLEDYNKGDLEKQVPPA-QSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYK  194
+             QDPLLALLEDYN G L+K  PP+ + GPQPGKAGRDRPIVIMLDPGHGGED GA+G  K
+Sbjct  150  EQDPLLALLEDYNNGKLDKDTPPSPEQGPQPGKAGRDRPIVIMLDPGHGGEDPGAIGPNK  209
+
+Query  195  TREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADA  254
+            TREKD+VL+IARRL++LI+KE NMK YMTRNED+FIPL+VRVAKAQKQRADLFVSIHADA
+Sbjct  210  TREKDIVLKIARRLKALIDKEANMKAYMTRNEDVFIPLKVRVAKAQKQRADLFVSIHADA  269
+
+Query  255  FTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLT  314
+            FTS    GSSVFALSTKGATSTAAK+LAQTQNA+DLIGGVSKSGDRY+DHTMFDMVQSLT
+Sbjct  270  FTSGAARGSSVFALSTKGATSTAAKFLAQTQNAADLIGGVSKSGDRYLDHTMFDMVQSLT  329
+
+Query  315  IADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKT  374
+            I DSLKFGK VL +LGK+NKLHKN V+QAGFAVLKAPDIPSILVETAF+SNVEEERKL+T
+Sbjct  330  INDSLKFGKEVLARLGKVNKLHKNSVDQAGFAVLKAPDIPSILVETAFLSNVEEERKLRT  389
+
+Query  375  ATFQQEVAESILAGIKAYFADGATLARRG  403
+            ATFQQEVAESILAGIKAYFAD + LARRG
+Sbjct  390  ATFQQEVAESILAGIKAYFADSSRLARRG  418
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Mangrovibacter yixingensis]
+Sequence ID: WP_226571441.1 Length: 417
+Range 1: 28 to 416
+
+Score:667 bits(1722), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:319/389(82%), Positives:353/389(90%), Gaps:0/389(0%)
+
+Query  14   LYFQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGM  73
+            L F     V+A+RVWPASSYTRVTVESN QL+YKQFALSNP R+V+DIE V LNSVLKG+
+Sbjct  28   LSFAAASHVIAIRVWPASSYTRVTVESNHQLQYKQFALSNPSRLVLDIEGVQLNSVLKGL  87
+
+Query  74   AAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANA  133
+               I ADDP+I+SARVGQFDP TVR+VFELKQNV P LFALAPVA FKERLVMDLYPANA
+Sbjct  88   GNLIHADDPYIRSARVGQFDPHTVRLVFELKQNVTPHLFALAPVAEFKERLVMDLYPANA  147
+
+Query  134  QDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKY  193
+             + QDPLLALLEDYN GDL+K++P    GPQPGKAGRDRPIVIM+DPGHGGED GA+GKY
+Sbjct  148  SNEQDPLLALLEDYNNGDLDKKMPAQPQGPQPGKAGRDRPIVIMIDPGHGGEDPGAIGKY  207
+
+Query  194  KTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHAD  253
+            KTREKD+VL+IARRLRSLI+K+ NMK YMTRNED+FIPL+VRVAKAQKQRADLFVSIHAD
+Sbjct  208  KTREKDIVLKIARRLRSLIDKQANMKAYMTRNEDVFIPLKVRVAKAQKQRADLFVSIHAD  267
+
+Query  254  AFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSL  313
+            AFTSR+  GSSVFALSTKGATSTAAKYLAQTQNA+DLIGGVSKSGDRY+DHTMFDMVQSL
+Sbjct  268  AFTSREARGSSVFALSTKGATSTAAKYLAQTQNAADLIGGVSKSGDRYLDHTMFDMVQSL  327
+
+Query  314  TIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLK  373
+            TI DSLKFGK VLNKLG++N+LHKN+V+QAGFAVLKAP+IPSILVETAFISNVEEERKLK
+Sbjct  328  TITDSLKFGKEVLNKLGRVNRLHKNRVDQAGFAVLKAPEIPSILVETAFISNVEEERKLK  387
+
+Query  374  TATFQQEVAESILAGIKAYFADGATLARR  402
+            TA FQQEVAESI +GI+AYF+D + LARR
+Sbjct  388  TAKFQQEVAESIFSGIQAYFSDSSKLARR  416
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Citrobacter sp. JGM124]
+Sequence ID: WP_211993150.1 Length: 416
+Range 1: 27 to 416
+
+Score:667 bits(1721), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:323/391(83%), Positives:351/391(89%), Gaps:1/391(0%)
+
+Query  13   NLYFQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKG  72
+            N+ F    QVVAVRVWPAS+YTRVT+ES   LKY+QFALSNPERVVVDIE VNLN+VLKG
+Sbjct  27   NVGFAASGQVVAVRVWPASTYTRVTLESTHLLKYRQFALSNPERVVVDIEGVNLNAVLKG  86
+
+Query  73   MAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPAN  132
+            +  QIRADDPFIKSARVGQFDP+TVRMVFELKQNV PQ+FALAPVA FKERLVMDLYPAN
+Sbjct  87   LGGQIRADDPFIKSARVGQFDPKTVRMVFELKQNVTPQVFALAPVAEFKERLVMDLYPAN  146
+
+Query  133  AQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGK  192
+              + QDPLLALLEDYN G LEK++P  Q GPQPGKAGRDRPIVIMLDPGHGGED GA+G 
+Sbjct  147  VNNQQDPLLALLEDYNSGQLEKKMP-VQQGPQPGKAGRDRPIVIMLDPGHGGEDPGAIGP  205
+
+Query  193  YKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHA  252
+             KTREKD+VL IARRL++LI+KE NMK YMTRNEDIFIPL+VRVAKAQKQRADLF+SIHA
+Sbjct  206  NKTREKDIVLSIARRLKALIDKESNMKAYMTRNEDIFIPLKVRVAKAQKQRADLFISIHA  265
+
+Query  253  DAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQS  312
+            DAFTS    GSSVFALSTKGATSTAAKYLAQTQNASDLIGGV KSGDRY+DHTMFDMVQS
+Sbjct  266  DAFTSEAARGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVGKSGDRYLDHTMFDMVQS  325
+
+Query  313  LTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKL  372
+            LT+ DSLKFGK VLN++G++NKLHKN V+QAGFAVLKAPDIPSILVETAF+SN EEERKL
+Sbjct  326  LTVNDSLKFGKEVLNRMGRVNKLHKNSVDQAGFAVLKAPDIPSILVETAFLSNREEERKL  385
+
+Query  373  KTATFQQEVAESILAGIKAYFADGATLARRG  403
+            +TA FQQ+VAESIL GIKAYFAD  TLARRG
+Sbjct  386  RTAKFQQQVAESILTGIKAYFADSTTLARRG  416
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase, partial [Klebsiella pneumoniae]
+Sequence ID: WP_108986387.1 Length: 343
+Range 1: 1 to 343
+
+Score:665 bits(1717), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:324/343(94%), Positives:334/343(97%), Gaps:0/343(0%)
+
+Query  61   IEDVNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGF  120
+            +E VNLNSVLKGM  QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGF
+Sbjct  1    LEGVNLNSVLKGMGGQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGF  60
+
+Query  121  KERLVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDP  180
+            KERLVMDLYPANA D+QDPLLALLEDYNKGDLE+QVPPAQSGPQPGKAGRDRPIVIMLDP
+Sbjct  61   KERLVMDLYPANATDVQDPLLALLEDYNKGDLERQVPPAQSGPQPGKAGRDRPIVIMLDP  120
+
+Query  181  GHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQ  240
+            GHGGEDSGAVGKY+TREKDVVLQIARRLR+LI+KEGNMK YMTRNED+FIPL+VRVAKAQ
+Sbjct  121  GHGGEDSGAVGKYRTREKDVVLQIARRLRALIDKEGNMKAYMTRNEDVFIPLKVRVAKAQ  180
+
+Query  241  KQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDR  300
+            KQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDR
+Sbjct  181  KQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDR  240
+
+Query  301  YVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVET  360
+            YVDHTMFDMVQSLTIADSLKFGKAVL K+G IN LHKN+VEQAGFAVLKAPDIPSILVET
+Sbjct  241  YVDHTMFDMVQSLTIADSLKFGKAVLEKMGNINNLHKNRVEQAGFAVLKAPDIPSILVET  300
+
+Query  361  AFISNVEEERKLKTATFQQEVAESILAGIKAYFADGATLARRG  403
+            AFISNVEEERKLKTA FQQEVAESILAGIKAYFADGATLARRG
+Sbjct  301  AFISNVEEERKLKTAKFQQEVAESILAGIKAYFADGATLARRG  343
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Franconibacter pulveris]
+Sequence ID: WP_024556442.1 Length: 415
+Range 1: 30 to 415
+
+Score:664 bits(1714), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:324/388(84%), Positives:353/388(90%), Gaps:2/388(0%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F    QVVAVRVWPAS+YTRVT+ESNR LKY+QFALSNPERVVVDIE V+LNSVLKG+  
+Sbjct  30   FAASSQVVAVRVWPASAYTRVTLESNRVLKYRQFALSNPERVVVDIEGVHLNSVLKGLGN  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQD  135
+             I  +DPFIKSARVGQFDP+TVRMVFELK+NV P LFALAPVA FKERLV+DLYPA++  
+Sbjct  90   HISDNDPFIKSARVGQFDPKTVRMVFELKKNVTPHLFALAPVAEFKERLVIDLYPADSAS  149
+
+Query  136  MQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKT  195
+             QDPLLALLEDYNKG+L+++ P  Q GPQPGKAGRDRPIVIM+DPGHGGED GA+GKYKT
+Sbjct  150  EQDPLLALLEDYNKGELDQKTP--QGGPQPGKAGRDRPIVIMIDPGHGGEDPGAIGKYKT  207
+
+Query  196  REKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAF  255
+            REKDVVLQIARRL++LIEKE NMK YMTRNEDIFIPL+VRVAKAQKQRADLFVSIHADAF
+Sbjct  208  REKDVVLQIARRLKALIEKELNMKAYMTRNEDIFIPLKVRVAKAQKQRADLFVSIHADAF  267
+
+Query  256  TSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTI  315
+            TSR   GSSVFALSTKGATS AAKYLAQTQNA+DL+GGVSKSGD Y+DHTMFDMVQSLTI
+Sbjct  268  TSRAARGSSVFALSTKGATSAAAKYLAQTQNAADLVGGVSKSGDVYLDHTMFDMVQSLTI  327
+
+Query  316  ADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTA  375
+            +DSLKFGK VLN+LG +NKLHKN V+QAGFAVLKAPDIPSILVETAFISNVEEE+KL+TA
+Sbjct  328  SDSLKFGKEVLNRLGGVNKLHKNSVDQAGFAVLKAPDIPSILVETAFISNVEEEKKLRTA  387
+
+Query  376  TFQQEVAESILAGIKAYFADGATLARRG  403
+             FQQEVA SILAGIKAYFADG TLARRG
+Sbjct  388  AFQQEVAVSILAGIKAYFADGGTLARRG  415
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC, partial [Escherichia coli]
+Sequence ID: WP_023277009.1 Length: 352
+Range 1: 35 to 352
+
+Score:654 bits(1686), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:318/318(100%), Positives:318/318(100%), Gaps:0/318(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD
+Sbjct  35   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL
+Sbjct  95   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  154
+
+Query  141  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  200
+            LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV
+Sbjct  155  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  214
+
+Query  201  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  260
+            VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP
+Sbjct  215  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  274
+
+Query  261  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  320
+            SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK
+Sbjct  275  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  334
+
+Query  321  FGKAVLNKLGKINKLHKN  338
+            FGKAVLNKLGKINKLHKN
+Sbjct  335  FGKAVLNKLGKINKLHKN  352
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Shimwellia pseudoproteus]
+Sequence ID: WP_199013557.1 Length: 415
+Range 1: 27 to 415
+
+Score:651 bits(1680), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:314/391(80%), Positives:354/391(90%), Gaps:2/391(0%)
+
+Query  13   NLYFQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKG  72
+            N+ +    QV+AVRVWP+S+YTRVT+ES+RQLKY+QFALS+P+RVVVD+E V+LN+VLKG
+Sbjct  27   NIGYAASGQVIAVRVWPSSTYTRVTLESSRQLKYRQFALSHPQRVVVDLEGVHLNAVLKG  86
+
+Query  73   MAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPAN  132
+            +  QIR DDPFI+SARVGQFDPQTVR+VFELKQNV   +FALAPVAGFKER VMDLYPAN
+Sbjct  87   LDNQIRRDDPFIQSARVGQFDPQTVRLVFELKQNVSAHMFALAPVAGFKERTVMDLYPAN  146
+
+Query  133  AQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGK  192
+              +  DPLLALLEDYN G L+KQVP    GPQPGKAGRDRPIVIMLDPGHGGED GA+GK
+Sbjct  147  TNNEHDPLLALLEDYNNGQLDKQVP--TPGPQPGKAGRDRPIVIMLDPGHGGEDPGAIGK  204
+
+Query  193  YKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHA  252
+            ++TREKDVVLQIARRLR+LIE++ NMK YMTRNED+FIPL+VRVAKAQKQRADLFVSIHA
+Sbjct  205  HRTREKDVVLQIARRLRTLIERQPNMKAYMTRNEDVFIPLKVRVAKAQKQRADLFVSIHA  264
+
+Query  253  DAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQS  312
+            DAFT R   GSSVFALSTKGATSTAAK+LA+TQNA+DLIGGVSKSGDRY+DHTMFDMVQS
+Sbjct  265  DAFTDRSARGSSVFALSTKGATSTAAKFLAKTQNAADLIGGVSKSGDRYLDHTMFDMVQS  324
+
+Query  313  LTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKL  372
+            LTI DSLKFGKAVL  LG+INKLHKN+V+QAGFAVLKAPDIPSILVETAFISNV+EER+L
+Sbjct  325  LTINDSLKFGKAVLGHLGRINKLHKNRVDQAGFAVLKAPDIPSILVETAFISNVDEERRL  384
+
+Query  373  KTATFQQEVAESILAGIKAYFADGATLARRG  403
+            +TA FQQ+VAESILAGIKAYF++   LARRG
+Sbjct  385  RTAAFQQQVAESILAGIKAYFSEHGALARRG  415
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Tenebrionicola larvae]
+Sequence ID: WP_249032113.1 Length: 416
+Range 1: 27 to 416
+
+Score:644 bits(1662), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:311/390(80%), Positives:346/390(88%), Gaps:0/390(0%)
+
+Query  14   LYFQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGM  73
+            L F    QV+AVR+WPAS+YTRVT+ESNR+LKY+QFALSNPERVVVDIE V LNSVLKG+
+Sbjct  27   LGFAAAGQVIAVRLWPASAYTRVTLESNRELKYRQFALSNPERVVVDIEGVQLNSVLKGL  86
+
+Query  74   AAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANA  133
+               +R DDP+IKSARVGQFDPQTVR+VFEL+QNV P LFALAPVAGF++RLVMDLYP NA
+Sbjct  87   DKLVRTDDPYIKSARVGQFDPQTVRLVFELRQNVSPHLFALAPVAGFRDRLVMDLYPVNA  146
+
+Query  134  QDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKY  193
+             +++DPL+ALLE+YN G L++Q      GPQPGKAGRDRPIVIMLDPGHGGED GA+GKY
+Sbjct  147  SEVKDPLMALLEEYNSGRLDRQSAARNQGPQPGKAGRDRPIVIMLDPGHGGEDPGAIGKY  206
+
+Query  194  KTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHAD  253
+            KT EKDVVLQIARRL++LI+KE NMK YMTRNEDIFIPL VRVAKA+KQRADLFVSIHAD
+Sbjct  207  KTHEKDVVLQIARRLKALIDKEPNMKAYMTRNEDIFIPLSVRVAKARKQRADLFVSIHAD  266
+
+Query  254  AFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSL  313
+            AFT R   GSSVFALSTKGATSTAAKYLAQTQNA+DLIGGV KSGDRY+DHTMFDMVQSL
+Sbjct  267  AFTDRSAHGSSVFALSTKGATSTAAKYLAQTQNAADLIGGVGKSGDRYLDHTMFDMVQSL  326
+
+Query  314  TIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLK  373
+            TI DSL FGKAVLN +G IN+LHK +VEQAGFAVLKAPDIPSILVETAFISNV EERKL+
+Sbjct  327  TINDSLAFGKAVLNFMGNINRLHKPRVEQAGFAVLKAPDIPSILVETAFISNVNEERKLR  386
+
+Query  374  TATFQQEVAESILAGIKAYFADGATLARRG  403
+            TA FQQ+VA+SIL GI+AYF+  A LARRG
+Sbjct  387  TAAFQQKVAQSILKGIRAYFSSEAMLARRG  416
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Jejubacter calystegiae]
+Sequence ID: WP_138093198.1 Length: 414
+Range 1: 27 to 414
+
+Score:636 bits(1640), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:309/390(79%), Positives:341/390(87%), Gaps:2/390(0%)
+
+Query  14   LYFQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGM  73
+            L F    QV+AVRVWPAS+YTRVT+ESNR+LKY+QFALSNPERVVVDIE V+LNSVLK +
+Sbjct  27   LGFAATSQVIAVRVWPASTYTRVTIESNRELKYRQFALSNPERVVVDIEGVHLNSVLKKL  86
+
+Query  74   AAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANA  133
+               +R DDP+IKSARVGQFDPQTVR+VFELKQ+V P +FALAPVA FKERLVMDLYPA  
+Sbjct  87   GNLVRPDDPYIKSARVGQFDPQTVRLVFELKQDVAPHMFALAPVAEFKERLVMDLYPAKG  146
+
+Query  134  QDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKY  193
+               QDPLLALLEDYNKGDL+K  P    GP PG+AG DRPIVIM+DPGHGGED GA GK+
+Sbjct  147  DTEQDPLLALLEDYNKGDLDKAAP--DQGPSPGRAGHDRPIVIMIDPGHGGEDPGATGKH  204
+
+Query  194  KTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHAD  253
+            +T EKDVVLQI RRL  LI KE NMK YMTRNED+FIPL+VRVAKA+KQRADLFVSIHAD
+Sbjct  205  RTHEKDVVLQIGRRLNKLIAKEPNMKAYMTRNEDVFIPLRVRVAKARKQRADLFVSIHAD  264
+
+Query  254  AFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSL  313
+            AF  R   GSSV+ALSTKGATSTAAKYLAQTQNA+DL+GGVSKSGDRY+DHTMFDMVQSL
+Sbjct  265  AFNDRSAHGSSVYALSTKGATSTAAKYLAQTQNAADLVGGVSKSGDRYLDHTMFDMVQSL  324
+
+Query  314  TIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLK  373
+            TI DSLKFGK VL +LG +N+LHK +VEQAGFAVLKAPDIPSILVETAFISNV+EERKL+
+Sbjct  325  TITDSLKFGKEVLTRLGNVNRLHKGRVEQAGFAVLKAPDIPSILVETAFISNVQEERKLR  384
+
+Query  374  TATFQQEVAESILAGIKAYFADGATLARRG  403
+            TA FQQ+VAESILAGIKAYFAD A +ARRG
+Sbjct  385  TAAFQQKVAESILAGIKAYFADDARMARRG  414
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase [Salmonella enterica subsp. enterica serovar Choleraesuis]
+Sequence ID: BDH44756.1 Length: 396
+Range 1: 11 to 396
+
+Score:624 bits(1608), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:300/388(77%), Positives:343/388(88%), Gaps:2/388(0%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F    +V+AVRVWPAS+YTR+T+ESN  LKY+QFALSNP RVVVD+E+++L++VLKG+  
+Sbjct  11   FAATSRVIAVRVWPASAYTRITLESNHVLKYRQFALSNPARVVVDLENIHLDAVLKGIGQ  70
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQD  135
+            QIR DDP+I SARVGQFDP TVR+VFELKQNV PQ+FALAPVA FKERLV+DLY +N   
+Sbjct  71   QIRPDDPYIASARVGQFDPDTVRLVFELKQNVSPQIFALAPVAEFKERLVVDLYSSNTSA  130
+
+Query  136  MQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKT  195
+             QDP+LALLEDYN G L+K  P    GPQPGKAGRDRPIV+M+DPGHGGED GA+GKYKT
+Sbjct  131  EQDPILALLEDYNNGQLDK--PQKDEGPQPGKAGRDRPIVVMIDPGHGGEDPGAIGKYKT  188
+
+Query  196  REKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAF  255
+            REKDVVL+IARRL++LI+K+  MK YMTRNED+FIPL+VRVAKAQKQRADLFVSIHADAF
+Sbjct  189  REKDVVLKIARRLKALIDKDPKMKAYMTRNEDVFIPLKVRVAKAQKQRADLFVSIHADAF  248
+
+Query  256  TSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTI  315
+            ++RQ  GSSVFALSTKGATSTAAK LA +QNASDLIGGVS+SGDRY+DHTMFDMVQSLTI
+Sbjct  249  SNRQAHGSSVFALSTKGATSTAAKLLADSQNASDLIGGVSRSGDRYLDHTMFDMVQSLTI  308
+
+Query  316  ADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTA  375
+             DSLKFG AVL K+G +N+LHKN+VEQAGFAVLKAP+IPSILVETAFISNVEEERKL+T 
+Sbjct  309  NDSLKFGHAVLGKMGNVNRLHKNRVEQAGFAVLKAPEIPSILVETAFISNVEEERKLRTV  368
+
+Query  376  TFQQEVAESILAGIKAYFADGATLARRG  403
+             FQQ+VAESI  GI+ YFAD ATLARRG
+Sbjct  369  AFQQKVAESIYHGIQRYFADSATLARRG  396
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase, partial [Cronobacter sakazakii]
+Sequence ID: WP_084999661.1 Length: 347
+Range 1: 1 to 347
+
+Score:616 bits(1588), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:296/347(85%), Positives:325/347(93%), Gaps:0/347(0%)
+
+Query  57   VVVDIEDVNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAP  116
+            +VVD+E VNLN+VLKG+ +QIR DDPFIKSARVGQFDP+TVRMVFELK+NV P LFALAP
+Sbjct  1    IVVDLEGVNLNAVLKGVGSQIRVDDPFIKSARVGQFDPKTVRMVFELKKNVTPHLFALAP  60
+
+Query  117  VAGFKERLVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVI  176
+            VA F+ERLV+DLYPAN  + QDPLLALLEDYNKG+L+KQVPPA SGPQPGKAGRDRPIVI
+Sbjct  61   VAEFRERLVIDLYPANGTNEQDPLLALLEDYNKGELDKQVPPATSGPQPGKAGRDRPIVI  120
+
+Query  177  MLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRV  236
+            M+DPGHGGED GA+GK KTREKDVVLQIARRLR+LIE+E NM+ +MTRNEDIFIPL+VRV
+Sbjct  121  MIDPGHGGEDPGAIGKNKTREKDVVLQIARRLRALIEREANMRAFMTRNEDIFIPLKVRV  180
+
+Query  237  AKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSK  296
+            AKAQKQRADLFVSIHADAFTSR   GSSVFALSTKGATSTAAKYLAQTQNA+DL+GGVSK
+Sbjct  181  AKAQKQRADLFVSIHADAFTSRAARGSSVFALSTKGATSTAAKYLAQTQNAADLVGGVSK  240
+
+Query  297  SGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSI  356
+            SGD Y+DHTMFDMVQSLTI+DSLKFGK VL +LG++NKLHKN+V+QAGFAVLKAPDIPSI
+Sbjct  241  SGDVYLDHTMFDMVQSLTISDSLKFGKEVLGRLGRVNKLHKNKVDQAGFAVLKAPDIPSI  300
+
+Query  357  LVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFADGATLARRG  403
+            LVETAFISN EEERKL+TATFQQEVAESILAGIKAYFADG TLARRG
+Sbjct  301  LVETAFISNEEEERKLRTATFQQEVAESILAGIKAYFADGGTLARRG  347
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC, partial [Escherichia coli]
+Sequence ID: WP_143364964.1 Length: 313
+Range 1: 1 to 313
+
+Score:613 bits(1581), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:301/313(96%), Positives:304/313(97%), Gaps:0/313(0%)
+
+Query  91   QFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPLLALLEDYNKG  150
+            QFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPLLALLEDYNKG
+Sbjct  1    QFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPLLALLEDYNKG  60
+
+Query  151  DLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRS  210
+            DLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGED GAVGKYKTREKDVVLQIARRLRS
+Sbjct  61   DLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDPGAVGKYKTREKDVVLQIARRLRS  120
+
+Query  211  LIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALST  270
+            LIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALST
+Sbjct  121  LIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALST  180
+
+Query  271  KGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLG  330
+            KGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK GKAVLNKLG
+Sbjct  181  KGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKLGKAVLNKLG  240
+
+Query  331  KINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQEVAESILAGIK  390
+            KINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTA FQQ+VAESIL GIK
+Sbjct  241  KINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTARFQQQVAESILEGIK  300
+
+Query  391  AYFADGATLARRG  403
+             YF+D   LAR+ 
+Sbjct  301  EYFSDIEALARKA  313
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Serratia sp. 1D1416]
+Sequence ID: WP_129543218.1 Length: 417
+Range 1: 30 to 417
+
+Score:609 bits(1571), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:293/390(75%), Positives:342/390(87%), Gaps:5/390(1%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F     V+AVRVWP+S+YTRVT+ESN +LKYKQFAL+NP+RVVVDIE V+LNSVLKG+  
+Sbjct  30   FAASSHVIAVRVWPSSTYTRVTLESNVELKYKQFALTNPDRVVVDIEGVHLNSVLKGIVG  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYP---AN  132
+            Q+RADDP++K ARVGQFD  TVR+V ELKQ+V P +F+LAPV  ++ RLVMDLYP     
+Sbjct  90   QVRADDPYLKQARVGQFDQNTVRLVLELKQSVSPHMFSLAPVPEYRNRLVMDLYPTKGGG  149
+
+Query  133  AQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGK  192
+              +  DPLLALLEDYNKGDLE+ +P     PQ GKAGRDRPIVIMLDPGHGGED GA+GK
+Sbjct  150  GGEEYDPLLALLEDYNKGDLERTLP--AEAPQAGKAGRDRPIVIMLDPGHGGEDPGAIGK  207
+
+Query  193  YKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHA  252
+            +KTREKD+VLQIAR+L +LI++E NMKV+MTRN+D+FIPL+VRVAKA+KQRADLFVSIHA
+Sbjct  208  FKTREKDIVLQIARKLSALIKREPNMKVFMTRNDDVFIPLKVRVAKARKQRADLFVSIHA  267
+
+Query  253  DAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQS  312
+            DAFTSR   GSSVFALSTKGATS+AAK+LAQTQNASD IGGVSKSGDRY+DHTMFD++Q+
+Sbjct  268  DAFTSRAARGSSVFALSTKGATSSAAKFLAQTQNASDQIGGVSKSGDRYLDHTMFDLIQT  327
+
+Query  313  LTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKL  372
+             TI DSLKFGK VLN++GKIN+LHKN+V+QAGFAVLKAPDIPSILVETAFISN+EEERKL
+Sbjct  328  ATINDSLKFGKEVLNRMGKINRLHKNRVDQAGFAVLKAPDIPSILVETAFISNIEEERKL  387
+
+Query  373  KTATFQQEVAESILAGIKAYFADGATLARR  402
+            +T+ FQQ+VAESILAGIKAYFA+G  LA R
+Sbjct  388  RTSHFQQQVAESILAGIKAYFANGGALAGR  417
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Edaphovirga cremea]
+Sequence ID: WP_114194522.1 Length: 415
+Range 1: 34 to 415
+
+Score:607 bits(1565), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:290/384(76%), Positives:336/384(87%), Gaps:4/384(1%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            QVVAVRVWP+S+YTR+T+ES+  L+Y+QFAL+NP R+V+DIE V+LNS+LKG+  Q+++D
+Sbjct  34   QVVAVRVWPSSTYTRITLESSTPLQYRQFALTNPNRMVIDIEGVHLNSILKGLGTQVKSD  93
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQ--D  138
+            DP++K ARVGQFD  TVR+VFELKQN  P LF L PVAGFK RLV+DLYP      Q  D
+Sbjct  94   DPYLKQARVGQFDKNTVRIVFELKQNASPHLFTLGPVAGFKNRLVVDLYPEEGTSSQEDD  153
+
+Query  139  PLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREK  198
+            PLLALLEDYNKGDLE+ +P   +  + GKAGRDRPIVIMLDPGHGGED GA GK+KTREK
+Sbjct  154  PLLALLEDYNKGDLERTLPAETA--KAGKAGRDRPIVIMLDPGHGGEDPGATGKFKTREK  211
+
+Query  199  DVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSR  258
+            D+VLQIARRLR LIE+EGNMKVYMTRNED+FIPL+VRVAKA+KQRADLF+SIHADAFT+R
+Sbjct  212  DIVLQIARRLRKLIEREGNMKVYMTRNEDVFIPLRVRVAKARKQRADLFISIHADAFTNR  271
+
+Query  259  QPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADS  318
+               GSSVFALSTKGATSTAA++LAQTQN +D IGGVSKSGDRY+DHT+FD+VQ+ TI DS
+Sbjct  272  AARGSSVFALSTKGATSTAARFLAQTQNEADDIGGVSKSGDRYLDHTIFDLVQTATINDS  331
+
+Query  319  LKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQ  378
+            LKFGK VLN++G IN LHKN V+QAGFAVLKAPDIPSILVETAFISNVEEERKL+T+ FQ
+Sbjct  332  LKFGKEVLNRMGSINHLHKNIVDQAGFAVLKAPDIPSILVETAFISNVEEERKLRTSRFQ  391
+
+Query  379  QEVAESILAGIKAYFADGATLARR  402
+            Q+VAESILAGIKAYF  G TLA+R
+Sbjct  392  QQVAESILAGIKAYFNKGGTLAKR  415
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase [Klebsiella oxytoca]
+Sequence ID: STR52400.1 Length: 409
+Range 1: 67 to 384
+
+Score:606 bits(1563), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:289/318(91%), Positives:307/318(96%), Gaps:0/318(0%)
+
+Query  28   WPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRADDPFIKSA  87
+            WP+S+YTRVTVESN  LKY+QFALSNPERVVVD+E VNLNSVLKGM  QIR+DDP+I+SA
+Sbjct  67   WPSSTYTRVTVESNHILKYRQFALSNPERVVVDLEGVNLNSVLKGMGNQIRSDDPYIQSA  126
+
+Query  88   RVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPLLALLEDY  147
+            RVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYP+NA D+QDPLLALLEDY
+Sbjct  127  RVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPSNATDVQDPLLALLEDY  186
+
+Query  148  NKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVVLQIARR  207
+            NKGDL++QVPPA+SGP+PGKAGRDRPIVIMLDPGHGGEDSGAVGKY+TREKDVVLQIARR
+Sbjct  187  NKGDLQRQVPPAESGPKPGKAGRDRPIVIMLDPGHGGEDSGAVGKYRTREKDVVLQIARR  246
+
+Query  208  LRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFA  267
+            LR+LIEKEGNMKVYMTRNED+FIPL+VRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFA
+Sbjct  247  LRALIEKEGNMKVYMTRNEDVFIPLKVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFA  306
+
+Query  268  LSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLN  327
+            LSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVL 
+Sbjct  307  LSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLE  366
+
+Query  328  KLGKINKLHKNQVEQAGF  345
+            K+G IN LHKNQVEQ G 
+Sbjct  367  KMGNINNLHKNQVEQGGL  384
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [[Pantoea] beijingensis]
+Sequence ID: WP_128178253.1 Length: 414
+Range 1: 35 to 414
+
+Score:605 bits(1560), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:293/382(77%), Positives:334/382(87%), Gaps:2/382(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+             VVAVR+WP+S+Y+R+T+ESN  LKYKQFALSNP+RVV+D+E V LN VLKG+   +RAD
+Sbjct  35   HVVAVRIWPSSTYSRLTLESNIPLKYKQFALSNPDRVVIDVEGVQLNQVLKGVGNLVRAD  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DP+IK+ARVGQFD  TVR+V ELKQNV P++F L PVAG K+RLV+DLYPA  +   DPL
+Sbjct  95   DPYIKNARVGQFDANTVRLVLELKQNVTPRIFTLNPVAGIKDRLVLDLYPAKGKSEDDPL  154
+
+Query  141  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  200
+            LALLEDYNKGDLE   P     P PGKAGRDRPIVIMLDPGHGGEDSGAVGK KTREKD+
+Sbjct  155  LALLEDYNKGDLESDQP--AEAPLPGKAGRDRPIVIMLDPGHGGEDSGAVGKNKTREKDI  212
+
+Query  201  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  260
+            VL+IARRL+S+I+K+ NM+ YMTRNED+FIPL+VRVAKA+KQRADLFVSIHADAFTSR  
+Sbjct  213  VLKIARRLKSMIDKQPNMRAYMTRNEDVFIPLKVRVAKARKQRADLFVSIHADAFTSRAA  272
+
+Query  261  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  320
+             GSSVFALS KGATSTAA++LAQTQN SDLIGGVS+SGDRY+DHTMFDMVQSLTI DSLK
+Sbjct  273  RGSSVFALSIKGATSTAARFLAQTQNESDLIGGVSRSGDRYLDHTMFDMVQSLTINDSLK  332
+
+Query  321  FGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQE  380
+            FGK VL++LG+IN LHK  V+QAGFAVLKAPDIPSILVETAFISN+EEERKLKT  FQQ+
+Sbjct  333  FGKEVLSRLGRINHLHKRSVDQAGFAVLKAPDIPSILVETAFISNLEEERKLKTPRFQQQ  392
+
+Query  381  VAESILAGIKAYFADGATLARR  402
+            VAESILAGIKAYFA+GA +  R
+Sbjct  393  VAESILAGIKAYFANGAPVVGR  414
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase, partial [Salmonella enterica]
+Sequence ID: WP_080096127.1 Length: 308
+Range 1: 1 to 307
+
+Score:605 bits(1559), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:294/307(96%), Positives:303/307(98%), Gaps:0/307(0%)
+
+Query  96   TVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPLLALLEDYNKGDLEKQ  155
+            TVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYP NAQDMQDPLLALLEDYNKGDL+KQ
+Sbjct  1    TVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPVNAQDMQDPLLALLEDYNKGDLDKQ  60
+
+Query  156  VPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKE  215
+            VPP+QSGPQPGKAGRDRPIVIMLDPGHGGED GA+GKYKTREKDVVLQIARRLR+LIEKE
+Sbjct  61   VPPSQSGPQPGKAGRDRPIVIMLDPGHGGEDPGAIGKYKTREKDVVLQIARRLRALIEKE  120
+
+Query  216  GNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATS  275
+            GNMKVYMTRNEDIFIPL+VRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATS
+Sbjct  121  GNMKVYMTRNEDIFIPLKVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATS  180
+
+Query  276  TAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKL  335
+            TAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVL +LGKIN L
+Sbjct  181  TAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLKQLGKINDL  240
+
+Query  336  HKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFAD  395
+            HKN+VEQAGFAVLKAPDIPSILVETAFISN+EEERKLKTATFQQ+VAESILAGIKAYFAD
+Sbjct  241  HKNKVEQAGFAVLKAPDIPSILVETAFISNIEEERKLKTATFQQQVAESILAGIKAYFAD  300
+
+Query  396  GATLARR  402
+            GATLARR
+Sbjct  301  GATLARR  307
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia sp. J780]
+Sequence ID: WP_156286961.1 Length: 415
+Range 1: 34 to 414
+
+Score:604 bits(1557), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:291/383(76%), Positives:334/383(87%), Gaps:3/383(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+             VVA+R+WP+S+Y+R+T+ES+  LKYKQFALSNPERVVVDIE+  LNS L  +   +R D
+Sbjct  34   HVVAIRLWPSSTYSRLTIESSTPLKYKQFALSNPERVVVDIENTRLNSTLNSVGNLVRRD  93
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQD-P  139
+            DP+IK+ARVGQFDP TVR+V ELKQNV P++F LAPVAG K RLV+DLYPA  Q   D P
+Sbjct  94   DPYIKNARVGQFDPNTVRLVLELKQNVAPRIFTLAPVAGIKNRLVLDLYPATTQQHNDDP  153
+
+Query  140  LLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKD  199
+            LLALLEDYNKGDLE+  P A   P PGKAGRDRPIVIM+DPGHGGEDSGAVGK+KTREKD
+Sbjct  154  LLALLEDYNKGDLERSQPAA--APLPGKAGRDRPIVIMIDPGHGGEDSGAVGKHKTREKD  211
+
+Query  200  VVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQ  259
+            VVL+I RRL++LI+K+ NM+ YMTRNED+FIPL+VRVAKA+KQRADLF+SIHADAFTSR 
+Sbjct  212  VVLKIGRRLKALIDKQPNMRAYMTRNEDVFIPLKVRVAKARKQRADLFISIHADAFTSRA  271
+
+Query  260  PSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSL  319
+              GSSVFALSTKGATSTAA++LA++QN SDLIGGVSKSGDRY+DHTMFDMVQSLTI DSL
+Sbjct  272  ARGSSVFALSTKGATSTAARFLAKSQNESDLIGGVSKSGDRYLDHTMFDMVQSLTINDSL  331
+
+Query  320  KFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQ  379
+            KFGK VL+++GKIN LHK  V+QAGFAVLKAPDIPSILVETAFISN+EEERKL+TA FQ 
+Sbjct  332  KFGKEVLSRMGKINHLHKRTVDQAGFAVLKAPDIPSILVETAFISNIEEERKLRTARFQN  391
+
+Query  380  EVAESILAGIKAYFADGATLARR  402
+            +VA SILAGIKAYFA GA +A R
+Sbjct  392  QVAASILAGIKAYFASGAPIAPR  414
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Serratia sp. FGI94]
+Sequence ID: WP_015673584.1 Length: 417
+Range 1: 30 to 417
+
+Score:604 bits(1557), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:291/390(75%), Positives:338/390(86%), Gaps:5/390(1%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F     V+AVRVWP+S+YTRVT+ESN  LKYKQFAL+NP+R+VVDIE V LNSVLKG+A+
+Sbjct  30   FAASSHVIAVRVWPSSTYTRVTLESNVALKYKQFALTNPDRIVVDIEGVQLNSVLKGIAS  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYP---AN  132
+            Q++  DP +K ARVGQFD  TVR+V ELKQ+V P +F LAPVA ++ RLV+D+YP   A 
+Sbjct  90   QVQNSDPNLKQARVGQFDKDTVRLVLELKQSVSPHMFTLAPVAEYRNRLVLDMYPSKPAP  149
+
+Query  133  AQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGK  192
+              D  DPLLALLEDYNKGDLE+ +P     PQ GKAGRDRPIVIMLDPGHGGED GA+GK
+Sbjct  150  GDDEYDPLLALLEDYNKGDLERTLPAPAQAPQTGKAGRDRPIVIMLDPGHGGEDPGAIGK  209
+
+Query  193  YKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHA  252
+            YKTREKD+VLQIARRLR++I++E NMKV+MTRNED+FIPL+VRVAKA+KQRADLFVSIHA
+Sbjct  210  YKTREKDIVLQIARRLRTMIKREPNMKVFMTRNEDVFIPLKVRVAKARKQRADLFVSIHA  269
+
+Query  253  DAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQS  312
+            DAFT+R   GSSVFALSTKGATS AA+YLAQTQN SD IGGVSKSGDRY+DHTMFD+VQ+
+Sbjct  270  DAFTNRAARGSSVFALSTKGATSAAARYLAQTQNESDQIGGVSKSGDRYLDHTMFDLVQT  329
+
+Query  313  LTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKL  372
+             TI DSLKFGK VLN++G IN+LHKN+V+QAGFAVLKAPDIPSILVETAFISNVEEERKL
+Sbjct  330  ATINDSLKFGKEVLNRMGGINRLHKNRVDQAGFAVLKAPDIPSILVETAFISNVEEERKL  389
+
+Query  373  KTATFQQEVAESILAGIKAYFADGATLARR  402
+            +T+ FQQ++AESILAGIKAYF++G   ARR
+Sbjct  390  RTSRFQQQIAESILAGIKAYFSNGG--ARR  417
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia sp. Leaf53]
+Sequence ID: WP_056232040.1 Length: 413
+Range 1: 34 to 410
+
+Score:602 bits(1552), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:288/379(76%), Positives:334/379(88%), Gaps:2/379(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+             VVA+R+WP+S+Y+R+T+ES R LKY+QFALS+P+RVVVDIED+ LN  LKG+   +R D
+Sbjct  34   HVVAIRLWPSSTYSRLTIESGRPLKYRQFALSHPDRVVVDIEDIQLNHTLKGIGKLVRQD  93
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DP+IK+ARVGQFD +TVR+V ELKQNV P++F LAPVAG   RLV+DLYPA  +   DPL
+Sbjct  94   DPYIKNARVGQFDARTVRLVLELKQNVSPKVFTLAPVAGINNRLVLDLYPAQNKQSDDPL  153
+
+Query  141  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  200
+            LALLE+YNKGDLE+  P A   P PGKAGRDRPIVIM+DPGHGGEDSGAVGK+KTREKDV
+Sbjct  154  LALLENYNKGDLERDQPAA--APLPGKAGRDRPIVIMIDPGHGGEDSGAVGKHKTREKDV  211
+
+Query  201  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  260
+            VL+I RRL++LI+K+ NM+ YMTRNED+FIPL+VRVAKA+KQRADLF+SIHADAFTSR  
+Sbjct  212  VLKIGRRLKALIDKQPNMRAYMTRNEDVFIPLKVRVAKARKQRADLFISIHADAFTSRAA  271
+
+Query  261  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  320
+             GSSVFALSTKGATSTAA++LAQTQN SDLIGGVS SGDRY+D TMFDMVQSLTI DSLK
+Sbjct  272  RGSSVFALSTKGATSTAARFLAQTQNESDLIGGVSMSGDRYLDSTMFDMVQSLTINDSLK  331
+
+Query  321  FGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQE  380
+            FGK VL+++G IN LHK  V+QAGFAVLKAPDIPSILVETAFISNVEEERKL+TA FQQ+
+Sbjct  332  FGKEVLSRMGHINHLHKRSVDQAGFAVLKAPDIPSILVETAFISNVEEERKLRTARFQQQ  391
+
+Query  381  VAESILAGIKAYFADGATL  399
+            VAESILAGIKAYFA+GAT+
+Sbjct  392  VAESILAGIKAYFANGATI  410
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Hafnia alvei]
+Sequence ID: WP_115348836.1 Length: 416
+Range 1: 30 to 416
+
+Score:602 bits(1551), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:289/389(74%), Positives:336/389(86%), Gaps:4/389(1%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F    QV+AVRVWPAS+YTRVT+ES   LKYKQFAL+NP R+VVDIE V+LNSVLKG++ 
+Sbjct  30   FAASSQVIAVRVWPASTYTRVTLESKVPLKYKQFALTNPNRIVVDIEGVHLNSVLKGISG  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQD  135
+            Q+++ DP++K+ARVGQFD  TVR+V ELKQ + P+LF LAP A FK RLV+DLYPA    
+Sbjct  90   QVQSGDPYLKTARVGQFDKNTVRLVLELKQEISPKLFTLAPFAEFKNRLVVDLYPAQGTS  149
+
+Query  136  M--QDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKY  193
+                DPLLALLEDYNKGDL K +PP   GPQ GKAGRDRPIVIMLDPGHGGED GA+GK 
+Sbjct  150  AAENDPLLALLEDYNKGDLGKSLPP--EGPQKGKAGRDRPIVIMLDPGHGGEDPGAIGKN  207
+
+Query  194  KTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHAD  253
+            KTREKD+VLQIARRL +LI+K+ NM+VYMTRNED+FIPL+VRVAKA+KQRADLF+SIHAD
+Sbjct  208  KTREKDIVLQIARRLSALIKKQPNMRVYMTRNEDVFIPLKVRVAKARKQRADLFISIHAD  267
+
+Query  254  AFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSL  313
+            AFTSR   GSSVFALSTKGATS AA++LAQTQN SD IGGVS+SGD+Y+DHT+FD++Q+ 
+Sbjct  268  AFTSRSVRGSSVFALSTKGATSAAARFLAQTQNESDEIGGVSRSGDQYLDHTIFDLMQTA  327
+
+Query  314  TIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLK  373
+            T+ DSLKFGK VL  +G++NKLHKN VEQAGFAVLKAPDIPSILVETAFISNVEEERKL+
+Sbjct  328  TVNDSLKFGKEVLKNMGRVNKLHKNSVEQAGFAVLKAPDIPSILVETAFISNVEEERKLR  387
+
+Query  374  TATFQQEVAESILAGIKAYFADGATLARR  402
+            T+ FQQ+VA+SILAGIKAYFA+G  LARR
+Sbjct  388  TSAFQQQVAQSILAGIKAYFANGGELARR  416
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia sp. JUb26]
+Sequence ID: WP_123330982.1 Length: 414
+Range 1: 23 to 412
+
+Score:602 bits(1551), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:289/394(73%), Positives:338/394(85%), Gaps:4/394(1%)
+
+Query  8    SSGRENLYFQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLN  67
+            S  R  +   GH  VVA+R+WP+S+Y+R+T+ESN  LKYKQFALSNP+RVV+DIE++ LN
+Sbjct  23   SVSRAGMAAGGH--VVAIRIWPSSTYSRLTIESNIPLKYKQFALSNPDRVVIDIENIQLN  80
+
+Query  68   SVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMD  127
+              L G+   +R DDP+IK+ARVGQFD  TVR+V ELKQNV P+ F LAPVAG K RLV+D
+Sbjct  81   RTLNGVGNLVRQDDPYIKNARVGQFDASTVRLVLELKQNVSPKTFTLAPVAGIKNRLVLD  140
+
+Query  128  LYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDS  187
+            LYP       DPLLALLEDYN+G+L++  P A   P PGKAG+DRPIVIM+DPGHGGEDS
+Sbjct  141  LYPVKQPHDDDPLLALLEDYNQGELDRSQPAA--APLPGKAGKDRPIVIMIDPGHGGEDS  198
+
+Query  188  GAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLF  247
+            GAVGK+KTREKDVVL+I RRL++LI+K+ NM+ YMTRNED+FIPL+VRVAKA+KQRADLF
+Sbjct  199  GAVGKHKTREKDVVLKIGRRLKALIDKQSNMRAYMTRNEDVFIPLKVRVAKARKQRADLF  258
+
+Query  248  VSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMF  307
+            VSIHADAFTSR   GSSVFALSTKGATSTAA++LAQTQN SDLIGGVS SGDRY+DHTMF
+Sbjct  259  VSIHADAFTSRAARGSSVFALSTKGATSTAARFLAQTQNESDLIGGVSMSGDRYLDHTMF  318
+
+Query  308  DMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVE  367
+            DMVQSLTI DSLKFGK VL+++GK+N LHK  V+QAGFAVLKAPDIPSILVETAFISN+E
+Sbjct  319  DMVQSLTINDSLKFGKEVLSRMGKVNHLHKRSVDQAGFAVLKAPDIPSILVETAFISNIE  378
+
+Query  368  EERKLKTATFQQEVAESILAGIKAYFADGATLAR  401
+            EERKL+TA FQQ+VAESI AGIKAYFA+GA+L+R
+Sbjct  379  EERKLRTAHFQQQVAESIFAGIKAYFANGASLSR  412
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase [Enterobacterales bacterium CwR94]
+Sequence ID: PKH25045.1 Length: 414
+Range 1: 28 to 414
+
+Score:601 bits(1549), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:286/389(74%), Positives:338/389(86%), Gaps:2/389(0%)
+
+Query  14   LYFQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGM  73
+            L F     VVAVR+WP+S+Y+R+TVES+  L+YKQFALS+PERVV+DI++V LN+ LK +
+Sbjct  28   LGFAASSHVVAVRLWPSSTYSRLTVESSTPLEYKQFALSSPERVVIDIKNVRLNAALKNI  87
+
+Query  74   AAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANA  133
+            ++ +R+DDP+IKSARVGQFDP T+R+V ELKQNV P+ F L PVA  K+RLV+DL+PA+A
+Sbjct  88   SSLVRSDDPYIKSARVGQFDPTTIRLVLELKQNVTPRTFTLGPVANIKDRLVLDLFPASA  147
+
+Query  134  QDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKY  193
+                DPLLALLEDYN G L+K+ P     P PGKAGRDRP+VIMLDPGHGGED GA+GK 
+Sbjct  148  PAESDPLLALLEDYNSGALDKEQPAV--APLPGKAGRDRPLVIMLDPGHGGEDPGAIGKN  205
+
+Query  194  KTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHAD  253
+            KTREKDVVL+IARRL++LI+K+ NM+ YMTRNED+FIPL+VRVAKA+KQRADLF+SIHAD
+Sbjct  206  KTREKDVVLKIARRLKALIDKQPNMRAYMTRNEDVFIPLKVRVAKARKQRADLFISIHAD  265
+
+Query  254  AFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSL  313
+            AFT+R   GSSVFALSTKGATSTAA++LAQTQN SDLIGGVSKSGDRY+DHTMFDMVQSL
+Sbjct  266  AFTNRAARGSSVFALSTKGATSTAARFLAQTQNESDLIGGVSKSGDRYLDHTMFDMVQSL  325
+
+Query  314  TIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLK  373
+            TI DSLKFGK VL ++GK+N LHK  V+QAGFAVLKAPDIPSILVETAFISN+EEERKLK
+Sbjct  326  TINDSLKFGKEVLTRMGKVNHLHKRSVDQAGFAVLKAPDIPSILVETAFISNLEEERKLK  385
+
+Query  374  TATFQQEVAESILAGIKAYFADGATLARR  402
+            T+ FQQ+VAESILAGIKAYF  GA +AR+
+Sbjct  386  TSRFQQQVAESILAGIKAYFEKGAAVARK  414
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Enterobacillus tribolii]
+Sequence ID: WP_115458620.1 Length: 418
+Range 1: 30 to 418
+
+Score:600 bits(1546), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:294/392(75%), Positives:345/392(88%), Gaps:8/392(2%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F    Q++AVRVWP+S+YTRVT+ES   LKYKQFAL+NP+R+VVDIEDV+LNSVLKG++ 
+Sbjct  30   FAATAQIIAVRVWPSSTYTRVTLESKTPLKYKQFALTNPDRIVVDIEDVHLNSVLKGVSD  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPA----  131
+            QI++ DP +K+ARVGQFD  TVR+V ELKQ++ P+LF L PVA FK RLV+DLYPA    
+Sbjct  90   QIQSGDPNLKAARVGQFDKDTVRLVLELKQSINPKLFTLKPVAEFKNRLVVDLYPAKGAA  149
+
+Query  132  NAQDMQDPLLALLEDYNKG-DLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAV  190
+            NA+D  DPLLALLE+YNKG DLEK++P  Q+ P+ GKAGRDRPIVIMLDPGHGGED GAV
+Sbjct  150  NAED--DPLLALLEEYNKGEDLEKKLPSPQT-PKAGKAGRDRPIVIMLDPGHGGEDPGAV  206
+
+Query  191  GKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSI  250
+            GK KTREKD+VLQIARRL +LI+KE NM+VYMTRNED+FIPL+VRVAKA++QRADLF+SI
+Sbjct  207  GKNKTREKDIVLQIARRLSALIKKESNMRVYMTRNEDVFIPLKVRVAKARQQRADLFISI  266
+
+Query  251  HADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMV  310
+            HADAFT+R   GSSVFALSTKGATSTAAK+LAQTQN SD IGGVS+SGDRY+DHTMFD+V
+Sbjct  267  HADAFTNRAARGSSVFALSTKGATSTAAKFLAQTQNESDNIGGVSRSGDRYLDHTMFDLV  326
+
+Query  311  QSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEER  370
+            Q+ TI DSLKFGK VL ++G IN LHKN+V+QAGFAVLKAPDIPSILVETAFISN+EEER
+Sbjct  327  QTATINDSLKFGKEVLRRMGGINHLHKNKVDQAGFAVLKAPDIPSILVETAFISNLEEER  386
+
+Query  371  KLKTATFQQEVAESILAGIKAYFADGATLARR  402
+            KL+T+ +QQ+VAESILAGIKAYFA+G  LARR
+Sbjct  387  KLRTSRYQQQVAESILAGIKAYFANGGELARR  418
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia typographi]
+Sequence ID: WP_034899299.1 Length: 417
+Range 1: 34 to 414
+
+Score:599 bits(1545), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:293/383(77%), Positives:334/383(87%), Gaps:5/383(1%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+             VVA+R+WP+S+Y+R+T+ESN  LKYKQF LSNPERVV+DI +++LN VLKG+   +R D
+Sbjct  34   HVVAIRLWPSSTYSRLTLESNAPLKYKQFTLSNPERVVIDIANIHLNQVLKGVGNLVRND  93
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQ--DMQD  138
+            DP+IK+ARVGQFD  TVR+V ELKQNV P++F L PVAG K RLV+DLYPA     D QD
+Sbjct  94   DPYIKNARVGQFDADTVRLVLELKQNVAPRIFTLDPVAGIKNRLVLDLYPAKGSRYDHQD  153
+
+Query  139  -PLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTRE  197
+             PLLALLEDYN+GDLEK  PPA   P PGKAG+DRPIVIMLDPGHGGEDSGAVGK+KTRE
+Sbjct  154  DPLLALLEDYNQGDLEKTQPPA--APLPGKAGKDRPIVIMLDPGHGGEDSGAVGKHKTRE  211
+
+Query  198  KDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTS  257
+            KD+VL+IARRL+SLI+KE  M+ YMTRNED+FIPL+VRVAKA+KQRADLFVSIHADAFTS
+Sbjct  212  KDIVLKIARRLKSLIDKEPGMRAYMTRNEDVFIPLKVRVAKARKQRADLFVSIHADAFTS  271
+
+Query  258  RQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIAD  317
+            R   GSSVFALSTKGATSTAA+YLA+TQN SDLIGGVS SGDRY+DH MFDMVQSLTI D
+Sbjct  272  RAARGSSVFALSTKGATSTAARYLAKTQNESDLIGGVSLSGDRYLDHNMFDMVQSLTIND  331
+
+Query  318  SLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATF  377
+            SLKFGK VL+++GK+N LHK  V+QAGFAVLKAPDIPSILVETAFISN+EEERKLKT  F
+Sbjct  332  SLKFGKEVLSRMGKVNHLHKKTVDQAGFAVLKAPDIPSILVETAFISNLEEERKLKTTRF  391
+
+Query  378  QQEVAESILAGIKAYFADGATLA  400
+            Q +VA+SILAGIKAYFA GATLA
+Sbjct  392  QHQVADSILAGIKAYFASGATLA  414
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia billingiae]
+Sequence ID: WP_013203588.1 Length: 417
+Range 1: 34 to 416
+
+Score:599 bits(1544), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:287/385(75%), Positives:336/385(87%), Gaps:5/385(1%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+             VVA+R+WP+S+Y+R+T+ESNR LKYKQFALS+PERVV+DI ++ LN  LKG+   +R++
+Sbjct  34   HVVAIRIWPSSTYSRLTLESNRPLKYKQFALSHPERVVIDIANIQLNHALKGVGNLVRSN  93
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQ---  137
+            DP+IK+ARVGQFD  TVR+V ELKQNV P++F LAPVAG ++RLV+DLYPA         
+Sbjct  94   DPYIKNARVGQFDANTVRLVLELKQNVSPKIFTLAPVAGIRDRLVLDLYPAKGSSYDHAD  153
+
+Query  138  DPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTRE  197
+            DPLL+LLEDYNKGDLEK  P A +   PGKAGRDRPIVIMLDPGHGGEDSGA+GK+KTRE
+Sbjct  154  DPLLSLLEDYNKGDLEKSQPAAAA--LPGKAGRDRPIVIMLDPGHGGEDSGAIGKHKTRE  211
+
+Query  198  KDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTS  257
+            KD+VL+IARRL+ LI+K+ NM+ YMTRNED+FIPL+VRVAKA+KQRADLF+SIHADAFTS
+Sbjct  212  KDIVLKIARRLKVLIDKQPNMRAYMTRNEDVFIPLKVRVAKARKQRADLFISIHADAFTS  271
+
+Query  258  RQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIAD  317
+            R   GSSVFALSTKGATSTAA++LAQTQN SDLIGGVS SGDRY+DHTMFDMVQSLTI D
+Sbjct  272  RAARGSSVFALSTKGATSTAARFLAQTQNESDLIGGVSMSGDRYLDHTMFDMVQSLTIND  331
+
+Query  318  SLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATF  377
+            SLKFGK VL++LGK+N LHK  V+QAGFAVLKAPDIPSILVETAFISN+EEERKL+T  +
+Sbjct  332  SLKFGKEVLSRLGKVNHLHKRTVDQAGFAVLKAPDIPSILVETAFISNLEEERKLRTTRY  391
+
+Query  378  QQEVAESILAGIKAYFADGATLARR  402
+            Q +VAESILAGIKAYFA GA+LA R
+Sbjct  392  QHQVAESILAGIKAYFASGASLAPR  416
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Serratia sp. arafor3]
+Sequence ID: WP_248947138.1 Length: 416
+Range 1: 30 to 416
+
+Score:598 bits(1543), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:288/389(74%), Positives:339/389(87%), Gaps:4/389(1%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F     V+AVRVWP+S+YTRVT+ESN  LKYKQFAL+NP+R+VVD+E V LNSVLKG+A 
+Sbjct  30   FAAASHVIAVRVWPSSTYTRVTLESNVPLKYKQFALTNPDRIVVDVEGVQLNSVLKGIAG  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYP--ANA  133
+            Q+R +DP+++ ARVGQFD  TVR+V ELKQ+V P +F LAPVA ++ RLVMDLYP  A +
+Sbjct  90   QVRKEDPYLQQARVGQFDKNTVRLVLELKQSVSPNMFTLAPVAEYRNRLVMDLYPTKAGS  149
+
+Query  134  QDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKY  193
+             +  DPLLALLEDYNKGD+ + +P     PQ GKAGRDRPIVIMLDPGHGGED GA+GK 
+Sbjct  150  GEEYDPLLALLEDYNKGDVARSLP--AEAPQAGKAGRDRPIVIMLDPGHGGEDPGAIGKN  207
+
+Query  194  KTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHAD  253
+            KTREKD+VLQIARRL +LI++E NMKV+MTRNED+FIPL+VRVAKA+KQRADLFVSIHAD
+Sbjct  208  KTREKDIVLQIARRLSALIKREPNMKVFMTRNEDVFIPLKVRVAKARKQRADLFVSIHAD  267
+
+Query  254  AFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSL  313
+            AFT+    GSSVFALSTKGATS AAK+LAQTQNA+D IGGVSKSGDRY+DHTMFD++Q+ 
+Sbjct  268  AFTNGAARGSSVFALSTKGATSNAAKFLAQTQNAADDIGGVSKSGDRYLDHTMFDLLQTA  327
+
+Query  314  TIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLK  373
+            T+ DSLKFGK VLN++GKIN+LHKN+V+QAGFAVLKAPDIPSILVETAFISN+EEERKL+
+Sbjct  328  TVNDSLKFGKEVLNRMGKINRLHKNRVDQAGFAVLKAPDIPSILVETAFISNLEEERKLR  387
+
+Query  374  TATFQQEVAESILAGIKAYFADGATLARR  402
+            T+ FQQ+VAESILAGIKAYFA+G  LARR
+Sbjct  388  TSHFQQQVAESILAGIKAYFANGGALARR  416
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia iniecta]
+Sequence ID: WP_052899518.1 Length: 414
+Range 1: 35 to 414
+
+Score:597 bits(1540), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:285/382(75%), Positives:338/382(88%), Gaps:2/382(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+             VVAVR+WP+S+Y+R+T+ESN  LKYKQFALSNPERVV+DIE+++LN V+KG+   +  +
+Sbjct  35   HVVAVRIWPSSTYSRLTLESNVPLKYKQFALSNPERVVIDIENLHLNQVMKGVGKLVLNN  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DP+IK+ARVGQFD  TVR+V ELK++V P++F L PVAG K+RLV+DLYP+      DPL
+Sbjct  95   DPWIKNARVGQFDKNTVRLVLELKRSVAPRIFTLPPVAGIKDRLVLDLYPSQGNVADDPL  154
+
+Query  141  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  200
+            LALLEDYN+G+LE+  P A   P PGKAGRDRPIVIMLDPGHGGED GA+GK+KTREKDV
+Sbjct  155  LALLEDYNQGNLERTQPAA--APLPGKAGRDRPIVIMLDPGHGGEDPGAIGKHKTREKDV  212
+
+Query  201  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  260
+            VL+IARRL++LI+K+ NM+ YMTRNED+FIPL+VRVAKA+KQRADLFVSIHADAFT+R  
+Sbjct  213  VLKIARRLKALIDKQPNMRAYMTRNEDVFIPLKVRVAKARKQRADLFVSIHADAFTNRAA  272
+
+Query  261  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  320
+             GSSVFALSTKGATSTAA++LAQTQN SDLIGGVS+SGDRY+DHTMFDMVQSLTI DSLK
+Sbjct  273  RGSSVFALSTKGATSTAARFLAQTQNESDLIGGVSRSGDRYLDHTMFDMVQSLTINDSLK  332
+
+Query  321  FGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQE  380
+            FGK VL++LGK+N LHK  V+QAGFAVLKAPDIPSILVETAFISN+EEERKL+TA FQQ+
+Sbjct  333  FGKEVLSRLGKVNHLHKRTVDQAGFAVLKAPDIPSILVETAFISNLEEERKLRTAKFQQQ  392
+
+Query  381  VAESILAGIKAYFADGATLARR  402
+            VAESILAGIKAYFA+G  +AR+
+Sbjct  393  VAESILAGIKAYFANGGAVARK  414
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Pantoea sp. IMH]
+Sequence ID: WP_024965587.1 Length: 417
+Range 1: 29 to 416
+
+Score:596 bits(1536), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:288/392(73%), Positives:341/392(86%), Gaps:7/392(1%)
+
+Query  14   LYFQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGM  73
+            L    HM  VA+R+WP+S+Y+RVT+ES+  LKY+QFALSNPERVVVDI++++LN VLK +
+Sbjct  29   LAASSHM--VAIRIWPSSTYSRVTLESSTPLKYRQFALSNPERVVVDIDNIHLNPVLKSV  86
+
+Query  74   AAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANA  133
+               +R+DDP+I++ARVGQFD  TVR+V ELKQNV P++F L PVAG + RLV+DLYPA+A
+Sbjct  87   GNLVRSDDPYIRNARVGQFDKNTVRLVLELKQNVTPKVFTLDPVAGIRNRLVLDLYPASA  146
+
+Query  134  QDMQ---DPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAV  190
+               Q   DPLLALLEDYNKG+LE+  P A   P+PGKAG+DRPIV+MLDPGHGGED GA+
+Sbjct  147  SSKQYEDDPLLALLEDYNKGNLEENQPAA--APRPGKAGKDRPIVVMLDPGHGGEDPGAI  204
+
+Query  191  GKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSI  250
+            GK+KTREKD+VL+IARRL++LI+KE NM+ YMTRNED+FIPL+VRVAKA+KQRADLF+SI
+Sbjct  205  GKHKTREKDIVLKIARRLKALIDKEPNMRAYMTRNEDVFIPLKVRVAKARKQRADLFISI  264
+
+Query  251  HADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMV  310
+            HADAFTSR   GSSVFALST+GATSTAA+YLA+TQN SDLIGGVSKSGDRY+DHTMFDMV
+Sbjct  265  HADAFTSRAARGSSVFALSTRGATSTAARYLARTQNESDLIGGVSKSGDRYLDHTMFDMV  324
+
+Query  311  QSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEER  370
+            QSLTI DSLKFG  VL ++GKIN LHK  V+QAGFAVLKAPDIPSILVETAFISN+EEER
+Sbjct  325  QSLTINDSLKFGGEVLARMGKINHLHKKTVDQAGFAVLKAPDIPSILVETAFISNLEEER  384
+
+Query  371  KLKTATFQQEVAESILAGIKAYFADGATLARR  402
+            KL+T+ FQQ+VA SILAGIKAYFA+GA LA R
+Sbjct  385  KLRTSKFQQQVANSILAGIKAYFANGAPLAPR  416
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Edwardsiella tarda]
+Sequence ID: WP_078000536.1 Length: 420
+Range 1: 30 to 420
+
+Score:595 bits(1535), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:286/393(73%), Positives:341/393(86%), Gaps:8/393(2%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F    QV+AVRVWP+S+YTRVT+ES++ LKYKQFALSNP+R+VVDI+ V+LNSVLKG+  
+Sbjct  30   FAAAAQVIAVRVWPSSTYTRVTLESSQPLKYKQFALSNPDRIVVDIQGVHLNSVLKGIGH  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPA----  131
+            Q++  DP++K ARVGQFD  TVR+V ELKQN+ P++F LAP A FK RLV+DLYPA    
+Sbjct  90   QVQGGDPYLKHARVGQFDQDTVRLVLELKQNISPKVFTLAPFAEFKNRLVVDLYPAAGSS  149
+
+Query  132  --NAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGA  189
+                +D  DPLLALLEDYNKGDLE+ +P A  GPQ GKAGRDRPI+IMLDPGHGGED GA
+Sbjct  150  AARTEDEDDPLLALLEDYNKGDLERTLPKA--GPQKGKAGRDRPIIIMLDPGHGGEDPGA  207
+
+Query  190  VGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVS  249
+            +GK +TREKD+VL+IA RL +LI+++ NM+VYMTR ED+FIPL+VRVAKA+KQRADLFVS
+Sbjct  208  IGKSRTREKDIVLKIAHRLSALIKRQPNMRVYMTRYEDVFIPLKVRVAKARKQRADLFVS  267
+
+Query  250  IHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDM  309
+            IHADAFTSR   GSSVFALSTKGATS AA+YLAQTQN SD IGGVS+SGD+Y+DHTMFD+
+Sbjct  268  IHADAFTSRTVRGSSVFALSTKGATSAAARYLAQTQNESDEIGGVSRSGDQYLDHTMFDL  327
+
+Query  310  VQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEE  369
+            +Q+ TI DSLKFG+ VLN+LGK+NKLHKN+V+QAGFAVLKAPDIPSILVETAFISNVEEE
+Sbjct  328  MQTATINDSLKFGREVLNRLGKVNKLHKNRVDQAGFAVLKAPDIPSILVETAFISNVEEE  387
+
+Query  370  RKLKTATFQQEVAESILAGIKAYFADGATLARR  402
+            R+L+T+ FQQ+VAE+ILAGIKAYFA+G  LA+R
+Sbjct  388  RRLRTSAFQQQVAEAILAGIKAYFANGGQLAKR  420
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Pantoea sp. 1.19]
+Sequence ID: WP_075183168.1 Length: 415
+Range 1: 28 to 412
+
+Score:595 bits(1533), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:288/387(74%), Positives:336/387(86%), Gaps:2/387(0%)
+
+Query  14   LYFQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGM  73
+            L    +  V+AVR+WP+S+Y+R+T+ES+  L+YKQFALS PERVV+DI+ + LN  LKG+
+Sbjct  28   LGMAANRHVLAVRLWPSSTYSRLTLESSAPLEYKQFALSQPERVVIDIKHLRLNRTLKGV  87
+
+Query  74   AAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANA  133
+            +  +RADDP+IKS RVGQFDP TVR+V ELKQNV P+ F+L PVAG K+RLV+DLYPA+A
+Sbjct  88   SELVRADDPWIKSVRVGQFDPTTVRLVLELKQNVTPRTFSLGPVAGIKDRLVLDLYPASA  147
+
+Query  134  QDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKY  193
+                DPLLALLE+YN G LEK   PAQ+ P PGKAGRDRPIVIMLDPGHGGED GA+GK+
+Sbjct  148  PAEADPLLALLEEYNNGSLEK-TQPAQA-PLPGKAGRDRPIVIMLDPGHGGEDPGAIGKH  205
+
+Query  194  KTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHAD  253
+            KTREKDVVL+IARRL++LI+K+ NM+ YMTRNED+FIPL+VRVAKA+KQRADLF+SIHAD
+Sbjct  206  KTREKDVVLKIARRLKALIDKQPNMRAYMTRNEDVFIPLKVRVAKARKQRADLFISIHAD  265
+
+Query  254  AFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSL  313
+            AFTSR   GSSVFALST+GATSTAA++LAQTQN SDLIGGVS SGDRY+DHTMFDMVQSL
+Sbjct  266  AFTSRAARGSSVFALSTRGATSTAARFLAQTQNESDLIGGVSMSGDRYLDHTMFDMVQSL  325
+
+Query  314  TIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLK  373
+            TI DSLKFG  VL +LGK+N LHK  V+QAGFAVLKAPDIPSILVETAFISN+EEERKL+
+Sbjct  326  TINDSLKFGHEVLGRLGKVNHLHKRSVDQAGFAVLKAPDIPSILVETAFISNLEEERKLR  385
+
+Query  374  TATFQQEVAESILAGIKAYFADGATLA  400
+            TA FQQ+VAESILAGIKAYF+ GA LA
+Sbjct  386  TARFQQQVAESILAGIKAYFSKGAALA  412
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia persicina]
+Sequence ID: WP_187509519.1 Length: 415
+Range 1: 29 to 412
+
+Score:593 bits(1530), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:286/386(74%), Positives:333/386(86%), Gaps:3/386(0%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F     V+A+R+WP+S+Y+R+T+ESN  LKYKQFALSNPERVVVDIE++ LN+VL  +  
+Sbjct  29   FAASSHVLAIRLWPSSTYSRLTIESNTALKYKQFALSNPERVVVDIENIRLNAVLNRVGN  88
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQD  135
+             +R+DDP+IK+ARVGQF P TVR+V ELKQNV P++F LAPVAG   RLV+DLYPA +Q 
+Sbjct  89   LVRSDDPYIKNARVGQFTPNTVRLVLELKQNVAPRIFTLAPVAGINNRLVLDLYPAMSQK  148
+
+Query  136  -MQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYK  194
+               DPLLALLEDYN+G+LE+  P       PGKAGRDRPIVIM+DPGHGGEDSGAVGK+K
+Sbjct  149  YTDDPLLALLEDYNQGELERSQP--ADAALPGKAGRDRPIVIMIDPGHGGEDSGAVGKHK  206
+
+Query  195  TREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADA  254
+            TREKDVVL+I RRL++LI+K+ NM+ YMTRNED+FIPL+VRVAKA+KQRADLFVSIHADA
+Sbjct  207  TREKDVVLKIGRRLKALIDKQPNMRAYMTRNEDVFIPLKVRVAKARKQRADLFVSIHADA  266
+
+Query  255  FTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLT  314
+            FTSR   GSSVFALSTKGATSTAA++LA+TQN SDLIGGVS SGDRY+DHTMFDMVQSLT
+Sbjct  267  FTSRAARGSSVFALSTKGATSTAARFLAKTQNESDLIGGVSMSGDRYLDHTMFDMVQSLT  326
+
+Query  315  IADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKT  374
+            I DSLKFGK VL+++GKIN LHK  V+QAGFAVLKAPDIPSILVETAFISN+EEERKL+T
+Sbjct  327  INDSLKFGKEVLSRMGKINHLHKRTVDQAGFAVLKAPDIPSILVETAFISNIEEERKLRT  386
+
+Query  375  ATFQQEVAESILAGIKAYFADGATLA  400
+              FQ +VA+SILAGIKAYFA GA LA
+Sbjct  387  TRFQHQVADSILAGIKAYFASGAPLA  412
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Gibbsiella quercinecans]
+Sequence ID: WP_095847425.1 Length: 418
+Range 1: 35 to 418
+
+Score:592 bits(1526), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:283/384(74%), Positives:332/384(86%), Gaps:3/384(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+             +VAVRVWP+S+YTR+T+ESN  L YKQFAL+NP+R+VVDIE V+LNSVLKG+A Q+ A+
+Sbjct  35   HIVAVRVWPSSTYTRITLESNIALNYKQFALTNPDRIVVDIEGVHLNSVLKGIAGQVNAN  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQ---DMQ  137
+            DP+++ ARVGQFD  TVR+V +LK  V P +F L PVA ++ RLVMDLYP       +  
+Sbjct  95   DPYLQQARVGQFDKNTVRLVLDLKHPVAPNIFTLPPVAEYRNRLVMDLYPTGGTAQGEEY  154
+
+Query  138  DPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTRE  197
+            DPLLALLEDYNKGDLE+ +P      Q GKAGRDRPIVIMLDPGHGGED GA+GKYKTRE
+Sbjct  155  DPLLALLEDYNKGDLERTLPARAQATQAGKAGRDRPIVIMLDPGHGGEDPGAIGKYKTRE  214
+
+Query  198  KDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTS  257
+            KD+VLQIARRL +LI++E NM+V+MTRNED+FIPL+VRVAKA+KQRADLF+SIHADAFTS
+Sbjct  215  KDIVLQIARRLSNLIKREPNMRVHMTRNEDVFIPLRVRVAKARKQRADLFISIHADAFTS  274
+
+Query  258  RQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIAD  317
+            R   GSSVFALSTKGATS+AAK+LAQTQN SDLIGGVSKSGDRY+DHTM D++Q+ TI D
+Sbjct  275  RAARGSSVFALSTKGATSSAAKFLAQTQNESDLIGGVSKSGDRYLDHTMLDLLQTATIND  334
+
+Query  318  SLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATF  377
+            SLKFGK VL ++GKIN+LHKN+VEQAGFAVLKAPDIPSILVETAFISN+EEERKLKT+ F
+Sbjct  335  SLKFGKEVLGRMGKINRLHKNRVEQAGFAVLKAPDIPSILVETAFISNLEEERKLKTSHF  394
+
+Query  378  QQEVAESILAGIKAYFADGATLAR  401
+            QQ+VAESILAGIKAYFA+G   A+
+Sbjct  395  QQQVAESILAGIKAYFANGGARAQ  418
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Pantoea sp. BAV 3049]
+Sequence ID: WP_158784002.1 Length: 417
+Range 1: 34 to 413
+
+Score:590 bits(1522), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:285/382(75%), Positives:330/382(86%), Gaps:5/382(1%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+             VVA+R+WP+S+Y+R+T+ESN  LKYKQFALS+PERVVVDI++++LN VL G+A  +R+D
+Sbjct  34   HVVAIRIWPSSTYSRLTLESNTPLKYKQFALSHPERVVVDIDNLHLNHVLNGVANLVRSD  93
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQ---  137
+            DP+IK+ARVGQFD  TVR+V ELKQNV P++F L PVAG K RLV+DLYPA  +  Q   
+Sbjct  94   DPYIKNARVGQFDKNTVRLVLELKQNVTPKIFTLDPVAGIKHRLVLDLYPAKGKSYQHED  153
+
+Query  138  DPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTRE  197
+            DPLLALLEDYNKG+L+K  PP    P PGKAG+DRPIVIMLDPGHGGED GA GK KTRE
+Sbjct  154  DPLLALLEDYNKGNLDKDQPP--KAPLPGKAGKDRPIVIMLDPGHGGEDPGATGKNKTRE  211
+
+Query  198  KDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTS  257
+            KD+VL+IARRL+ LI+KE NM+ YMTRNED+FIPL+VRVAKA+K RADLF+SIHADAFT+
+Sbjct  212  KDIVLKIARRLKVLIDKEPNMRAYMTRNEDVFIPLKVRVAKARKLRADLFISIHADAFTN  271
+
+Query  258  RQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIAD  317
+            R   GSSVFALSTKGATSTAA+YLAQTQN SDLIGGVS SGDRY+DHTMFDMVQSLTI D
+Sbjct  272  RAARGSSVFALSTKGATSTAARYLAQTQNESDLIGGVSMSGDRYLDHTMFDMVQSLTIND  331
+
+Query  318  SLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATF  377
+            SLKFGK VL++LGK+N LHK  V+QAGFAVLKAPDIPSILVETAFISN+EEERKL+T  F
+Sbjct  332  SLKFGKEVLSRLGKVNHLHKKTVDQAGFAVLKAPDIPSILVETAFISNLEEERKLRTTRF  391
+
+Query  378  QQEVAESILAGIKAYFADGATL  399
+            Q +VAESIL GIKA+FA GA L
+Sbjct  392  QHQVAESILGGIKAWFASGAAL  413
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC, partial [Cronobacter sakazakii]
+Sequence ID: WP_246763970.1 Length: 365
+Range 1: 35 to 365
+
+Score:588 bits(1517), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:279/331(84%), Positives:310/331(93%), Gaps:0/331(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            QV+AVRVWPAS+YTRVT+ESNR LKY+QFALSNPER+VVD+E VNLN+VLKG+ +QIR D
+Sbjct  35   QVIAVRVWPASAYTRVTLESNRVLKYRQFALSNPERIVVDLEGVNLNAVLKGVGSQIRVD  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DPFIKSARVGQFDP+TVRMVFELK+NV P LFALAPVA F+ERLV+DLYPAN  + QDPL
+Sbjct  95   DPFIKSARVGQFDPKTVRMVFELKKNVTPHLFALAPVAEFRERLVIDLYPANGTNEQDPL  154
+
+Query  141  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  200
+            LALLEDYNKG+L+KQVPPA SGPQPGKAGRDRPIVIM+DPGHGGED GA+GK KTREKDV
+Sbjct  155  LALLEDYNKGELDKQVPPATSGPQPGKAGRDRPIVIMIDPGHGGEDPGAIGKNKTREKDV  214
+
+Query  201  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  260
+            VLQIARRLR+LIE+E NMK +MTRNEDIFIPL+VRVAKAQKQRADLFVSIHADAFTSR  
+Sbjct  215  VLQIARRLRALIEREANMKAFMTRNEDIFIPLKVRVAKAQKQRADLFVSIHADAFTSRAA  274
+
+Query  261  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  320
+             GSSVFALSTKGATSTAAKYLAQTQNA+DL+GGVSKSGD Y+DHTMFDMVQSLTI+DSLK
+Sbjct  275  RGSSVFALSTKGATSTAAKYLAQTQNAADLVGGVSKSGDVYLDHTMFDMVQSLTISDSLK  334
+
+Query  321  FGKAVLNKLGKINKLHKNQVEQAGFAVLKAP  351
+            FGK VL +LG++NKLHKN+V+QAGFAVLKAP
+Sbjct  335  FGKEVLGRLGRVNKLHKNKVDQAGFAVLKAP  365
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia sp. 9145]
+Sequence ID: WP_034916673.1 Length: 416
+Range 1: 33 to 415
+
+Score:588 bits(1515), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:283/387(73%), Positives:334/387(86%), Gaps:9/387(2%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+             +VA+R+WP+S+Y+R+T+ES   L+YKQFALSNP+R+VVDI+++NLN VL+ +   +R+D
+Sbjct  33   NIVAIRIWPSSTYSRLTLESGTSLRYKQFALSNPQRIVVDIKNINLNHVLRNVGNLVRSD  92
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPA-----NAQD  135
+            DP+IK+ARVGQFD  TVR+V ELKQNV P++F L PVAG + RLV+DLYPA     N QD
+Sbjct  93   DPYIKNARVGQFDRDTVRLVIELKQNVTPKVFTLEPVAGIRHRLVLDLYPASNRSSNHQD  152
+
+Query  136  MQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKT  195
+              DPLLALLE+YNKGDLE   P       PGKAGRDRPIVIMLDPGHGGEDSGAVGK KT
+Sbjct  153  --DPLLALLEEYNKGDLESSQP--AEAALPGKAGRDRPIVIMLDPGHGGEDSGAVGKNKT  208
+
+Query  196  REKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAF  255
+            REKD+VL+IARRL++LI+KE NM+ +MTRNED+FIPL+VRVAKA+KQRADLFVSIHADAF
+Sbjct  209  REKDIVLKIARRLKTLIDKEPNMRAWMTRNEDVFIPLKVRVAKARKQRADLFVSIHADAF  268
+
+Query  256  TSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTI  315
+            TSR   GSSVFALST GATSTAA+YLAQTQN SDLIGGVS+SGDRY+DHTMFDMVQSLTI
+Sbjct  269  TSRAARGSSVFALSTSGATSTAARYLAQTQNESDLIGGVSRSGDRYLDHTMFDMVQSLTI  328
+
+Query  316  ADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTA  375
+             DSLKFG+ VL++LGK+N LHK  ++QAGFAVLKAPDIPSILVETAFISN++EERKL+T 
+Sbjct  329  NDSLKFGREVLSRLGKVNHLHKKTIDQAGFAVLKAPDIPSILVETAFISNLDEERKLRTT  388
+
+Query  376  TFQQEVAESILAGIKAYFADGATLARR  402
+             FQ +VA+SILAGIKAYFA+GA LA R
+Sbjct  389  RFQHQVADSILAGIKAYFANGAPLAPR  415
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Brenneria salicis]
+Sequence ID: WP_113865560.1 Length: 413
+Range 1: 35 to 413
+
+Score:587 bits(1514), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:280/381(73%), Positives:330/381(86%), Gaps:4/381(1%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            Q++AVRVWP+SSYTRVT+ESN  LKYKQF LSNP R+VVDIE+++LNSVLK + +Q + +
+Sbjct  35   QMIAVRVWPSSSYTRVTLESNLALKYKQFMLSNPNRIVVDIENIHLNSVLKNIPSQFQQN  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYP--ANAQDMQD  138
+            DP IK+AR+GQFD   VR+V ELKQ+  P+LF LAPVA FK RLV+DLYP      + +D
+Sbjct  95   DPLIKAARIGQFDKDAVRLVLELKQSASPKLFTLAPVAEFKHRLVVDLYPDVGKYDNEED  154
+
+Query  139  PLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREK  198
+            PLLALLEDYNKGDLE+ +P     PQ GKAGRDRP+VIMLDPGHGGED GA+GK KTREK
+Sbjct  155  PLLALLEDYNKGDLERTLPA--EAPQQGKAGRDRPLVIMLDPGHGGEDPGAIGKNKTREK  212
+
+Query  199  DVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSR  258
+            D+VLQIARRLR+LI++E NMK YMTRNED+FIPL+VRVAKA+KQRADLF+SIHADAFT+R
+Sbjct  213  DIVLQIARRLRTLIDRESNMKAYMTRNEDVFIPLRVRVAKARKQRADLFISIHADAFTNR  272
+
+Query  259  QPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADS  318
+               GSSVFALS KGATSTAA +LAQTQN SDLIGGVS SGDRY+DHTMFD+VQ++TI DS
+Sbjct  273  AARGSSVFALSKKGATSTAASFLAQTQNESDLIGGVSMSGDRYLDHTMFDLVQTVTINDS  332
+
+Query  319  LKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQ  378
+            LKFGK +L +LGK+N+LHKN+V+QAGFAVLKAPDIPS+LVETAFISN+EEERKL+T  FQ
+Sbjct  333  LKFGKEILTRLGKVNRLHKNRVDQAGFAVLKAPDIPSVLVETAFISNLEEERKLRTGHFQ  392
+
+Query  379  QEVAESILAGIKAYFADGATL  399
+            Q++AESILAGIKAYFA  + L
+Sbjct  393  QQIAESILAGIKAYFASRSGL  413
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Candidatus Symbiopectobacterium endolongispinus]
+Sequence ID: WP_252317258.1 Length: 414
+Range 1: 35 to 408
+
+Score:587 bits(1513), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:279/376(74%), Positives:329/376(87%), Gaps:4/376(1%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            QV+AVRVWP+S+YTRVT+ESNR LKYKQF L++P R+VVDIED+ LNSVLK ++ Q ++D
+Sbjct  35   QVIAVRVWPSSAYTRVTLESNRTLKYKQFMLTDPSRLVVDIEDIQLNSVLKTVSQQFQSD  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQ--DMQD  138
+            DP IK AR+GQFDP+TVR+V ELKQ   P++F L P+A FK RLV+DLYPA  +  +  D
+Sbjct  95   DPLIKEARIGQFDPKTVRLVLELKQATNPKIFTLDPIAEFKHRLVLDLYPAVGRYDNADD  154
+
+Query  139  PLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREK  198
+            PLLALLEDYNKGDLE ++PP    P  GKAGRDRP+VIMLDPGHGGED GA+GK +TREK
+Sbjct  155  PLLALLEDYNKGDLESKLPP--EAPLAGKAGRDRPLVIMLDPGHGGEDPGAIGKNRTREK  212
+
+Query  199  DVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSR  258
+            D+VLQIARRLRSLIE+  NMK YMTRNED+FIPL+VRVAKA+KQRADLFVSIHADAFT+R
+Sbjct  213  DIVLQIARRLRSLIERGPNMKAYMTRNEDVFIPLRVRVAKARKQRADLFVSIHADAFTNR  272
+
+Query  259  QPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADS  318
+               GSSVFALS KGATSTAA++LA+TQN SDLIGGV  SGDRY+DHT+FD+VQ+ TI+DS
+Sbjct  273  AARGSSVFALSKKGATSTAARFLAETQNESDLIGGVGMSGDRYLDHTLFDLVQTATISDS  332
+
+Query  319  LKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQ  378
+            LKFG  +L +LGK+NKLHKN+V+QAGFAVLKAPDIPSILVETAFISN+EEERKL+T+ FQ
+Sbjct  333  LKFGGEILKRLGKVNKLHKNKVDQAGFAVLKAPDIPSILVETAFISNLEEERKLRTSHFQ  392
+
+Query  379  QEVAESILAGIKAYFA  394
+            Q++AESILAGIKAYFA
+Sbjct  393  QQIAESILAGIKAYFA  408
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Pantoea sp. M_9]
+Sequence ID: WP_150018607.1 Length: 411
+Range 1: 32 to 411
+
+Score:584 bits(1506), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:281/382(74%), Positives:327/382(85%), Gaps:2/382(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+             +VAVR+WP+S+Y+RVT+ESN  L YKQFALSNPER+V+DI+++++N  LKG+   +R D
+Sbjct  32   HIVAVRIWPSSTYSRVTLESNIPLHYKQFALSNPERLVIDIKNLHINPALKGINKLVRTD  91
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DPFIK+ARVGQFDP TVR+V ELK+NV P+ F LAPVAG K RLV+DLYP+ A    DPL
+Sbjct  92   DPFIKTARVGQFDPHTVRIVLELKRNVAPKTFTLAPVAGIKNRLVVDLYPSQASHADDPL  151
+
+Query  141  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  200
+            LALL DYNKGDLE+   PAQ+ P PGKAGRDRPI+IM+DPGHGGED GA GKYKTREKD+
+Sbjct  152  LALLNDYNKGDLERD-QPAQA-PLPGKAGRDRPIIIMIDPGHGGEDPGAHGKYKTREKDI  209
+
+Query  201  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  260
+            VL+I R LR+LI+KE NMK YMTRNED+FIPL+VRVAKA+KQRADLFVSIHADAFTSR  
+Sbjct  210  VLKIGRYLRALIDKEHNMKAYMTRNEDVFIPLRVRVAKARKQRADLFVSIHADAFTSRAA  269
+
+Query  261  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  320
+             GSSVFALST+GATS AA++LAQTQN +DLIGGVS SGDRY+DHTMFDMVQ  TI+DSLK
+Sbjct  270  RGSSVFALSTRGATSAAARFLAQTQNEADLIGGVSMSGDRYLDHTMFDMVQRQTISDSLK  329
+
+Query  321  FGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQE  380
+            FGK VL ++G+IN LHK  V+QAGFAVLKAPDIPSILVETAFISNVEEERKL+TA +Q +
+Sbjct  330  FGKEVLARMGRINHLHKRTVDQAGFAVLKAPDIPSILVETAFISNVEEERKLRTARYQHQ  389
+
+Query  381  VAESILAGIKAYFADGATLARR  402
+            VAE+I  GIKAYF  G  LARR
+Sbjct  390  VAEAIFHGIKAYFDKGGVLARR  411
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC, partial [Escherichia albertii]
+Sequence ID: WP_161538456.1 Length: 289
+Range 1: 1 to 289
+
+Score:584 bits(1506), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:286/289(99%), Positives:288/289(99%), Gaps:0/289(0%)
+
+Query  115  APVAGFKERLVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPI  174
+            APVAGFKERLVMDLYP NAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPI
+Sbjct  1    APVAGFKERLVMDLYPVNAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPI  60
+
+Query  175  VIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQV  234
+            VIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLR+LIEKEGNMKVYMTRNEDIFIPLQV
+Sbjct  61   VIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRALIEKEGNMKVYMTRNEDIFIPLQV  120
+
+Query  235  RVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGV  294
+            RVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGV
+Sbjct  121  RVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGV  180
+
+Query  295  SKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIP  354
+            SKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIP
+Sbjct  181  SKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIP  240
+
+Query  355  SILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFADGATLARRG  403
+            SILVETAFISNVEEERKLKTATFQQ+VAESILAGIKAYFADGATLARRG
+Sbjct  241  SILVETAFISNVEEERKLKTATFQQQVAESILAGIKAYFADGATLARRG  289
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Nissabacter sp. SGAir0207]
+Sequence ID: WP_137762273.1 Length: 419
+Range 1: 30 to 419
+
+Score:584 bits(1505), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:279/392(71%), Positives:334/392(85%), Gaps:6/392(1%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F     V+AVRVWP+S+YTRVT+ESN  LKY+QFALS+PERVV+DIE V+LNSVL+G+  
+Sbjct  30   FAAASHVIAVRVWPSSTYTRVTLESNTPLKYRQFALSHPERVVIDIEGVHLNSVLEGIGK  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQ-  134
+            Q+R++DP++K ARVGQFDP TVR+V ELK+N  P+LF L+PV+ FK RLV+DLYPAN   
+Sbjct  90   QVRSNDPYLKRARVGQFDPNTVRVVLELKRNSSPRLFTLSPVSSFKNRLVVDLYPANGHA  149
+
+Query  135  ---DMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVG  191
+               +  DPLL+LL+DYN+GDLE+ +P        G AG DRPI+IMLDPGHGGED GA+G
+Sbjct  150  AGGEAADPLLSLLQDYNQGDLERTLPAKSQAS--GHAGHDRPIIIMLDPGHGGEDPGAIG  207
+
+Query  192  KYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIH  251
+            KYKTREKD+VL IARRL+ LI++E +M+ YMTR+ED+FIPL+VRVAKA+KQRADLFVSIH
+Sbjct  208  KYKTREKDIVLLIARRLKRLIDREPHMRAYMTRSEDVFIPLRVRVAKARKQRADLFVSIH  267
+
+Query  252  ADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQ  311
+            ADAFT+R   GSSVFALSTKGATS AA+YLAQTQN SD IGGVS+SGD+Y+DHTMFD+VQ
+Sbjct  268  ADAFTNRAARGSSVFALSTKGATSAAARYLAQTQNESDEIGGVSRSGDKYLDHTMFDLVQ  327
+
+Query  312  SLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERK  371
+            + TI DSLKFGK VL ++GK+N LHK++V+QAGFAVLKAPDIPSILVETAFISNV+EERK
+Sbjct  328  TATINDSLKFGKEVLGRMGKVNHLHKSKVDQAGFAVLKAPDIPSILVETAFISNVQEERK  387
+
+Query  372  LKTATFQQEVAESILAGIKAYFADGATLARRG  403
+            LKT+ FQQ+VAESILAGIKAYFA G   ARRG
+Sbjct  388  LKTSRFQQQVAESILAGIKAYFAKGGLAARRG  419
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase [Edwardsiella piscicida]
+Sequence ID: GAJ63491.1 Length: 382
+Range 1: 1 to 382
+
+Score:583 bits(1503), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:281/384(73%), Positives:337/384(87%), Gaps:8/384(2%)
+
+Query  25   VRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRADDPFI  84
+            +RVWP+S+YTRVT+ES+  LKYKQFALS+P+R+VVDI+ V+LNSVLKG+  Q++  DP++
+Sbjct  1    MRVWPSSTYTRVTLESSHPLKYKQFALSSPDRIVVDIQGVHLNSVLKGIGHQVQGGDPYL  60
+
+Query  85   KSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYP------ANAQDMQD  138
+            K ARVGQFD  TVR+V ELKQNV P++F L+PVA FK RLV+DLYP      A A D  D
+Sbjct  61   KHARVGQFDQDTVRLVLELKQNVSPKVFTLSPVAEFKNRLVVDLYPVAGSPTARADDEDD  120
+
+Query  139  PLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREK  198
+            PLLALLEDYNKGDLE+ +P A  GPQ GKAGRDRPIVIMLDPGHGGED GA+GK +TREK
+Sbjct  121  PLLALLEDYNKGDLERSLPKA--GPQKGKAGRDRPIVIMLDPGHGGEDPGAIGKNRTREK  178
+
+Query  199  DVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSR  258
+            D+VL+IA RL +LI+++ NM+VYMTR ED+FIPL+VRVAKA++QRADLF+SIHADAFTSR
+Sbjct  179  DIVLKIAHRLSALIKRQPNMRVYMTRYEDVFIPLKVRVAKARRQRADLFISIHADAFTSR  238
+
+Query  259  QPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADS  318
+               GSSVFALSTKGATSTAA+YLAQTQN SD IGGVS+SGD+Y+DHT+FD++Q+ TI DS
+Sbjct  239  TVRGSSVFALSTKGATSTAARYLAQTQNESDEIGGVSRSGDQYLDHTIFDLMQTATINDS  298
+
+Query  319  LKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQ  378
+            LKFG+ VL++LG++NKLHKN+V+QAGFAVLKAPDIPSILVETAFISNVEEER+L+T+ FQ
+Sbjct  299  LKFGREVLDRLGRVNKLHKNRVDQAGFAVLKAPDIPSILVETAFISNVEEERRLRTSAFQ  358
+
+Query  379  QEVAESILAGIKAYFADGATLARR  402
+            Q+VAESILAGIKAYFA GA LA+R
+Sbjct  359  QQVAESILAGIKAYFASGAQLAKR  382
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Serratia sp. S1B]
+Sequence ID: WP_116729490.1 Length: 418
+Range 1: 30 to 417
+
+Score:583 bits(1502), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:280/389(72%), Positives:337/389(86%), Gaps:4/389(1%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F     V+AVR+WP+S+YTRVT+ESN  LKY+QFAL+NPER+VVD+EDV+LN+VLKG+A 
+Sbjct  30   FAAAASVIAVRIWPSSTYTRVTLESNIPLKYQQFALANPERIVVDVEDVHLNAVLKGIAG  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQD  135
+            Q+R +DP++K  RVGQFD  TVR+V ELKQ V   LF L+PVA ++ RLVMDLYPA A  
+Sbjct  90   QVRKEDPYLKLVRVGQFDKDTVRLVLELKQRVSSHLFTLSPVAEYRNRLVMDLYPAKAGS  149
+
+Query  136  MQ--DPLLALLEDYNKGDLEKQVP-PAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGK  192
+             +  DPLLALLEDYNKGD+E+ +P PAQ+ P  GKAGRDRPIVIMLDPGHGGED GA+G+
+Sbjct  150  GEEYDPLLALLEDYNKGDVERSLPAPAQT-PTVGKAGRDRPIVIMLDPGHGGEDPGAIGR  208
+
+Query  193  YKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHA  252
+             KTREKD+VLQIARRL +LI++E NM+V+MTRNED+FIPL+VRVAKA+KQRADLFVSIHA
+Sbjct  209  NKTREKDIVLQIARRLSALIKREPNMQVFMTRNEDVFIPLKVRVAKARKQRADLFVSIHA  268
+
+Query  253  DAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQS  312
+            DAF++    GSSVFALSTKGATS  A++LAQTQNA+D IGGVSKSGDRY+DHTMFD++Q+
+Sbjct  269  DAFSNHTARGSSVFALSTKGATSNTAQFLAQTQNAADDIGGVSKSGDRYLDHTMFDLLQT  328
+
+Query  313  LTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKL  372
+             TI DSLKFG+ VL ++GKIN+LHKN+V+QAGFAVLKAPDIPSILVETAFISN EEERKL
+Sbjct  329  ATINDSLKFGREVLTRMGKINRLHKNRVDQAGFAVLKAPDIPSILVETAFISNPEEERKL  388
+
+Query  373  KTATFQQEVAESILAGIKAYFADGATLAR  401
+            +T+ FQQ++A+SILAGIKAYFA+G   AR
+Sbjct  389  RTSQFQQQIAQSILAGIKAYFANGGAQAR  417
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Pectobacterium aroidearum]
+Sequence ID: WP_225181395.1 Length: 416
+Range 1: 1 to 414
+
+Score:582 bits(1500), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:284/416(68%), Positives:337/416(81%), Gaps:21/416(5%)
+
+Query  1    MHHHHHHSSGRENLY----------------FQGHMQVVAVRVWPASSYTRVTVESNRQL  44
+            M H +HH + R  L                      QVVAVRVWP+S+YTRVT+ESN  L
+Sbjct  1    MSHSNHHLTRRRLLQSAAATWLLSVSVSGVGMAATTQVVAVRVWPSSAYTRVTLESNHPL  60
+
+Query  45   KYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD-DPFIKSARVGQFDPQTVRMVFEL  103
+            KY QF+LSNPER+VVDIE+V+LNSVLK +A+Q + D DP IK AR+GQFD  TVR+V EL
+Sbjct  61   KYNQFSLSNPERIVVDIENVHLNSVLKEIASQFQQDNDPLIKEARIGQFDKSTVRLVLEL  120
+
+Query  104  KQNVKPQLFALAPVAGFKERLVMDLYPANAQ--DMQDPLLALLEDYNKGDLEKQVPPAQS  161
+            KQ    ++F L PVA FK RLV+DLYPA  +  + +DPLLALLEDYNKG+LE+ +P    
+Sbjct  121  KQQATTKVFTLGPVAEFKHRLVLDLYPAAGRYDNEEDPLLALLEDYNKGELERTLPA--E  178
+
+Query  162  GPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVY  221
+             P+ GKAGRDRP++IMLDPGHGGED GA+GK KTREKD+VLQIARRLR LI+ E NMK Y
+Sbjct  179  APKAGKAGRDRPLIIMLDPGHGGEDPGAIGKNKTREKDIVLQIARRLRKLIDNESNMKAY  238
+
+Query  222  MTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYL  281
+            MTRNED+FIPL+VRVAKA+KQRADLF+SIHADAFT+R   GSSVFALS KGATSTAA++L
+Sbjct  239  MTRNEDVFIPLRVRVAKARKQRADLFISIHADAFTNRAARGSSVFALSKKGATSTAARFL  298
+
+Query  282  AQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVE  341
+            A+TQN SDLIGGVS SGDRY+DHTMFD+VQ++TI+DSLKFGK +L +LGK+N+LHKN V+
+Sbjct  299  AETQNESDLIGGVSMSGDRYLDHTMFDLVQTVTISDSLKFGKEILTRLGKVNRLHKNSVD  358
+
+Query  342  QAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFADGA  397
+            QAGFAVLKAPDIPS+LVETAFISN+EEERKL+T+ FQQ++AESI AGIKAYFA  A
+Sbjct  359  QAGFAVLKAPDIPSVLVETAFISNLEEERKLRTSHFQQQIAESIFAGIKAYFASQA  414
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Enterobacter sp. MGH128]
+Sequence ID: KLW50676.1 Length: 305
+Range 1: 1 to 305
+
+Score:581 bits(1498), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:280/305(92%), Positives:295/305(96%), Gaps:0/305(0%)
+
+Query  99   MVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPP  158
+            MVFELKQNVKPQLFALAPVA FKERLVMDLYPANA D+QDPLLALLEDYNKGDL+ QVPP
+Sbjct  1    MVFELKQNVKPQLFALAPVAAFKERLVMDLYPANATDIQDPLLALLEDYNKGDLDSQVPP  60
+
+Query  159  AQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNM  218
+            AQSGP+PGKAGRDRPIVIMLDPGHGGEDSGAVGKY+TREKDVVLQIARRL++LI+KEGNM
+Sbjct  61   AQSGPKPGKAGRDRPIVIMLDPGHGGEDSGAVGKYRTREKDVVLQIARRLKALIDKEGNM  120
+
+Query  219  KVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAA  278
+            + YMTRNED+FIPL+VRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAA
+Sbjct  121  RAYMTRNEDVFIPLKVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAA  180
+
+Query  279  KYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKN  338
+            +YLA TQNASDLIGGVSKSGDRYVDHTMFDMVQSLTI DSLKFGKAVL KLG++NKLHKN
+Sbjct  181  RYLADTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTITDSLKFGKAVLGKLGRVNKLHKN  240
+
+Query  339  QVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFADGAT  398
+             VEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTA FQQEVAESILAGI+AYF+DG T
+Sbjct  241  SVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTAKFQQEVAESILAGIRAYFSDGET  300
+
+Query  399  LARRG  403
+            LARRG
+Sbjct  301  LARRG  305
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Xenorhabdus sp. IM139775]
+Sequence ID: WP_273550573.1 Length: 415
+Range 1: 1 to 415
+
+Score:581 bits(1498), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:283/419(68%), Positives:340/419(81%), Gaps:21/419(5%)
+
+Query  1    MHHHHHHSSGRENLY--------------FQGHMQVVAVRVWPASSYTRVTVESNRQLKY  46
+            M H  H++S R  L               +    +V+AVR+WPASSYTRVT+ESN  LKY
+Sbjct  1    MSHSDHNASRRYLLKGAAAVLLLSISPIGYAATAKVIAVRIWPASSYTRVTLESNIPLKY  60
+
+Query  47   KQFALSNPERVVVDIEDVNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQN  106
+            +QF+L+NP R+V+D++ + LNS+L  M  Q++  DP++K  R GQF+P+TVR+VFE+KQ 
+Sbjct  61   RQFSLTNPNRIVIDLQGIQLNSILNSMGTQVQRRDPYLKLVRAGQFNPKTVRLVFEIKQP  120
+
+Query  107  VKPQLFALAPVAGFKERLVMDLYP---ANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGP  163
+            V P +F L P+A FK RLV+DLYP   ANA D  DPLLALLE+YN+GDLE+ +P      
+Sbjct  121  VAPHIFTLPPIAKFKHRLVLDLYPKKAANAAD--DPLLALLEEYNRGDLEQNLPVETR--  176
+
+Query  164  QPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMT  223
+            +PGKAG+DRPIVIMLDPGHGGEDSGA+GKYKTREKD+VLQIARRL++LI++E  MKVYMT
+Sbjct  177  KPGKAGKDRPIVIMLDPGHGGEDSGAIGKYKTREKDIVLQIARRLQALIKREPGMKVYMT  236
+
+Query  224  RNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQ  283
+            RNED+FIPL VRVAKA+K RADLFVSIHADAFT+R   GSSVFALSTKGATS +A++LAQ
+Sbjct  237  RNEDVFIPLTVRVAKARKMRADLFVSIHADAFTNRSARGSSVFALSTKGATSNSARFLAQ  296
+
+Query  284  TQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQA  343
+            TQN +DLIGGVSKSGD+Y+DHTM D+VQ+ TI DSLKFG  VL ++GKINKLHKN V+QA
+Sbjct  297  TQNEADLIGGVSKSGDKYLDHTMLDLVQTATINDSLKFGSEVLKRMGKINKLHKNSVDQA  356
+
+Query  344  GFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFADGATLARR  402
+            GFAVLKAPDIPSILVETAFISN+EEERKLKTA FQQ++AESI AGIKAYF +GA LARR
+Sbjct  357  GFAVLKAPDIPSILVETAFISNLEEERKLKTAKFQQQMAESIFAGIKAYFKNGAELARR  415
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Pantoea eucrina]
+Sequence ID: WP_065648294.1 Length: 411
+Range 1: 32 to 411
+
+Score:581 bits(1497), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:277/382(73%), Positives:324/382(84%), Gaps:2/382(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+             +VAVR+WP+S+Y+RVT+ESN  L YKQFALSNPER+V+DI+++++N  LKG+   +R D
+Sbjct  32   HIVAVRIWPSSTYSRVTLESNIPLHYKQFALSNPERLVIDIKNLHINPTLKGINKLVRTD  91
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DPFIK+ARVGQFDP TVR+V ELK++V P+ F LAPVAG K RLV+DLYP+ A    DPL
+Sbjct  92   DPFIKTARVGQFDPHTVRIVLELKRHVAPKTFTLAPVAGIKNRLVVDLYPSQASHADDPL  151
+
+Query  141  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  200
+            LALL DYNKGDLE+  P     P PGKAGRDRPI+IM+DPGHGGED GA GKYKTREKD+
+Sbjct  152  LALLNDYNKGDLERDQP--VQAPLPGKAGRDRPIIIMIDPGHGGEDPGAHGKYKTREKDI  209
+
+Query  201  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  260
+            VL+I R LR+LI+KE NMK YMTRNED+FIPL+VRVAKA+KQRADLFVSIHADAFTSR  
+Sbjct  210  VLKIGRYLRALIDKEHNMKAYMTRNEDVFIPLRVRVAKARKQRADLFVSIHADAFTSRAA  269
+
+Query  261  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  320
+             GSSVFALST+GATS AA++LAQTQN +DLIGGVS SGDRY+DHTMFDMVQ  TI+DSLK
+Sbjct  270  RGSSVFALSTRGATSAAARFLAQTQNEADLIGGVSMSGDRYLDHTMFDMVQRQTISDSLK  329
+
+Query  321  FGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQE  380
+            FGK VL ++G+IN LHK  V+QAGFAVLKAPDIPSILVETAFISNVEEERKL+TA +Q +
+Sbjct  330  FGKEVLTRMGRINHLHKRTVDQAGFAVLKAPDIPSILVETAFISNVEEERKLRTARYQHQ  389
+
+Query  381  VAESILAGIKAYFADGATLARR  402
+            VAE+I  GIKAYF  G  LA+R
+Sbjct  390  VAEAIFHGIKAYFDKGGVLAKR  411
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Pantoea sp. JV6]
+Sequence ID: WP_264353532.1 Length: 414
+Range 1: 24 to 414
+
+Score:580 bits(1496), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:282/395(71%), Positives:330/395(83%), Gaps:4/395(1%)
+
+Query  8    SSGRENLYFQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLN  67
+            S  R  L  + H  +VAVR+WP+S+Y+R+T+ESN  LKYKQFALSNPER+V+DI+ ++LN
+Sbjct  24   SVSRTGLAAKNH--IVAVRIWPSSTYSRMTLESNVALKYKQFALSNPERLVIDIQGLHLN  81
+
+Query  68   SVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMD  127
+             VLKG+  Q+R DDPFIK+ARVGQFD  TVR+V ELK+NV P++F L+PVAG   RLV+D
+Sbjct  82   PVLKGVDKQVRVDDPFIKNARVGQFDSNTVRVVLELKRNVAPKIFNLSPVAGINHRLVVD  141
+
+Query  128  LYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDS  187
+            LYP+  Q   DPLLALL+DYN+GDLEK        P PG+AGRDRPI+IM+DPGHGGED 
+Sbjct  142  LYPSQNQVEDDPLLALLKDYNQGDLEKD--EGVQAPLPGRAGRDRPIIIMIDPGHGGEDP  199
+
+Query  188  GAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLF  247
+            GA GKYKTREKD+VL+I RRL++LI+KE NMK YMTRNED+FIPL+VRVAKA+KQRADLF
+Sbjct  200  GAHGKYKTREKDIVLKIGRRLKALIDKESNMKAYMTRNEDVFIPLRVRVAKARKQRADLF  259
+
+Query  248  VSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMF  307
+            VSIHADAFTSR   GSSVFALST GATS AA++LAQTQN SDLIGGVSKSGDRY+DHTMF
+Sbjct  260  VSIHADAFTSRAARGSSVFALSTSGATSAAARFLAQTQNESDLIGGVSKSGDRYLDHTMF  319
+
+Query  308  DMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVE  367
+            DMVQ  TI DSLKFGK VL+++G+IN LHK  V+QAGFAVLKAPDIPSILVETAFISNVE
+Sbjct  320  DMVQRQTIHDSLKFGKEVLHRMGRINHLHKRTVDQAGFAVLKAPDIPSILVETAFISNVE  379
+
+Query  368  EERKLKTATFQQEVAESILAGIKAYFADGATLARR  402
+            EERKL+T  +Q +VAE+IL GIKAY   GA LA R
+Sbjct  380  EERKLRTTRYQHQVAEAILNGIKAYVESGAALAHR  414
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase [Erwiniaceae bacterium PD-1]
+Sequence ID: QKJ88480.1 Length: 414
+Range 1: 30 to 414
+
+Score:580 bits(1496), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:285/388(73%), Positives:329/388(84%), Gaps:4/388(1%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F     VVA R+WP+S+Y+R+T+ES+  LKYKQFALSNPERVV+DIE ++LN VLKGM  
+Sbjct  30   FAAGSHVVAARIWPSSTYSRLTLESSVPLKYKQFALSNPERVVIDIEHLHLNQVLKGMHD  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQD  135
+             +R DDP+IKSARVGQFD  TVR+V ELKQ+V P+LF L PVAG K RLV+DLYPA    
+Sbjct  90   LVRKDDPYIKSARVGQFDANTVRIVLELKQSVTPKLFTLDPVAGIKNRLVVDLYPAKNSV  149
+
+Query  136  MQDPLLALLEDYNKGDLEKQVP-PAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYK  194
+              DPLLALLEDYNKGDLE+  P PA   P PGKAGRDRPIVIM+DPGHGGED GA GK +
+Sbjct  150  EGDPLLALLEDYNKGDLEQSQPGPA---PLPGKAGRDRPIVIMIDPGHGGEDPGAHGKMR  206
+
+Query  195  TREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADA  254
+            TREKD+VL+I R+L++LI+KE  M+ YMTRNED+FIPL+VRVAKA++QRADLFVSIHADA
+Sbjct  207  TREKDIVLKIGRKLKALIDKEPAMRAYMTRNEDVFIPLKVRVAKARRQRADLFVSIHADA  266
+
+Query  255  FTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLT  314
+            FTSR   GSSVFALSTKGATS AA++LAQTQN SDLIGGVS SGDRY+DHTMFDMVQ  T
+Sbjct  267  FTSRAARGSSVFALSTKGATSAAARFLAQTQNESDLIGGVSMSGDRYLDHTMFDMVQRQT  326
+
+Query  315  IADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKT  374
+            I+DSLKFGK VL++LG++N LHK  V+QAGFAVLKAPDIPSILVETAFISN++EERKL+T
+Sbjct  327  ISDSLKFGKEVLSRLGRVNHLHKRSVDQAGFAVLKAPDIPSILVETAFISNMDEERKLRT  386
+
+Query  375  ATFQQEVAESILAGIKAYFADGATLARR  402
+              FQQ+VAESILAGIKAYFA GA LA +
+Sbjct  387  PRFQQQVAESILAGIKAYFASGAALAHK  414
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia sp. 198]
+Sequence ID: WP_125287398.1 Length: 416
+Range 1: 34 to 416
+
+Score:579 bits(1492), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:284/387(73%), Positives:331/387(85%), Gaps:9/387(2%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+             +VAVR+WP+S+Y+RVT+ESN  LKYKQFALS+PERVVVDI  V+LN  L  +   +R+D
+Sbjct  34   HIVAVRIWPSSTYSRVTLESNTPLKYKQFALSHPERVVVDIAGVHLNQTLHQVGHLVRSD  93
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPA-----NAQD  135
+            DP+IKSARVGQFD  TVR+V ELKQ+V P++F L PVAG K RLV+DLYPA     N +D
+Sbjct  94   DPYIKSARVGQFDRHTVRLVLELKQSVTPKIFTLDPVAGIKNRLVLDLYPARNRSHNHED  153
+
+Query  136  MQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKT  195
+              DPLLALL+DYNKG+LE   P   S P PGKAGRDRPI+IM+DPGHGGED+GA+GK+KT
+Sbjct  154  --DPLLALLQDYNKGELESGQP--ASAPLPGKAGRDRPIIIMIDPGHGGEDTGAIGKHKT  209
+
+Query  196  REKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAF  255
+            +EKDVVL+IARRL++LI+K+ NM+ +MTR+ED+FIPL+VRVAKA++ RADLFVSIHADAF
+Sbjct  210  KEKDVVLKIARRLKALIDKQPNMRAHMTRSEDVFIPLKVRVAKARRLRADLFVSIHADAF  269
+
+Query  256  TSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTI  315
+            TSR   GSSVFALSTKGATSTAA+YLAQTQN SDLIGGVS SGDRY+DHTMFDMVQSLT+
+Sbjct  270  TSRAARGSSVFALSTKGATSTAARYLAQTQNESDLIGGVSMSGDRYLDHTMFDMVQSLTV  329
+
+Query  316  ADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTA  375
+             DSLKFGK VL  +GKIN LHK +VEQA FAVLKAPDIPSILVETAFISN+EEERKL+TA
+Sbjct  330  NDSLKFGKEVLGHMGKINHLHKKKVEQAAFAVLKAPDIPSILVETAFISNLEEERKLRTA  389
+
+Query  376  TFQQEVAESILAGIKAYFADGATLARR  402
+             FQ++VAESILAGIK YFA GA LA R
+Sbjct  390  AFQRQVAESILAGIKGYFAHGAPLAPR  416
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Rouxiella badensis]
+Sequence ID: WP_017493682.1 Length: 415
+Range 1: 30 to 415
+
+Score:578 bits(1491), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:277/388(71%), Positives:328/388(84%), Gaps:3/388(0%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F     VVAVRVWP+++YTR+T+ES++ LKYKQF L NP RVV+DIEDV LNSVLKG+  
+Sbjct  30   FAASPHVVAVRVWPSTTYTRITLESSQSLKYKQFRLQNPSRVVIDIEDVQLNSVLKGIGE  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQD  135
+            +IRA DP+I   RVGQF+  TVR+V ELKQ + P LF L PVAGF+ RLV+DLYP     
+Sbjct  90   KIRAQDPYISQLRVGQFNKTTVRLVIELKQTISPHLFTLPPVAGFRHRLVIDLYPEQGGG  149
+
+Query  136  MQD-PLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYK  194
+             QD PLLALLEDYN+GD+ + +PP +   + GKAG +RPIVIMLDPGHGGEDSGA+GKYK
+Sbjct  150  EQDDPLLALLEDYNRGDVARSLPPEKK--KDGKAGHERPIVIMLDPGHGGEDSGAIGKYK  207
+
+Query  195  TREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADA  254
+            TREKDVVLQIARRL+ LI ++ NM VYMTRNEDIFIPL+VRVAKA+KQRADLF+SIHADA
+Sbjct  208  TREKDVVLQIARRLQKLIRQQPNMTVYMTRNEDIFIPLKVRVAKARKQRADLFISIHADA  267
+
+Query  255  FTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLT  314
+            FTSR   GSSVFALST+GATS AA++LA +QN SD IGGVSKSGDRY+DHT+FD+VQ+ T
+Sbjct  268  FTSRAARGSSVFALSTEGATSAAARFLAHSQNESDKIGGVSKSGDRYLDHTLFDLVQTAT  327
+
+Query  315  IADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKT  374
+            + DSLKFG+ VL ++GK+N LHK++V+QAGFAVLKAPDIPSILVETAFISN+ EERKL+T
+Sbjct  328  VNDSLKFGREVLTRMGKVNHLHKHKVDQAGFAVLKAPDIPSILVETAFISNISEERKLRT  387
+
+Query  375  ATFQQEVAESILAGIKAYFADGATLARR  402
+            + FQQ+VAESILAGIKAYFA+G  LARR
+Sbjct  388  SHFQQQVAESILAGIKAYFANGGMLARR  415
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Pantoea sp. CCBC3-3-1]
+Sequence ID: WP_147199623.1 Length: 417
+Range 1: 23 to 414
+
+Score:578 bits(1490), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:279/394(71%), Positives:329/394(83%), Gaps:5/394(1%)
+
+Query  10   GRENLYFQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSV  69
+            G   + F     VVA+R+WP+S+Y+R+T+ESN  LKYKQFALSNP+RVV+DI +V+LN V
+Sbjct  23   GVSKVGFAASSHVVAIRIWPSSTYSRLTLESNTPLKYKQFALSNPQRVVMDISNVHLNRV  82
+
+Query  70   LKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLY  129
+            L  +   +R DDP+IK+ARVGQF+P TVR+V ELK+NV P++F L PVAG K RLV+DLY
+Sbjct  83   LNNVGKLVRHDDPYIKNARVGQFNPTTVRLVLELKRNVTPKVFTLDPVAGMKNRLVLDLY  142
+
+Query  130  PANAQDMQ---DPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGED  186
+            PA         DPLLALLEDYNKGDLE   P   S P PGKAG DRPI+IM+DPGHGGED
+Sbjct  143  PAQGHSNHHHDDPLLALLEDYNKGDLEASQP--ASAPLPGKAGHDRPIIIMIDPGHGGED  200
+
+Query  187  SGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADL  246
+            +GA+GK+KTREKDVVLQIARRL++LI+K+ NM+ +MTR+ED+FIPL+VRVAKA++ RADL
+Sbjct  201  TGAIGKHKTREKDVVLQIARRLKALIDKQHNMRAHMTRSEDVFIPLKVRVAKARRLRADL  260
+
+Query  247  FVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTM  306
+            FVSIHADAFTSR   GSSVFALS  GATSTAA+YLAQTQN SDLIGGVS SGDRY+DHTM
+Sbjct  261  FVSIHADAFTSRAARGSSVFALSKHGATSTAARYLAQTQNESDLIGGVSMSGDRYLDHTM  320
+
+Query  307  FDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNV  366
+            FDMVQSLT+ DSLKFGK VL+ +GKIN LHK  V+QAGFAVLKAPDIPSILVETAFISN+
+Sbjct  321  FDMVQSLTVTDSLKFGKEVLSGMGKINHLHKKTVDQAGFAVLKAPDIPSILVETAFISNL  380
+
+Query  367  EEERKLKTATFQQEVAESILAGIKAYFADGATLA  400
+            EEERKL+T+ FQQ+VA +I +GIKAYFA GA LA
+Sbjct  381  EEERKLRTSKFQQQVAHAIFSGIKAYFAHGAPLA  414
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Pantoea stewartii]
+Sequence ID: WP_263757573.1 Length: 414
+Range 1: 35 to 414
+
+Score:578 bits(1489), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:276/384(72%), Positives:330/384(85%), Gaps:6/384(1%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+             ++AVR+WP+S+Y+R+T+ESN  LKYKQFAL+NP+R+V+DIE+++LNSVLKG+   +R D
+Sbjct  35   HIMAVRIWPSSTYSRMTLESNVALKYKQFALTNPDRLVIDIENLHLNSVLKGVNQHVRVD  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DPFIK+ARVGQF+  TVR+V ELK+NV P++F+LAPV+  + RLV+DLYP+      DPL
+Sbjct  95   DPFIKNARVGQFNANTVRVVLELKRNVSPKIFSLAPVSSIQHRLVVDLYPSQNTVEDDPL  154
+
+Query  141  LALLEDYNKGDLEKQ--VPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREK  198
+            LALL+DYN+GDL+K   V P    P PGKAGRDRPI+IM+DPGHGGED GA GKYKTREK
+Sbjct  155  LALLKDYNQGDLDKNESVQP----PLPGKAGRDRPIIIMIDPGHGGEDPGAHGKYKTREK  210
+
+Query  199  DVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSR  258
+            D+VL+I RRL++LIEKE NMK YMTRNED+FIPL+VRVAKA+KQRADLFVSIHADAFTSR
+Sbjct  211  DIVLKIGRRLKALIEKEHNMKAYMTRNEDVFIPLRVRVAKARKQRADLFVSIHADAFTSR  270
+
+Query  259  QPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADS  318
+               GSSVFALST+GATS AA++LAQTQN SDLIGGVS SGDRY+DHTMFDMVQ  TI DS
+Sbjct  271  AARGSSVFALSTRGATSAAARFLAQTQNESDLIGGVSMSGDRYLDHTMFDMVQRQTIHDS  330
+
+Query  319  LKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQ  378
+            LKFGK VL+++G+IN LHK  V+QAGFAVLKAPDIPSILVETAFISNVEEERKL+T  +Q
+Sbjct  331  LKFGKEVLHRMGRINHLHKRTVDQAGFAVLKAPDIPSILVETAFISNVEEERKLRTTRYQ  390
+
+Query  379  QEVAESILAGIKAYFADGATLARR  402
+             +VAE+IL GIKAYF +GA LA R
+Sbjct  391  HQVAEAILEGIKAYFKNGAALAHR  414
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Xenorhabdus bovienii]
+Sequence ID: WP_012990034.1 Length: 415
+Range 1: 35 to 415
+
+Score:578 bits(1489), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:274/383(72%), Positives:328/383(85%), Gaps:3/383(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            +++AVR+WPASSYTRVT+E+N  LKY+QF+LSNP R+V+D++ V LNS L GM +QI   
+Sbjct  35   KIIAVRIWPASSYTRVTLEANILLKYRQFSLSNPNRIVIDLQGVQLNSALSGMGSQIHQR  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQD-P  139
+            DP++K  RVGQF+P+TVR+VFE+KQ V P +F L P+A FK RLV+DLYP+ A +++D P
+Sbjct  95   DPYLKLVRVGQFNPKTVRLVFEIKQPVAPHIFTLPPIAKFKHRLVLDLYPSKAANVEDDP  154
+
+Query  140  LLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKD  199
+            L ALLE+YN GDLEK +P  +   +PG+ G++RPIVIMLDPGHGGEDSGA+GKYKTREKD
+Sbjct  155  LQALLEEYNSGDLEKNLPAEKR--KPGRPGKNRPIVIMLDPGHGGEDSGAIGKYKTREKD  212
+
+Query  200  VVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQ  259
+            VVLQIARRL++LI++E  MKVYMTRNED+FIPLQVRVAKA+K +ADLFVSIHADAFT+R 
+Sbjct  213  VVLQIARRLQALIKREPGMKVYMTRNEDVFIPLQVRVAKARKMQADLFVSIHADAFTNRA  272
+
+Query  260  PSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSL  319
+              GSSVFALSTKGATS  A++LAQTQN SDLIGGVSKSGD Y+DHTM D+VQ+ TI DSL
+Sbjct  273  ARGSSVFALSTKGATSNTARFLAQTQNESDLIGGVSKSGDEYLDHTMLDLVQTATINDSL  332
+
+Query  320  KFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQ  379
+            KFG  VL ++GK+NKLHKN ++QAGFAVLKAPDIPSILVETAFISN+EEERKLKTA FQQ
+Sbjct  333  KFGSEVLKRIGKVNKLHKNSIDQAGFAVLKAPDIPSILVETAFISNLEEERKLKTAKFQQ  392
+
+Query  380  EVAESILAGIKAYFADGATLARR  402
+            +VAESI AGIKAYF  G  LARR
+Sbjct  393  QVAESIFAGIKAYFKSGVELARR  415
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Nissabacter archeti]
+Sequence ID: WP_072932555.1 Length: 415
+Range 1: 30 to 415
+
+Score:578 bits(1489), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:281/388(72%), Positives:327/388(84%), Gaps:4/388(1%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F     V+AVRVWP++ YTRVT+ES+  LKYKQFALS+PERVV+DIE V+LNSVLKG+  
+Sbjct  30   FAAAAHVIAVRVWPSTPYTRVTIESSTPLKYKQFALSHPERVVIDIEGVHLNSVLKGIGK  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPAN--A  133
+            Q+R +DP++K ARVGQF   TVR+V ELKQN  P LF L PV+ FK RLV+DLYPA+  A
+Sbjct  90   QVRTNDPYLKQARVGQFTKDTVRVVLELKQNSTPHLFTLGPVSEFKNRLVVDLYPASGRA  149
+
+Query  134  QDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKY  193
+             +  DPLLALLEDYNKGDLE+ +P   + P+ G AG DRPI+IMLDPGHGGEDSGAVGKY
+Sbjct  150  GEPSDPLLALLEDYNKGDLERSLP--ATTPRRGNAGHDRPIIIMLDPGHGGEDSGAVGKY  207
+
+Query  194  KTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHAD  253
+            KTREKD+VL IARRL+ LI+K+ NMK YMTRNED+FIPL+VRVAKA+KQ ADLFVSIHAD
+Sbjct  208  KTREKDIVLLIARRLKKLIDKQPNMKAYMTRNEDVFIPLRVRVAKARKQHADLFVSIHAD  267
+
+Query  254  AFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSL  313
+            AFT+R   GSSVFALSTKGATS AA+YLAQTQN +D IGGV KSGDRY+DHTMFD+VQ+ 
+Sbjct  268  AFTNRAARGSSVFALSTKGATSAAARYLAQTQNEADNIGGVGKSGDRYLDHTMFDLVQTA  327
+
+Query  314  TIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLK  373
+            TI DSLKFGK VL ++GK+N LHKN V+QAGFAVLKAPDIPSILVETAFISNV+EERKL+
+Sbjct  328  TINDSLKFGKEVLARMGKVNHLHKNHVDQAGFAVLKAPDIPSILVETAFISNVKEERKLR  387
+
+Query  374  TATFQQEVAESILAGIKAYFADGATLAR  401
+            T+ FQQ+VAESILAGI +YFA G  + R
+Sbjct  388  TSRFQQQVAESILAGITSYFAKGGLVRR  415
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Pantoea alhagi]
+Sequence ID: WP_085070354.1 Length: 415
+Range 1: 35 to 411
+
+Score:577 bits(1488), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:281/381(74%), Positives:330/381(86%), Gaps:5/381(1%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+             +VAVR+WP+SSY+R+T+ES+  LKYKQFALS+PERVV+DIE+++LN VLKG+   ++ +
+Sbjct  35   HIVAVRIWPSSSYSRLTIESSVALKYKQFALSHPERVVIDIENLHLNRVLKGVGHLVQKN  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPA-NAQDMQDP  139
+            DP+IK+ARVGQFD  TVR+V ELKQNV P+LF LAPVAGF+ RLV+DLY A + QD  DP
+Sbjct  95   DPYIKAARVGQFDKNTVRIVLELKQNVAPRLFTLAPVAGFQHRLVVDLYSAYDTQD--DP  152
+
+Query  140  LLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKD  199
+            LLALL+DYN+GDLE+  P     P PGKAGRDRPIVIM+DPGHGGED GA G +KTREKD
+Sbjct  153  LLALLKDYNQGDLERTQP--AEAPLPGKAGRDRPIVIMIDPGHGGEDPGAHGLHKTREKD  210
+
+Query  200  VVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQ  259
+            +VL+I RRL++LI+KE NM+ YMTRNED+FIPL+VRVAKA+KQRADLFVSIHADAFTSR 
+Sbjct  211  IVLKIGRRLKALIDKEPNMRAYMTRNEDVFIPLKVRVAKARKQRADLFVSIHADAFTSRA  270
+
+Query  260  PSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSL  319
+              GSSVFALSTKGATS AA++LAQTQN SDLIGGVSKSGDRY+DHTMFDM+QS TI DSL
+Sbjct  271  ARGSSVFALSTKGATSAAARFLAQTQNESDLIGGVSKSGDRYLDHTMFDMLQSQTITDSL  330
+
+Query  320  KFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQ  379
+            KFGK VL ++GKIN LHK  V+QAGFAVLKAPDIPSILVETAFISN  EERKL+TA +QQ
+Sbjct  331  KFGKEVLTRIGKINHLHKRSVDQAGFAVLKAPDIPSILVETAFISNPAEERKLRTARYQQ  390
+
+Query  380  EVAESILAGIKAYFADGATLA  400
+            +VAE+IL GIKAYF+ GA LA
+Sbjct  391  QVAEAILGGIKAYFSKGAALA  411
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Sodalis praecaptivus]
+Sequence ID: WP_025421081.1 Length: 419
+Range 1: 30 to 419
+
+Score:577 bits(1488), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:274/390(70%), Positives:326/390(83%), Gaps:3/390(0%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F     +VAVR+WPASSYTRVT+ESN  LKY+ F LS PER+V+DIE + LNS+L  ++ 
+Sbjct  30   FAATPTIVAVRIWPASSYTRVTLESNVTLKYRTFTLSGPERLVLDIEGLRLNSMLSQLSG  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYP---AN  132
+            ++R +DP+I   RVGQFD QTVR+V ELKQ V P+   LAP  GF+ RLV+DLYP   + 
+Sbjct  90   KVRPEDPYISQVRVGQFDGQTVRLVLELKQKVAPRFLTLAPAHGFRHRLVLDLYPHQGSR  149
+
+Query  133  AQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGK  192
+            +    DPLLALLEDYNKGDL + +PP    PQ GKAGRDRP+V+MLDPGHGGED GA+GK
+Sbjct  150  SAVQDDPLLALLEDYNKGDLARTLPPESQAPQAGKAGRDRPVVVMLDPGHGGEDPGAIGK  209
+
+Query  193  YKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHA  252
+            YKTREKD+VLQIARRL +LI++E NM+VYMTRNED+FIPL+VRVAKA+KQRADLFVSIHA
+Sbjct  210  YKTREKDIVLQIARRLSALIKREPNMQVYMTRNEDVFIPLKVRVAKARKQRADLFVSIHA  269
+
+Query  253  DAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQS  312
+            DAFT R   G+SVFALSTKGATS AA+YLAQTQNA+D IGGVSKSGDRY+DHT+FD++Q+
+Sbjct  270  DAFTRRTAHGASVFALSTKGATSAAARYLAQTQNAADEIGGVSKSGDRYLDHTIFDLMQT  329
+
+Query  313  LTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKL  372
+             TI DSLKFGK VLN +GKI +LHK  V+QAGFAVLKAPDIPSILVETAFISN++EER+L
+Sbjct  330  ATINDSLKFGKHVLNHVGKITQLHKKSVDQAGFAVLKAPDIPSILVETAFISNIQEERRL  389
+
+Query  373  KTATFQQEVAESILAGIKAYFADGATLARR  402
+            +TA +QQ++AE+ILAGIKAYFA G  LARR
+Sbjct  390  RTARYQQQMAEAILAGIKAYFAAGGVLARR  419
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Ewingella americana]
+Sequence ID: WP_278879291.1 Length: 416
+Range 1: 30 to 416
+
+Score:577 bits(1488), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:282/391(72%), Positives:330/391(84%), Gaps:8/391(2%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F    QVVAVRVWPASSYTR+T+ES+  LKYK F L+NP R+V+DIE V+LNSVL G+  
+Sbjct  30   FAASSQVVAVRVWPASSYTRLTLESSTPLKYKHFTLTNPHRLVIDIEGVHLNSVLNGVGK  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYP----A  131
+            QI+ +DPFIK ARVGQFD  TVR+V ELK+ + P +F L PVAG   RLV+DLYP     
+Sbjct  90   QIQQNDPFIKQARVGQFDKTTVRLVMELKKQINPHVFTLKPVAGIHNRLVVDLYPQEGAV  149
+
+Query  132  NAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVG  191
+            +A+D  DPLLALLEDYNKGD+ + +PP  +  + GKAGR+RP++IMLDPGHGGED GA+G
+Sbjct  150  SAED--DPLLALLEDYNKGDVARTLPPETA--KDGKAGRERPLIIMLDPGHGGEDPGAIG  205
+
+Query  192  KYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIH  251
+            KYKTREKD+VL IAR+L+ LI++E NMKV+MTRNED+FIPL+VRVAKA+K RADLFVSIH
+Sbjct  206  KYKTREKDIVLLIARKLQKLIQREPNMKVFMTRNEDVFIPLKVRVAKARKLRADLFVSIH  265
+
+Query  252  ADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQ  311
+            ADAFT+R   GSSVFALSTKGATS AA++LAQTQN SD IGGV KSGDRY+DHTMFD+VQ
+Sbjct  266  ADAFTNRAARGSSVFALSTKGATSAAARFLAQTQNESDQIGGVGKSGDRYLDHTMFDLVQ  325
+
+Query  312  SLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERK  371
+            + TI+DSLKFGK VL ++GKIN LHKN+V+QAGFAVLKAPDIPSILVETAFISNVEEERK
+Sbjct  326  TATISDSLKFGKEVLTRMGKINHLHKNKVDQAGFAVLKAPDIPSILVETAFISNVEEERK  385
+
+Query  372  LKTATFQQEVAESILAGIKAYFADGATLARR  402
+            LKT+ FQQ+VAESILAGIKAYFADG    RR
+Sbjct  386  LKTSHFQQKVAESILAGIKAYFADGGMSVRR  416
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Yersinia ruckeri]
+Sequence ID: WP_004719716.1 Length: 416
+Range 1: 30 to 415
+
+Score:577 bits(1487), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:276/388(71%), Positives:332/388(85%), Gaps:4/388(1%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F    QV+AVR+WP+S+YTRVT+ESN  LKY+QF L++P+R+VVDIE V+LNS LK +  
+Sbjct  30   FAASTQVIAVRIWPSSTYTRVTLESNSPLKYRQFTLTSPDRIVVDIEGVHLNSALKDIGN  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQD  135
+            QI++ DP++K ARVGQFD  TVR+V ELKQ++ PQLF L PV+ F  RLV+DLYP    D
+Sbjct  90   QIQSGDPYLKQARVGQFDKNTVRLVLELKQSISPQLFTLKPVSKFHNRLVVDLYPEKGGD  149
+
+Query  136  M--QDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKY  193
+                DPLLALLEDYNKG++E+ +P   +  + GKAGRDRPIVIMLDPGHGGED GA+GK 
+Sbjct  150  TAEDDPLLALLEDYNKGNVERSLPAETA--RAGKAGRDRPIVIMLDPGHGGEDPGAIGKN  207
+
+Query  194  KTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHAD  253
+            KTREKD+VLQIARRLR+LI++E NM+VYMTRNED+FIPL+VRVAKA+KQRADLF+SIHAD
+Sbjct  208  KTREKDIVLQIARRLRALIQREPNMRVYMTRNEDVFIPLKVRVAKARKQRADLFISIHAD  267
+
+Query  254  AFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSL  313
+            AFT+R   GSSVFALSTKGATSTAAK+LAQTQN +DLIGGVSKSGDRY+DHTM D++Q+ 
+Sbjct  268  AFTNRAARGSSVFALSTKGATSTAAKFLAQTQNEADLIGGVSKSGDRYLDHTMIDLLQTA  327
+
+Query  314  TIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLK  373
+            TI DSL FGK VL++LGKINKLHKN+V+QAGFAVLKAPDIPSILVETAFISNVEEERKL+
+Sbjct  328  TINDSLIFGKEVLHRLGKINKLHKNRVDQAGFAVLKAPDIPSILVETAFISNVEEERKLR  387
+
+Query  374  TATFQQEVAESILAGIKAYFADGATLAR  401
+            ++ FQQ++AES+ AGIKAYF+    +AR
+Sbjct  388  SSHFQQQIAESVFAGIKAYFSHSDVVAR  415
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase [Leclercia adecarboxylata]
+Sequence ID: HBH16198.1 Length: 345
+Range 1: 35 to 345
+
+Score:577 bits(1487), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:284/349(81%), Positives:301/349(86%), Gaps:38/349(10%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            QVVAVRVWP+S+YTRVTVESNR LKYKQFALSNPERVVVDIE VNLNSVLKGM+AQIR D
+Sbjct  35   QVVAVRVWPSSTYTRVTVESNRILKYKQFALSNPERVVVDIEGVNLNSVLKGMSAQIRGD  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DP+IKSARVGQFDP TVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANA D+QDPL
+Sbjct  95   DPYIKSARVGQFDPNTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANATDIQDPL  154
+
+Query  141  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  200
+            LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKY+TREKDV
+Sbjct  155  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYRTREKDV  214
+
+Query  201  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  260
+            VLQIARRL++LI++EGNM+ YMTRNED+FIPL+VRVAKAQKQRADLF+SIHADAFTSRQP
+Sbjct  215  VLQIARRLKALIDREGNMRAYMTRNEDVFIPLKVRVAKAQKQRADLFISIHADAFTSRQP  274
+
+Query  261  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  320
+            SGSSVFA                                       FDMVQSLTI DSLK
+Sbjct  275  SGSSVFA--------------------------------------XFDMVQSLTITDSLK  296
+
+Query  321  FGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEE  369
+            FGKAVL +LG++NKLHKN VEQAGFAVLKAPDIPSILVETAFISNVEEE
+Sbjct  297  FGKAVLGRLGRVNKLHKNSVEQAGFAVLKAPDIPSILVETAFISNVEEE  345
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Budvicia diplopodorum]
+Sequence ID: WP_159565807.1 Length: 413
+Range 1: 37 to 409
+
+Score:577 bits(1487), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:272/375(73%), Positives:327/375(87%), Gaps:4/375(1%)
+
+Query  22   VVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRADD  81
+            V+AVRVWP+S+YTR+T+ES+  LKY QF L+NP R+V+DIE+V LNSVL G+A Q+++ D
+Sbjct  37   VIAVRVWPSSTYTRITLESSTPLKYNQFTLANPNRIVIDIENVQLNSVLNGIANQVQSSD  96
+
+Query  82   PFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPAN--AQDMQDP  139
+            P++K AR+GQFDP TVR+V ELKQN+ P LF L PVA FK RLV+DLYP+N  A +  DP
+Sbjct  97   PYLKMARIGQFDPNTVRLVLELKQNINPNLFTLKPVAEFKNRLVVDLYPSNGSADEADDP  156
+
+Query  140  LLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKD  199
+            LLALL++YN+G LEK  PPA+  PQ GKAGRDRP+VIMLDPGHGGED GA+GK  TREKD
+Sbjct  157  LLALLKEYNQGALEKD-PPAEL-PQAGKAGRDRPLVIMLDPGHGGEDPGAIGKRGTREKD  214
+
+Query  200  VVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQ  259
+            +VLQIARRLR+LI+K+  MKVYMTR+ED+FIPL+VRVAKA+KQRADLF+SIHADAFT R 
+Sbjct  215  IVLQIARRLRTLIQKDPKMKVYMTRDEDVFIPLKVRVAKARKQRADLFISIHADAFTDRS  274
+
+Query  260  PSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSL  319
+             +GSS+FALSTKGATSTAAKYLAQTQN +D IGGVSKSGDRY+DHT+FD+VQ+  I +SL
+Sbjct  275  ANGSSIFALSTKGATSTAAKYLAQTQNEADEIGGVSKSGDRYLDHTIFDLVQTAAINNSL  334
+
+Query  320  KFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQ  379
+            KFGK VL ++GK+NKLHKN++EQAGFAVLKAPDIPSIL+ETAFISN+EEERKL+T  FQQ
+Sbjct  335  KFGKEVLTRMGKVNKLHKNKIEQAGFAVLKAPDIPSILIETAFISNLEEERKLRTTAFQQ  394
+
+Query  380  EVAESILAGIKAYFA  394
+            ++AESI  GIKAYFA
+Sbjct  395  QLAESIFTGIKAYFA  409
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia endophytica]
+Sequence ID: WP_152323281.1 Length: 416
+Range 1: 29 to 414
+
+Score:576 bits(1485), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:282/388(73%), Positives:329/388(84%), Gaps:5/388(1%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F     VVA+R+WP+S+Y+RVT+ES+  L+YKQF LSNP+RVVVDI  ++LN VL     
+Sbjct  29   FAAASHVVAIRIWPSSTYSRVTLESSGPLQYKQFVLSNPDRVVVDITHLHLNHVLTRAPD  88
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQD  135
+             +R DDP+IK+ARVGQF+  TVR+V ELKQNV P++F L PVAG + RLV+DLYPA  + 
+Sbjct  89   LVRNDDPYIKNARVGQFNKNTVRLVLELKQNVMPKVFTLDPVAGIQHRLVLDLYPAGGKS  148
+
+Query  136  MQ---DPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGK  192
+             +   DPLLALLEDYNKG+LEK  P     P PGKAGRDRPIVIMLDPGHGGEDSGA+GK
+Sbjct  149  SRHEDDPLLALLEDYNKGNLEKDQP--ARAPLPGKAGRDRPIVIMLDPGHGGEDSGAIGK  206
+
+Query  193  YKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHA  252
+             KTREKD+VLQIARRL+SLI+KE NM+VYMTRNED+FIPL+VRVAKA+KQRADLFVSIHA
+Sbjct  207  NKTREKDIVLQIARRLKSLIDKEPNMRVYMTRNEDVFIPLRVRVAKARKQRADLFVSIHA  266
+
+Query  253  DAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQS  312
+            DAFT+R   GSSVFALSTKGATSTAA+YLA+TQN SDLIGGVS+SGDRY+DHTMFDMVQS
+Sbjct  267  DAFTNRAARGSSVFALSTKGATSTAARYLARTQNESDLIGGVSRSGDRYLDHTMFDMVQS  326
+
+Query  313  LTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKL  372
+            LTI DSLKFGK VL+++GK+N LHK  V+QAGFAVLKAPDIPSILVETAFISN+EEERKL
+Sbjct  327  LTINDSLKFGKEVLSRVGKVNHLHKKTVDQAGFAVLKAPDIPSILVETAFISNLEEERKL  386
+
+Query  373  KTATFQQEVAESILAGIKAYFADGATLA  400
+            +T+ FQQ++A +I AGIK Y A GA LA
+Sbjct  387  RTSHFQQQIAAAIFAGIKDYIASGAPLA  414
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Serratia microhaemolytica]
+Sequence ID: WP_127960344.1 Length: 413
+Range 1: 30 to 413
+
+Score:575 bits(1482), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:279/386(72%), Positives:326/386(84%), Gaps:2/386(0%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F     V+AVR+WPAS+YTRV +ESN  LKYKQF+L+NP+R+VVDIE + LNSVLKG+ A
+Sbjct  30   FSATSDVIAVRLWPASTYTRVALESNIPLKYKQFSLTNPDRIVVDIEGMKLNSVLKGIPA  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQD  135
+             +R +DP++K ARVGQFD  TVR+V ELKQ V    F L PVA ++ RLV+DLYP     
+Sbjct  90   LVRKEDPYLKRARVGQFDQDTVRIVLELKQLVTVNTFTLPPVAKYRNRLVLDLYPLKELT  149
+
+Query  136  MQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKT  195
+             QDPLLALLEDYNKGD+ + +P  +  PQ G+AGRDRPIVIMLDPGHGGED GA+GK KT
+Sbjct  150  EQDPLLALLEDYNKGDVSRNLP--EKAPQSGQAGRDRPIVIMLDPGHGGEDPGAIGKNKT  207
+
+Query  196  REKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAF  255
+            REKDVVL+IAR+L +LI++E NMKV+MTRNED+FIPL+VRVAKA+KQRADLF+SIHADAF
+Sbjct  208  REKDVVLKIARKLSALIQREPNMKVFMTRNEDVFIPLEVRVAKARKQRADLFISIHADAF  267
+
+Query  256  TSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTI  315
+            TS +  GSSVFALSTKGATS AAK+LAQTQNA+D IGGVSKSGDRY+DHT+FD++Q+ TI
+Sbjct  268  TSSKARGSSVFALSTKGATSNAAKFLAQTQNAADEIGGVSKSGDRYLDHTIFDLLQTATI  327
+
+Query  316  ADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTA  375
+             DSLKFGK VLN+LGKIN LHKN V+QAGFAVLKAPDIPSILVETAFISN EEERKL+T+
+Sbjct  328  NDSLKFGKEVLNRLGKINHLHKNSVDQAGFAVLKAPDIPSILVETAFISNQEEERKLRTS  387
+
+Query  376  TFQQEVAESILAGIKAYFADGATLAR  401
+             FQQ VAESILAGIKAYFA+G    R
+Sbjct  388  HFQQLVAESILAGIKAYFANGGMRVR  413
+
+
+
+
+>MULTISPECIES: N-acetylmuramoyl-L-alanine amidase AmiC [Morganella]
+Sequence ID: WP_262863937.1 Length: 416
+Range 1: 30 to 415
+
+Score:575 bits(1482), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:278/388(72%), Positives:325/388(83%), Gaps:3/388(0%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F    Q+VAVR+WPASSYTRVT+ES+  LKYKQF+L NPER+VVD+++V+LNSVLKGM  
+Sbjct  30   FAASSQIVAVRIWPASSYTRVTIESDHPLKYKQFSLQNPERIVVDLKNVHLNSVLKGMDK  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPAN-AQ  134
+            Q++  DP +K  RVGQ DPQTVR+VFE+KQ + PQ+  L PVA FK RLV+D YP N A 
+Sbjct  90   QVQDRDPHLKLIRVGQNDPQTVRLVFEVKQAMSPQVLELTPVAEFKNRLVLDFYPKNGAA  149
+
+Query  135  DMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYK  194
+               DPLLALLEDYN+GDLE+ +P  +  P+PGKAG+DRP+VIM+DPGHGGED GA+GKYK
+Sbjct  150  TEDDPLLALLEDYNRGDLEESLP--RETPKPGKAGQDRPVVIMIDPGHGGEDPGAIGKYK  207
+
+Query  195  TREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADA  254
+            TREKDVVLQIARRL+SLI++E  M+ YMTRNED+FIPL VRVAKA+K RADLFVSIHADA
+Sbjct  208  TREKDVVLQIARRLKSLIDREPGMRAYMTRNEDVFIPLSVRVAKARKMRADLFVSIHADA  267
+
+Query  255  FTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLT  314
+            FT+R   GSSVFALST+GATS  AKYLAQTQN +D IGGVSKSGD+Y+D TMFDMVQS +
+Sbjct  268  FTNRSARGSSVFALSTRGATSNTAKYLAQTQNDADKIGGVSKSGDKYLDQTMFDMVQSAS  327
+
+Query  315  IADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKT  374
+            I DSLKFG  VL ++G +NKLHK  V+QAGFAVLKAPDIPSILVETAFISN+EEER LKT
+Sbjct  328  IKDSLKFGSEVLKRMGNVNKLHKRTVDQAGFAVLKAPDIPSILVETAFISNLEEERLLKT  387
+
+Query  375  ATFQQEVAESILAGIKAYFADGATLARR  402
+            A FQQE+A SI  GIKAYFA+G  +ARR
+Sbjct  388  AKFQQEMANSIFQGIKAYFANGGAVARR  415
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Erwinia amylovora]
+Sequence ID: WP_099350204.1 Length: 415
+Range 1: 34 to 412
+
+Score:574 bits(1479), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:276/381(72%), Positives:324/381(85%), Gaps:3/381(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+             VVA+R+WPAS+Y+R+T+ESN  LKYKQF+L +P+RVVVDI D+ LN +L  +   +R +
+Sbjct  34   HVVAIRIWPASTYSRLTIESNAPLKYKQFSLRSPDRVVVDIADIQLNRLLNDVGKLVREN  93
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPAN-AQDMQDP  139
+            DP+IK+ RVGQFDP TVR+V E+KQNV P++F LAPVAG K RLV+DLYP    Q   DP
+Sbjct  94   DPYIKNVRVGQFDPNTVRLVLEIKQNVAPRIFTLAPVAGIKNRLVLDLYPVQRPQHNDDP  153
+
+Query  140  LLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKD  199
+            LLALLEDYN+GDL +  P  ++ P PGKAG+DRPIVIMLDPGHGGEDSGAVGK KTREKD
+Sbjct  154  LLALLEDYNQGDLGRSQP--EAAPLPGKAGKDRPIVIMLDPGHGGEDSGAVGKQKTREKD  211
+
+Query  200  VVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQ  259
+            VVL+IARRL+SLI+K+ NM+ YMTRNED+FIPL+VRVAKA+KQRADLF+SIHADAFT R 
+Sbjct  212  VVLKIARRLKSLIDKQPNMRAYMTRNEDVFIPLKVRVAKARKQRADLFISIHADAFTRRA  271
+
+Query  260  PSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSL  319
+              GSSVFALSTKGATSTAA++LAQTQN SDLIGGVS   DRY+DHTMFDM+QS TI DSL
+Sbjct  272  ARGSSVFALSTKGATSTAARFLAQTQNESDLIGGVSMGSDRYLDHTMFDMLQSRTINDSL  331
+
+Query  320  KFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQ  379
+            +FG  VL ++GKIN LHK  V+QAGFAVLKAPDIPSILVETAFISN+EEERKL+T  FQ 
+Sbjct  332  RFGGEVLARMGKINHLHKRSVDQAGFAVLKAPDIPSILVETAFISNLEEERKLRTTRFQH  391
+
+Query  380  EVAESILAGIKAYFADGATLA  400
+            +VA+SILAGIKAYFA+GA LA
+Sbjct  392  QVADSILAGIKAYFANGAALA  412
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [[Erwinia] mediterraneensis]
+Sequence ID: WP_130831478.1 Length: 414
+Range 1: 35 to 414
+
+Score:574 bits(1479), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:277/382(73%), Positives:325/382(85%), Gaps:2/382(0%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+             +VAVR+WP+S+Y+RVT+ESN  L YKQFALSNP+R+V+DI++++LN VLKG+A  +RAD
+Sbjct  35   HIVAVRIWPSSTYSRVTLESNLPLHYKQFALSNPDRLVIDIDNLHLNQVLKGVAKLVRAD  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQDPL  140
+            DPFIK+ARVGQFD  TVR+VFELK+NV P+ F LAPVAG K RLV+DLYP+      DPL
+Sbjct  95   DPFIKNARVGQFDANTVRIVFELKRNVAPRTFTLAPVAGIKNRLVIDLYPSQQSVEDDPL  154
+
+Query  141  LALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDV  200
+            LALL+DYN+GDLE+  P       PGKAGRDRP++IM+DPGHGGED GA GK  TREKD+
+Sbjct  155  LALLKDYNQGDLERSQP--SQAALPGKAGRDRPMIIMIDPGHGGEDPGAHGKANTREKDI  212
+
+Query  201  VLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQP  260
+            VL+I RRL++LI+KE NMK YMTRNED+FIPL+VRVAKA+KQRADLFVSIHADAFTSR  
+Sbjct  213  VLKIGRRLKALIDKETNMKAYMTRNEDVFIPLKVRVAKARKQRADLFVSIHADAFTSRAA  272
+
+Query  261  SGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLK  320
+             GSSVFALSTKGATS AA++LAQTQN SDLIGGVS SGDRY+DHTM DMVQ  TI DSLK
+Sbjct  273  RGSSVFALSTKGATSAAARFLAQTQNESDLIGGVSMSGDRYLDHTMLDMVQRQTIQDSLK  332
+
+Query  321  FGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQE  380
+            FG+ VL ++GKIN LHK+ V+QAGFAVLKAPDIPSILVETAFISNV EERKL+TA +QQ+
+Sbjct  333  FGQEVLKQMGKINHLHKSSVDQAGFAVLKAPDIPSILVETAFISNVAEERKLRTARYQQQ  392
+
+Query  381  VAESILAGIKAYFADGATLARR  402
+            VAE+ILAGIK Y  +GA LA R
+Sbjct  393  VAEAILAGIKGYVRNGAVLAPR  414
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase [Franconibacter pulveris]
+Sequence ID: HBI11492.1 Length: 364
+Range 1: 30 to 364
+
+Score:573 bits(1477), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:278/337(82%), Positives:305/337(90%), Gaps:2/337(0%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F    QVVAVRVWPAS+YTRVT+ESNR LKY+QFALSNPERVVVDIE V+LNSVLKG+  
+Sbjct  30   FAASSQVVAVRVWPASAYTRVTLESNRVLKYRQFALSNPERVVVDIEGVHLNSVLKGLGN  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQD  135
+             I  +DPFIKSARVGQFDP+TVRMVFELK+NV P LFALAPVA FKERLV+DLYPA++  
+Sbjct  90   HISDNDPFIKSARVGQFDPKTVRMVFELKKNVTPHLFALAPVAEFKERLVIDLYPADSAS  149
+
+Query  136  MQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKT  195
+             QDPLLALLEDYNKG+L+++ P  Q GPQPGKAGRDRPIVIM+DPGHGGED GA+GKYKT
+Sbjct  150  EQDPLLALLEDYNKGELDQKTP--QGGPQPGKAGRDRPIVIMIDPGHGGEDPGAIGKYKT  207
+
+Query  196  REKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAF  255
+            REKDVVLQIARRL++LIEKE NMK YMTRNEDIFIPL+VRVAKAQKQRADLFVSIHADAF
+Sbjct  208  REKDVVLQIARRLKALIEKELNMKAYMTRNEDIFIPLKVRVAKAQKQRADLFVSIHADAF  267
+
+Query  256  TSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTI  315
+            TSR   GSSVFALSTKGATS AAKYLAQTQNA+DL+GGVSKSGD Y+DHTMFDMVQSLTI
+Sbjct  268  TSRAARGSSVFALSTKGATSAAAKYLAQTQNAADLVGGVSKSGDVYLDHTMFDMVQSLTI  327
+
+Query  316  ADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPD  352
+            +DSLKFGK VLN+LG +NKLHKN V+QAGFAVLKAPD
+Sbjct  328  SDSLKFGKEVLNRLGGVNKLHKNSVDQAGFAVLKAPD  364
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Moellerella wisconsensis]
+Sequence ID: WP_047255136.1 Length: 416
+Range 1: 1 to 415
+
+Score:573 bits(1476), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:279/417(67%), Positives:330/417(79%), Gaps:17/417(4%)
+
+Query  1    MHHHHHHSSGRENLY--------------FQGHMQVVAVRVWPASSYTRVTVESNRQLKY  46
+            M H  H+ S R  L                     +VAVR+WPASSYTRVT+ESN  LKY
+Sbjct  1    MSHQDHNPSRRRLLQGAAAVMLLSISPFGLAAAANIVAVRIWPASSYTRVTLESNVPLKY  60
+
+Query  47   KQFALSNPERVVVDIEDVNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQN  106
+            +QFAL NP+R+VVD+E V LN+VLK M +QI+  DPF+K  RVGQFDP+TVR+VFE+K  
+Sbjct  61   RQFALENPDRIVVDLEGVQLNNVLKQMTSQIQTRDPFLKLVRVGQFDPKTVRLVFEVKSK  120
+
+Query  107  VKPQLFALAPVAGFKERLVMDLYPANA-QDMQDPLLALLEDYNKGDLEKQVPPAQSGPQP  165
+            VKPQ+F +APV+ FK RLVMD YP        DPLLALLEDYNKGDLE+ +P      +P
+Sbjct  121  VKPQMFTIAPVSEFKNRLVMDFYPGQGVSTTDDPLLALLEDYNKGDLEENLPIESK--KP  178
+
+Query  166  GKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRN  225
+            GKAG DRPI+IM+DPGHGGED GA+GKYKTREKDVVLQIARRL+ LI+ + +M+ YMTRN
+Sbjct  179  GKAGTDRPIIIMIDPGHGGEDPGAIGKYKTREKDVVLQIARRLKKLIDNDPSMRAYMTRN  238
+
+Query  226  EDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQ  285
+            ED+FIPL VRVAKA+K +ADLFVSIHADAFT+R   GSSVFALSTKGATS  A++LAQTQ
+Sbjct  239  EDVFIPLTVRVAKARKMQADLFVSIHADAFTNRSARGSSVFALSTKGATSNTARFLAQTQ  298
+
+Query  286  NASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGF  345
+            N +DLIGGVSKSGD+Y+DHTMFD++Q+ TI DSLKFG  VL ++  +NKLHKN+V+QAGF
+Sbjct  299  NEADLIGGVSKSGDKYLDHTMFDLLQTATINDSLKFGDEVLKRMKSVNKLHKNKVDQAGF  358
+
+Query  346  AVLKAPDIPSILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFADGATLARR  402
+            AVLKAPDIPSILVETAFISN+EEERKLKTA FQQ++AESI  GIKAYF +G  +ARR
+Sbjct  359  AVLKAPDIPSILVETAFISNLEEERKLKTAKFQQQMAESIFQGIKAYFRNGGDVARR  415
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Yersinia pestis]
+Sequence ID: WP_016593808.1 Length: 413
+Range 1: 5 to 412
+
+Score:573 bits(1476), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:279/415(67%), Positives:343/415(82%), Gaps:26/415(6%)
+
+Query  6    HHSSGRENLY---------------FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFA  50
+            +H+SGR  L                F     +VAVRVWP+S+YTRVT+ESN  LKY+QFA
+Sbjct  5    NHNSGRRRLLQGAAAAWMLSISRVGFAASSHIVAVRVWPSSTYTRVTLESNTPLKYRQFA  64
+
+Query  51   LSNPERVVVDIEDVNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQ  110
+            L++P+R+VVDIE V LNSVLK ++ Q+++ DP++K ARVGQFD  TVR+V ELKQ++ PQ
+Sbjct  65   LTHPDRIVVDIEGVQLNSVLKEISRQVQSADPYLKQARVGQFDKNTVRLVLELKQSISPQ  124
+
+Query  111  LFALAPVAGFKERLVMDLYPA----NAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPG  166
+            LF L P A F+ RLV+DLYPA    +A+D  DPLLALLEDYNKG++++ +PP     +  
+Sbjct  125  LFTLKPFAEFRNRLVVDLYPAEGGTSAED--DPLLALLEDYNKGNVDRTLPP-----ETP  177
+
+Query  167  KAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNE  226
+            KAGRDRPI+IMLDPGHGGED GA+GK KT+EKD+VLQIARRLR+LI+KE NM+V+MTRNE
+Sbjct  178  KAGRDRPIIIMLDPGHGGEDPGAIGKNKTKEKDIVLQIARRLRALIQKEANMRVFMTRNE  237
+
+Query  227  DIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQN  286
+            D+FIPL+VRVAKA+K RADLF+SIHADAFT+R  SGSSVFALSTKGATSTAA++LAQTQN
+Sbjct  238  DVFIPLKVRVAKARKLRADLFISIHADAFTNRAASGSSVFALSTKGATSTAARFLAQTQN  297
+
+Query  287  ASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFA  346
+             +D IGGVSKSGD Y+DHT+ D++Q+ TI DSLKFGK VL+++ KINKLHKN+V+QAGFA
+Sbjct  298  EADQIGGVSKSGDPYLDHTIIDLLQTATINDSLKFGKEVLSRMSKINKLHKNRVDQAGFA  357
+
+Query  347  VLKAPDIPSILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFADGATLAR  401
+            VLKAPDIPSILVETAFISN+EEERKL+T+ FQQ++AESI AGIKAYFA+G  +AR
+Sbjct  358  VLKAPDIPSILVETAFISNLEEERKLRTSRFQQQIAESIFAGIKAYFANGGAMAR  412
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase [Brenneria bubanii]
+Sequence ID: MCG8707247.1 Length: 413
+Range 1: 35 to 408
+
+Score:572 bits(1475), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:274/376(73%), Positives:322/376(85%), Gaps:4/376(1%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            QV+AVRVWP+SSYTRVT+ES++ LKYKQF L NP+R+VVDI+++ LN VL+  ++Q   +
+Sbjct  35   QVIAVRVWPSSSYTRVTLESSQPLKYKQFTLGNPDRIVVDIKNIRLNHVLQTFSSQFNQN  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQ--DMQD  138
+            DP IK+AR+GQFD  TVR+V ELKQ V  ++F L PVA FK RLVMDLYP   +  +  D
+Sbjct  95   DPLIKNARIGQFDKDTVRLVLELKQGVDAKIFTLNPVAEFKHRLVMDLYPLAGRYDNEDD  154
+
+Query  139  PLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREK  198
+            PLLALLEDYNKGDLE+ +P     PQ GKAGRDRP+VIMLDPGHGGED GA+GK KTREK
+Sbjct  155  PLLALLEDYNKGDLERTLPA--EAPQAGKAGRDRPLVIMLDPGHGGEDPGAIGKNKTREK  212
+
+Query  199  DVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSR  258
+            D+VLQIARRLR+LIE+E NMK YMTRNED+FIPL+VRVAKA+KQRADLFVSIHADAFT+R
+Sbjct  213  DIVLQIARRLRALIERESNMKAYMTRNEDVFIPLRVRVAKARKQRADLFVSIHADAFTNR  272
+
+Query  259  QPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADS  318
+               GSSVFALS KGATSTAA +LAQTQN SDLIGGVS SGDRY+DHTM D+VQ++TI DS
+Sbjct  273  AARGSSVFALSKKGATSTAASFLAQTQNESDLIGGVSMSGDRYLDHTMLDLVQTITINDS  332
+
+Query  319  LKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQ  378
+            LKFGK +L +L K+N+LHKN V+QAGFAVLKAPDIPSILVETAFISN+EEERKL+T+ FQ
+Sbjct  333  LKFGKEILTRLSKVNRLHKNSVDQAGFAVLKAPDIPSILVETAFISNLEEERKLRTSHFQ  392
+
+Query  379  QEVAESILAGIKAYFA  394
+            Q++A+SIL GIKAYFA
+Sbjct  393  QQIAQSILDGIKAYFA  408
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Serratia symbiotica]
+Sequence ID: WP_160744009.1 Length: 416
+Range 1: 30 to 416
+
+Score:572 bits(1474), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:275/389(71%), Positives:329/389(84%), Gaps:4/389(1%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F     V+AVRVWP+S+YTR+T+ESN  LKY+QF L+NP+RVVVDI  V+LNSVLKG+A+
+Sbjct  30   FAAASHVIAVRVWPSSTYTRITLESNVALKYQQFVLTNPDRVVVDIVGVHLNSVLKGIAS  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYP--ANA  133
+            Q+ ADDP++K  RVGQFD  TVR+V ELK +V P +F+LAPV  ++ RLV+DLYP    +
+Sbjct  90   QVHADDPYLKQVRVGQFDQHTVRLVLELKHSVSPHIFSLAPVPEYRHRLVLDLYPTKGGS  149
+
+Query  134  QDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKY  193
+                DPLLALLEDYN+G L++ +P      Q G AGRDRPI+IMLDPGHGGED GA+G  
+Sbjct  150  GTEYDPLLALLEDYNQGVLDRTLPA--EAAQAGNAGRDRPIIIMLDPGHGGEDPGAIGML  207
+
+Query  194  KTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHAD  253
+            KTREKD+VLQIAR+L +LI++E  MKV+MTRN+D+FIPL+VRVAKA+KQRADLFVSIHAD
+Sbjct  208  KTREKDIVLQIARKLSALIKREPAMKVFMTRNDDVFIPLKVRVAKARKQRADLFVSIHAD  267
+
+Query  254  AFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSL  313
+            AFTSR   GSSVFALSTKGATS+AAK+LAQTQNASD IGGVSKSGDRY+DHT+FD+VQ+ 
+Sbjct  268  AFTSRAARGSSVFALSTKGATSSAAKFLAQTQNASDQIGGVSKSGDRYLDHTLFDLVQTA  327
+
+Query  314  TIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLK  373
+            TI DSLKFG  VLN++GKIN+LHKN+VEQAGFAVLK PDIPSILVETAFISN+EEER+L+
+Sbjct  328  TINDSLKFGNEVLNRMGKINRLHKNRVEQAGFAVLKVPDIPSILVETAFISNLEEERRLR  387
+
+Query  374  TATFQQEVAESILAGIKAYFADGATLARR  402
+            T  FQQ+VAES+LAGIKAYFA+G  LA R
+Sbjct  388  THHFQQQVAESVLAGIKAYFANGGALASR  416
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Proteus mirabilis]
+Sequence ID: WP_175270757.1 Length: 421
+Range 1: 36 to 421
+
+Score:572 bits(1473), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:277/386(72%), Positives:329/386(85%), Gaps:4/386(1%)
+
+Query  22   VVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRADD  81
+            VVAVRVWPAS+YTRVT+ES+R LKY+QFALS P+R+VVD+E + LNSVLKGMA+Q++ +D
+Sbjct  36   VVAVRVWPASTYTRVTIESSRPLKYRQFALSAPDRIVVDLEGIQLNSVLKGMASQVQTND  95
+
+Query  82   PFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQDMQD-PL  140
+            P++K  RVGQ  P TVR+VFE+K  V+PQ+F L PVA FK RLV+D YP++A   +D PL
+Sbjct  96   PYLKLIRVGQNTPTTVRLVFEIKTPVQPQMFTLKPVAEFKNRLVLDFYPSHAATSEDDPL  155
+
+Query  141  LALLEDYNKGDLEKQVPPAQSGP-QPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKD  199
+            LALL +YN+GDL++ V P Q+   +PG+AGRDRPI+IM+DPGHGGED GA+GKYKTREKD
+Sbjct  156  LALLREYNEGDLQQAVVPEQTDTRKPGRAGRDRPIIIMIDPGHGGEDPGAMGKYKTREKD  215
+
+Query  200  VVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQ  259
+            VVLQIARRLR+LI+K+  MK YMTRNED+FIPL+VRVAKA+K +ADLFVSIHADAFT+R 
+Sbjct  216  VVLQIARRLRALIDKDAKMKAYMTRNEDVFIPLKVRVAKARKMQADLFVSIHADAFTNRS  275
+
+Query  260  PSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSL  319
+              GSSVFALS  GATS  A+YLAQTQN +DLIGGVS+SGDRYVDH M D+VQ+ TI DSL
+Sbjct  276  ARGSSVFALSKTGATSNTARYLAQTQNEADLIGGVSRSGDRYVDHAMLDLVQTATINDSL  335
+
+Query  320  KFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQ  379
+            KFG  VL  LG +NKLHKN+V+QAGFAVLKAP+IPSILVETAFISN+EEERKLKTA FQQ
+Sbjct  336  KFGSEVLKLLGGVNKLHKNKVDQAGFAVLKAPEIPSILVETAFISNIEEERKLKTAKFQQ  395
+
+Query  380  EVAESILAGIKAYFADGA--TLARRG  403
+            +VAESI  GIKAYFA+G   TLA RG
+Sbjct  396  QVAESIFKGIKAYFANGGELTLADRG  421
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC, partial [Escherichia coli]
+Sequence ID: WP_074512890.1 Length: 280
+Range 1: 1 to 280
+
+Score:572 bits(1473), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:280/280(100%), Positives:280/280(100%), Gaps:0/280(0%)
+
+Query  55   ERVVVDIEDVNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFAL  114
+            ERVVVDIEDVNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFAL
+Sbjct  1    ERVVVDIEDVNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFAL  60
+
+Query  115  APVAGFKERLVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPI  174
+            APVAGFKERLVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPI
+Sbjct  61   APVAGFKERLVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPI  120
+
+Query  175  VIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQV  234
+            VIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQV
+Sbjct  121  VIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQV  180
+
+Query  235  RVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGV  294
+            RVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGV
+Sbjct  181  RVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGV  240
+
+Query  295  SKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINK  334
+            SKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINK
+Sbjct  241  SKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINK  280
+
+
+
+
+>MULTISPECIES: N-acetylmuramoyl-L-alanine amidase AmiC [Rahnella]
+Sequence ID: WP_013574172.1 Length: 416
+Range 1: 30 to 411
+
+Score:571 bits(1472), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:276/386(72%), Positives:328/386(84%), Gaps:8/386(2%)
+
+Query  16   FQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAA  75
+            F    QV+AVR+WP+S+YTR+T+ES+  LKYKQF LS+P RVVVDIE V+LNSVLKG+  
+Sbjct  30   FAASSQVIAVRIWPSSTYTRITLESSTPLKYKQFLLSDPPRVVVDIEGVHLNSVLKGLGE  89
+
+Query  76   QIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYP----A  131
+            +++  DP+I+ ARVGQFD +TVR+VFELK+ + P +F L PVA F  RLV+DLYP     
+Sbjct  90   KVQQSDPYIRQARVGQFDTKTVRLVFELKRTINPHVFTLKPVAEFHNRLVVDLYPQEGEI  149
+
+Query  132  NAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVG  191
+            +AQD  DPLLALLEDYN+GD+ + +PP     + G+AGR RP+VIMLDPGHGGED GA+G
+Sbjct  150  SAQD--DPLLALLEDYNRGDVARTLPPETK--KDGQAGRSRPLVIMLDPGHGGEDPGAIG  205
+
+Query  192  KYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIH  251
+            KYKTREKDVVLQI RRL+ LI +E NMK +MTRNED+FIPL+VRVAKA+K RADLF+SIH
+Sbjct  206  KYKTREKDVVLQIGRRLQKLIAREPNMKAHMTRNEDVFIPLKVRVAKARKLRADLFISIH  265
+
+Query  252  ADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQ  311
+            ADAFTSR   GSSVFALSTKGATS+AA++LAQTQN SDLIGGVSKSGDRY+DHTMFD+VQ
+Sbjct  266  ADAFTSRAARGSSVFALSTKGATSSAARFLAQTQNESDLIGGVSKSGDRYLDHTMFDLVQ  325
+
+Query  312  SLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERK  371
+            + TI+DSLKFGK VL ++GKIN LHKN+V+QAGFAVLKAPDIPSILVETAFISN+ EE+K
+Sbjct  326  TATISDSLKFGKEVLTRMGKINHLHKNKVDQAGFAVLKAPDIPSILVETAFISNINEEKK  385
+
+Query  372  LKTATFQQEVAESILAGIKAYFADGA  397
+            L+TA FQQ+VAESILAGIKAYFA G 
+Sbjct  386  LRTAHFQQQVAESILAGIKAYFAQGG  411
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Dickeya lacustris]
+Sequence ID: WP_125258593.1 Length: 412
+Range 1: 35 to 408
+
+Score:571 bits(1472), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:272/376(72%), Positives:326/376(86%), Gaps:4/376(1%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            QV+AVRVWP+S+YTR+T+ESN  L Y+QFAL NP R+VVDIE+V LNS LK  + Q    
+Sbjct  35   QVIAVRVWPSSAYTRITLESNTPLHYRQFALDNPPRLVVDIENVALNSALKSASRQFERS  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQ--DMQD  138
+            DPFIK+ARVGQFD +TVR+V EL+Q V+P+LF L PVAGF+ RLVMDLYPA+ +  + +D
+Sbjct  95   DPFIKAARVGQFDQKTVRLVLELRQRVEPKLFTLTPVAGFRHRLVMDLYPASGRYDNAED  154
+
+Query  139  PLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREK  198
+            PLLALLEDYNKG+LE+ +P     P+ G+AGR+RP+VIMLDPGHGGED GA+GK +TREK
+Sbjct  155  PLLALLEDYNKGELERTLP--AETPKAGRAGRERPLVIMLDPGHGGEDPGAIGKNRTREK  212
+
+Query  199  DVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSR  258
+            DVVLQIARRL++LIE+E NMK YMTRNED+FIPL VRVAKA+KQ ADLFVSIHADAF+ R
+Sbjct  213  DVVLQIARRLKALIEREPNMKAYMTRNEDVFIPLNVRVAKARKQSADLFVSIHADAFSDR  272
+
+Query  259  QPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADS  318
+               GSSVFALS KGATS+AA+YLAQTQN SDLIGGVS SGDRY+D TMFDMVQ++TI DS
+Sbjct  273  AARGSSVFALSKKGATSSAARYLAQTQNESDLIGGVSLSGDRYLDSTMFDMVQTVTINDS  332
+
+Query  319  LKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQ  378
+            LKFG  +L++LGK+N+LHKN+V+QAGFAVLKAPDIPS+LVETAFISN+EEERKL+T+ FQ
+Sbjct  333  LKFGNEILHRLGKVNRLHKNRVDQAGFAVLKAPDIPSVLVETAFISNLEEERKLRTSQFQ  392
+
+Query  379  QEVAESILAGIKAYFA  394
+            Q++A+SIL GIKAYFA
+Sbjct  393  QQLAQSILEGIKAYFA  408
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Jinshanibacter zhutongyuii]
+Sequence ID: WP_130590607.1 Length: 413
+Range 1: 41 to 409
+
+Score:570 bits(1470), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:270/371(73%), Positives:325/371(87%), Gaps:4/371(1%)
+
+Query  26   RVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRADDPFIK  85
+            RVWP+S+YTRVT+ES   LKYKQFALSNP R+V+DIE+V+LNSVLK ++ Q++ +DP++K
+Sbjct  41   RVWPSSTYTRVTLESTIPLKYKQFALSNPNRLVIDIENVHLNSVLKAVSGQVQNNDPYLK  100
+
+Query  86   SARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPAN--AQDMQDPLLAL  143
+             ARVGQ DP TVR+V ELKQN+ P LF L P+A FK RLV+DLYPAN  + +  DPLLAL
+Sbjct  101  LARVGQHDPNTVRLVLELKQNINPNLFTLKPIAEFKNRLVVDLYPANGGSSEPDDPLLAL  160
+
+Query  144  LEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVVLQ  203
+            L++YN G+LEK+ P   S PQ GKAGRDRP+VIMLDPGHGGED GA+GK  T+EK++VLQ
+Sbjct  161  LKEYNLGELEKEQP--TSSPQAGKAGRDRPLVIMLDPGHGGEDPGAIGKRGTKEKNIVLQ  218
+
+Query  204  IARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSGS  263
+            IARRLR+LI+KE  MKVYMTRNED+FIPL+VRVAKA+ Q+ADLF+SIHADAFT+R  +GS
+Sbjct  219  IARRLRTLIQKEPGMKVYMTRNEDVFIPLKVRVAKARAQKADLFISIHADAFTNRSANGS  278
+
+Query  264  SVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGK  323
+            SVFALSTKGATS+AAKYLAQTQN +D IGGVSKSGDRY+DHT+FD+VQ+ TI  SLKFGK
+Sbjct  279  SVFALSTKGATSSAAKYLAQTQNEADQIGGVSKSGDRYLDHTIFDLVQTATINSSLKFGK  338
+
+Query  324  AVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQQEVAE  383
+             VL ++G++NKLHKN++EQAGFAVLKAPDIPSIL+ETAFISN+EEERKLKTA FQQ++AE
+Sbjct  339  EVLTRMGRVNKLHKNKIEQAGFAVLKAPDIPSILIETAFISNLEEERKLKTAKFQQQIAE  398
+
+Query  384  SILAGIKAYFA  394
+            S+ AGIKAYFA
+Sbjct  399  SVFAGIKAYFA  409
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Dickeya zeae]
+Sequence ID: WP_219952695.1 Length: 412
+Range 1: 35 to 408
+
+Score:570 bits(1470), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:273/376(73%), Positives:324/376(86%), Gaps:4/376(1%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            QV+AVRVWP+S+Y+RVT+ES++ LKY+QF L +P+R+VVDIE+ +LNSVLK    Q    
+Sbjct  35   QVIAVRVWPSSAYSRVTLESSQPLKYRQFMLEHPDRLVVDIENASLNSVLKNAGRQFERP  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQ--DMQD  138
+            DPFIK+AR GQFD  TVR+V EL+Q V P+LF LAPVAGF+ RLVMDLYPA  +  + +D
+Sbjct  95   DPFIKTARAGQFDKNTVRLVLELRQKVNPKLFTLAPVAGFRHRLVMDLYPAAGRYDNAED  154
+
+Query  139  PLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREK  198
+            PLLALLEDYNKGDLE+ +PP +  P  GK GR+RP++IMLDPGHGGED GA+GK +TREK
+Sbjct  155  PLLALLEDYNKGDLERTLPPER--PNDGKGGRERPLIIMLDPGHGGEDPGAIGKNRTREK  212
+
+Query  199  DVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSR  258
+            DVVLQIARRL++LIE+E NMKVYMTRNED+FIPL+VRVAKA+KQRADLFVSIHADAF+SR
+Sbjct  213  DVVLQIARRLKTLIERERNMKVYMTRNEDVFIPLKVRVAKARKQRADLFVSIHADAFSSR  272
+
+Query  259  QPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADS  318
+               GSSVFALS KGATS+AA+YLAQTQN SDLIGGVS SGD Y+D TMFDMVQ+ TI DS
+Sbjct  273  SARGSSVFALSKKGATSSAARYLAQTQNESDLIGGVSLSGDHYLDSTMFDMVQTATINDS  332
+
+Query  319  LKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQ  378
+            LKFGK +L++LG  N LHKN V+QAGFAVLKAPDIPS+LVETAFISN+EEERKL+T+ FQ
+Sbjct  333  LKFGKEILHRLGTFNHLHKNSVDQAGFAVLKAPDIPSVLVETAFISNLEEERKLRTSRFQ  392
+
+Query  379  QEVAESILAGIKAYFA  394
+            Q+VA+SI+ GIKAYFA
+Sbjct  393  QQVAQSIMDGIKAYFA  408
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Providencia stuartii]
+Sequence ID: WP_070928828.1 Length: 415
+Range 1: 1 to 414
+
+Score:570 bits(1469), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:279/416(67%), Positives:332/416(79%), Gaps:16/416(3%)
+
+Query  1    MHHHHHHSSGRENLY--------------FQGHMQVVAVRVWPASSYTRVTVESNRQLKY  46
+            M H  H SS R  +               F     V+AVR+WPASSYTRVT+ES   LKY
+Sbjct  1    MSHQDHSSSKRRFIKGAAAVMLLSVSPFGFAASSNVIAVRIWPASSYTRVTLESTVPLKY  60
+
+Query  47   KQFALSNPERVVVDIEDVNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQN  106
+            +Q  L NPER+V+D+E V LN+VLK M  QI++ DP +K  RVGQFDP+TVR+VFE+K  
+Sbjct  61   RQLVLHNPERIVIDLEGVQLNNVLKQMGTQIQSRDPHLKLVRVGQFDPKTVRLVFEVKNK  120
+
+Query  107  VKPQLFALAPVAGFKERLVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPG  166
+            V PQ+F + PVA FK RLVMD YP       DPLLALLEDYNKGDLE+++P AQ+  +PG
+Sbjct  121  VSPQIFTIGPVAEFKNRLVMDFYPQGVSANDDPLLALLEDYNKGDLEEKMP-AQA-KKPG  178
+
+Query  167  KAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNE  226
+            +AGRDRPI+IM+DPGHGGED GA+GKYKTREKDVVLQIARRL++LI+K+  M+ YMTRNE
+Sbjct  179  QAGRDRPIIIMIDPGHGGEDPGAMGKYKTREKDVVLQIARRLKALIDKDPEMRAYMTRNE  238
+
+Query  227  DIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQN  286
+            D+FIPL+VRVAKA+K +ADLFVSIHADAFT+R  +GSSVFALSTKGATS  A+YLAQTQN
+Sbjct  239  DVFIPLKVRVAKARKMQADLFVSIHADAFTNRSANGSSVFALSTKGATSNTARYLAQTQN  298
+
+Query  287  ASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFA  346
+             +DLIGGVSKSGD Y+DHTM D+VQ+ TI DSLKFG  VL ++GK+N+LHKN+V+QAGFA
+Sbjct  299  EADLIGGVSKSGDAYLDHTMLDLVQTATINDSLKFGDEVLKRMGKVNRLHKNKVDQAGFA  358
+
+Query  347  VLKAPDIPSILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFADGATLARR  402
+            VLKAP+IPSILVETAFISN+EEERKLKTA FQQ++AESI  GIKAYF +G  LA R
+Sbjct  359  VLKAPEIPSILVETAFISNLEEERKLKTAKFQQQMAESIFHGIKAYFRNGGELAIR  414
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Rouxiella chamberiensis]
+Sequence ID: WP_045049480.1 Length: 416
+Range 1: 35 to 416
+
+Score:569 bits(1466), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:275/384(72%), Positives:324/384(84%), Gaps:4/384(1%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+             VVAVRVWP+S+YTR+T+ES++ LKYKQFAL NP RVVVDIE + LNSVLKG+  +I   
+Sbjct  35   HVVAVRVWPSSTYTRITLESSQPLKYKQFALQNPPRVVVDIEGLQLNSVLKGLGNKIHPG  94
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQ--DMQD  138
+            DP IK  RVGQF P TVR+V EL+QN+ P LF L PVA F+ RLV+DLYP      D  D
+Sbjct  95   DPNIKQVRVGQFSPTTVRIVLELRQNISPHLFTLPPVAAFRHRLVVDLYPEKTGLGDRDD  154
+
+Query  139  PLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREK  198
+             LLALLEDYN+GD+ + +PP +   + GKAGR+RP+VIMLDPGHGGED GA+GK+KTREK
+Sbjct  155  QLLALLEDYNRGDVARTLPPEKK--KDGKAGRERPLVIMLDPGHGGEDPGAIGKHKTREK  212
+
+Query  199  DVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSR  258
+            DVVLQIARRL  LI+ + NM  YMTRNEDIFIPL+VRVAKA+KQRADLF+SIHADAFTSR
+Sbjct  213  DVVLQIARRLHRLIQLQPNMTAYMTRNEDIFIPLKVRVAKARKQRADLFISIHADAFTSR  272
+
+Query  259  QPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADS  318
+               GSSVFALSTKGATSTAA++LAQTQN SD IGGVSKSGDRY+DHT+FD++Q+ TI DS
+Sbjct  273  AARGSSVFALSTKGATSTAARFLAQTQNESDNIGGVSKSGDRYLDHTLFDLMQTATITDS  332
+
+Query  319  LKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQ  378
+            L+FGK VL ++G++N LHK++V+QAGFAVLKAPDIPSILVETAFISN+EEERKL+T+ FQ
+Sbjct  333  LRFGKEVLTRMGRVNHLHKHKVDQAGFAVLKAPDIPSILVETAFISNLEEERKLRTSHFQ  392
+
+Query  379  QEVAESILAGIKAYFADGATLARR  402
+            Q+VAESILAGIKAYF DG  LA+R
+Sbjct  393  QQVAESILAGIKAYFNDGGMLAKR  416
+
+
+
+
+>N-acetylmuramoyl-L-alanine amidase AmiC [Serratia sp. ATCC 39006]
+Sequence ID: WP_021014851.1 Length: 413
+Range 1: 36 to 409
+
+Score:569 bits(1466), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:270/376(72%), Positives:325/376(86%), Gaps:4/376(1%)
+
+Query  21   QVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIEDVNLNSVLKGMAAQIRAD  80
+            QV+AVRVWP+SSYTRVT+ESN  LKY+QF L +P+R+V+DI++V LNSVLK  + Q   +
+Sbjct  36   QVIAVRVWPSSSYTRVTLESNHPLKYRQFTLEHPKRIVIDIDNVVLNSVLKNASGQFGKN  95
+
+Query  81   DPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKERLVMDLYPANAQ--DMQD  138
+            DP IK ARVGQFD  TVR+V ELKQ+V P +F+L PVAGFK RLVMDLYP   +  + +D
+Sbjct  96   DPLIKEARVGQFDKNTVRLVIELKQSVNPNMFSLTPVAGFKNRLVMDLYPLAGRYDNAED  155
+
+Query  139  PLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYKTREK  198
+            PLLALLEDYNKGDLE+ +PP    P+PGK GRDRP++IMLDPGHGGED GA+G  +TREK
+Sbjct  156  PLLALLEDYNKGDLEQALPPEV--PKPGKIGRDRPLIIMLDPGHGGEDPGAIGMRRTREK  213
+
+Query  199  DVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSR  258
+            DVVLQIA RL++LIE+E NMKVYMTR+ED+FIPL+VRVAKA+KQRADLFVSIHADAFTSR
+Sbjct  214  DVVLQIAHRLKALIEREPNMKVYMTRHEDVFIPLRVRVAKARKQRADLFVSIHADAFTSR  273
+
+Query  259  QPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADS  318
+               GSSVFALS KGATS+AA++LA +QN SD IGGVS SGDRY+DHTMFDMVQ++TI DS
+Sbjct  274  SARGSSVFALSEKGATSSAARFLAHSQNESDSIGGVSMSGDRYLDHTMFDMVQTVTINDS  333
+
+Query  319  LKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVETAFISNVEEERKLKTATFQ  378
+            LKFG+ +L++LG++N+LHKN+V+QAGFAVLKAPDIPS+LVETAFISN+ EERKL+T+ FQ
+Sbjct  334  LKFGREILHRLGEVNRLHKNRVDQAGFAVLKAPDIPSVLVETAFISNLGEERKLRTSRFQ  393
+
+Query  379  QEVAESILAGIKAYFA  394
+            Q++A SIL GIKAYFA
+Sbjct  394  QQIATSILEGIKAYFA  409
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,297 @@
+RID: 6A7MGFF8013	
+Job Title:4BIN_Search_1				
+Program: BLASTP 
+Database: pdb PDB protein database
+Query #1: 4BIN_1|Chain A|N-ACETYLMURAMOYL-L-ALANINE AMIDASE AMIC|ESCHERICHIA COLI (83333) Query ID: lcl|Query_10217 Length: 403
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Crystal structure of the E. coli N-acetylmuramoyl-L-alanine...    Escherichia ... NA              83333      830    830   100%  0.0   100.00 403        4BIN_A           
+The crystal structure of a domain from...                         Bartonella h... NA              38323      149    149   53%   2e-42 40.18  234        3NE8_A           
+Chain A, Cell wall hydrolase/autolysin [Nostoc punctiforme PCC... Nostoc punct... NA              63737      93.2   93.2  54%   8e-22 27.60  180        5EMI_A           
+Chain A, N-acetylmuramoyl-L-alanine amidase [Clostridioides...    Clostridioid... NA              272563     92.0   92.0  54%   2e-21 27.48  188        4RN7_A           
+Chain B, LytH [Staphylococcus aureus]                             Staphylococc... NA              1280       89.0   89.0  54%   2e-20 30.18  176        7TJ4_B           
+Chain A, N-ACETYLMURAMOYL-L-ALANINE AMIDASE CwlV [Paenibacillu... Paenibacillu... NA              1406       79.3   79.3  54%   7e-17 27.95  179        1JWQ_A           
+Chain A, Cell wall hydrolase [Thermus parvatiensis]               Thermus parv... NA              456163     72.8   72.8  21%   1e-14 43.53  177        7B3N_A           
+Chain A, Putative N-acetylmuramoyl-L-alanine amidase,autolysin... Clostridioid... NA              272563     63.9   63.9  57%   2e-10 27.73  638        5J72_A           
+Crystal Structure of heme-containing DyP Type Peroxidase from...  [Enterobacte... NA              1334193    39.3   39.3  13%   0.010 42.59  318        5VJ0_A           
+the solution NMR structure of MBD domain [Arabidopsis thaliana]   Arabidopsis ... thale cress     3702       35.0   35.0  7%    0.035 52.78  95         6ACV_A           
+
+
+Alignments:
+
+>Crystal structure of the E. coli N-acetylmuramoyl-L-alanine amidase AmiC [Escherichia coli K-12]
+Sequence ID: 4BIN_A Length: 403
+Range 1: 1 to 403
+
+Score:830 bits(2143), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:403/403(100%), Positives:403/403(100%), Gaps:0/403(0%)
+
+Query  1    MHHHHHHSSGRENLYFQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVD  60
+            MHHHHHHSSGRENLYFQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVD
+Sbjct  1    MHHHHHHSSGRENLYFQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVD  60
+
+Query  61   IEDVNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGF  120
+            IEDVNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGF
+Sbjct  61   IEDVNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGF  120
+
+Query  121  KERLVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDP  180
+            KERLVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDP
+Sbjct  121  KERLVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIVIMLDP  180
+
+Query  181  GHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQ  240
+            GHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQ
+Sbjct  181  GHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKAQ  240
+
+Query  241  KQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDR  300
+            KQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDR
+Sbjct  241  KQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVSKSGDR  300
+
+Query  301  YVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVET  360
+            YVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVET
+Sbjct  301  YVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPDIPSILVET  360
+
+Query  361  AFISNVEEERKLKTATFQQEVAESILAGIKAYFADGATLARRG  403
+            AFISNVEEERKLKTATFQQEVAESILAGIKAYFADGATLARRG
+Sbjct  361  AFISNVEEERKLKTATFQQEVAESILAGIKAYFADGATLARRG  403
+
+
+
+
+>The crystal structure of a domain from N-acetylmuramoyl-l-alanine amidase of Bartonella henselae str. Houston-1 [Bartonella henselae]
+Sequence ID: 3NE8_A Length: 234
+Range 1: 7 to 223
+
+Score:149 bits(377), Expect:2e-42, 
+Method:Compositional matrix adjust., 
+Identities:88/219(40%), Positives:129/219(58%), Gaps:4/219(1%)
+
+Query  176  IMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVR  235
+            ++LDPGHGG D GA G     EKDV L  AR LR  ++K  +  V +TR+ DIF+ L  R
+Sbjct  7    VVLDPGHGGIDGGARGVTGILEKDVTLAFARALRDELQKGSHTIVALTRDSDIFLRLSER  66
+
+Query  236  VAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIGGVS  295
+            V KAQ+  ADLF+SIHAD        G++V+ +S + A+   AK LA+++N  DL+ G+ 
+Sbjct  67   VKKAQEFDADLFISIHADTIDVHSLRGATVYTISDE-ASDAIAKSLAESENKVDLLDGLP  125
+
+Query  296  KSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGK--INKLHKNQVEQAGFAVLKAPDI  353
+            K     +   + D+ +  T A S+ F   V++ L K  IN L  N    A F VLKAPD+
+Sbjct  126  KEESLELTDILLDLTRRETHAFSINFANNVVSNLSKSHIN-LINNPHRYADFQVLKAPDV  184
+
+Query  354  PSILVETAFISNVEEERKLKTATFQQEVAESILAGIKAY  392
+            PS+L+E  ++SN E+E+ L    ++++ A SI   I+ +
+Sbjct  185  PSVLIEIGYLSNKEDEKLLNNPQWRKQXAASIAYSIRQF  223
+
+
+
+
+>Chain A, Cell wall hydrolase/autolysin [Nostoc punctiforme PCC 73102]
+Sequence ID: 5EMI_A Length: 180
+Range 1: 5 to 178
+
+Score:93.2 bits(230), Expect:8e-22, 
+Method:Compositional matrix adjust., 
+Identities:61/221(28%), Positives:110/221(49%), Gaps:48/221(21%)
+
+Query  174  IVIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQ  233
+            +++++DPGHGG+DSGA G     EKDV+L I +R+ +++E+ G ++  +TR+ D F+ LQ
+Sbjct  5    LLVVIDPGHGGKDSGAPGLGGLLEKDVILPIGKRVAAILEQHG-VQAVLTRDADFFVELQ  63
+
+Query  234  VRVAKAQKQRADLFVSIHADAFTSR-QPSGSSVFALSTKGATSTAAKYLAQTQNASDLIG  292
+             RV  A++  A  FVSIHA++  +R   +G  V+   +                      
+Sbjct  64   GRVEIAERVNATAFVSIHANSVDNRPDVNGLEVYYYDS----------------------  101
+
+Query  293  GVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPD  352
+                       + + ++V++  + +              I+ +      +A F VL+   
+Sbjct  102  ----------GYALAEVVRNTILQN--------------IDTIKNRGTRKARFYVLRKSS  137
+
+Query  353  IPSILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYF  393
+            +PSILVET +++  E+  +L +  +Q ++AE+I  GI  Y 
+Sbjct  138  MPSILVETGYMTGREDNPRLASREYQNQMAEAIARGILKYL  178
+
+
+
+
+>Chain A, N-acetylmuramoyl-L-alanine amidase [Clostridioides difficile 630]
+Sequence ID: 4RN7_A Length: 188
+Range 1: 5 to 182
+
+Score:92.0 bits(227), Expect:2e-21, 
+Method:Compositional matrix adjust., 
+Identities:61/222(27%), Positives:105/222(47%), Gaps:47/222(21%)
+
+Query  175  VIMLDPGHGGEDSGAVGKYKTR-EKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQ  233
+             + +DPGHGG D G   K   R EKD+ LQIA++L + + K+ +++V ++R +D +I L+
+Sbjct  5    TVFIDPGHGGNDKGTESKTSNRYEKDLNLQIAKKLANKLSKQKDIQVVVSRTDDTYISLK  64
+
+Query  234  VRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALST--KGATSTAAKYLAQTQNASDLI  291
+             R   A    AD+ VSIH +A    + +G++   + T  +   +  +K LAQT       
+Sbjct  65   DRAILANNSSADVLVSIHLNA----EKNGNTATGIETWYRNKATDGSKELAQT-------  113
+
+Query  292  GGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAP  351
+                      V  T+   V                       K+    + +  F VL+  
+Sbjct  114  ----------VQSTIVSYV-----------------------KVRDRGIVENNFEVLRES  140
+
+Query  352  DIPSILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYF  393
+            + P+IL+E  F++   EE+K+    +Q ++AE I+ G+ +Y 
+Sbjct  141  NXPAILIECGFLTTPSEEQKIINEKYQDQLAEGIVQGVLSYL  182
+
+
+
+
+>Chain B, LytH [Staphylococcus aureus]
+Sequence ID: 7TJ4_B Length: 176
+>Chain D, LytH [Staphylococcus aureus]
+Sequence ID: 7TJ4_D Length: 176 
+Range 1: 6 to 175
+
+Score:89.0 bits(219), Expect:2e-20, 
+Method:Compositional matrix adjust., 
+Identities:67/222(30%), Positives:101/222(45%), Gaps:54/222(24%)
+
+Query  175  VIMLDPGHGGEDSGAVG--KYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPL  232
+             I+LDPGHGG D GA    KYK+ EKD  L+ A+ L+  +EKEG   V MTR +D ++ L
+Sbjct  6    TIVLDPGHGGSDQGASSNTKYKSLEKDYTLKTAKELQRTLEKEG-ATVKMTRTDDTYVSL  64
+
+Query  233  QVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQNASDLIG  292
+            + R  K      D ++SIH DA  S   +G +V+             +    Q A     
+Sbjct  65   ENRDIK-----GDAYLSIHNDALESSNANGMTVY-------------WYHDNQRA-----  101
+
+Query  293  GVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFAVLKAPD  352
+                                  +AD+L    A + K G    L      Q  + VL    
+Sbjct  102  ----------------------LADTL---DATIQKKG---LLSNRGSRQENYQVLAQTK  133
+
+Query  353  IPSILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFA  394
+            +P++L+E  +ISN  +E  +K    +Q + ++I+ G+K YF+
+Sbjct  134  VPAVLLELGYISNPTDETMIKDQLHRQILEQAIVDGLKIYFS  175
+
+
+
+
+>Chain A, N-ACETYLMURAMOYL-L-ALANINE AMIDASE CwlV [Paenibacillus polymyxa]
+Sequence ID: 1JWQ_A Length: 179
+Range 1: 3 to 176
+
+Score:79.3 bits(194), Expect:7e-17, 
+Method:Compositional matrix adjust., 
+Identities:64/229(28%), Positives:101/229(44%), Gaps:65/229(28%)
+
+Query  175  VIMLDPGHGGEDSGAVG-KYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQ  233
+            V+++D GHG +DSGAVG   K  EK   L +A ++ S++++   ++V +TR++D F+ L+
+Sbjct  3    VVVIDAGHGAKDSGAVGISRKNYEKTFNLAMALKVESILKQNPKLEVVLTRSDDTFLELK  62
+
+Query  234  VRVAKAQKQRADLFVSIHADAF---------TSRQPSGSSVFALSTKGATSTAAKYLAQT  284
+             RV  A+  +A++FVSIHA++          T  Q S S  FA       +   KY A  
+Sbjct  63   QRVKVAENLKANVFVSIHANSSGSSASNGTETYYQRSASKAFA-------NVMHKYFAPA  115
+
+Query  285  QNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAG  344
+                    G++  G RY                                           
+Sbjct  116  T-------GLTDRGIRY-----------------------------------------GN  127
+
+Query  345  FAVLKAPDIPSILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYF  393
+            F V++   +P++L+E  ++SN +EE  L    FQ  VA+ I  GI  Y 
+Sbjct  128  FHVIRETTMPAVLLEVGYLSNAKEEATLFDEDFQNRVAQGIADGITEYL  176
+
+
+
+
+>Chain A, Cell wall hydrolase [Thermus parvatiensis]
+Sequence ID: 7B3N_A Length: 177
+>Chain B, Cell wall hydrolase [Thermus parvatiensis]
+Sequence ID: 7B3N_B Length: 177
+>Chain C, Cell wall hydrolase [Thermus parvatiensis]
+Sequence ID: 7B3N_C Length: 177
+>Chain D, Cell wall hydrolase [Thermus parvatiensis]
+Sequence ID: 7B3N_D Length: 177
+>Chain E, Cell wall hydrolase [Thermus parvatiensis]
+Sequence ID: 7B3N_E Length: 177 
+Range 1: 11 to 94
+
+Score:72.8 bits(177), Expect:1e-14, 
+Method:Compositional matrix adjust., 
+Identities:37/85(44%), Positives:53/85(62%), Gaps:1/85(1%)
+
+Query  176  IMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVR  235
+            I+LDPGHGG+D GAV    TRE D+ L  A  L+  +   G  +V  TR  D+++PL  R
+Sbjct  11   IVLDPGHGGQDPGAVAPDGTREADLNLAQALTLKEYLVALG-YRVGFTRTSDVYVPLSER  69
+
+Query  236  VAKAQKQRADLFVSIHADAFTSRQP  260
+            +A A++  A LF+S+H D  T+ +P
+Sbjct  70   IAMARRMGARLFISVHHDTPTASRP  94
+
+
+
+
+>Chain A, Putative N-acetylmuramoyl-L-alanine amidase,autolysin cwp6 [Clostridioides difficile 630]
+Sequence ID: 5J72_A Length: 638
+>Chain B, Putative N-acetylmuramoyl-L-alanine amidase,autolysin cwp6 [Clostridioides difficile 630]
+Sequence ID: 5J72_B Length: 638 
+Range 1: 443 to 634
+
+Score:63.9 bits(154), Expect:2e-10, 
+Method:Compositional matrix adjust., 
+Identities:66/238(28%), Positives:95/238(39%), Gaps:51/238(21%)
+
+Query  158  PAQSGPQPGKAGRDRPIVIMLDPGHGGEDSGAVGKYK--TREKDVVLQIARRLRSLIEKE  215
+            P  SG   GK        +++DPGHGG DSGA        +EK   L  A      +  +
+Sbjct  443  PDNSGSAAGK-------TVVIDPGHGGSDSGATSGLNGGAQEKKYTLNTALATTEYLRSK  495
+
+Query  216  GNMKVYMTRNEDIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATS  275
+            G + V MTR+ D  + L  R A +   + DLF SIH   + +   SG+ V          
+Sbjct  496  G-INVVMTRDTDKTMALGERTALSNTIKPDLFTSIH---YNASNGSGNGVEIY-------  544
+
+Query  276  TAAKYLAQTQNASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKL  335
+                Y  + +N     GG +K+                    +    K +L K    N+ 
+Sbjct  545  ----YKVKDKN-----GGTTKTA-------------------ASNILKRILEKFNMKNRG  576
+
+Query  336  HKNQVEQAG---FAVLKAPDIPSILVETAFISNVEEERKLKTATFQQEVAESILAGIK  390
+             K +    G     VL+  + P+ILVE AFI N  +  KL TA   + +   I  GI+
+Sbjct  577  IKTRTLDNGKDYLYVLRNNNYPAILVECAFIDNKSDMDKLNTAEKVKTMGTQIGIGIE  634
+
+
+
+
+>Crystal Structure of heme-containing DyP Type Peroxidase from Enterobacter lignolyticus [[Enterobacter] lignolyticus]
+Sequence ID: 5VJ0_A Length: 318
+>Crystal Structure of heme-containing DyP Type Peroxidase from Enterobacter lignolyticus [[Enterobacter] lignolyticus]
+Sequence ID: 5VJ0_B Length: 318
+>Crystal Structure of heme-containing DyP Type Peroxidase from Enterobacter lignolyticus [[Enterobacter] lignolyticus]
+Sequence ID: 5VJ0_C Length: 318
+>Crystal Structure of heme-containing DyP Type Peroxidase from Enterobacter lignolyticus [[Enterobacter] lignolyticus]
+Sequence ID: 5VJ0_D Length: 318 
+Range 1: 7 to 58
+
+Score:39.3 bits(90), Expect:0.010, 
+Method:Compositional matrix adjust., 
+Identities:23/54(43%), Positives:29/54(53%), Gaps:2/54(3%)
+
+Query  7   HSSGRENLYFQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVD  60
+           HSSGRENLYFQGHM  V   + P      + +E+N  +K    AL    +V  D
+Sbjct  7   HSSGRENLYFQGHMSQVQSGILPEHCRAAIWIEAN--VKGDVNALRECSKVFAD  58
+
+
+
+
+>the solution NMR structure of MBD domain [Arabidopsis thaliana]
+Sequence ID: 6ACV_A Length: 95
+Range 1: 7 to 42
+
+Score:35.0 bits(79), Expect:0.035, 
+Method:Compositional matrix adjust., 
+Identities:19/36(53%), Positives:25/36(69%), Gaps:6/36(16%)
+
+Query  7   HSSGRENLYFQGHM------QVVAVRVWPASSYTRV  36
+           HSSGRENLYFQGHM      +VV+V +   SS+ ++
+Sbjct  7   HSSGRENLYFQGHMASGSEEEVVSVELPAPSSWKKL  42
+
+
+
+
+
+
+
+		
+
+

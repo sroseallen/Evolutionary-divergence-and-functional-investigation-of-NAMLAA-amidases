@@ -1,0 +1,134 @@
+CLUSTAL W (1.83) multiple sequence alignment
+
+lcl|Query_10217               ------------------------------------------------------------
+pdb|4BIN|A                    ------------------------------------------------------------
+pdb|3NE8|A                    ------------------------------------------------------------
+pdb|5EMI|A                    ------------------------------------------------------------
+pdb|4RN7|A                    ------------------------------------------------------------
+pdb|7TJ4|B                    ------------------------------------------------------------
+pdb|1JWQ|A                    ------------------------------------------------------------
+pdb|7B3N|A                    ------------------------------------------------------------
+pdb|5J72|A                    SDININLQRKSVVLGSKSNASVKFKEKLNADSITLNFMCYDMPLEATLNYNEKTDSYEGV
+                                                                                          
+
+lcl|Query_10217               ------------------------------------------------------------
+pdb|4BIN|A                    ------------------------------------------------------------
+pdb|3NE8|A                    ------------------------------------------------------------
+pdb|5EMI|A                    ------------------------------------------------------------
+pdb|4RN7|A                    ------------------------------------------------------------
+pdb|7TJ4|B                    ------------------------------------------------------------
+pdb|1JWQ|A                    ------------------------------------------------------------
+pdb|7B3N|A                    ------------------------------------------------------------
+pdb|5J72|A                    INYNKDPEYLNVWELQSIKINGKDEQKVLNKEDLESMGLNLKDYDVTQEFIISDANSTKA
+                                                                                          
+
+lcl|Query_10217               ------------------------------------------------------------
+pdb|4BIN|A                    ------------------------------------------------------------
+pdb|3NE8|A                    ------------------------------------------------------------
+pdb|5EMI|A                    ------------------------------------------------------------
+pdb|4RN7|A                    ------------------------------------------------------------
+pdb|7TJ4|B                    ------------------------------------------------------------
+pdb|1JWQ|A                    ------------------------------------------------------------
+pdb|7B3N|A                    ------------------------------------------------------------
+pdb|5J72|A                    VNEYMRKTSAPVKKLAGATRFETAVEISKQGWKDGSSKVVIVNGELAADGITATPLASTY
+                                                                                          
+
+lcl|Query_10217               ------------------------------------------------------------
+pdb|4BIN|A                    ------------------------------------------------------------
+pdb|3NE8|A                    ------------------------------------------------------------
+pdb|5EMI|A                    ------------------------------------------------------------
+pdb|4RN7|A                    ------------------------------------------------------------
+pdb|7TJ4|B                    ------------------------------------------------------------
+pdb|1JWQ|A                    ------------------------------------------------------------
+pdb|7B3N|A                    ------------------------------------------------------------
+pdb|5J72|A                    DAPILLANKDDIPESTKAELKRLNPSDVIIIGDDGSVSQKAVSQIKSAVNVNVTRIGGVD
+                                                                                          
+
+lcl|Query_10217               ---------------------------------------------------------MHH
+pdb|4BIN|A                    ---------------------------------------------------------MHH
+pdb|3NE8|A                    ------------------------------------------------------------
+pdb|5EMI|A                    ------------------------------------------------------------
+pdb|4RN7|A                    ------------------------------------------------------------
+pdb|7TJ4|B                    ------------------------------------------------------------
+pdb|1JWQ|A                    ------------------------------------------------------------
+pdb|7B3N|A                    ------------------------------------------------------------
+pdb|5J72|A                    RHETSLLIAKEIDKYHDVNKIYIANGYAGEYDALNISSKAGEDQQPIILANKDSVPQGTY
+                                                                                          
+
+lcl|Query_10217               HHHHSSGRENLYFQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIED
+pdb|4BIN|A                    HHHHSSGRENLYFQGHMQVVAVRVWPASSYTRVTVESNRQLKYKQFALSNPERVVVDIED
+pdb|3NE8|A                    ------------------------------------------------------------
+pdb|5EMI|A                    ------------------------------------------------------------
+pdb|4RN7|A                    ------------------------------------------------------------
+pdb|7TJ4|B                    ------------------------------------------------------------
+pdb|1JWQ|A                    ------------------------------------------------------------
+pdb|7B3N|A                    ------------------------------------------------------------
+pdb|5J72|A                    NWLSSQGLEEAYYIGGSQSLSSKIIDQISKIAKNGTSKNRVSGADRHETNANVIKTFYPD
+                                                                                          
+
+lcl|Query_10217               VNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKER
+pdb|4BIN|A                    VNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQNVKPQLFALAPVAGFKER
+pdb|3NE8|A                    ------------------------------------------------------------
+pdb|5EMI|A                    ------------------------------------------------------------
+pdb|4RN7|A                    ------------------------------------------------------------
+pdb|7TJ4|B                    ------------------------------------------------------------
+pdb|1JWQ|A                    ------------------------------------------------------------
+pdb|7B3N|A                    ------------------------------------------------------------
+pdb|5J72|A                    KELSAML------VAKSDIIVDSITAGPLAAKLKAPIL-ITPKTYVSAYHSTNLSEKTAE
+                                                                                          
+
+lcl|Query_10217               LVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIV-IMLDPGH
+pdb|4BIN|A                    LVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPGKAGRDRPIV-IMLDPGH
+pdb|3NE8|A                    ----------------------------------------------SNASFR-VVLDPGH
+pdb|5EMI|A                    ----------------------------------------------GSGKLL-VVIDPGH
+pdb|4RN7|A                    -----------------------------------------------SNAYT-VFIDPGH
+pdb|7TJ4|B                    ----------------------------------------------MLQGKT-IVLDPGH
+pdb|1JWQ|A                    -------------------------------------------------MKV-VVIDAGH
+pdb|7B3N|A                    -------------------------------------------MVRRQAPSAYIVLDPGH
+pdb|5J72|A                    TVYQIGDGMKDSVINSIASSLSKHNA-----PTEPDNSGSAAGK-------T-VVIDPGH
+                                                                                      * **
+
+lcl|Query_10217               GGEDSGAVG---KYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKA
+pdb|4BIN|A                    GGEDSGAVG---KYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNEDIFIPLQVRVAKA
+pdb|3NE8|A                    GGIDGGARG-VTGIL--EKDVTLAFARALRDELQKGSHTIVALTRDSDIFLRLSERVKKA
+pdb|5EMI|A                    GGKDSGAPG-LGGLL--EKDVILPIGKRVAAILEQHG-VQAVLTRDADFFVELQGRVEIA
+pdb|4RN7|A                    GGNDKGTESKTSNRY--EKDLNLQIAKKLANKLSKQKDIQVVVSRTDDTYISLKDRAILA
+pdb|7TJ4|B                    GGSDQGASS-NTKYKSLEKDYTLKTAKELQRTLEKEG-ATVKMTRTDDTYVSLENR----
+pdb|1JWQ|A                    GAKDSGAVGISRKNY--EKTFNLAMALKVESILKQNPKLEVVLTRSDDTFLELKQRVKVA
+pdb|7B3N|A                    GGQDPGAVA---PDGTREADLNLAQALTLKEYLVALG-YRVGFTRTSDVYVPLSERIAMA
+pdb|5J72|A                    GGSDSGATS-GLNGGAQEKKYTLNTALATTEYLRSKG-INVVMTRDTDKTMALGERTALS
+                              *  * *           *    *                     *  *    *  *    
+
+lcl|Query_10217               QKQRADLFVSIHADAFTSRQ-PSGSSVFAL--STKGATSTAAKYLAQTQNASDLIGGVSK
+pdb|4BIN|A                    QKQRADLFVSIHADAFTSRQ-PSGSSVFAL--STKGATSTAAKYLAQTQNASDLIGGVSK
+pdb|3NE8|A                    QEFDADLFISIHADTIDVHS-LRGATVYTI--SDEASDAIA-KSLAESENKVDLLDGLPK
+pdb|5EMI|A                    ERVNATAFVSIHANSVDNRPDVNGLEVYYY--D---SGYAL-------------------
+pdb|4RN7|A                    NNSSADVLVSIHLNAEKNGNTATGIETWYR--NKATDGSKE-------------------
+pdb|7TJ4|B                    -DIKGDAYLSIHNDALESSN-ANGMTVYWY--H---DNQRA-------------------
+pdb|1JWQ|A                    ENLKANVFVSIHANSSGSSA-SNGTETYYQ--R---SASKA-------------------
+pdb|7B3N|A                    RRMGARLFISVHHDTPTASR----PGVYYS--PHPGSEELA-------------------
+pdb|5J72|A                    NTIKPDLFTSIHYNASNGSG--NGVEIYYKVKDKNGGTTKTAASN---------------
+                                       * *                                                
+
+lcl|Query_10217               SGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQ-AGFAVLKAPDIPS
+pdb|4BIN|A                    SGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQ-AGFAVLKAPDIPS
+pdb|3NE8|A                    EESLELTDILLDLTRRETHAFSINFANNVVSNLSKSHINLINNPHRYADFQVLKAPDVPS
+pdb|5EMI|A                    ------------------------AEVVRNTILQNIDTIKNRGTRK-ARFYVLRKSSMPS
+pdb|4RN7|A                    ------------------------LAQTVQSTIVSYVKVRDRGIVE-NNFEVLRESNXPA
+pdb|7TJ4|B                    ------------------------LADTLDATIQKKGLLSNRGSRQ-ENYQVLAQTKVPA
+pdb|1JWQ|A                    ------------------------FANVMHKYFAPATGLTDRGIRY-GNFHVIRETTMPA
+pdb|7B3N|A                    --------------------------RTVAAALGEGAWVRPSSASRFGRLYIDDFP-GPA
+pdb|5J72|A                    -----ILKRILEKFN--------------MKNRGIKTRTLDNGKDY---LYVLRNNNYPA
+                                                                                        * 
+
+lcl|Query_10217               ILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFADGATLARRG
+pdb|4BIN|A                    ILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFADGATLARRG
+pdb|3NE8|A                    VLIEIGYLSNKEDEKLLNNPQWRKQXAASIAYSIRQFAEYRQKIXQPL
+pdb|5EMI|A                    ILVETGYMTGREDNPRLASREYQNQMAEAIARGILKYLQR--------
+pdb|4RN7|A                    ILIECGFLTTPSEEQKIINEKYQDQLAEGIVQGVLSYLDSKGNK----
+pdb|7TJ4|B                    VLLELGYISNPTDETMIKDQLHRQILEQAIVDGLKIYFSA--------
+pdb|1JWQ|A                    VLLEVGYLSNAKEEATLFDEDFQNRVAQGIADGITEYLDVK-------
+pdb|7B3N|A                    ILVEFGPTRPISRAERIARA---QAVASPIAEFARRWTA---------
+pdb|5J72|A                    ILVECAFIDNKSDMDKLNTAEKVKTMGTQIGIGIEDTVK---------
+                               * *                         *                  
+
