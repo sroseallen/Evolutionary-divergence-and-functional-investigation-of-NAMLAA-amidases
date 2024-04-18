@@ -7,7 +7,7 @@ full_names = []
 genus_species = []
 
 # read in all sequence names from fasta file
-with open ("BLAST_all_seq_unique.txt", "r") as f:
+with open ("./01_DATA/Amidase_3/03_1_Sequence_Searches/BLAST_all_seq_unique.txt", "r") as f:
     for sequence in SeqIO.parse(f, "fasta"):
         full_names.append(sequence.id)
 
@@ -36,5 +36,5 @@ for name in tqdm(genus_species):
         taxid.append(id)
 
     # iteratively saves tax_ids to text file in case of loop break/internet issue while running
-    with open ("taxid_temp.txt", "a") as addtax:
+    with open ("./01_DATA/Amidase_3/03_2_Sequence_Annotation/taxid_temp.txt", "a") as addtax:
         addtax.write(id + ", ")

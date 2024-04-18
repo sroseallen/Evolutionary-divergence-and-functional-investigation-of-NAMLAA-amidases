@@ -49,7 +49,7 @@ def output_list():
           sys.stderr.write("LAST URL: " + next)
           raise e
 
-    with open ('InterPro_IPR002508_API_seqs.txt', 'w') as file:
+    with open ('./01_DATA/Amidase_3/03_1_Sequence_Searches/InterPro_IPR002508_API_seqs.txt', 'w') as file:
       for i, item in enumerate(payload["results"]):
         
         entries = None
