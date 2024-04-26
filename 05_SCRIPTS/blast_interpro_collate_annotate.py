@@ -41,10 +41,12 @@ print(len(tax_ids))
 familyID = []
 print ("Now calling Taxallnomy...")
 for id in tqdm(tax_ids):
-    call = requests.get(f"http://bioinfo.icb.ufmg.br/cgi-bin/taxallnomy/taxallnomy_multi.pl?txid={tax_ids}&rank=main&format=json")
+    call = requests.get(f"http://bioinfo.icb.ufmg.br/cgi-bin/taxallnomy/taxallnomy_multi.pl?txid={id}&rank=main&format=json")
 
     try:
         call.status_code == 200
+
+        
     except:
         raise Exception(f"API failed to call (status code: {call.status_code})")
         continue
@@ -52,9 +54,9 @@ for id in tqdm(tax_ids):
     # pull out phylum, species, tax_ID as new unique ID
     try:
         call_json = call.json()
-        new_id = (">" + f"{tax_ids}" + ":" + (call_json[f"{tax_ids}"]["family"]) + ":" + (call_json[f"{tax_ids}"]["species"]) + ",")
+        new_id = (">" + f"{id}" + ":" + (call_json[f"{id}"]["family"]) + ":" + (call_json[f"{id}"]["species"]) + ",")
     except:
-        new_id = (">" + f"Nil, {tax_ids}" + ",")
+        new_id = (">" + f"Nil, {id}" + ",")
     
     # saves call to text file in case of issues later in workflow
     with open ("./01_DATA/Amidase_3/03_2_Sequence_Annotation/familyID_temp.txt", "a") as addfam:
