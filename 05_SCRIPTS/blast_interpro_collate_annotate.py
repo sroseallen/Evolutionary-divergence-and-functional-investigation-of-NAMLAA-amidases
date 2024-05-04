@@ -1,6 +1,6 @@
-from Bio import SeqIO
 import requests
 from tqdm import tqdm
+from Bio import SeqIO
 
 InterPro_taxid = "./01_DATA/Amidase_3/03_1_Sequence_Searches/InterPro_IPR002508_API_seqs.txt"
 BLAST_taxid = "./01_DATA/Amidase_3/03_2_Sequence_Annotation/taxid_temp.txt"
@@ -34,12 +34,16 @@ with open (BLAST_seqs, "r") as blast, open (all_seqs, "a") as allseqs:
         allseqs.write(line)
 
 # create list of all taxids for this combined list
-tax_ids.extend(blast_ids)
-print(len(tax_ids))
+with open ("./01_DATA/Amidase_3/03_2_Sequence_Annotation/taxid_temp.txt", "r") as blast, open ("./01_DATA/Amidase_3/03_2_Sequence_Annotation/taxallnomy_input.txt", "w") as taxallnomy_input:
+    blast_alltax = blast.read().split(", ")
+    tax_ids_all = tax_ids + blast_alltax
+    print(len(tax_ids_all))
+    taxallnomy_input.write(','.join(tax_ids_all))
 
 # API call to Taxallnomy for family ID to help cluster groups
 familyID = []
 print ("Now calling Taxallnomy...")
+
 for id in tqdm(tax_ids):
     call = requests.get(f"http://bioinfo.icb.ufmg.br/cgi-bin/taxallnomy/taxallnomy_multi.pl?txid={id}&rank=main&format=json")
 

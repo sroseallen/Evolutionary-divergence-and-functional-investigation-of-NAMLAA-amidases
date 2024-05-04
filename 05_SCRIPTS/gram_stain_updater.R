@@ -23,9 +23,9 @@ alignment_df %>%
   separate_wider_position(col=sequence, c(char=rep(1,1765))) -> alignment_df
 
 # identify gaps inserted by X% of sequences 
-## threshold for 1% of sequences: a non-gap must be present in at least 42660/100 sequences (=427 sequences)
+## threshold for 0.1% of sequences: a non-gap must be present in at least 42660/1000 sequences (=43 sequences)
 
-gap_threshold = 427
+gap_threshold = 43
 
 alignment_df %>% top_n(0) -> align_removed
 (colnames(alignment_df))[-1]-> align_cols
