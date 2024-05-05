@@ -44,7 +44,7 @@ with open ("./01_DATA/Amidase_3/03_2_Sequence_Annotation/taxid_temp.txt", "r") a
 familyID = []
 print ("Now calling Taxallnomy...")
 
-for id in tqdm(tax_ids):
+for id in tqdm(tax_ids_all):
     call = requests.get(f"http://bioinfo.icb.ufmg.br/cgi-bin/taxallnomy/taxallnomy_multi.pl?txid={id}&rank=main&format=json")
 
     try:
