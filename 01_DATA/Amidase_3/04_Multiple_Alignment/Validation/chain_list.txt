@@ -1,0 +1,5 @@
+3NE8_cropped.pdb
+4BIN_cropped.pdb
+4RN7_cropped.pdb
+7RAG_cropped.pdb
+7TJ4_cropped.pdb
