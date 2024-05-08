@@ -20,12 +20,13 @@ sequences <- as.character(alignment_2)
 alignment_df <- data.frame(sequence_name = sequence_names, sequence = sequences)
 
 alignment_df %>%
-  separate_wider_position(col=sequence, c(char=rep(1,1586))) -> alignment_df
+  separate_wider_position(col=sequence, c(char=rep(1,1677))) -> alignment_df
 
 # identify gaps inserted by X% of sequences 
-## threshold for 0.1% of sequences: a non-gap must be present in at least 42660/1000 sequences (=43 sequences)
+## threshold for 0.1% of sequences: a non-gap must be present in at least 40958/1000 sequences (=41 sequences)
+## threshold for 1% of sequences: a non-gap must be present in at least 40958/100 sequences (=410 sequences)
 
-gap_threshold = 43
+gap_threshold = 410
 
 alignment_df %>% top_n(0) -> align_removed
 (colnames(alignment_df))[-1]-> align_cols
@@ -47,18 +48,18 @@ alignment_df %>%
 
 # convert cleaned alignment to a fasta file
 alignment_keep %>%
-  unite(seq, c(2:377), sep="") -> align_fasta
+  unite(seq, c(2:352), sep="") -> align_fasta
 
 AAStringSet(align_fasta$seq) -> aligned_sequences
 align_fasta$sequence_name -> names(aligned_sequences)
-writeXStringSet(aligned_sequences, file="alignment_3_thresh0.1.fa", format="fasta")
+writeXStringSet(aligned_sequences, file="alignment_3_thresh1.0.fa", format="fasta")
 
 # convert cleaned alignment to text file for reference
 align_fasta %>%
   mutate(seq=gsub("-", "", seq)) %>%
   mutate(sequence_name=paste0(">",sequence_name)) -> align_pretxt
 
-txt_file <- file("post_filtering_seqs.txt", "w")
+txt_file <- file("thresh1.0_seqs.txt", "w")
 
 for (i in 1:nrow(align_pretxt)) {
   writeLines(paste(align_pretxt[i, "sequence_name"]), txt_file)

@@ -76,6 +76,7 @@ index_counter_struc = 0
 aligned_index_struc = []
 
 for char in struc1:
+    # because 4BIN structure is incomplete:
     if index_counter_struc == 120 and A == "4BIN_":
         index_counter_struc+=12
     if char != "-": 
