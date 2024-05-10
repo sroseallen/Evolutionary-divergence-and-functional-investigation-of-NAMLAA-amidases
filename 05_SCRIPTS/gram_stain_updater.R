@@ -4,16 +4,14 @@ BiocManager::install("Biostrings")
 
 library(tidyr)
 library(dplyr)
+library(stringr)
 library(msa)
 library(Biostrings)
 library(AMR)
 
 setwd("D:/Documents/MSc_Project/MSc_Project/01_DATA/Amidase_3/04_Multiple_Alignment")
 
-# Step 1: KALIGN + OD-SEQ
-
-# Step 2: Cleaning of alignment, phase 2:
-
+# cleaning of alignment
 alignment_2 <- readAAStringSet("alignment_2.fa")
 sequence_names <- names(alignment_2)
 sequences <- as.character(alignment_2)
@@ -25,7 +23,6 @@ alignment_df %>%
 # identify gaps inserted by X% of sequences 
 ## threshold for 0.1% of sequences: a non-gap must be present in at least 40958/1000 sequences (=41 sequences)
 ## threshold for 1% of sequences: a non-gap must be present in at least 40958/100 sequences (=410 sequences)
-
 gap_threshold = 410
 
 alignment_df %>% top_n(0) -> align_removed
@@ -50,12 +47,41 @@ alignment_df %>%
 alignment_keep %>%
   unite(seq, c(2:352), sep="") -> align_fasta
 
-AAStringSet(align_fasta$seq) -> aligned_sequences
-align_fasta$sequence_name -> names(aligned_sequences)
+# add AMR annotations to sequence names
+cleaner_func <- function(df) {
+  df %>%
+    mutate (sequence_name := str_replace(sequence_name, ",", "")) %>%
+    mutate (sequence_name := str_replace(sequence_name, "\\[", "")) %>%
+    mutate (sequence_name := str_replace(sequence_name, "\\]", "")) %>%
+    mutate (sequence_name := str_replace(sequence_name, "\\/[[:graph:]][[:graph:]][[:graph:]][[:graph:]][[:graph:]]", "")) %>%
+    mutate (sequence_name := str_replace(sequence_name, "\\/[[:graph:]][[:graph:]][[:graph:]][[:graph:]]", "")) %>%
+    mutate (sequence_name := str_replace(sequence_name, "\\/[[:graph:]][[:graph:]][[:graph:]]", ""))
+}
+
+align_cleaned <- cleaner_func(align_fasta)
+
+# use AMR to add extra information to each species name
+AMR_caller <- function (df) {
+  df %>%
+    mutate(amr_fullname      := mo_fullname     (df$genus_species, keep_synonyms = getOption("AMR_keep_synonyms", FALSE))) %>%
+    #   mutate(amr_phylum        := mo_phylum       (df$genus_species, keep_synonyms = getOption("AMR_keep_synonyms", FALSE))) %>%
+    #   mutate(amr_family        := mo_family       (df$genus_species, keep_synonyms = getOption("AMR_keep_synonyms", FALSE))) %>%
+    mutate(amr_gram_status   := mo_gramstain    (df$genus_species, keep_synonyms = getOption("AMR_keep_synonyms", FALSE))) %>%
+    mutate(amr_pathogenicity := mo_pathogenicity(df$genus_species, keep_synonyms = getOption("AMR_keep_synonyms", FALSE))) 
+}
+
+align_cleaned %>%
+  separate_wider_delim(sequence_name, delim=":", names=c("taxid", "family", "genus_species"), too_many="drop") %>%
+  AMR_caller() %>%
+  unite(sequence_name, c("taxid", "family", "genus_species", "amr_fullname", "amr_gram_status", "amr_pathogenicity"), sep=":") -> align_fasta_annotated
+
+# export alignment
+AAStringSet(align_fasta_annotated$seq) -> aligned_sequences
+align_fasta_annotated$sequence_name -> names(aligned_sequences)
 writeXStringSet(aligned_sequences, file="alignment_3_thresh1.0.fa", format="fasta")
 
 # convert cleaned alignment to text file for reference
-align_fasta %>%
+align_fasta_annotated %>%
   mutate(seq=gsub("-", "", seq)) %>%
   mutate(sequence_name=paste0(">",sequence_name)) -> align_pretxt
 
@@ -67,49 +93,3 @@ for (i in 1:nrow(align_pretxt)) {
 }
 
 close(txt_file)
-
-# Step 3: PYTHON. Script 'annotate_seqs_taxid' to get region percent files from the alignment
-
-# Step 4: Read in file with bacterial names
-# zero <- read_csv("0_percent.csv")
-# fifty <- read_csv("50_percent.csv")
-# seventy <- read_csv("70_percent.csv")
-# ninety <- read_csv("90_percent.csv")
-# 
-# # clean up genus/species column for running in AMR package
-# cleaner_func <- function(df) {
-#   df %>% 
-#     select (-1) %>%
-#     mutate (genus_species := str_replace(genus_species, ",", "")) %>%
-#     mutate (genus_species := str_replace(genus_species, "\\[", "")) %>%
-#     mutate (genus_species := str_replace(genus_species, "\\]", "")) %>%
-#     mutate (genus_species := str_replace(genus_species, "\\/[[:graph:]][[:graph:]][[:graph:]][[:graph:]][[:graph:]]", "")) %>%
-#     mutate (genus_species := str_replace(genus_species, "\\/[[:graph:]][[:graph:]][[:graph:]][[:graph:]]", "")) %>%
-#     mutate (genus_species := str_replace(genus_species, "\\/[[:graph:]][[:graph:]][[:graph:]]", ""))
-# }
-# 
-# cleaner_func(zero) -> zero
-# cleaner_func(fifty) -> fifty
-# cleaner_func(seventy) -> seventy
-# cleaner_func(ninety) -> ninety
-# 
-# # AMR for information about each bacterial species
-# AMR_caller <- function (df) {
-#   df %>%
-#     mutate(amr_fullname      := mo_fullname     (df$genus_species, keep_synonyms = getOption("AMR_keep_synonyms", FALSE))) %>%
-#     mutate(amr_phylum        := mo_phylum       (df$genus_species, keep_synonyms = getOption("AMR_keep_synonyms", FALSE))) %>%
-#     mutate(amr_family        := mo_family       (df$genus_species, keep_synonyms = getOption("AMR_keep_synonyms", FALSE))) %>%
-#     mutate(amr_pathogenicity := mo_pathogenicity(df$genus_species, keep_synonyms = getOption("AMR_keep_synonyms", FALSE))) %>%
-#     mutate(amr_gram_status   := mo_gramstain    (df$genus_species, keep_synonyms = getOption("AMR_keep_synonyms", FALSE)))
-# }
-# 
-# AMR_caller(zero) -> zero
-# AMR_caller(fifty) -> fifty
-# AMR_caller(seventy) -> seventy
-# AMR_caller(ninety) -> ninety
-# 
-# # save results to csv
-# write_csv(zero, "0_percent_info.csv")
-# write_csv(fifty, "50_percent_info.csv")
-# write_csv(seventy, "70_percent_info.csv")
-# write_csv(ninety, "90_percent_info.csv")
