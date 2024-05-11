@@ -63,17 +63,20 @@ align_cleaned <- cleaner_func(align_fasta)
 # use AMR to add extra information to each species name
 AMR_caller <- function (df) {
   df %>%
+    mutate(amr_phylum        := mo_phylum       (df$genus_species, keep_synonyms = getOption("AMR_keep_synonyms", FALSE))) %>%
     mutate(amr_fullname      := mo_fullname     (df$genus_species, keep_synonyms = getOption("AMR_keep_synonyms", FALSE))) %>%
-    #   mutate(amr_phylum        := mo_phylum       (df$genus_species, keep_synonyms = getOption("AMR_keep_synonyms", FALSE))) %>%
     #   mutate(amr_family        := mo_family       (df$genus_species, keep_synonyms = getOption("AMR_keep_synonyms", FALSE))) %>%
-    mutate(amr_gram_status   := mo_gramstain    (df$genus_species, keep_synonyms = getOption("AMR_keep_synonyms", FALSE))) %>%
-    mutate(amr_pathogenicity := mo_pathogenicity(df$genus_species, keep_synonyms = getOption("AMR_keep_synonyms", FALSE))) 
+    mutate(amr_gram_status   := mo_gramstain    (df$genus_species, keep_synonyms = getOption("AMR_keep_synonyms", FALSE)))
 }
 
 align_cleaned %>%
   separate_wider_delim(sequence_name, delim=":", names=c("taxid", "family", "genus_species"), too_many="drop") %>%
   AMR_caller() %>%
-  unite(sequence_name, c("taxid", "family", "genus_species", "amr_fullname", "amr_gram_status", "amr_pathogenicity"), sep=":") -> align_fasta_annotated
+  unite(sequence_name, c("taxid", "family", "genus_species", "amr_phylum", "amr_fullname", "amr_gram_status"), sep=":") -> align_fasta_annotated
+
+write.csv(align_fasta_annotated, "temp.csv")
+# manual review and update of unknown species
+align_fasta_annotated <- read.csv("temp.csv")
 
 # export alignment
 AAStringSet(align_fasta_annotated$seq) -> aligned_sequences
