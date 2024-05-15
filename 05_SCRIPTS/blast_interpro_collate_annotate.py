@@ -58,7 +58,7 @@ for id in tqdm(tax_ids_all):
     # pull out phylum, species, tax_ID as new unique ID
     try:
         call_json = call.json()
-        new_id = (">" + f"{id}" + ":" + (call_json[f"{id}"]["family"]) + ":" + (call_json[f"{id}"]["species"]) + ",")
+        new_id = (">" + f"{id}" + ":" + (call_json[f"{id}"]["phylum"]) + ":" + (call_json[f"{id}"]["family"]) + ":" + (call_json[f"{id}"]["species"]) + ",")
     except:
         new_id = (">" + f"Nil, {id}" + ",")
     

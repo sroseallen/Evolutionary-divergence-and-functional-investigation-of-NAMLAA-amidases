@@ -22,15 +22,20 @@ with open ("./01_DATA/Amidase_3/03_1_Sequence_Searches/BLAST_all_seq_nospace.txt
     f.write(spaceloss)
 
 # remove duplicate sequences from combined file
-unique_seq = {}
+seqs = []
+unique_seqs = {}
 
 for record in SeqIO.parse("./01_DATA/Amidase_3/03_1_Sequence_Searches/BLAST_all_seq_nospace.txt", "fasta"):
-    unique_seq[record.id] = record.seq
-print(len(unique_seq))
+    seq_split = record.id.split(":")
+    if seq_split[0] not in seqs:
+        seqs.append(seq_split[0])
+        unique_seqs[record.id] = record.seq
+
+print(len(unique_seqs))
 
 # put the unique dictionary of sequences back in a fasta file for MSA
 all = []
-for idrec, seq in unique_seq.items():
+for idrec, seq in unique_seqs.items():
     record = SeqIO.SeqRecord(seq, id = idrec, description = "")
     all.append(record)
 with open ("./01_DATA/Amidase_3/03_1_Sequence_Searches/BLAST_all_seq_unique.txt", "w") as output:
