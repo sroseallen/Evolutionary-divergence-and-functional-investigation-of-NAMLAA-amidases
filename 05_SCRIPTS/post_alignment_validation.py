@@ -3,10 +3,10 @@ import pandas as pd
 import seaborn as sn 
 import matplotlib.pyplot as plt 
 
-seqs = list(SeqIO.parse("./01_DATA/Amidase_3/04_Multiple_Alignment/Validation/candidate_5_validation_set.txt", "fasta"))
+seqs = list(SeqIO.parse("./01_DATA/Amidase_3/04_Multiple_Alignment/Validation/candidate_validation_set.txt", "fasta"))
 strucs = list(SeqIO.parse("./01_DATA/Amidase_3/04_Multiple_Alignment/Validation/candidate_USalign_validation_set.txt", "fasta-2line"))
 
-structures = ["4BIN_","3NE8_","4RN7_","7RAG_","7TJ4_"]
+structures = ["4BIN_","3NE8_","4RN7_","7RAG_","7TJ4_","5EMI_","4M6G_","4LQ6_","1XOV_"]
 
 # compare sequences and structures in a pairwise fashion
 def validate_msa(A, B):
@@ -21,7 +21,7 @@ def validate_msa(A, B):
     msa_gaps = 0
     # index = base index (gaps have an index number)
     index = 0
-    # index_counter = indixes with information (gaps do not add to the index_counter)
+    # index_counter = indices with information (gaps do not add to the index_counter)
     index_counter = 0
     aligned_index_seq = []
 
@@ -129,19 +129,25 @@ for col in structures:
     tpr[col]=tpr[col].astype(float)
     ppv[col]=ppv[col].astype(float)
 
-# remove redundant top triangle of results in the heatmap plot
+# remove redundant top triangle of results in the heatmap plot (tpr plot)
 import numpy as np
 mask = np.zeros_like(tpr, dtype=bool)
 mask[np.triu_indices_from(mask)] = True
 mask[np.diag_indices_from(mask)] = False
 
-# save tpr and ppv heatmaps
-sn.heatmap(data=tpr,square=True,annot=True,fmt='f',mask=mask,cmap="crest")
+# save tpr heatmaps
+print(tpr.values.mean())
+sn.heatmap(data=tpr,square=True,annot=True,fmt='.2f',mask=mask,cmap="crest",vmin=0.8,vmax=1.0)
+plt.tight_layout()
 plt.savefig("./01_DATA/Amidase_3/04_Multiple_Alignment/Validation/tpr.png")
 plt.close()
+
+# repeat the above for the ppv plot
 mask = np.zeros_like(ppv, dtype=bool)
 mask[np.triu_indices_from(mask)] = True
 mask[np.diag_indices_from(mask)] = False
 
-sn.heatmap(data=ppv,square=True,annot=True,fmt='f',mask=mask,cmap="crest")
+print(ppv.values.mean())
+sn.heatmap(data=ppv,square=True,annot=True,fmt='.2f',mask=mask,cmap="crest",vmin=0.8,vmax=1.0)
+plt.tight_layout()
 plt.savefig("./01_DATA/Amidase_3/04_Multiple_Alignment/Validation/ppv.png")

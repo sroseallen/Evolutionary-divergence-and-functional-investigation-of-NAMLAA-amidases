@@ -3,3 +3,9 @@
 4RN7_cropped.pdb
 7RAG_cropped.pdb
 7TJ4_cropped.pdb
+7AGO_cropped.pdb
+5J72_cropped.pdb
+5EMI_cropped.pdb
+4M6G_cropped.pdb
+4LQ6_cropped.pdb
+1XOV_cropped.pdb

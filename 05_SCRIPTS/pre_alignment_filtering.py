@@ -99,13 +99,6 @@ for record in records:
         remove.append(record)
         count_removed+=1
         count_uncul+=1
-    # Removed: Archea (non-bacterial kingdom sequences)
-    elif "Methanosarcinaceae" in record.description: #5 Archea records
-        remove.append(record)
-        count_removed+=1
-    elif "Thermococcaceae" in record.description: #36 Archea records
-        remove.append(record)
-        count_removed+=1
     # Removed: partial sequences (-3 S.D. from sample mean based on amidase_3 length of the 19 candidate sequences)
     elif len(record.seq) <= 131:
         remove.append(record)
@@ -115,6 +108,16 @@ for record in records:
     else:
         keep.append(record)
         count_keep+=1
+
+print(count_nil)
+print(count_envi)
+print(count_uncul)
+print(count_unclass)
+print(count_candidate)
+print(count_partial)
+
+print(count_removed)
+print(count_keep)
 
 SeqIO.write(keep, "./01_DATA/Amidase_3/03_2_Sequence_Annotation/keep_seq_taxid.txt", "fasta")
 SeqIO.write(remove, "./01_DATA/Amidase_3/03_2_Sequence_Annotation/removed_seq_taxid.txt", "fasta")
