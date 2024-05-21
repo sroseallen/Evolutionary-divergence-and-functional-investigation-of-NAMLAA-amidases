@@ -71,7 +71,7 @@ from Bio import AlignIO
 import pandas as pd
 from matplotlib import pyplot as plt
 
-# initialise dictionary for fingerprints
+# initialise dictionary for binary fingerprints
 fingerprints = {}
 id=0
 for seq in AlignIO.read("./01_DATA/Amidase_3/04_Multiple_Alignment/alignment_3_thresh1.0.fa", "fasta"):
@@ -134,6 +134,8 @@ for option in options_list:
     if len(cluster) != 0:
         with open (f"./01_DATA/Amidase_3/05_1_Region_Conservation/{option}", "w") as f:
             json.dump(cluster, f)
+
+
 
 
 # Phylogeny prep
