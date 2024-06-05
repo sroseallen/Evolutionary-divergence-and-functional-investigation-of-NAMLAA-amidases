@@ -135,23 +135,71 @@ for option in options_list:
         with open (f"./01_DATA/Amidase_3/05_1_Region_Conservation/{option}", "w") as f:
             json.dump(cluster, f)
 
+# randomly select n=5 sequences from each cluster
+import random
+import json
+from Bio import AlignIO
+from Bio.Align import MultipleSeqAlignment
 
+# open each fingerprint file
+def fingerprint_selection (alignment_path: str) -> list:
+    random_selection = {}
+    with open(f"{alignment_path}", "r") as file:
+        fingerprints = json.load(file)
+        # obtain fingerprint as a string
+        value = str(next(iter(fingerprints.values())))
+        binary_print = ''.join(value.split(", "))
+        binary_print = binary_print.replace("[", "").replace("]", "")
 
+        # random selection (if <5 keys)
+        if len(fingerprints) < 5:
+            selection = list(fingerprints.keys())
+        elif len(fingerprints) >= 5:
+            selection = random.sample(list(fingerprints.keys()), 5)
+        
+        # change key name to note taxid and fingerprint
+        for item in selection:
+            id = item.split(":")[1]
+            random_selection[id] = binary_print
+    return random_selection
 
-# Phylogeny prep
+# loop through each fingerprint file
+taxid_lookup = {}
+import os
+for file_name in os.listdir("./01_DATA/Amidase_3/05_1_Region_Conservation/"):
+    if file_name.startswith("["):
+        random_selection = fingerprint_selection(f"./01_DATA/Amidase_3/05_1_Region_Conservation/{file_name}")
+        taxid_lookup.update(random_selection)
+
+# save list of taxids in case needed for references
+with open ("./01_DATA/Amidase_3/06_Phylogeny/representative_ids.txt", "w") as file:
+    file.write(','.join(taxid_lookup))
+
+# look up the sequence using the taxid in the MSA file alignment_3_thresh1.0
 alignment=AlignIO.read("./01_DATA/Amidase_3/04_Multiple_Alignment/alignment_3_thresh1.0.fa","fasta")
+
+filtered_alignment = [record for record in alignment if record.id.split(":")[0] in list(taxid_lookup.keys())]
+
+filtered_alignment = MultipleSeqAlignment(filtered_alignment)
+AlignIO.write(filtered_alignment, "./01_DATA/Amidase_3/06_Phylogeny/representative_alignment.fasta", "fasta")
+
+# prepare the sequences for phylogeny (phylip format)
+filtered_alignment = AlignIO.read("./01_DATA/Amidase_3/06_Phylogeny/representative_alignment.fasta", "fasta")
 unique_names = set()
 
-for i, record in enumerate(alignment):
+for record in filtered_alignment:
     # cut the name down to size for the phylip format (10 characters)
-    truncated_name = record.id[:10]
-    
-    # make the name unique
-    if truncated_name in unique_names:
-        truncated_name = f"{truncated_name[:4]}_{i}"
-    unique_names.add(truncated_name)
+    truncated_name = f"{taxid_lookup[record.id.split(":")[0]]}1"
 
+    # make the name unique
+    while truncated_name in unique_names:
+        current_number = int(truncated_name[8:])
+        new_number = current_number + 1
+        truncated_name = f"{truncated_name[:8]}{new_number}"
+
+    unique_names.add(truncated_name)
     record.id=truncated_name
+    print(truncated_name)
 
 # Write the new alignment
-AlignIO.write(alignment, "./01_DATA/Amidase_3/06_Phylogeny/aligment_phylip.phy", "phylip")
+AlignIO.write(filtered_alignment, "./01_DATA/Amidase_3/06_Phylogeny/representative_phylip.phy", "phylip")
