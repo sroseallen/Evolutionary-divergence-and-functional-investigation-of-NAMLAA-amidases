@@ -1,0 +1,233 @@
+
+
+#  Analysing dataset 1
+
+ . 4 sites are made from completely undetermined states ('X', '-', '?')...
+
+ . This analysis requires at least 101 Mo of memory space.
+
+ . Computing pairwise distances...
+
+ . Warning: Triangular inequality violation.
+
+ . You may ask for triangular inequality correction using the '-q' option.
+
+ . Computing tree...
+
+ . Tree length is 175.465973.
+
+ . Performing SPR...
+
+ . Warning: 
+	Explained variance = 0.758 (<0.80).
+	Check your input data.
+
+ . Non parametric bootstrap analysis...
+
+  [.
+ . Tree length is 184.474333.
+.
+ . Tree length is 175.753557.
+.
+ . Tree length is 160.623358.
+.
+ . Tree length is 195.508366.
+.
+ . Tree length is 194.267723.
+.
+ . Tree length is 161.327827.
+.
+ . Tree length is 168.231521.
+.
+ . Tree length is 188.608724.
+.
+ . Tree length is 142.173533.
+.
+ . Tree length is 157.120332.
+.
+ . Tree length is 170.201958.
+.
+ . Tree length is 167.448541.
+.
+ . Tree length is 200.032145.
+.
+ . Tree length is 186.658122.
+.
+ . Tree length is 147.917162.
+.
+ . Tree length is 173.729772.
+.
+ . Tree length is 152.801968.
+.
+ . Tree length is 153.282175.
+.
+ . Tree length is 152.760850.
+.
+ . Tree length is 184.567117.
+] 20/100
+  [.
+ . Tree length is 177.736285.
+.
+ . Tree length is 143.835672.
+.
+ . Tree length is 188.343039.
+.
+ . Tree length is 171.837301.
+.
+ . Tree length is 157.694092.
+.
+ . Tree length is 184.320024.
+.
+ . Tree length is 142.544885.
+.
+ . Tree length is 176.619303.
+.
+ . Tree length is 194.605648.
+.
+ . Tree length is 193.028655.
+.
+ . Tree length is 165.999387.
+.
+ . Tree length is 204.537180.
+.
+ . Tree length is 175.312453.
+.
+ . Tree length is 132.909440.
+.
+ . Tree length is 159.838228.
+.
+ . Tree length is 165.313896.
+.
+ . Tree length is 168.014744.
+.
+ . Tree length is 191.266977.
+.
+ . Tree length is 177.677555.
+.
+ . Tree length is 163.784183.
+] 40/100
+  [.
+ . Tree length is 200.173046.
+.
+ . Tree length is 181.698580.
+.
+ . Tree length is 183.768079.
+.
+ . Tree length is 156.559962.
+.
+ . Tree length is 177.588298.
+.
+ . Tree length is 151.852866.
+.
+ . Tree length is 182.743129.
+.
+ . Tree length is 152.063823.
+.
+ . Tree length is 144.907968.
+.
+ . Tree length is 178.206473.
+.
+ . Tree length is 190.093606.
+.
+ . Tree length is 187.744329.
+.
+ . Tree length is 151.168959.
+.
+ . Tree length is 162.719965.
+.
+ . Tree length is 169.902694.
+.
+ . Tree length is 199.509898.
+.
+ . Tree length is 156.990439.
+.
+ . Tree length is 154.170452.
+.
+ . Tree length is 161.875625.
+.
+ . Tree length is 148.808282.
+] 60/100
+  [.
+ . Tree length is 194.628529.
+.
+ . Tree length is 155.466765.
+.
+ . Tree length is 179.607618.
+.
+ . Tree length is 152.714829.
+.
+ . Tree length is 159.488089.
+.
+ . Tree length is 178.447842.
+.
+ . Tree length is 163.270632.
+.
+ . Tree length is 186.155700.
+.
+ . Tree length is 161.071424.
+.
+ . Tree length is 178.724117.
+.
+ . Tree length is 178.448494.
+.
+ . Tree length is 210.300365.
+.
+ . Tree length is 170.041377.
+.
+ . Tree length is 158.160595.
+.
+ . Tree length is 176.790234.
+.
+ . Tree length is 157.981331.
+.
+ . Tree length is 165.270666.
+.
+ . Tree length is 174.299452.
+.
+ . Tree length is 175.484306.
+.
+ . Tree length is 181.062660.
+] 80/100
+  [.
+ . Tree length is 143.370139.
+.
+ . Tree length is 177.400685.
+.
+ . Tree length is 162.371314.
+.
+ . Tree length is 155.382699.
+.
+ . Tree length is 154.555254.
+.
+ . Tree length is 163.727377.
+.
+ . Tree length is 175.046792.
+.
+ . Tree length is 186.595415.
+.
+ . Tree length is 184.633025.
+.
+ . Tree length is 156.576815.
+.
+ . Tree length is 154.037038.
+.
+ . Tree length is 166.205898.
+.
+ . Tree length is 162.254408.
+.
+ . Tree length is 151.156118.
+.
+ . Tree length is 167.440691.
+.
+ . Tree length is 188.821497.
+.
+ . Tree length is 171.158458.
+.
+ . Tree length is 182.546425.
+.
+ . Tree length is 160.082749.
+.
+ . Tree length is 174.401637.
+] 100/100
+
+ . Time used 1h09m08s
