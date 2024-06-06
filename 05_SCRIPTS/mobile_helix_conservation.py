@@ -93,10 +93,10 @@ def region_fingerprint(start, end, region_length, average, alignment_path = "./0
             if seq[pos-1] != '-':
                 seq_occupancy += 1
         # if occupancy more than average, consider species to have the insertion, add to fingerprint
-        if seq_occupancy/region_length >= average:
+        if seq_occupancy >= average:
             #sufficient occupancy in alignment: insertion region present
             fingerprints[unique_key].append(1)
-        elif seq_occupancy/region_length < average:
+        elif seq_occupancy < average:
             #not enough occupancy: no insertion region
             fingerprints[unique_key].append(0)
         id+=1
@@ -113,6 +113,7 @@ region_fingerprint(355, 399, 45, 6.1, alignment_path = "./01_DATA/Amidase_3/04_M
 
 # this should give a dictionary of 20304 key-value pairs, where each key is the species and each value is a list of 8 0/1 values 
 # where 0 indicates no insertion, and 1 indicates the insertion is present
+
 import json
 with open ("./01_DATA/Amidase_3/05_1_Region_Conservation/fingerprints.json", "w") as file:
     json.dump(fingerprints, file)
@@ -151,11 +152,11 @@ def fingerprint_selection (alignment_path: str) -> list:
         binary_print = ''.join(value.split(", "))
         binary_print = binary_print.replace("[", "").replace("]", "")
 
-        # random selection (if <5 keys)
-        if len(fingerprints) < 5:
-            selection = list(fingerprints.keys())
-        elif len(fingerprints) >= 5:
-            selection = random.sample(list(fingerprints.keys()), 5)
+        # random selection (10 keys)
+        if len(fingerprints) < 10:
+            selection = fingerprints.keys()
+        elif len(fingerprints) >= 10:
+            selection = random.sample(list(fingerprints.keys()), 10)
         
         # change key name to note taxid and fingerprint
         for item in selection:
@@ -178,18 +179,34 @@ with open ("./01_DATA/Amidase_3/06_Phylogeny/representative_ids.txt", "w") as fi
 # look up the sequence using the taxid in the MSA file alignment_3_thresh1.0
 alignment=AlignIO.read("./01_DATA/Amidase_3/04_Multiple_Alignment/alignment_3_thresh1.0.fa","fasta")
 
-filtered_alignment = [record for record in alignment if record.id.split(":")[0] in list(taxid_lookup.keys())]
+for id in taxid_lookup.keys():
+    for record in alignment:
+        if record.id.split(":")[0] == id:
+            record.id = f"{taxid_lookup[id]}:{record.id}"
 
-filtered_alignment = MultipleSeqAlignment(filtered_alignment)
-AlignIO.write(filtered_alignment, "./01_DATA/Amidase_3/06_Phylogeny/representative_alignment.fasta", "fasta")
+filtered_alignment = [record for record in alignment if record.id.split(":")[1] in list(taxid_lookup.keys())]
 
-# prepare the sequences for phylogeny (phylip format)
-filtered_alignment = AlignIO.read("./01_DATA/Amidase_3/06_Phylogeny/representative_alignment.fasta", "fasta")
-unique_names = set()
+# remove duplicate taxid/fingerprint combinations
+unique_seqs = []
+filtered_alignment_nodup = {}
 
 for record in filtered_alignment:
+    # unique combinations with fingerprint [0] and taxid [1]
+    name = f"{record.id.split(":")[0]}:{record.id.split(":")[1]}"
+    if name not in unique_seqs:
+        filtered_alignment_nodup[record.id] = record
+        unique_seqs.append(name)
+
+filtered_alignment_nodup = MultipleSeqAlignment(filtered_alignment_nodup.values())
+AlignIO.write(filtered_alignment_nodup, "./01_DATA/Amidase_3/06_Phylogeny/representative_alignment.fasta", "fasta")
+
+# prepare the sequences for phylogeny (phylip format)
+filtered_alignment_nodup = AlignIO.read("./01_DATA/Amidase_3/06_Phylogeny/representative_alignment.fasta", "fasta")
+unique_names = set()
+
+for record in filtered_alignment_nodup:
     # cut the name down to size for the phylip format (10 characters)
-    truncated_name = f"{taxid_lookup[record.id.split(":")[0]]}1"
+    truncated_name = f"{record.id.split(":")[0]}1"
 
     # make the name unique
     while truncated_name in unique_names:
@@ -202,4 +219,4 @@ for record in filtered_alignment:
     print(truncated_name)
 
 # Write the new alignment
-AlignIO.write(filtered_alignment, "./01_DATA/Amidase_3/06_Phylogeny/representative_phylip.phy", "phylip")
+AlignIO.write(filtered_alignment_nodup, "./01_DATA/Amidase_3/06_Phylogeny/representative_phylip.phy", "phylip")
