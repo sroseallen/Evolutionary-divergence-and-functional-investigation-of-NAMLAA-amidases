@@ -222,8 +222,6 @@ for record in filtered_alignment_nodup:
 AlignIO.write(filtered_alignment_nodup, "./01_DATA/Amidase_3/06_Phylogeny/representative_phylip.phy", "phylip")
 
 # barplot representation of each fingerprint region
-import os
-import json
 length_dict = {}
 for file_name in os.listdir("./01_DATA/Amidase_3/05_1_Region_Conservation/"):
     if file_name.startswith("["):
@@ -235,7 +233,6 @@ for file_name in os.listdir("./01_DATA/Amidase_3/05_1_Region_Conservation/"):
 length_dict = {k: v for k, v in sorted(length_dict.items(), key=lambda item:item[1])}
 print(length_dict)
 
-import matplotlib.pyplot as plt
 plt.bar(range(len(length_dict)), list(length_dict.values()), align='center', color="navy")
 plt.xlabel('Fingerprint ID')
 plt.ylabel('No. occurrences')
