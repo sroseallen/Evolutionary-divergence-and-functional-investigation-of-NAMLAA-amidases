@@ -220,3 +220,30 @@ for record in filtered_alignment_nodup:
 
 # Write the new alignment
 AlignIO.write(filtered_alignment_nodup, "./01_DATA/Amidase_3/06_Phylogeny/representative_phylip.phy", "phylip")
+
+# barplot representation of each fingerprint region
+import os
+import json
+length_dict = {}
+for file_name in os.listdir("./01_DATA/Amidase_3/05_1_Region_Conservation/"):
+    if file_name.startswith("["):
+        with open(f"./01_DATA/Amidase_3/05_1_Region_Conservation/{file_name}", "r") as file:
+            fingerprints = json.load(file)
+            print(len(fingerprints))
+            length_dict[file_name] = len(fingerprints)
+
+length_dict = {k: v for k, v in sorted(length_dict.items(), key=lambda item:item[1])}
+print(length_dict)
+
+import matplotlib.pyplot as plt
+plt.bar(range(len(length_dict)), list(length_dict.values()), align='center', color="navy")
+plt.xlabel('Fingerprint ID')
+plt.ylabel('No. occurrences')
+plt.title('Barplot of all fingerprint IDs')
+for i in range(len(length_dict)):
+    plt.text(i + 0.05, list(length_dict.values())[i] + 100, list(length_dict.values())[i], ha="center", va="center", fontsize=6, rotation=90)
+plt.xticks(range(len(length_dict)), list(length_dict.keys()), rotation=90, fontsize=6)
+plt.yticks(range(0,5001,250))
+plt.margins(x=0)
+plt.grid(True, color='#EEEEEE', axis="y")
+plt.show()
