@@ -13,7 +13,7 @@ with open("./01_DATA/Amidase_3/03_1_Sequence_Searches/BLAST_Interpro_all_seq.txt
 ## fill in NCBI taxids from the NCBI accession
 from Bio import Entrez
 import json
-Entrez.email="xxx"
+Entrez.email="sallen10@student.bbk.ac.uk"
 
 # Source for accession_to_taxid_bulk functions: https://bioinformatics.stackexchange.com/questions/4586/retrieving-ncbi-taxa-ids-from-refseq-or-genbank-assembly-accession
 def accession_to_taxid_bulk(acc: list[str], db='nuccore') -> dict[str, str]:
@@ -34,39 +34,110 @@ for i in full_names:
         k = re.split(r'[|:]', i)[3]
     full_dict[k] = v
 
+# read in ncbi accessions that are missing
 ncbi_accessions = accession_to_taxid_bulk(for_bulk_ncbi, db="protein")
 ncbi_swap = {str(value): key for key, value in ncbi_accessions.items()}
 
 full_dict_combo = {**full_dict, **ncbi_swap}
 
 ## open cluster file + separate out the taxids
-cluster_keys = []
-with open ("./01_DATA/Amidase_3/05_1_Region_Conservation/[0, 0, 0, 0, 0, 0, 0, 0]","r") as cluster:
-    fingerprints = json.load(cluster)
-    key_list = fingerprints.keys()
-    for key in key_list:
-        key = key.split(":")[1]
-        cluster_keys.append(key)
+def gen_accession(filepath:str) -> list:
+    cluster_keys = []
+    with open (filepath,"r") as cluster:
+        fingerprints = json.load(cluster)
+        key_list = fingerprints.keys()
+        for key in key_list:
+            key = key.split(":")[1]
+            cluster_keys.append(key)
 
-## make a list of accession numbers in the cluster file named after the fingerprint
-accessions = []
-for key in cluster_keys:
-    accessions.append(full_dict_combo.get(key))
-print(len(accessions))
+    ## make a list of accession numbers in the cluster file named after the fingerprint
+    accessions = []
+    for key in cluster_keys:
+        accessions.append(full_dict_combo.get(key))
+    return accessions
 
 ## repeat for all cluster files, should get 62 accession lists to search with
+import os
+accession_dict = {}
 
-# download full sequences for each cluster based on the accessions
-## NCBI download
+for file_name in os.listdir("./01_DATA/Amidase_3/05_1_Region_Conservation/"):
+    if file_name.startswith("["):
+        cluster = gen_accession(f"./01_DATA/Amidase_3/05_1_Region_Conservation/{file_name}")
+        print(f"{file_name}:", len(cluster))
+        accession_dict[f"{file_name}"] = cluster
 
-## InterPro download
 
-# Pre-predicted structures
-## AlphaFold DB API to get model quality estimates for the existing UniProt IDs
+# Pre-predicted structures (UniProt only)
+import requests
+from tqdm import tqdm
 
-## Download mmCIF files for structures with a good quality estimate
+## Download mmCIF files for structures with a UniProt ID
+list_fingerprints = []
+for file_name in os.listdir("./01_DATA/Amidase_3/05_1_Region_Conservation/"):
+    if file_name.startswith("["):
+        list_fingerprints.append(file_name)
 
-# New structures (NCBI accessions)
-## random selection of up to 5 sequences from the cluster file
-## save full FASTA sequences in a file 
-### run though OpenFold, or ColabFold in batch mode as this may be faster? 
+def download_strucs(accs: list, fingerprint_concat: str):
+    base_url = "https://alphafold.ebi.ac.uk/api/prediction/"
+
+    print ("Now calling AlphaFold Database...")
+    for name in tqdm(accs):
+        try:
+            if not name.startswith("WP_"):
+                call = requests.get(f"{base_url}{name}")
+                data = call.json()
+                #download mmCIF file from AlphaFold Database
+                name = f"./01_DATA/Amidase_3/07_Structure_Predictions/{fingerprint_concat}_{name}.cif"
+                response = requests.get(data[0]["cifUrl"])
+                if response.status_code == 200:
+                    with open(name, 'wb') as f:
+                        f.write(response.content)
+            else:
+                continue
+
+        except AssertionError as e:
+            print("Assertion Error has happened - issue with accession ID")
+            continue
+
+        except AttributeError as a:
+            print("Assertion Error has happened - issue with accession ID")
+            continue
+
+        except:
+            print(f"API failed, {name} not in database (status code: {call.status_code})")
+            continue
+
+for i in list_fingerprints:
+    accs = accession_dict.get(i)
+    fingerprint_concat = ''.join(re.findall(r'\d+', i))
+    download_strucs(accs=accs, fingerprint_concat=fingerprint_concat)
+
+# New structures (process)
+## download full sequences for 5 random sequences from top 7n clusters:
+import random
+
+def select_seqs(key: str) -> list:
+    valid_accessions = [value for value in list(accession_dict.get(key)) if value != None]
+    selection = random.sample(valid_accessions, 5)
+    return selection
+
+rep_seqs = []
+
+#00001111
+rep_seqs.append(select_seqs("[0, 0, 0, 0, 1, 1, 1, 1]"))
+#00001110
+rep_seqs.append(select_seqs("[0, 0, 0, 0, 1, 1, 1, 0]"))
+#00001000
+rep_seqs.append(select_seqs("[0, 0, 0, 0, 1, 0, 0, 0]"))
+#01010000
+rep_seqs.append(select_seqs("[0, 1, 0, 1, 0, 0, 0, 0]"))
+#00011000
+rep_seqs.append(select_seqs("[0, 0, 0, 1, 1, 0, 0, 0]"))
+#00101111
+rep_seqs.append(select_seqs("[0, 0, 1, 0, 1, 1, 1, 1]"))
+#00000000
+rep_seqs.append(select_seqs("[0, 0, 0, 0, 0, 0, 0, 0]"))
+
+## save accessions in a file (to search and get full sequences for predictions)
+with open ("./01_DATA/Amidase_3/07_Structure_Predictions/accessions_to_search.txt", "w") as f:
+    f.write(','.join(str(i) for i in rep_seqs))
