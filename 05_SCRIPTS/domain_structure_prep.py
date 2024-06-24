@@ -13,7 +13,7 @@ with open("./01_DATA/Amidase_3/03_1_Sequence_Searches/BLAST_Interpro_all_seq.txt
 ## fill in NCBI taxids from the NCBI accession
 from Bio import Entrez
 import json
-Entrez.email="sallen10@student.bbk.ac.uk"
+Entrez.email="XXX"
 
 # Source for accession_to_taxid_bulk functions: https://bioinformatics.stackexchange.com/questions/4586/retrieving-ncbi-taxa-ids-from-refseq-or-genbank-assembly-accession
 def accession_to_taxid_bulk(acc: list[str], db='nuccore') -> dict[str, str]:
@@ -39,6 +39,10 @@ ncbi_accessions = accession_to_taxid_bulk(for_bulk_ncbi, db="protein")
 ncbi_swap = {str(value): key for key, value in ncbi_accessions.items()}
 
 full_dict_combo = {**full_dict, **ncbi_swap}
+
+# save accession:taxid dictionary
+with open ("./01_DATA/Amidase_3/07_Structure_Predictions/accession_taxid_dictionary.json", "w") as f:
+    json.dump(full_dict_combo, f)
 
 ## open cluster file + separate out the taxids
 def gen_accession(filepath:str) -> list:
@@ -137,6 +141,12 @@ rep_seqs.append(select_seqs("[0, 0, 0, 1, 1, 0, 0, 0]"))
 rep_seqs.append(select_seqs("[0, 0, 1, 0, 1, 1, 1, 1]"))
 #00000000
 rep_seqs.append(select_seqs("[0, 0, 0, 0, 0, 0, 0, 0]"))
+#00100000
+rep_seqs.append(select_seqs("[0, 0, 1, 0, 0, 0, 0, 0]"))
+#00101110
+rep_seqs.append(select_seqs("[0, 0, 1, 0, 1, 1, 1, 0]"))
+#00101000
+rep_seqs.append(select_seqs("[0, 0, 1, 0, 1, 0, 0, 0]"))
 
 ## save accessions in a file (to search and get full sequences for predictions)
 with open ("./01_DATA/Amidase_3/07_Structure_Predictions/accessions_to_search.txt", "w") as f:
