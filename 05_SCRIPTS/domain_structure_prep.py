@@ -137,8 +137,6 @@ rep_seqs.append(select_seqs("[0, 0, 0, 0, 1, 0, 0, 0]"))
 rep_seqs.append(select_seqs("[0, 1, 0, 1, 0, 0, 0, 0]"))
 #00011000
 rep_seqs.append(select_seqs("[0, 0, 0, 1, 1, 0, 0, 0]"))
-#00101111
-rep_seqs.append(select_seqs("[0, 0, 1, 0, 1, 1, 1, 1]"))
 #00000000
 rep_seqs.append(select_seqs("[0, 0, 0, 0, 0, 0, 0, 0]"))
 #00100000
@@ -148,6 +146,13 @@ rep_seqs.append(select_seqs("[0, 0, 1, 0, 1, 1, 1, 0]"))
 #00101000
 rep_seqs.append(select_seqs("[0, 0, 1, 0, 1, 0, 0, 0]"))
 
+#00011100 - I4 and I6
+rep_seqs.append(select_seqs("[0, 0, 0, 1, 1, 1, 0, 0]"))
+#10001111 - I1 and the I5/I6/I7 combo
+rep_seqs.append(select_seqs("[1, 0, 0, 0, 0, 1, 1, 0]"))
+#00100111 - I6/I7 without I5
+rep_seqs.append(select_seqs("[0, 0, 1, 0, 0, 1, 1, 1]"))
+
 ## save accessions in a file (to search and get full sequences for predictions)
-with open ("./01_DATA/Amidase_3/07_Structure_Predictions/accessions_to_search.txt", "w") as f:
+with open ("./01_DATA/Amidase_3/07_Structure_Predictions/accessions_to_search.txt", "a") as f:
     f.write(','.join(str(i) for i in rep_seqs))
