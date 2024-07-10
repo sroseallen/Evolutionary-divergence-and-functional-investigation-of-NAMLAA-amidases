@@ -1,4 +1,4 @@
-import sys, errno, re, json, ssl
+import sys, json, ssl
 from urllib import request
 from urllib.error import HTTPError
 from time import sleep
