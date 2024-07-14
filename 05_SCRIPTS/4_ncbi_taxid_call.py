@@ -1,13 +1,16 @@
 from Bio import SeqIO
 import requests
 from tqdm import tqdm
+
 # Documentation (NCBI REST API v2: https://www.ncbi.nlm.nih.gov/datasets/docs/v2/reference-docs/rest-api/)
 
 full_names = []
 genus_species = []
 
 # read in all sequence names from fasta file
-with open ("./01_DATA/Amidase_3/03_1_Sequence_Searches/BLAST_all_seq_unique.txt", "r") as f:
+with open(
+    "./01_DATA/Amidase_3/03_1_Sequence_Searches/BLAST_all_seq_unique.txt", "r"
+) as f:
     for sequence in SeqIO.parse(f, "fasta"):
         full_names.append(sequence.id)
 
@@ -19,11 +22,13 @@ for name in full_names:
 
 # Use genus, species to API call NCBI Datasets v2 REST API and retrieve tax_id for that species.
 taxid = []
-print ("Now calling NCBI server...")
+print("Now calling NCBI server...")
 for name in tqdm(genus_species):
 
     try:
-        call = requests.get(f"https://api.ncbi.nlm.nih.gov/datasets/v2alpha/taxonomy/taxon/{name}")
+        call = requests.get(
+            f"https://api.ncbi.nlm.nih.gov/datasets/v2alpha/taxonomy/taxon/{name}"
+        )
     except:
         raise Exception(f"API failed to call (status code: {call.status_code})")
 
@@ -36,5 +41,7 @@ for name in tqdm(genus_species):
         taxid.append(id)
 
     # iteratively saves tax_ids to text file in case of loop break/internet issue while running
-    with open ("./01_DATA/Amidase_3/03_2_Sequence_Annotation/taxid_temp.txt", "a") as addtax:
+    with open(
+        "./01_DATA/Amidase_3/03_2_Sequence_Annotation/taxid_temp.txt", "a"
+    ) as addtax:
         addtax.write(id + ", ")
